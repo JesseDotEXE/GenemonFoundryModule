@@ -44,6 +44,29 @@ export class Pokemon extends ActorSheetFFGV2 {
 
     getData() {
         const data = super.getData();
+
+        console.log('GENEMON | data', data);
+
+        // TODO Can I do anything with the skills here?
+
+        // data.data.skills = JSON.parse(JSON.stringify(CONFIG.GENEMON.pokemonSkills));
+        // this.actor._applyModifiers(data.actor);
+        // super._createSkillColumns(data);
+        // data.data.skilllist =
+        const pokemonOnlySkillList = [];
+        data.data.skilllist.forEach((skillListItem) => {
+            console.log('GENEMON | SkillListItem: ', skillListItem);
+            const pokemonSkills = skillListItem.filter((skill) => {
+               return (skill.type === 'Pokemon');
+            });
+            pokemonSkills.forEach((pSkill) => pokemonOnlySkillList.push(pSkill));
+        });
+        console.log('GENEMON | pokemonOnlySkillList', pokemonOnlySkillList);
+
+        data.data.skilllist = [pokemonOnlySkillList];
+
+        console.ll
+
         return data;
     }
 }

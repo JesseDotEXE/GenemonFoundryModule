@@ -1,3 +1,8 @@
 {
-    "genemon.hello": "Hi Genemon!"
+    "genemon.hello": "Hi Genemon!",
+    "GENEMON.SkillsNameArcana": "Arcana",
+    "GENEMON.SkillsNameBrawl": "Brawl",
+    "GENEMON.SkillsNameFocus": "Focus",
+    "GENEMON.SkillsNameInitiative": "Initiative",
+    "GENEMON.SkillsNameResolve": "Resolve"
 }
