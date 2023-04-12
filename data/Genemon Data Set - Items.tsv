@@ -1,0 +1,382 @@
+Name	Type	Price	Description	Link
+Protein	Vitamin	20000	Increases a Pokes Attack by 1. A Poke is only capable of having a single Vitamin.	https://www.google.com
+Iron	Vitamin	20000	Increases a Pokes Defense by 1. A Poke is only capable of having a single Vitamin.	
+Calcium	Vitamin	20000	Increases a Pokes Special Attack by 1. A Poke is only capable of having a single Vitamin.	
+Zink	Vitamin	20000	Increases a Pokes Special Defense by 1. A Poke is only capable of having a single Vitamin.	
+Carbos	Vitamin	20000	Increases a Pokes Speed by 1. A Poke is only capable of having a single Vitamin.	
+HP Up	Vitamin	20000	Increases a Pokes HP by 1. A Poke is only capable of having a single Vitamin.	
+Pokedex	Gear	0	A hand-held computer with an advanced camera and image recognition software given to trainers at the start of their journey	
+Old Rod	Gear	1000	Can be used to seach for Pokes in water. It does not look very sturdy.	
+Good Rod	Gear	5000	Can be used to seach for Pokes in water	
+Super Rod	Gear	15000	Can be used to seach for Pokes in water. Shiny!	
+Escape Rope	Gear	150	Can be used to Escape Wild Battle without a check	
+Backpack	Gear	150	Increases encomberance by 2	
+Binoculars	Gear	250	Removes 1 setback die due to distance	
+Flashlight	Gear	50	Removes 1 setback die due to darkness	
+Flint and steel	Gear	100	Downgrade the difficulty of survival check to make fire	
+Lantern	Gear	100	Removes 2 setback die due to darkness	
+Picknic Table	Gear	500	Allows resting in wilderness	
+Sandwich Ingrediants	Gear	10	Used  to make sandwich	
+Sleeping Bag	Gear	250		
+Tent	Gear	250	Fits 2 people	
+Thieves Tols	Gear	500	Allows the ability to pick locks	
+Honey	Gear	300	Attracts a random Poke native to the area	
+Poke Ball	Ball	250	Allows a capture attempt	
+Great Ball	Ball	500	Gain a blue on capture attemps	
+Ultra Ball	Ball	1000	Downgrade the difficulty on capture attempts	
+Fast Ball	Ball	1500	Downgrade the difficulty on capture attempts three times if using against a poke with 3 speed or more 	
+Lure Ball	Ball	1500	Downgrade the difficulty on capture attempts three times if target is in water outside of battle	
+Heavy Ball	Ball	1250	Downgrade your capture attempt if target poke weights less than 100 kg, Downgrade the difficulty on capture if target Poke weighs 200 kgs < 300 kgs, Downgrade the difficulty on capture three times if target Poke weighs if 300 kgs or higher	
+Love Ball	Ball	2200	Lower the difficulty by one and downgrade the difficulty on capture attempts four times if target is same species as your active poke and they are different genders	
+Multi Ball	Ball	1250	Downgrade the difficulty on capture attempts twice if target has multiple heads	
+Net Ball	Ball	1250	Downgrade the difficulty and add a blue on capture attempts two times if target is Water or Bug Type Poke	
+Dive Ball	Ball	1250	Downgrade the difficulty and add a blue on capture attempts two times if target is in water	
+Nest Ball	Ball	1000	Downgrade the difficulty and add a blue on capture attempts two times if target is a baby Poke	
+Trap Ball	Ball	1250	Downgrade the difficulty on capture attempts twice if used in a forest or if target Poke is Normal Type	
+Faraday Ball	Ball	1250	Downgrade the difficulty and add a blue on capture attempts two times if target is Electric or Steel Type Poke	
+Repeat Ball	Ball	1250	Downgrade the difficulty and add a blue on capture attempts two times if you have a Poke of the same speciaes as the target	
+Timer Ball	Ball	2000	If used on round 1 or outside of battle downgrade you capture attempt once. If used in round 3, 5, or 7 gain a blue on your capture attempt. If used on round 4 or 5 of battle downgrade the difficulty once, twice on rounds 6 and 7, and 3 times if used on or after round 8	
+Luxury Ball	Ball	2500	Loyalty increases faster	
+Premier Ball	Ball	0	Gained for free if you buy 10 balls at once	
+Dusk Ball	Ball	1250	Downgrade the difficulty on capture attempts twice if used in a cave or at night	
+Heal Ball	Ball	1000	Fully heals target Poke when caught	
+Quick Ball	Ball	2200	Downgrade the difficulty on capture attempts four times if used round 1 of battle	
+Dream Ball	Ball	1750	Downgrade the difficulty on capture attempts three times if target is asleep	
+Heal Powder	Medical	300	Removes all Status Effects from a Poke. Tastes Bad.	
+Energy Powder	Medical	500	Heals 3 wounds. Tastes Bad	
+Energy Root	Medical	1200	Heals 6 wounds. Tastes Bad	
+Revival Herb	Medical	2800	Revives a feinted Poke And heals all their wounds and Strain. Tastes Bad.	
+Potion	Medical	300	Heals 1 wound. 	
+Super Potion	Medical	700	Heals 3 wounds.	
+Hyper Potion	Medical	1500	Heals 10 wounds. 	
+Max Potion	Medical	2500	All HP	
+Full Restore	Medical	3000	All HP and non-volatile Status Effects	
+Antidote	Medical	200	Removes Poison from a Poke. 	
+Awakening	Medical	250	Removes Sleep from a Poke. 	
+Burn Heal	Medical	300	Removes Burn from a Poke. 	
+Ice heal	Medical	250	Removes Frozen from a Poke. 	
+Paralyze Heal	Medical	300	Removes Paralysis from a Poke. 	
+Full Heal	Medical	600	Removes all Status Effects from a Poke. 	
+Revive	Medical	2000	Revives feinted Poke and heals Wounds and strain down to half their threshold rounded up.	
+Max Revive	Medical	5000	Revives a feinted Poke And heals all their wounds and Strain. Tastes Bad.	
+Ether	Medical	1500	Restore 10 PP to 1 Move	
+Max Ether	Medical	4500	Restore all PP to 1 Move	
+Sweet Apple	Evolution	2200	Evolves Applin	
+Tart Apple	Evolution	2200	Evolves Applin	
+Chipped Pot	Evolution	3000	Evolves Sinistra	
+Cracked Pot	Evolution	3000	Evolves Sinistra	
+Fire Stone	Evolution	5000	Evolves Poke into Fire variant if availble	
+Liquid Stone	Evolution	5000	Evolves Poke into Water variant if availble	
+Leaf Stone	Evolution	5000	Evolves Poke into Grass variant if availble	
+Dusk Stone	Evolution	5000	Evolves Poke into Dark variant if availble	
+Refiner Stone	Evolution	5000	Evolves Poke into Steel variant if availble	
+Sand Stone	Evolution	5000	Evolves Poke into Ground variant if availble	
+Moon Stone	Evolution	5000	Evolves Poke into Rock variant if availble	
+Sun Stone	Evolution	5000	Evolves Poke into Psychic variant if availble	
+Feather Stone	Evolution	5000	Evolves Poke into Flying variant if availble	
+Metamophasis Stone	Evolution	5000	Evolves Poke into Bug variant if availble	
+Thunder Stone	Evolution	5000	Evolves Poke into Electric variant if availble	
+ShinyStone	Evolution	5000	Evolves Poke into Normal variant if availble	
+Reaper Stone	Evolution	5000	Evolves Poke into Ghost variant if availble	
+Dragon Stone	Evolution	5000	Evolves Poke into Dragon variant if availble	
+Pixy Stone	Evolution	5000	Evolves Poke into Fairy variant if availble	
+Frozen Stone	Evolution	5000	Evolves Poke into Ice variant if availble	
+Knuckle Stone	Evolution	5000	Evolves Poke into Fighting variant if availble	
+Polluted Stone	Evolution	5000	Evolves Poke into Poison variant if availble	
+Alolan Sand	Evolution	5000	Evolves Poke into Alolan variant if availble	
+Galarain Reath	Evolution	5000	Evolves Poke into Galarian variant if availble	
+Hisuian Stone	Evolution	5000	Evolves Poke into Hisuian variant if availble	
+Tera Stone	Evolution	5000	Evolves Poke into Paldean variant if availble	
+Cheri Berry	Berry	120	Removes Paralysis	
+Chesto Berry	Berry	120	Removes Sleep	
+Petcha Berry	Berry	120	Removes Poison	
+Rawst Berry	Berry	120	Removes Burn	
+Aspear Berry	Berry	120	Removes Freeze	
+Leppa Berry	Berry	800	Restores 10 PP	
+Oran Berry	Berry	80	Heals 1 wound	
+Persim Berry	Berry	120	Removes Confusion	
+Lum Berry	Berry	300	Removes non-volatile Status Effects	
+Sitrus Berry	Berry	800	Heals 4 wounds	
+Razz Berry	Berry	500	Lowers the difficulty of capture attemps made against you	
+Occa Berry	Berry	200	Halves the damage of a Fire Type move	
+Pasho Berry	Berry	200	Halves the damage of a Water Type move	
+Wacan Berry	Berry	200	Halves the damage of a Electric Type move	
+Rindo Berry	Berry	200	Halves the damage of a Grass Type move	
+Yeche Berry	Berry	200	Halves the damage of a Ice Type move	
+Chople Berry	Berry	200	Halves the damage of a Fighting Type move	
+Kebia Berry	Berry	200	Halves the damage of a Poison Type move	
+Shuca Berry	Berry	200	Halves the damage of a Ground Type move	
+Coba Berry	Berry	200	Halves the damage of a Flying Type move	
+Payapa Berry	Berry	200	Halves the damage of a Psychic Type move	
+Tanga Berry	Berry	200	Halves the damage of a Bug Type move	
+Charti Berry	Berry	200	Halves the damage of a Rock Type move	
+Kasib Berry	Berry	200	Halves the damage of a Ghost Type move	
+Haban Berry	Berry	200	Halves the damage of a Dragon Type move	
+Colbur Berry	Berry	200	Halves the damage of a Dark Type move	
+Babiri Berry	Berry	200	Halves the damage of a Steel Type move	
+Chilan Berry	Berry	200	Halves the damage of a Normal Type move	
+Wepear Berry	Berry	200	Halves the damage of a Fairy Type move	
+Enigma Berry	Berry	1500	Add 4 Soak if hit by a move you are weak against	
+Mental Herb	Berry	10000	Removes 1 condition	
+Power Herb	Berry	30000	Gain Prepared condition	
+White Herb	Berry	20000	Restore Stats to base	
+Ability Shield	Held Item	20000	Holder cannot have their abilities changed other Pokes	
+Absorb Bulb	Held Item	5000	Once per battle if the holder is hit by a Water type move Wax 1	
+Cell Battery	Held Item	5000	Once per battle if the holder is hit by a Electric type move Hone 1	
+Luminous Moss	Held Item	5000	Once per battle if the holder is hit by a Water type move Encourage 1	
+Snow Ball	Held Item	5000	Once per battle if the holder is hit by a Ice type move Hone 1	
+Air Balloon	Held Item	15000	Holder is Airborn until hit by a damaging Move	
+Amulet Coin	Held Item	30000	Doubles the money gained from trainer battles is doubled if the holder is used in the battle	
+Assault Vest	Held Item	50000	At the begining of battle the holder gains Encourage 2 but they can no longer use non-damaging Moves	
+Think Club	Held Item	4000	At the begining of battle the holder gains Hone 1 or Hone 2 if the are Cubone	
+Big Root	Held Item	10000	When the holder recovers wounds from a Move they recover 1 additional	
+Binding Band	Held Item	20000	The DOT condition applied by the holder deal an aditional Wound	
+Grip Claw	Held Item	10000	The holders Moves with the Dot Property gain an additional rank	
+Black Belt	Held Item	3000	The holders Flighting Type Moves have their base damage increased by 1	
+Black Glasses	Held Item	3000	The holders Dark Type Moves have their base damage increased by 1	
+Charcoal	Held Item	3000	The holders Fire Type Moves have their base damage increased by 1	
+Dragon Fang	Held Item	3000	The holders Dragon Type Moves have their base damage increased by 1	
+Soft Sand	Held Item	3000	The holders Ground Type Moves have their base damage increased by 1	
+Hard Stone	Held Item	3000	The holders Rock Type Moves have their base damage increased by 1	
+Never Melt Ice	Held Item	3000	The holders Ice Type Moves have their base damage increased by 1	
+Silver Poweder	Held Item	3000	The holders Bug Type Moves have their base damage increased by 1	
+Magnet	Held Item	3000	The holders Electric Type Moves have their base damage increased by 1	
+Miracle Seed	Held Item	3000	The holders Grass Type Moves have their base damage increased by 1	
+Metal Coat	Held Item	3000	The holders Steel Type Moves have their base damage increased by 1	
+Twisted Spoon	Held Item	3000	The holders Psychic Type Moves have their base damage increased by 1	
+Mystic Water	Held Item	3000	The holders Water Type Moves have their base damage increased by 1	
+Silk Scarf	Held Item	3000	The holders Normal Type Moves have their base damage increased by 1	
+Pixy Dust	Held Item	3000	The holders Fairy Type Moves have their base damage increased by 1	
+Poision Barb	Held Item	3000	The holders Poison Type Moves have their base damage increased by 1	
+Sharp Beak	Held Item	3000	The holders Flying Type Moves have their base damage increased by 1	
+Spell tag	Held Item	3000	The holders Ghost Type Moves have their base damage increased by 1	
+Muscle Band	Held Item	8000	The holders Brawl Moves have their base damage increased by 1	
+Wise Glasses	Held Item	8000	The holders Arcane Moves have their base damage increased by 1	
+Black Sludge	Held Item	10000	At the begining of each turn, if the Holder is Poison Type they Heal 1 wound. Otherwise they recieve 1 wound.	
+Blunder Policy	Held Item	30000	If the holders Move check fails and the Move had the inaccurate quality the holder gains Haste 2	
+Weakness Policy	Held Item	50000	When the holder suffers wounds from a Move it has weakness to Hone 2 and Wax 2	
+Bright Powder	Held Item	30000	The holder gains Armored	
+Choice Band	Held Item	100000	The first Move used by the holder has its base damge increased by 3 and gains the Locked In Property for the rest of the battle	
+Choice Scarf	Held Item	100000	At the beginning of battle the holder gains Haste 2 and the first their first Move used gains the Locked In Property for the rest of the battle	
+Choice Specs	Held Item	100000	At the beginning of battle the holder gains Wax 2 and the first their first Move used gains the Locked In Property for the rest of the battle	
+Clear Amulet	Held Item	30000	The holder is immune to Slow, Dull, Wane, Erode, and Discourage properties from sources other than itself	
+Covert Cloak	Held Item	20000	The holder is immune to all Properties from sources other than itself	
+Damp Rock	Held Item	8000	If the holder would cause Rain it becomes Heavy Rain instead	
+Heat Rock	Held Item	8000	If the holder would cause Harsh Sunlight it becomes Extremly Harsh Sunlight instead	
+Icy Rock	Held Item	8000	If the holder would cause Hail it becomes Hail Storm instead	
+Smooth Rock	Held Item	8000	If the holder would cause Sandstorm it becomes Dust Devil instead	
+Terrain Extender	Held Item	15000	Upgrade the difficulty to remove Battlefild Effects made by the holder	
+Destiny Knot	Held Item	20000	If the holder becomes Infatuated the Poke that caused it is also gains Infatuated	
+Eject Button	Held Item	30000	Once per battle when the holder recieves wounds from a Move with a range of engaged their trainer may take the switch action.	
+Eject Pack	Held Item	30000	Once per battle when the holder would be subject to Slow, Dull, Wane, Erode, or Discourage properties their trainer may take the switch action. If they do do not apply any Properties from the triggering source.	
+Electric Seed	Held Item	20000	If the battlefield gains Electric Terrain the Holder gains Fortify 1	
+Grassy Seed	Held Item	20000	If the battlefield gains Grassy Terrain the Holder gains Fortify 1	
+Misty Seed	Held Item	20000	If the battlefield gains Misty Terrain the Holder gains Encourage 1	
+Psychic Seed	Held Item	20000	If the battlefield gains Psychic Terrain the Holder gains Encourage 1	
+Eviolite	Held Item	50000	If the holder has the evolution Talent in their active Specailization increase their Defense and Special Defense by 2	
+Expert Belt	Held Item	30000	Moves used by the holder have their base damage increased by 1 if their targe is weak to the Moves Type.	
+Flame Orb	Held Item	15000	Holder gains the Burned Status Effect at the end of each of their turns	
+Toxic Orb	Held Item	15000	Holder gains the Poisoned 2 Status Effect at the end of each of their turns	
+Life Orb	Held Item	50000	Holders moves have their damage increased by 1 but sufferes 1 wound at the end of their turn	
+Float Stone	Held Item	10000	Halves the holders weight	
+Focus Band	Held Item	10000	If the holders wounds exceed their wound treshold by 2 or less, they do not feint untill after their next turn or they take another wound which ever happens first.	
+Focus Sash	Held Item	50000	The Holder cannot take more wounds than their Wound Threshold from a single Move	
+Lagging Tail	Held Item	20000	The holder always acts last each round. If multple Pokes hold this item the roll initutive normally but all others go before them.	
+Heavy-Duty Boots	Held Item	20000	The holder is immune to Terrain and Entry Hazzards	
+Iron Ball	Held Item	20000	At the begining of battle the holder gains Slow 2 and is gounded as long as they hold it.	
+Kings Rock	Held Item	10000	The holders damaging Moves gain the Flinch Property	
+Leek	Held Item	200	Holder gains advantage on all move checks or two advantage if holder is Farfetch'd	
+Lucky Punch	Held Item	200	Holder gains advantage on all move checks or two advantage if holder is Chansey	
+Razor Claw	Held Item	15000	Holder gains two advantage on all move checks	
+Scope Lens	Held Item	15000	Holder gains two advantage on all move checks	
+Leftovers	Held Item	20000	Holder heals 1 wound at the end of each of their turns	
+Loaded Dice	Held Item	20000	Moves the holder uses with the linked property gain 2 free activations of the quality and have the rank of the quality increase by 1	
+Lucky Egg	Held Item	10000	Holder gains an addional 5xp after each battle they participate in	
+Metronome	Held Item	15000	After the holder makes a Move check add 1 base damage to the Move that was used and removes the bonus gratnted by this item to all the holders other Moves	
+Mirror Herb	Held Item	30000	Once per battle the holder can copy a stat increase used by an opponent	
+Protective Pads	Held Item	15000	Holder does not trigger effects that require an enemy to attack in engaged range	
+Punching Gloves	Held Item	15000	Moves the holder uses with Punch in the name have their base damage increased by 1	
+Quick Claw	Held Item	8000	Once per battle the holder can add the Quickness Property to a Move	
+Razor Fang	Held Item	2200	Add Flinch Property to all the holders Moves	
+Red Card	Held Item	30000	Once per battle when the holder suffers wounds from an enemy that enemy must be swapped out if possible	
+Ring target	Held Item	10000	Holder looses any immunities	
+Rocky Helmet	Held Item	50000	When holder recives wounds from a Move with Range of engaged the user also suffers 1 wound	
+Room Service	Held Item	20000	When the holder is subject to Trick Room Slow 1 befor the effect of Trick Room	
+Safety Goggles	Held Item	20000	Holder does not take damage from Sandstorm and Is immune to Properties of Spore and Powder Moves	
+Shed Shell	Held Item	20000	Holder is immune to Properties activated by swapping	
+Shell Bell	Held Item	20000	When the holder inflicts wounds they heal 2 wounds	
+Sticky Barb	Held Item	10000	Holder suffers 1 wound at the end of each round. Is the holder is hit by a Move with range of engaged sticky barb is taken from the holder.	
+Throat Spray	Held Item	20000	Once per battle when the holder uses a Move with the volcal Property Wax 1	
+Utility Unbrella	Held Item	15000	Holder is immune to Rain, Heavy Rain, Harsh Sunlight, and Extremly Harsh Sunlight	
+Wide Lens	Held Item	20000	Holders Moves gain Accurate 1 if they already have Accurate increase its rank by 1	
+Zoom Lens	Held Item	10000	If the target of the Holders Move check has already gone this round the Move gains Accurate 2 if they already have Accurate increase its rank by 2	
+TM001	TM	2000	Take Down	
+TM002	TM	2000	Charm	
+TM003	TM	2000	Fake Tears	
+TM004	TM	4000	Agility	
+TM005	TM	1000	Mud-Slap	
+TM006	TM	2000	Scary Face	
+TM007	TM	2000	Protect	
+TM008	TM	4000	Fire Fang	
+TM009	TM	4000	Thunder Fang	
+TM010	TM	4000	Ice Fang	
+TM011	TM	7500	Water Pulse	
+TM012	TM	2000	Low Kick	
+TM013	TM	4000	Acid Spray	
+TM014	TM	15000	Acrobatics	
+TM015	TM	2000	Struggle Bug	
+TM016	TM	4000	Psybeam	
+TM017	TM	2000	Confuse Ray	
+TM018	TM	15000	Theif	
+TM019	TM	1000	Disarming Voice	
+TM020	TM	4000	Trailblaze	
+TM021	TM	4000	Pounce	
+TM022	TM	15000	Chilling Water	
+TM023	TM	4000	Charge Beam	
+TM024	TM	4000	Fire Spin	
+TM025	TM	25000	Facade	
+TM026	TM	4000	Poison Tail	
+TM027	TM	4000	Aerial Ace	
+TM028	TM	7500	Bulldoze	
+TM029	TM	15000	Hex	
+TM030	TM	4000	Snarl	
+TM031	TM	2000	Metal Claw	
+TM032	TM	1000	Swift	
+TM033	TM	7500	Magical Leaf	
+TM034	TM	4000	Icy Wind	
+TM035	TM	4000	Mud Shot	
+TM036	TM	7500	Rock Tomb	
+TM037	TM	4000	Draining Kiss	
+TM038	TM	4000	Flame Charge	
+TM039	TM	15000	Low Sweep	
+TM040	TM	2000	Air Cutter	
+TM041	TM	4000	Stored Power	
+TM042	TM	2000	Night Shade	
+TM043	TM	15000	Fling	
+TM044	TM	7500	Dragon Tail	
+TM045	TM	15000	Venoshock	
+TM046	TM	7500	Avalanche	
+TM047	TM	1000	Endure	
+TM048	TM	15000	Volt Switch	
+TM049	TM	15000	Sunny Day	
+TM050	TM	15000	Rain Dance	
+TM051	TM	15000	Sandstorm	
+TM052	TM	15000	Snowscape	
+TM053	TM	15000	Smart Strike	
+TM054	TM	25000	Psyshock	
+TM055	TM	25000	Dig	
+TM056	TM	15000	Bullet Seed	
+TM057	TM	2000	False Swipe	
+TM058	TM	25000	Brick Break	
+TM059	TM	25000	Zen Headbutt	
+TM060	TM	15000	U-Turn	
+TM061	TM	15000	Shadow Claw	
+TM062	TM	15000	Foul Play	
+TM063	TM	50000	Psychic Fangs	
+TM064	TM	15000	Bulk Up	
+TM065	TM	25000	Air Slash	
+TM066	TM	25000	Body Slam	
+TM067	TM	25000	Fire Punch	
+TM068	TM	25000	Thunder Punch	
+TM069	TM	25000	Ice Punch	
+TM070	TM	2000	Sleep Talk	
+TM071	TM	40000	Seed Bomb	
+TM072	TM	25000	Electro Ball	
+TM073	TM	40000	Drain Punch	
+TM074	TM	4000	Reflect	
+TM075	TM	4000	Light Screen	
+TM076	TM	15000	Rock Blast	
+TM077	TM	40000	Waterfall	
+TM078	TM	40000	Dragon Claw	
+TM079	TM	40000	Dazzling Gleam	
+TM080	TM	2000	Metronome	
+TM081	TM	15000	Grass Knot	
+TM082	TM	2000	Thunder Wave	
+TM083	TM	25000	Poison Jab	
+TM084	TM	25000	Stomping Tantrum	
+TM085	TM	2000	Rest	
+TM086	TM	25000	Rock Slide	
+TM087	TM	15000	Taunt	
+TM088	TM	25000	Swords Dance	
+TM089	TM	40000	Body Press	
+TM090	TM	15000	Spikes	
+TM091	TM	15000	Toxic Spikes	
+TM092	TM	15000	Imprison	
+TM093	TM	40000	Flash Cannon	
+TM094	TM	40000	Dark Pulse	
+TM095	TM	40000	Leech Life	
+TM096	TM	2000	Eerie Impulse	
+TM097	TM	25000	Fly	
+TM098	TM	15000	Skill Swap	
+TM099	TM	40000	Iron Head	
+TM100	TM	25000	Dragon Dance	
+TM101	TM	40000	Power Gem	
+TM102	TM	25000	Gunk Shot	
+TM103	TM	25000	Substitute	
+TM104	TM	7500	Iron Defense	
+TM105	TM	25000	X-Scissor	
+TM106	TM	40000	Drill Run	
+TM107	TM	15000	Will-O-Wisp	
+TM108	TM	40000	Crunch	
+TM109	TM	25000	Trick	
+TM110	TM	50000	Liquidation	
+TM111	TM	40000	Giga Drain	
+TM112	TM	40000	Aura Sphere	
+TM113	TM	25000	Tailwind	
+TM114	TM	40000	Shadow Ball	
+TM115	TM	40000	Dragon Pulse	
+TM116	TM	25000	Stealth Rock	
+TM117	TM	40000	Hyper Voice	
+TM118	TM	50000	Heat Wave	
+TM119	TM	50000	Energy Ball	
+TM120	TM	50000	Psychic	
+TM121	TM	25000	Heavy Slam	
+TM122	TM	15000	Encore	
+TM123	TM	50000	Surf	
+TM124	TM	40000	Ice Spinner	
+TM125	TM	50000	Flamethrower	
+TM126	TM	50000	Thunderbolt	
+TM127	TM	50000	Play Rough	
+TM128	TM	7500	Amnesia	
+TM129	TM	15000	Calm Mind	
+TM130	TM	2000	Helping Hand	
+TM131	TM	50000	Pollen Puff	
+TM132	TM	15000	Baton Pass	
+TM133	TM	50000	Earth Power	
+TM134	TM	15000	Reversal	
+TM135	TM	50000	Ice Beam	
+TM136	TM	15000	Electric Terrain	
+TM137	TM	15000	Grassy Terrain	
+TM138	TM	15000	Psychic Terrain	
+TM139	TM	15000	Misty Terrain	
+TM140	TM	25000	Nasty Plot	
+TM141	TM	60000	Fire Blast	
+TM142	TM	60000	Hydro Pump	
+TM143	TM	60000	Blizzard	
+TM144	TM	40000	Fire Pledge	
+TM145	TM	40000	Water Pledge	
+TM146	TM	40000	Grass Pledge	
+TM147	TM	50000	Wild Charge	
+TM148	TM	50000	Sludge Bomb	
+TM149	TM	60000	Earthquake	
+TM150	TM	60000	Stone Edge	
+TM151	TM	50000	Phantom Force	
+TM152	TM	70000	Giga Impact	
+TM153	TM	70000	Blast Burn	
+TM154	TM	70000	Hydro Cannon	
+TM155	TM	70000	Frenzy Plant	
+TM156	TM	60000	Outrage	
+TM157	TM	60000	Overheat	
+TM158	TM	60000	Focus Blast	
+TM159	TM	60000	Leaf Storm	
+TM160	TM	60000	Hurricane	
+TM161	TM	25000	Trick room	
+TM162	TM	50000	Bug Buzz	
+TM163	TM	70000	Hyper Beam	
+TM164	TM	60000	Brave Bird	
+TM165	TM	60000	Flare Blitz	
+TM166	TM	60000	Thunder	
+TM167	TM	60000	Close Combat	
+TM168	TM	60000	Solar Beam	
+TM169	TM	70000	Draco Meteor	
+TM170	TM	70000	Steel Beam	

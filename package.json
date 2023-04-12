@@ -1,0 +1,16 @@
+{
+  "name": "genemon-foundry-module",
+  "version": "1.0.0",
+  "description": "Genemon helper module for the SWFFG(Genesys) game system.",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node bin/convert.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "papaparse": "^5.4.1",
+    "xml2js": "^0.5.0"
+  }
+}

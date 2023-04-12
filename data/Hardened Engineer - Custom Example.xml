@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Career>
+  <Key>HARDENGINEER</Key>
+  <Name>Hardened Engineer</Name>
+  <Description>
+  <![CDATA[<iframe style="height: 100%; width: 100%; border: none;" src="https://docs.google.com/document/d/e/2PACX-1vTFYWfdSrproraLy1mjR6JSVkOrEssisjqFd7qw5JRysYPV-a0sSWbqPv658mb-foN7PvgBkdzxMRRC/pub?embedded=true"></iframe>]]>
+  Please see the google doc for details.
+  <![CDATA[<a href="https://docs.google.com/document/d/1RABsev4rtyAynCIb945XXNn1kAGS-hKAequhSdFHuf8/edit?usp=sharing">Google Doc</a>]]>
+  </Description>
+  <Source Page="1">Google Doc</Source>
+  <CareerSkills>
+    <Key>ATHL</Key>
+    <Key>COMP</Key>
+    <Key>EDU</Key>
+    <Key>RANGLT</Key>
+    <Key>PILOTSP</Key>
+    <Key>MECH</Key>
+    <Key>PERC</Key>
+    <Key>VIGIL</Key>
+  </CareerSkills>
+  <Stats>
+  </Stats>
+  <Specializations>
+    <Key>MECHANIC</Key>
+    <Key>SABOTEUR</Key>
+    <Key>SCIENTIST</Key>
+    <Key>DROIDSPEC</Key>
+    <Key>SHIPWRIGHT</Key>
+    <Key>SAPPER</Key>
+  </Specializations>
+</Career>

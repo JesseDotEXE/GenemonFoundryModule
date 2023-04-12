@@ -1,0 +1,3813 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Gears>
+  <Gear>
+    <Name>Protein</Name>
+    <Type>Vitamin</Type>
+    <Price>20000</Price>
+    <Description>Increases a Pokes Attack by 1. A Poke is only capable of having a single Vitamin. &lt;![CDATA[&lt;br&gt;&lt;br&gt;&lt;a href="https://www.google.com"&gt;Genemon Rulebook&lt;/a&gt;]]&gt;</Description>
+    <Link>https://www.google.com</Link>
+    <Key>GENPROTEIN</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Iron</Name>
+    <Type>Vitamin</Type>
+    <Price>20000</Price>
+    <Description>Increases a Pokes Defense by 1. A Poke is only capable of having a single Vitamin.</Description>
+    <Link/>
+    <Key>GENIRON</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Calcium</Name>
+    <Type>Vitamin</Type>
+    <Price>20000</Price>
+    <Description>Increases a Pokes Special Attack by 1. A Poke is only capable of having a single Vitamin.</Description>
+    <Link/>
+    <Key>GENCALCIUM</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Zink</Name>
+    <Type>Vitamin</Type>
+    <Price>20000</Price>
+    <Description>Increases a Pokes Special Defense by 1. A Poke is only capable of having a single Vitamin.</Description>
+    <Link/>
+    <Key>GENZINK</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Carbos</Name>
+    <Type>Vitamin</Type>
+    <Price>20000</Price>
+    <Description>Increases a Pokes Speed by 1. A Poke is only capable of having a single Vitamin.</Description>
+    <Link/>
+    <Key>GENCARBOS</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>HP Up</Name>
+    <Type>Vitamin</Type>
+    <Price>20000</Price>
+    <Description>Increases a Pokes HP by 1. A Poke is only capable of having a single Vitamin.</Description>
+    <Link/>
+    <Key>GENHP UP</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Pokedex</Name>
+    <Type>Gear</Type>
+    <Price>0</Price>
+    <Description>A hand-held computer with an advanced camera and image recognition software given to trainers at the start of their journey</Description>
+    <Link/>
+    <Key>GENPOKEDEX</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Old Rod</Name>
+    <Type>Gear</Type>
+    <Price>1000</Price>
+    <Description>Can be used to seach for Pokes in water. It does not look very sturdy.</Description>
+    <Link/>
+    <Key>GENOLD ROD</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Good Rod</Name>
+    <Type>Gear</Type>
+    <Price>5000</Price>
+    <Description>Can be used to seach for Pokes in water</Description>
+    <Link/>
+    <Key>GENGOOD ROD</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Super Rod</Name>
+    <Type>Gear</Type>
+    <Price>15000</Price>
+    <Description>Can be used to seach for Pokes in water. Shiny!</Description>
+    <Link/>
+    <Key>GENSUPER ROD</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Escape Rope</Name>
+    <Type>Gear</Type>
+    <Price>150</Price>
+    <Description>Can be used to Escape Wild Battle without a check</Description>
+    <Link/>
+    <Key>GENESCAPE ROPE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Backpack</Name>
+    <Type>Gear</Type>
+    <Price>150</Price>
+    <Description>Increases encomberance by 2</Description>
+    <Link/>
+    <Key>GENBACKPACK</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Binoculars</Name>
+    <Type>Gear</Type>
+    <Price>250</Price>
+    <Description>Removes 1 setback die due to distance</Description>
+    <Link/>
+    <Key>GENBINOCULARS</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Flashlight</Name>
+    <Type>Gear</Type>
+    <Price>50</Price>
+    <Description>Removes 1 setback die due to darkness</Description>
+    <Link/>
+    <Key>GENFLASHLIGHT</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Flint and steel</Name>
+    <Type>Gear</Type>
+    <Price>100</Price>
+    <Description>Downgrade the difficulty of survival check to make fire</Description>
+    <Link/>
+    <Key>GENFLINT AND STEEL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Lantern</Name>
+    <Type>Gear</Type>
+    <Price>100</Price>
+    <Description>Removes 2 setback die due to darkness</Description>
+    <Link/>
+    <Key>GENLANTERN</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Picknic Table</Name>
+    <Type>Gear</Type>
+    <Price>500</Price>
+    <Description>Allows resting in wilderness</Description>
+    <Link/>
+    <Key>GENPICKNIC TABLE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Sandwich Ingrediants</Name>
+    <Type>Gear</Type>
+    <Price>10</Price>
+    <Description>Used  to make sandwich</Description>
+    <Link/>
+    <Key>GENSANDWICH INGREDIANTS</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Sleeping Bag</Name>
+    <Type>Gear</Type>
+    <Price>250</Price>
+    <Description/>
+    <Link/>
+    <Key>GENSLEEPING BAG</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Tent</Name>
+    <Type>Gear</Type>
+    <Price>250</Price>
+    <Description>Fits 2 people</Description>
+    <Link/>
+    <Key>GENTENT</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Thieves Tols</Name>
+    <Type>Gear</Type>
+    <Price>500</Price>
+    <Description>Allows the ability to pick locks</Description>
+    <Link/>
+    <Key>GENTHIEVES TOLS</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Honey</Name>
+    <Type>Gear</Type>
+    <Price>300</Price>
+    <Description>Attracts a random Poke native to the area</Description>
+    <Link/>
+    <Key>GENHONEY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Poke Ball</Name>
+    <Type>Ball</Type>
+    <Price>250</Price>
+    <Description>Allows a capture attempt</Description>
+    <Link/>
+    <Key>GENPOKE BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Great Ball</Name>
+    <Type>Ball</Type>
+    <Price>500</Price>
+    <Description>Gain a blue on capture attemps</Description>
+    <Link/>
+    <Key>GENGREAT BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Ultra Ball</Name>
+    <Type>Ball</Type>
+    <Price>1000</Price>
+    <Description>Downgrade the difficulty on capture attempts</Description>
+    <Link/>
+    <Key>GENULTRA BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Fast Ball</Name>
+    <Type>Ball</Type>
+    <Price>1500</Price>
+    <Description>Downgrade the difficulty on capture attempts three times if using against a poke with 3 speed or more </Description>
+    <Link/>
+    <Key>GENFAST BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Lure Ball</Name>
+    <Type>Ball</Type>
+    <Price>1500</Price>
+    <Description>Downgrade the difficulty on capture attempts three times if target is in water outside of battle</Description>
+    <Link/>
+    <Key>GENLURE BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Heavy Ball</Name>
+    <Type>Ball</Type>
+    <Price>1250</Price>
+    <Description>Downgrade your capture attempt if target poke weights less than 100 kg, Downgrade the difficulty on capture if target Poke weighs 200 kgs &lt; 300 kgs, Downgrade the difficulty on capture three times if target Poke weighs if 300 kgs or higher</Description>
+    <Link/>
+    <Key>GENHEAVY BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Love Ball</Name>
+    <Type>Ball</Type>
+    <Price>2200</Price>
+    <Description>Lower the difficulty by one and downgrade the difficulty on capture attempts four times if target is same species as your active poke and they are different genders</Description>
+    <Link/>
+    <Key>GENLOVE BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Multi Ball</Name>
+    <Type>Ball</Type>
+    <Price>1250</Price>
+    <Description>Downgrade the difficulty on capture attempts twice if target has multiple heads</Description>
+    <Link/>
+    <Key>GENMULTI BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Net Ball</Name>
+    <Type>Ball</Type>
+    <Price>1250</Price>
+    <Description>Downgrade the difficulty and add a blue on capture attempts two times if target is Water or Bug Type Poke</Description>
+    <Link/>
+    <Key>GENNET BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Dive Ball</Name>
+    <Type>Ball</Type>
+    <Price>1250</Price>
+    <Description>Downgrade the difficulty and add a blue on capture attempts two times if target is in water</Description>
+    <Link/>
+    <Key>GENDIVE BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Nest Ball</Name>
+    <Type>Ball</Type>
+    <Price>1000</Price>
+    <Description>Downgrade the difficulty and add a blue on capture attempts two times if target is a baby Poke</Description>
+    <Link/>
+    <Key>GENNEST BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Trap Ball</Name>
+    <Type>Ball</Type>
+    <Price>1250</Price>
+    <Description>Downgrade the difficulty on capture attempts twice if used in a forest or if target Poke is Normal Type</Description>
+    <Link/>
+    <Key>GENTRAP BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Faraday Ball</Name>
+    <Type>Ball</Type>
+    <Price>1250</Price>
+    <Description>Downgrade the difficulty and add a blue on capture attempts two times if target is Electric or Steel Type Poke</Description>
+    <Link/>
+    <Key>GENFARADAY BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Repeat Ball</Name>
+    <Type>Ball</Type>
+    <Price>1250</Price>
+    <Description>Downgrade the difficulty and add a blue on capture attempts two times if you have a Poke of the same speciaes as the target</Description>
+    <Link/>
+    <Key>GENREPEAT BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Timer Ball</Name>
+    <Type>Ball</Type>
+    <Price>2000</Price>
+    <Description>If used on round 1 or outside of battle downgrade you capture attempt once. If used in round 3, 5, or 7 gain a blue on your capture attempt. If used on round 4 or 5 of battle downgrade the difficulty once, twice on rounds 6 and 7, and 3 times if used on or after round 8</Description>
+    <Link/>
+    <Key>GENTIMER BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Luxury Ball</Name>
+    <Type>Ball</Type>
+    <Price>2500</Price>
+    <Description>Loyalty increases faster</Description>
+    <Link/>
+    <Key>GENLUXURY BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Premier Ball</Name>
+    <Type>Ball</Type>
+    <Price>0</Price>
+    <Description>Gained for free if you buy 10 balls at once</Description>
+    <Link/>
+    <Key>GENPREMIER BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Dusk Ball</Name>
+    <Type>Ball</Type>
+    <Price>1250</Price>
+    <Description>Downgrade the difficulty on capture attempts twice if used in a cave or at night</Description>
+    <Link/>
+    <Key>GENDUSK BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Heal Ball</Name>
+    <Type>Ball</Type>
+    <Price>1000</Price>
+    <Description>Fully heals target Poke when caught</Description>
+    <Link/>
+    <Key>GENHEAL BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Quick Ball</Name>
+    <Type>Ball</Type>
+    <Price>2200</Price>
+    <Description>Downgrade the difficulty on capture attempts four times if used round 1 of battle</Description>
+    <Link/>
+    <Key>GENQUICK BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Dream Ball</Name>
+    <Type>Ball</Type>
+    <Price>1750</Price>
+    <Description>Downgrade the difficulty on capture attempts three times if target is asleep</Description>
+    <Link/>
+    <Key>GENDREAM BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Heal Powder</Name>
+    <Type>Medical</Type>
+    <Price>300</Price>
+    <Description>Removes all Status Effects from a Poke. Tastes Bad.</Description>
+    <Link/>
+    <Key>GENHEAL POWDER</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Energy Powder</Name>
+    <Type>Medical</Type>
+    <Price>500</Price>
+    <Description>Heals 3 wounds. Tastes Bad</Description>
+    <Link/>
+    <Key>GENENERGY POWDER</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Energy Root</Name>
+    <Type>Medical</Type>
+    <Price>1200</Price>
+    <Description>Heals 6 wounds. Tastes Bad</Description>
+    <Link/>
+    <Key>GENENERGY ROOT</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Revival Herb</Name>
+    <Type>Medical</Type>
+    <Price>2800</Price>
+    <Description>Revives a feinted Poke And heals all their wounds and Strain. Tastes Bad.</Description>
+    <Link/>
+    <Key>GENREVIVAL HERB</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Potion</Name>
+    <Type>Medical</Type>
+    <Price>300</Price>
+    <Description>Heals 1 wound. </Description>
+    <Link/>
+    <Key>GENPOTION</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Super Potion</Name>
+    <Type>Medical</Type>
+    <Price>700</Price>
+    <Description>Heals 3 wounds.</Description>
+    <Link/>
+    <Key>GENSUPER POTION</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Hyper Potion</Name>
+    <Type>Medical</Type>
+    <Price>1500</Price>
+    <Description>Heals 10 wounds. </Description>
+    <Link/>
+    <Key>GENHYPER POTION</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Max Potion</Name>
+    <Type>Medical</Type>
+    <Price>2500</Price>
+    <Description>All HP</Description>
+    <Link/>
+    <Key>GENMAX POTION</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Full Restore</Name>
+    <Type>Medical</Type>
+    <Price>3000</Price>
+    <Description>All HP and non-volatile Status Effects</Description>
+    <Link/>
+    <Key>GENFULL RESTORE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Antidote</Name>
+    <Type>Medical</Type>
+    <Price>200</Price>
+    <Description>Removes Poison from a Poke. </Description>
+    <Link/>
+    <Key>GENANTIDOTE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Awakening</Name>
+    <Type>Medical</Type>
+    <Price>250</Price>
+    <Description>Removes Sleep from a Poke. </Description>
+    <Link/>
+    <Key>GENAWAKENING</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Burn Heal</Name>
+    <Type>Medical</Type>
+    <Price>300</Price>
+    <Description>Removes Burn from a Poke. </Description>
+    <Link/>
+    <Key>GENBURN HEAL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Ice heal</Name>
+    <Type>Medical</Type>
+    <Price>250</Price>
+    <Description>Removes Frozen from a Poke. </Description>
+    <Link/>
+    <Key>GENICE HEAL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Paralyze Heal</Name>
+    <Type>Medical</Type>
+    <Price>300</Price>
+    <Description>Removes Paralysis from a Poke. </Description>
+    <Link/>
+    <Key>GENPARALYZE HEAL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Full Heal</Name>
+    <Type>Medical</Type>
+    <Price>600</Price>
+    <Description>Removes all Status Effects from a Poke. </Description>
+    <Link/>
+    <Key>GENFULL HEAL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Revive</Name>
+    <Type>Medical</Type>
+    <Price>2000</Price>
+    <Description>Revives feinted Poke and heals Wounds and strain down to half their threshold rounded up.</Description>
+    <Link/>
+    <Key>GENREVIVE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Max Revive</Name>
+    <Type>Medical</Type>
+    <Price>5000</Price>
+    <Description>Revives a feinted Poke And heals all their wounds and Strain. Tastes Bad.</Description>
+    <Link/>
+    <Key>GENMAX REVIVE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Ether</Name>
+    <Type>Medical</Type>
+    <Price>1500</Price>
+    <Description>Restore 10 PP to 1 Move</Description>
+    <Link/>
+    <Key>GENETHER</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Max Ether</Name>
+    <Type>Medical</Type>
+    <Price>4500</Price>
+    <Description>Restore all PP to 1 Move</Description>
+    <Link/>
+    <Key>GENMAX ETHER</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Sweet Apple</Name>
+    <Type>Evolution</Type>
+    <Price>2200</Price>
+    <Description>Evolves Applin</Description>
+    <Link/>
+    <Key>GENSWEET APPLE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Tart Apple</Name>
+    <Type>Evolution</Type>
+    <Price>2200</Price>
+    <Description>Evolves Applin</Description>
+    <Link/>
+    <Key>GENTART APPLE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Chipped Pot</Name>
+    <Type>Evolution</Type>
+    <Price>3000</Price>
+    <Description>Evolves Sinistra</Description>
+    <Link/>
+    <Key>GENCHIPPED POT</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Cracked Pot</Name>
+    <Type>Evolution</Type>
+    <Price>3000</Price>
+    <Description>Evolves Sinistra</Description>
+    <Link/>
+    <Key>GENCRACKED POT</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Fire Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Fire variant if availble</Description>
+    <Link/>
+    <Key>GENFIRE STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Liquid Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Water variant if availble</Description>
+    <Link/>
+    <Key>GENLIQUID STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Leaf Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Grass variant if availble</Description>
+    <Link/>
+    <Key>GENLEAF STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Dusk Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Dark variant if availble</Description>
+    <Link/>
+    <Key>GENDUSK STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Refiner Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Steel variant if availble</Description>
+    <Link/>
+    <Key>GENREFINER STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Sand Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Ground variant if availble</Description>
+    <Link/>
+    <Key>GENSAND STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Moon Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Rock variant if availble</Description>
+    <Link/>
+    <Key>GENMOON STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Sun Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Psychic variant if availble</Description>
+    <Link/>
+    <Key>GENSUN STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Feather Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Flying variant if availble</Description>
+    <Link/>
+    <Key>GENFEATHER STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Metamophasis Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Bug variant if availble</Description>
+    <Link/>
+    <Key>GENMETAMOPHASIS STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Thunder Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Electric variant if availble</Description>
+    <Link/>
+    <Key>GENTHUNDER STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>ShinyStone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Normal variant if availble</Description>
+    <Link/>
+    <Key>GENSHINYSTONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Reaper Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Ghost variant if availble</Description>
+    <Link/>
+    <Key>GENREAPER STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Dragon Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Dragon variant if availble</Description>
+    <Link/>
+    <Key>GENDRAGON STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Pixy Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Fairy variant if availble</Description>
+    <Link/>
+    <Key>GENPIXY STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Frozen Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Ice variant if availble</Description>
+    <Link/>
+    <Key>GENFROZEN STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Knuckle Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Fighting variant if availble</Description>
+    <Link/>
+    <Key>GENKNUCKLE STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Polluted Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Poison variant if availble</Description>
+    <Link/>
+    <Key>GENPOLLUTED STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Alolan Sand</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Alolan variant if availble</Description>
+    <Link/>
+    <Key>GENALOLAN SAND</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Galarain Reath</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Galarian variant if availble</Description>
+    <Link/>
+    <Key>GENGALARAIN REATH</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Hisuian Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Hisuian variant if availble</Description>
+    <Link/>
+    <Key>GENHISUIAN STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Tera Stone</Name>
+    <Type>Evolution</Type>
+    <Price>5000</Price>
+    <Description>Evolves Poke into Paldean variant if availble</Description>
+    <Link/>
+    <Key>GENTERA STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Cheri Berry</Name>
+    <Type>Berry</Type>
+    <Price>120</Price>
+    <Description>Removes Paralysis</Description>
+    <Link/>
+    <Key>GENCHERI BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Chesto Berry</Name>
+    <Type>Berry</Type>
+    <Price>120</Price>
+    <Description>Removes Sleep</Description>
+    <Link/>
+    <Key>GENCHESTO BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Petcha Berry</Name>
+    <Type>Berry</Type>
+    <Price>120</Price>
+    <Description>Removes Poison</Description>
+    <Link/>
+    <Key>GENPETCHA BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Rawst Berry</Name>
+    <Type>Berry</Type>
+    <Price>120</Price>
+    <Description>Removes Burn</Description>
+    <Link/>
+    <Key>GENRAWST BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Aspear Berry</Name>
+    <Type>Berry</Type>
+    <Price>120</Price>
+    <Description>Removes Freeze</Description>
+    <Link/>
+    <Key>GENASPEAR BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Leppa Berry</Name>
+    <Type>Berry</Type>
+    <Price>800</Price>
+    <Description>Restores 10 PP</Description>
+    <Link/>
+    <Key>GENLEPPA BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Oran Berry</Name>
+    <Type>Berry</Type>
+    <Price>80</Price>
+    <Description>Heals 1 wound</Description>
+    <Link/>
+    <Key>GENORAN BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Persim Berry</Name>
+    <Type>Berry</Type>
+    <Price>120</Price>
+    <Description>Removes Confusion</Description>
+    <Link/>
+    <Key>GENPERSIM BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Lum Berry</Name>
+    <Type>Berry</Type>
+    <Price>300</Price>
+    <Description>Removes non-volatile Status Effects</Description>
+    <Link/>
+    <Key>GENLUM BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Sitrus Berry</Name>
+    <Type>Berry</Type>
+    <Price>800</Price>
+    <Description>Heals 4 wounds</Description>
+    <Link/>
+    <Key>GENSITRUS BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Razz Berry</Name>
+    <Type>Berry</Type>
+    <Price>500</Price>
+    <Description>Lowers the difficulty of capture attemps made against you</Description>
+    <Link/>
+    <Key>GENRAZZ BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Occa Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Fire Type move</Description>
+    <Link/>
+    <Key>GENOCCA BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Pasho Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Water Type move</Description>
+    <Link/>
+    <Key>GENPASHO BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Wacan Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Electric Type move</Description>
+    <Link/>
+    <Key>GENWACAN BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Rindo Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Grass Type move</Description>
+    <Link/>
+    <Key>GENRINDO BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Yeche Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Ice Type move</Description>
+    <Link/>
+    <Key>GENYECHE BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Chople Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Fighting Type move</Description>
+    <Link/>
+    <Key>GENCHOPLE BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Kebia Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Poison Type move</Description>
+    <Link/>
+    <Key>GENKEBIA BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Shuca Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Ground Type move</Description>
+    <Link/>
+    <Key>GENSHUCA BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Coba Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Flying Type move</Description>
+    <Link/>
+    <Key>GENCOBA BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Payapa Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Psychic Type move</Description>
+    <Link/>
+    <Key>GENPAYAPA BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Tanga Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Bug Type move</Description>
+    <Link/>
+    <Key>GENTANGA BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Charti Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Rock Type move</Description>
+    <Link/>
+    <Key>GENCHARTI BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Kasib Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Ghost Type move</Description>
+    <Link/>
+    <Key>GENKASIB BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Haban Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Dragon Type move</Description>
+    <Link/>
+    <Key>GENHABAN BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Colbur Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Dark Type move</Description>
+    <Link/>
+    <Key>GENCOLBUR BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Babiri Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Steel Type move</Description>
+    <Link/>
+    <Key>GENBABIRI BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Chilan Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Normal Type move</Description>
+    <Link/>
+    <Key>GENCHILAN BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Wepear Berry</Name>
+    <Type>Berry</Type>
+    <Price>200</Price>
+    <Description>Halves the damage of a Fairy Type move</Description>
+    <Link/>
+    <Key>GENWEPEAR BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Enigma Berry</Name>
+    <Type>Berry</Type>
+    <Price>1500</Price>
+    <Description>Add 4 Soak if hit by a move you are weak against</Description>
+    <Link/>
+    <Key>GENENIGMA BERRY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Mental Herb</Name>
+    <Type>Berry</Type>
+    <Price>10000</Price>
+    <Description>Removes 1 condition</Description>
+    <Link/>
+    <Key>GENMENTAL HERB</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Power Herb</Name>
+    <Type>Berry</Type>
+    <Price>30000</Price>
+    <Description>Gain Prepared condition</Description>
+    <Link/>
+    <Key>GENPOWER HERB</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>White Herb</Name>
+    <Type>Berry</Type>
+    <Price>20000</Price>
+    <Description>Restore Stats to base</Description>
+    <Link/>
+    <Key>GENWHITE HERB</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Ability Shield</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>Holder cannot have their abilities changed other Pokes</Description>
+    <Link/>
+    <Key>GENABILITY SHIELD</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Absorb Bulb</Name>
+    <Type>Held Item</Type>
+    <Price>5000</Price>
+    <Description>Once per battle if the holder is hit by a Water type move Wax 1</Description>
+    <Link/>
+    <Key>GENABSORB BULB</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Cell Battery</Name>
+    <Type>Held Item</Type>
+    <Price>5000</Price>
+    <Description>Once per battle if the holder is hit by a Electric type move Hone 1</Description>
+    <Link/>
+    <Key>GENCELL BATTERY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Luminous Moss</Name>
+    <Type>Held Item</Type>
+    <Price>5000</Price>
+    <Description>Once per battle if the holder is hit by a Water type move Encourage 1</Description>
+    <Link/>
+    <Key>GENLUMINOUS MOSS</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Snow Ball</Name>
+    <Type>Held Item</Type>
+    <Price>5000</Price>
+    <Description>Once per battle if the holder is hit by a Ice type move Hone 1</Description>
+    <Link/>
+    <Key>GENSNOW BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Air Balloon</Name>
+    <Type>Held Item</Type>
+    <Price>15000</Price>
+    <Description>Holder is Airborn until hit by a damaging Move</Description>
+    <Link/>
+    <Key>GENAIR BALLOON</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Amulet Coin</Name>
+    <Type>Held Item</Type>
+    <Price>30000</Price>
+    <Description>Doubles the money gained from trainer battles is doubled if the holder is used in the battle</Description>
+    <Link/>
+    <Key>GENAMULET COIN</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Assault Vest</Name>
+    <Type>Held Item</Type>
+    <Price>50000</Price>
+    <Description>At the begining of battle the holder gains Encourage 2 but they can no longer use non-damaging Moves</Description>
+    <Link/>
+    <Key>GENASSAULT VEST</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Think Club</Name>
+    <Type>Held Item</Type>
+    <Price>4000</Price>
+    <Description>At the begining of battle the holder gains Hone 1 or Hone 2 if the are Cubone</Description>
+    <Link/>
+    <Key>GENTHINK CLUB</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Big Root</Name>
+    <Type>Held Item</Type>
+    <Price>10000</Price>
+    <Description>When the holder recovers wounds from a Move they recover 1 additional</Description>
+    <Link/>
+    <Key>GENBIG ROOT</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Binding Band</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>The DOT condition applied by the holder deal an aditional Wound</Description>
+    <Link/>
+    <Key>GENBINDING BAND</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Grip Claw</Name>
+    <Type>Held Item</Type>
+    <Price>10000</Price>
+    <Description>The holders Moves with the Dot Property gain an additional rank</Description>
+    <Link/>
+    <Key>GENGRIP CLAW</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Black Belt</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Flighting Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENBLACK BELT</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Black Glasses</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Dark Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENBLACK GLASSES</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Charcoal</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Fire Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENCHARCOAL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Dragon Fang</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Dragon Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENDRAGON FANG</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Soft Sand</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Ground Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENSOFT SAND</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Hard Stone</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Rock Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENHARD STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Never Melt Ice</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Ice Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENNEVER MELT ICE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Silver Poweder</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Bug Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENSILVER POWEDER</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Magnet</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Electric Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENMAGNET</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Miracle Seed</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Grass Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENMIRACLE SEED</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Metal Coat</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Steel Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENMETAL COAT</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Twisted Spoon</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Psychic Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENTWISTED SPOON</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Mystic Water</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Water Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENMYSTIC WATER</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Silk Scarf</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Normal Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENSILK SCARF</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Pixy Dust</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Fairy Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENPIXY DUST</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Poision Barb</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Poison Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENPOISION BARB</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Sharp Beak</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Flying Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENSHARP BEAK</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Spell tag</Name>
+    <Type>Held Item</Type>
+    <Price>3000</Price>
+    <Description>The holders Ghost Type Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENSPELL TAG</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Muscle Band</Name>
+    <Type>Held Item</Type>
+    <Price>8000</Price>
+    <Description>The holders Brawl Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENMUSCLE BAND</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Wise Glasses</Name>
+    <Type>Held Item</Type>
+    <Price>8000</Price>
+    <Description>The holders Arcane Moves have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENWISE GLASSES</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Black Sludge</Name>
+    <Type>Held Item</Type>
+    <Price>10000</Price>
+    <Description>At the begining of each turn, if the Holder is Poison Type they Heal 1 wound. Otherwise they recieve 1 wound.</Description>
+    <Link/>
+    <Key>GENBLACK SLUDGE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Blunder Policy</Name>
+    <Type>Held Item</Type>
+    <Price>30000</Price>
+    <Description>If the holders Move check fails and the Move had the inaccurate quality the holder gains Haste 2</Description>
+    <Link/>
+    <Key>GENBLUNDER POLICY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Weakness Policy</Name>
+    <Type>Held Item</Type>
+    <Price>50000</Price>
+    <Description>When the holder suffers wounds from a Move it has weakness to Hone 2 and Wax 2</Description>
+    <Link/>
+    <Key>GENWEAKNESS POLICY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Bright Powder</Name>
+    <Type>Held Item</Type>
+    <Price>30000</Price>
+    <Description>The holder gains Armored</Description>
+    <Link/>
+    <Key>GENBRIGHT POWDER</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Choice Band</Name>
+    <Type>Held Item</Type>
+    <Price>100000</Price>
+    <Description>The first Move used by the holder has its base damge increased by 3 and gains the Locked In Property for the rest of the battle</Description>
+    <Link/>
+    <Key>GENCHOICE BAND</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Choice Scarf</Name>
+    <Type>Held Item</Type>
+    <Price>100000</Price>
+    <Description>At the beginning of battle the holder gains Haste 2 and the first their first Move used gains the Locked In Property for the rest of the battle</Description>
+    <Link/>
+    <Key>GENCHOICE SCARF</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Choice Specs</Name>
+    <Type>Held Item</Type>
+    <Price>100000</Price>
+    <Description>At the beginning of battle the holder gains Wax 2 and the first their first Move used gains the Locked In Property for the rest of the battle</Description>
+    <Link/>
+    <Key>GENCHOICE SPECS</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Clear Amulet</Name>
+    <Type>Held Item</Type>
+    <Price>30000</Price>
+    <Description>The holder is immune to Slow, Dull, Wane, Erode, and Discourage properties from sources other than itself</Description>
+    <Link/>
+    <Key>GENCLEAR AMULET</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Covert Cloak</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>The holder is immune to all Properties from sources other than itself</Description>
+    <Link/>
+    <Key>GENCOVERT CLOAK</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Damp Rock</Name>
+    <Type>Held Item</Type>
+    <Price>8000</Price>
+    <Description>If the holder would cause Rain it becomes Heavy Rain instead</Description>
+    <Link/>
+    <Key>GENDAMP ROCK</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Heat Rock</Name>
+    <Type>Held Item</Type>
+    <Price>8000</Price>
+    <Description>If the holder would cause Harsh Sunlight it becomes Extremly Harsh Sunlight instead</Description>
+    <Link/>
+    <Key>GENHEAT ROCK</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Icy Rock</Name>
+    <Type>Held Item</Type>
+    <Price>8000</Price>
+    <Description>If the holder would cause Hail it becomes Hail Storm instead</Description>
+    <Link/>
+    <Key>GENICY ROCK</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Smooth Rock</Name>
+    <Type>Held Item</Type>
+    <Price>8000</Price>
+    <Description>If the holder would cause Sandstorm it becomes Dust Devil instead</Description>
+    <Link/>
+    <Key>GENSMOOTH ROCK</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Terrain Extender</Name>
+    <Type>Held Item</Type>
+    <Price>15000</Price>
+    <Description>Upgrade the difficulty to remove Battlefild Effects made by the holder</Description>
+    <Link/>
+    <Key>GENTERRAIN EXTENDER</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Destiny Knot</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>If the holder becomes Infatuated the Poke that caused it is also gains Infatuated</Description>
+    <Link/>
+    <Key>GENDESTINY KNOT</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Eject Button</Name>
+    <Type>Held Item</Type>
+    <Price>30000</Price>
+    <Description>Once per battle when the holder recieves wounds from a Move with a range of engaged their trainer may take the switch action.</Description>
+    <Link/>
+    <Key>GENEJECT BUTTON</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Eject Pack</Name>
+    <Type>Held Item</Type>
+    <Price>30000</Price>
+    <Description>Once per battle when the holder would be subject to Slow, Dull, Wane, Erode, or Discourage properties their trainer may take the switch action. If they do do not apply any Properties from the triggering source.</Description>
+    <Link/>
+    <Key>GENEJECT PACK</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Electric Seed</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>If the battlefield gains Electric Terrain the Holder gains Fortify 1</Description>
+    <Link/>
+    <Key>GENELECTRIC SEED</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Grassy Seed</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>If the battlefield gains Grassy Terrain the Holder gains Fortify 1</Description>
+    <Link/>
+    <Key>GENGRASSY SEED</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Misty Seed</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>If the battlefield gains Misty Terrain the Holder gains Encourage 1</Description>
+    <Link/>
+    <Key>GENMISTY SEED</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Psychic Seed</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>If the battlefield gains Psychic Terrain the Holder gains Encourage 1</Description>
+    <Link/>
+    <Key>GENPSYCHIC SEED</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Eviolite</Name>
+    <Type>Held Item</Type>
+    <Price>50000</Price>
+    <Description>If the holder has the evolution Talent in their active Specailization increase their Defense and Special Defense by 2</Description>
+    <Link/>
+    <Key>GENEVIOLITE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Expert Belt</Name>
+    <Type>Held Item</Type>
+    <Price>30000</Price>
+    <Description>Moves used by the holder have their base damage increased by 1 if their targe is weak to the Moves Type.</Description>
+    <Link/>
+    <Key>GENEXPERT BELT</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Flame Orb</Name>
+    <Type>Held Item</Type>
+    <Price>15000</Price>
+    <Description>Holder gains the Burned Status Effect at the end of each of their turns</Description>
+    <Link/>
+    <Key>GENFLAME ORB</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Toxic Orb</Name>
+    <Type>Held Item</Type>
+    <Price>15000</Price>
+    <Description>Holder gains the Poisoned 2 Status Effect at the end of each of their turns</Description>
+    <Link/>
+    <Key>GENTOXIC ORB</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Life Orb</Name>
+    <Type>Held Item</Type>
+    <Price>50000</Price>
+    <Description>Holders moves have their damage increased by 1 but sufferes 1 wound at the end of their turn</Description>
+    <Link/>
+    <Key>GENLIFE ORB</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Float Stone</Name>
+    <Type>Held Item</Type>
+    <Price>10000</Price>
+    <Description>Halves the holders weight</Description>
+    <Link/>
+    <Key>GENFLOAT STONE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Focus Band</Name>
+    <Type>Held Item</Type>
+    <Price>10000</Price>
+    <Description>If the holders wounds exceed their wound treshold by 2 or less, they do not feint untill after their next turn or they take another wound which ever happens first.</Description>
+    <Link/>
+    <Key>GENFOCUS BAND</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Focus Sash</Name>
+    <Type>Held Item</Type>
+    <Price>50000</Price>
+    <Description>The Holder cannot take more wounds than their Wound Threshold from a single Move</Description>
+    <Link/>
+    <Key>GENFOCUS SASH</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Lagging Tail</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>The holder always acts last each round. If multple Pokes hold this item the roll initutive normally but all others go before them.</Description>
+    <Link/>
+    <Key>GENLAGGING TAIL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Heavy-Duty Boots</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>The holder is immune to Terrain and Entry Hazzards</Description>
+    <Link/>
+    <Key>GENHEAVY-DUTY BOOTS</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Iron Ball</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>At the begining of battle the holder gains Slow 2 and is gounded as long as they hold it.</Description>
+    <Link/>
+    <Key>GENIRON BALL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Kings Rock</Name>
+    <Type>Held Item</Type>
+    <Price>10000</Price>
+    <Description>The holders damaging Moves gain the Flinch Property</Description>
+    <Link/>
+    <Key>GENKINGS ROCK</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Leek</Name>
+    <Type>Held Item</Type>
+    <Price>200</Price>
+    <Description>Holder gains advantage on all move checks or two advantage if holder is Farfetch'd</Description>
+    <Link/>
+    <Key>GENLEEK</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Lucky Punch</Name>
+    <Type>Held Item</Type>
+    <Price>200</Price>
+    <Description>Holder gains advantage on all move checks or two advantage if holder is Chansey</Description>
+    <Link/>
+    <Key>GENLUCKY PUNCH</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Razor Claw</Name>
+    <Type>Held Item</Type>
+    <Price>15000</Price>
+    <Description>Holder gains two advantage on all move checks</Description>
+    <Link/>
+    <Key>GENRAZOR CLAW</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Scope Lens</Name>
+    <Type>Held Item</Type>
+    <Price>15000</Price>
+    <Description>Holder gains two advantage on all move checks</Description>
+    <Link/>
+    <Key>GENSCOPE LENS</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Leftovers</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>Holder heals 1 wound at the end of each of their turns</Description>
+    <Link/>
+    <Key>GENLEFTOVERS</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Loaded Dice</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>Moves the holder uses with the linked property gain 2 free activations of the quality and have the rank of the quality increase by 1</Description>
+    <Link/>
+    <Key>GENLOADED DICE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Lucky Egg</Name>
+    <Type>Held Item</Type>
+    <Price>10000</Price>
+    <Description>Holder gains an addional 5xp after each battle they participate in</Description>
+    <Link/>
+    <Key>GENLUCKY EGG</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Metronome</Name>
+    <Type>Held Item</Type>
+    <Price>15000</Price>
+    <Description>After the holder makes a Move check add 1 base damage to the Move that was used and removes the bonus gratnted by this item to all the holders other Moves</Description>
+    <Link/>
+    <Key>GENMETRONOME</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Mirror Herb</Name>
+    <Type>Held Item</Type>
+    <Price>30000</Price>
+    <Description>Once per battle the holder can copy a stat increase used by an opponent</Description>
+    <Link/>
+    <Key>GENMIRROR HERB</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Protective Pads</Name>
+    <Type>Held Item</Type>
+    <Price>15000</Price>
+    <Description>Holder does not trigger effects that require an enemy to attack in engaged range</Description>
+    <Link/>
+    <Key>GENPROTECTIVE PADS</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Punching Gloves</Name>
+    <Type>Held Item</Type>
+    <Price>15000</Price>
+    <Description>Moves the holder uses with Punch in the name have their base damage increased by 1</Description>
+    <Link/>
+    <Key>GENPUNCHING GLOVES</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Quick Claw</Name>
+    <Type>Held Item</Type>
+    <Price>8000</Price>
+    <Description>Once per battle the holder can add the Quickness Property to a Move</Description>
+    <Link/>
+    <Key>GENQUICK CLAW</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Razor Fang</Name>
+    <Type>Held Item</Type>
+    <Price>2200</Price>
+    <Description>Add Flinch Property to all the holders Moves</Description>
+    <Link/>
+    <Key>GENRAZOR FANG</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Red Card</Name>
+    <Type>Held Item</Type>
+    <Price>30000</Price>
+    <Description>Once per battle when the holder suffers wounds from an enemy that enemy must be swapped out if possible</Description>
+    <Link/>
+    <Key>GENRED CARD</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Ring target</Name>
+    <Type>Held Item</Type>
+    <Price>10000</Price>
+    <Description>Holder looses any immunities</Description>
+    <Link/>
+    <Key>GENRING TARGET</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Rocky Helmet</Name>
+    <Type>Held Item</Type>
+    <Price>50000</Price>
+    <Description>When holder recives wounds from a Move with Range of engaged the user also suffers 1 wound</Description>
+    <Link/>
+    <Key>GENROCKY HELMET</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Room Service</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>When the holder is subject to Trick Room Slow 1 befor the effect of Trick Room</Description>
+    <Link/>
+    <Key>GENROOM SERVICE</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Safety Goggles</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>Holder does not take damage from Sandstorm and Is immune to Properties of Spore and Powder Moves</Description>
+    <Link/>
+    <Key>GENSAFETY GOGGLES</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Shed Shell</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>Holder is immune to Properties activated by swapping</Description>
+    <Link/>
+    <Key>GENSHED SHELL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Shell Bell</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>When the holder inflicts wounds they heal 2 wounds</Description>
+    <Link/>
+    <Key>GENSHELL BELL</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Sticky Barb</Name>
+    <Type>Held Item</Type>
+    <Price>10000</Price>
+    <Description>Holder suffers 1 wound at the end of each round. Is the holder is hit by a Move with range of engaged sticky barb is taken from the holder.</Description>
+    <Link/>
+    <Key>GENSTICKY BARB</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Throat Spray</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>Once per battle when the holder uses a Move with the volcal Property Wax 1</Description>
+    <Link/>
+    <Key>GENTHROAT SPRAY</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Utility Unbrella</Name>
+    <Type>Held Item</Type>
+    <Price>15000</Price>
+    <Description>Holder is immune to Rain, Heavy Rain, Harsh Sunlight, and Extremly Harsh Sunlight</Description>
+    <Link/>
+    <Key>GENUTILITY UNBRELLA</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Wide Lens</Name>
+    <Type>Held Item</Type>
+    <Price>20000</Price>
+    <Description>Holders Moves gain Accurate 1 if they already have Accurate increase its rank by 1</Description>
+    <Link/>
+    <Key>GENWIDE LENS</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Zoom Lens</Name>
+    <Type>Held Item</Type>
+    <Price>10000</Price>
+    <Description>If the target of the Holders Move check has already gone this round the Move gains Accurate 2 if they already have Accurate increase its rank by 2</Description>
+    <Link/>
+    <Key>GENZOOM LENS</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM001</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>Take Down</Description>
+    <Link/>
+    <Key>GENTM001</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM002</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>Charm</Description>
+    <Link/>
+    <Key>GENTM002</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM003</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>Fake Tears</Description>
+    <Link/>
+    <Key>GENTM003</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM004</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Agility</Description>
+    <Link/>
+    <Key>GENTM004</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM005</Name>
+    <Type>TM</Type>
+    <Price>1000</Price>
+    <Description>Mud-Slap</Description>
+    <Link/>
+    <Key>GENTM005</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM006</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>Scary Face</Description>
+    <Link/>
+    <Key>GENTM006</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM007</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>Protect</Description>
+    <Link/>
+    <Key>GENTM007</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM008</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Fire Fang</Description>
+    <Link/>
+    <Key>GENTM008</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM009</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Thunder Fang</Description>
+    <Link/>
+    <Key>GENTM009</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM010</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Ice Fang</Description>
+    <Link/>
+    <Key>GENTM010</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM011</Name>
+    <Type>TM</Type>
+    <Price>7500</Price>
+    <Description>Water Pulse</Description>
+    <Link/>
+    <Key>GENTM011</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM012</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>Low Kick</Description>
+    <Link/>
+    <Key>GENTM012</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM013</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Acid Spray</Description>
+    <Link/>
+    <Key>GENTM013</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM014</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Acrobatics</Description>
+    <Link/>
+    <Key>GENTM014</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM015</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>Struggle Bug</Description>
+    <Link/>
+    <Key>GENTM015</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM016</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Psybeam</Description>
+    <Link/>
+    <Key>GENTM016</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM017</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>Confuse Ray</Description>
+    <Link/>
+    <Key>GENTM017</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM018</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Theif</Description>
+    <Link/>
+    <Key>GENTM018</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM019</Name>
+    <Type>TM</Type>
+    <Price>1000</Price>
+    <Description>Disarming Voice</Description>
+    <Link/>
+    <Key>GENTM019</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM020</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Trailblaze</Description>
+    <Link/>
+    <Key>GENTM020</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM021</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Pounce</Description>
+    <Link/>
+    <Key>GENTM021</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM022</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Chilling Water</Description>
+    <Link/>
+    <Key>GENTM022</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM023</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Charge Beam</Description>
+    <Link/>
+    <Key>GENTM023</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM024</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Fire Spin</Description>
+    <Link/>
+    <Key>GENTM024</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM025</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Facade</Description>
+    <Link/>
+    <Key>GENTM025</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM026</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Poison Tail</Description>
+    <Link/>
+    <Key>GENTM026</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM027</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Aerial Ace</Description>
+    <Link/>
+    <Key>GENTM027</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM028</Name>
+    <Type>TM</Type>
+    <Price>7500</Price>
+    <Description>Bulldoze</Description>
+    <Link/>
+    <Key>GENTM028</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM029</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Hex</Description>
+    <Link/>
+    <Key>GENTM029</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM030</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Snarl</Description>
+    <Link/>
+    <Key>GENTM030</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM031</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>Metal Claw</Description>
+    <Link/>
+    <Key>GENTM031</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM032</Name>
+    <Type>TM</Type>
+    <Price>1000</Price>
+    <Description>Swift</Description>
+    <Link/>
+    <Key>GENTM032</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM033</Name>
+    <Type>TM</Type>
+    <Price>7500</Price>
+    <Description>Magical Leaf</Description>
+    <Link/>
+    <Key>GENTM033</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM034</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Icy Wind</Description>
+    <Link/>
+    <Key>GENTM034</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM035</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Mud Shot</Description>
+    <Link/>
+    <Key>GENTM035</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM036</Name>
+    <Type>TM</Type>
+    <Price>7500</Price>
+    <Description>Rock Tomb</Description>
+    <Link/>
+    <Key>GENTM036</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM037</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Draining Kiss</Description>
+    <Link/>
+    <Key>GENTM037</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM038</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Flame Charge</Description>
+    <Link/>
+    <Key>GENTM038</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM039</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Low Sweep</Description>
+    <Link/>
+    <Key>GENTM039</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM040</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>Air Cutter</Description>
+    <Link/>
+    <Key>GENTM040</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM041</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Stored Power</Description>
+    <Link/>
+    <Key>GENTM041</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM042</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>Night Shade</Description>
+    <Link/>
+    <Key>GENTM042</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM043</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Fling</Description>
+    <Link/>
+    <Key>GENTM043</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM044</Name>
+    <Type>TM</Type>
+    <Price>7500</Price>
+    <Description>Dragon Tail</Description>
+    <Link/>
+    <Key>GENTM044</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM045</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Venoshock</Description>
+    <Link/>
+    <Key>GENTM045</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM046</Name>
+    <Type>TM</Type>
+    <Price>7500</Price>
+    <Description>Avalanche</Description>
+    <Link/>
+    <Key>GENTM046</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM047</Name>
+    <Type>TM</Type>
+    <Price>1000</Price>
+    <Description>Endure</Description>
+    <Link/>
+    <Key>GENTM047</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM048</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Volt Switch</Description>
+    <Link/>
+    <Key>GENTM048</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM049</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Sunny Day</Description>
+    <Link/>
+    <Key>GENTM049</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM050</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Rain Dance</Description>
+    <Link/>
+    <Key>GENTM050</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM051</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Sandstorm</Description>
+    <Link/>
+    <Key>GENTM051</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM052</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Snowscape</Description>
+    <Link/>
+    <Key>GENTM052</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM053</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Smart Strike</Description>
+    <Link/>
+    <Key>GENTM053</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM054</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Psyshock</Description>
+    <Link/>
+    <Key>GENTM054</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM055</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Dig</Description>
+    <Link/>
+    <Key>GENTM055</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM056</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Bullet Seed</Description>
+    <Link/>
+    <Key>GENTM056</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM057</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>False Swipe</Description>
+    <Link/>
+    <Key>GENTM057</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM058</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Brick Break</Description>
+    <Link/>
+    <Key>GENTM058</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM059</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Zen Headbutt</Description>
+    <Link/>
+    <Key>GENTM059</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM060</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>U-Turn</Description>
+    <Link/>
+    <Key>GENTM060</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM061</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Shadow Claw</Description>
+    <Link/>
+    <Key>GENTM061</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM062</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Foul Play</Description>
+    <Link/>
+    <Key>GENTM062</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM063</Name>
+    <Type>TM</Type>
+    <Price>50000</Price>
+    <Description>Psychic Fangs</Description>
+    <Link/>
+    <Key>GENTM063</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM064</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Bulk Up</Description>
+    <Link/>
+    <Key>GENTM064</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM065</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Air Slash</Description>
+    <Link/>
+    <Key>GENTM065</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM066</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Body Slam</Description>
+    <Link/>
+    <Key>GENTM066</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM067</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Fire Punch</Description>
+    <Link/>
+    <Key>GENTM067</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM068</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Thunder Punch</Description>
+    <Link/>
+    <Key>GENTM068</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM069</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Ice Punch</Description>
+    <Link/>
+    <Key>GENTM069</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM070</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>Sleep Talk</Description>
+    <Link/>
+    <Key>GENTM070</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM071</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Seed Bomb</Description>
+    <Link/>
+    <Key>GENTM071</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM072</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Electro Ball</Description>
+    <Link/>
+    <Key>GENTM072</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM073</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Drain Punch</Description>
+    <Link/>
+    <Key>GENTM073</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM074</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Reflect</Description>
+    <Link/>
+    <Key>GENTM074</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM075</Name>
+    <Type>TM</Type>
+    <Price>4000</Price>
+    <Description>Light Screen</Description>
+    <Link/>
+    <Key>GENTM075</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM076</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Rock Blast</Description>
+    <Link/>
+    <Key>GENTM076</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM077</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Waterfall</Description>
+    <Link/>
+    <Key>GENTM077</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM078</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Dragon Claw</Description>
+    <Link/>
+    <Key>GENTM078</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM079</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Dazzling Gleam</Description>
+    <Link/>
+    <Key>GENTM079</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM080</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>Metronome</Description>
+    <Link/>
+    <Key>GENTM080</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM081</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Grass Knot</Description>
+    <Link/>
+    <Key>GENTM081</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM082</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>Thunder Wave</Description>
+    <Link/>
+    <Key>GENTM082</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM083</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Poison Jab</Description>
+    <Link/>
+    <Key>GENTM083</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM084</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Stomping Tantrum</Description>
+    <Link/>
+    <Key>GENTM084</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM085</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>Rest</Description>
+    <Link/>
+    <Key>GENTM085</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM086</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Rock Slide</Description>
+    <Link/>
+    <Key>GENTM086</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM087</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Taunt</Description>
+    <Link/>
+    <Key>GENTM087</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM088</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Swords Dance</Description>
+    <Link/>
+    <Key>GENTM088</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM089</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Body Press</Description>
+    <Link/>
+    <Key>GENTM089</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM090</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Spikes</Description>
+    <Link/>
+    <Key>GENTM090</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM091</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Toxic Spikes</Description>
+    <Link/>
+    <Key>GENTM091</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM092</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Imprison</Description>
+    <Link/>
+    <Key>GENTM092</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM093</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Flash Cannon</Description>
+    <Link/>
+    <Key>GENTM093</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM094</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Dark Pulse</Description>
+    <Link/>
+    <Key>GENTM094</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM095</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Leech Life</Description>
+    <Link/>
+    <Key>GENTM095</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM096</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>Eerie Impulse</Description>
+    <Link/>
+    <Key>GENTM096</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM097</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Fly</Description>
+    <Link/>
+    <Key>GENTM097</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM098</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Skill Swap</Description>
+    <Link/>
+    <Key>GENTM098</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM099</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Iron Head</Description>
+    <Link/>
+    <Key>GENTM099</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM100</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Dragon Dance</Description>
+    <Link/>
+    <Key>GENTM100</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM101</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Power Gem</Description>
+    <Link/>
+    <Key>GENTM101</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM102</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Gunk Shot</Description>
+    <Link/>
+    <Key>GENTM102</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM103</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Substitute</Description>
+    <Link/>
+    <Key>GENTM103</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM104</Name>
+    <Type>TM</Type>
+    <Price>7500</Price>
+    <Description>Iron Defense</Description>
+    <Link/>
+    <Key>GENTM104</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM105</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>X-Scissor</Description>
+    <Link/>
+    <Key>GENTM105</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM106</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Drill Run</Description>
+    <Link/>
+    <Key>GENTM106</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM107</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Will-O-Wisp</Description>
+    <Link/>
+    <Key>GENTM107</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM108</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Crunch</Description>
+    <Link/>
+    <Key>GENTM108</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM109</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Trick</Description>
+    <Link/>
+    <Key>GENTM109</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM110</Name>
+    <Type>TM</Type>
+    <Price>50000</Price>
+    <Description>Liquidation</Description>
+    <Link/>
+    <Key>GENTM110</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM111</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Giga Drain</Description>
+    <Link/>
+    <Key>GENTM111</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM112</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Aura Sphere</Description>
+    <Link/>
+    <Key>GENTM112</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM113</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Tailwind</Description>
+    <Link/>
+    <Key>GENTM113</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM114</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Shadow Ball</Description>
+    <Link/>
+    <Key>GENTM114</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM115</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Dragon Pulse</Description>
+    <Link/>
+    <Key>GENTM115</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM116</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Stealth Rock</Description>
+    <Link/>
+    <Key>GENTM116</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM117</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Hyper Voice</Description>
+    <Link/>
+    <Key>GENTM117</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM118</Name>
+    <Type>TM</Type>
+    <Price>50000</Price>
+    <Description>Heat Wave</Description>
+    <Link/>
+    <Key>GENTM118</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM119</Name>
+    <Type>TM</Type>
+    <Price>50000</Price>
+    <Description>Energy Ball</Description>
+    <Link/>
+    <Key>GENTM119</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM120</Name>
+    <Type>TM</Type>
+    <Price>50000</Price>
+    <Description>Psychic</Description>
+    <Link/>
+    <Key>GENTM120</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM121</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Heavy Slam</Description>
+    <Link/>
+    <Key>GENTM121</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM122</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Encore</Description>
+    <Link/>
+    <Key>GENTM122</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM123</Name>
+    <Type>TM</Type>
+    <Price>50000</Price>
+    <Description>Surf</Description>
+    <Link/>
+    <Key>GENTM123</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM124</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Ice Spinner</Description>
+    <Link/>
+    <Key>GENTM124</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM125</Name>
+    <Type>TM</Type>
+    <Price>50000</Price>
+    <Description>Flamethrower</Description>
+    <Link/>
+    <Key>GENTM125</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM126</Name>
+    <Type>TM</Type>
+    <Price>50000</Price>
+    <Description>Thunderbolt</Description>
+    <Link/>
+    <Key>GENTM126</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM127</Name>
+    <Type>TM</Type>
+    <Price>50000</Price>
+    <Description>Play Rough</Description>
+    <Link/>
+    <Key>GENTM127</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM128</Name>
+    <Type>TM</Type>
+    <Price>7500</Price>
+    <Description>Amnesia</Description>
+    <Link/>
+    <Key>GENTM128</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM129</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Calm Mind</Description>
+    <Link/>
+    <Key>GENTM129</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM130</Name>
+    <Type>TM</Type>
+    <Price>2000</Price>
+    <Description>Helping Hand</Description>
+    <Link/>
+    <Key>GENTM130</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM131</Name>
+    <Type>TM</Type>
+    <Price>50000</Price>
+    <Description>Pollen Puff</Description>
+    <Link/>
+    <Key>GENTM131</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM132</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Baton Pass</Description>
+    <Link/>
+    <Key>GENTM132</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM133</Name>
+    <Type>TM</Type>
+    <Price>50000</Price>
+    <Description>Earth Power</Description>
+    <Link/>
+    <Key>GENTM133</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM134</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Reversal</Description>
+    <Link/>
+    <Key>GENTM134</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM135</Name>
+    <Type>TM</Type>
+    <Price>50000</Price>
+    <Description>Ice Beam</Description>
+    <Link/>
+    <Key>GENTM135</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM136</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Electric Terrain</Description>
+    <Link/>
+    <Key>GENTM136</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM137</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Grassy Terrain</Description>
+    <Link/>
+    <Key>GENTM137</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM138</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Psychic Terrain</Description>
+    <Link/>
+    <Key>GENTM138</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM139</Name>
+    <Type>TM</Type>
+    <Price>15000</Price>
+    <Description>Misty Terrain</Description>
+    <Link/>
+    <Key>GENTM139</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM140</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Nasty Plot</Description>
+    <Link/>
+    <Key>GENTM140</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM141</Name>
+    <Type>TM</Type>
+    <Price>60000</Price>
+    <Description>Fire Blast</Description>
+    <Link/>
+    <Key>GENTM141</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM142</Name>
+    <Type>TM</Type>
+    <Price>60000</Price>
+    <Description>Hydro Pump</Description>
+    <Link/>
+    <Key>GENTM142</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM143</Name>
+    <Type>TM</Type>
+    <Price>60000</Price>
+    <Description>Blizzard</Description>
+    <Link/>
+    <Key>GENTM143</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM144</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Fire Pledge</Description>
+    <Link/>
+    <Key>GENTM144</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM145</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Water Pledge</Description>
+    <Link/>
+    <Key>GENTM145</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM146</Name>
+    <Type>TM</Type>
+    <Price>40000</Price>
+    <Description>Grass Pledge</Description>
+    <Link/>
+    <Key>GENTM146</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM147</Name>
+    <Type>TM</Type>
+    <Price>50000</Price>
+    <Description>Wild Charge</Description>
+    <Link/>
+    <Key>GENTM147</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM148</Name>
+    <Type>TM</Type>
+    <Price>50000</Price>
+    <Description>Sludge Bomb</Description>
+    <Link/>
+    <Key>GENTM148</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM149</Name>
+    <Type>TM</Type>
+    <Price>60000</Price>
+    <Description>Earthquake</Description>
+    <Link/>
+    <Key>GENTM149</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM150</Name>
+    <Type>TM</Type>
+    <Price>60000</Price>
+    <Description>Stone Edge</Description>
+    <Link/>
+    <Key>GENTM150</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM151</Name>
+    <Type>TM</Type>
+    <Price>50000</Price>
+    <Description>Phantom Force</Description>
+    <Link/>
+    <Key>GENTM151</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM152</Name>
+    <Type>TM</Type>
+    <Price>70000</Price>
+    <Description>Giga Impact</Description>
+    <Link/>
+    <Key>GENTM152</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM153</Name>
+    <Type>TM</Type>
+    <Price>70000</Price>
+    <Description>Blast Burn</Description>
+    <Link/>
+    <Key>GENTM153</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM154</Name>
+    <Type>TM</Type>
+    <Price>70000</Price>
+    <Description>Hydro Cannon</Description>
+    <Link/>
+    <Key>GENTM154</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM155</Name>
+    <Type>TM</Type>
+    <Price>70000</Price>
+    <Description>Frenzy Plant</Description>
+    <Link/>
+    <Key>GENTM155</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM156</Name>
+    <Type>TM</Type>
+    <Price>60000</Price>
+    <Description>Outrage</Description>
+    <Link/>
+    <Key>GENTM156</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM157</Name>
+    <Type>TM</Type>
+    <Price>60000</Price>
+    <Description>Overheat</Description>
+    <Link/>
+    <Key>GENTM157</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM158</Name>
+    <Type>TM</Type>
+    <Price>60000</Price>
+    <Description>Focus Blast</Description>
+    <Link/>
+    <Key>GENTM158</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM159</Name>
+    <Type>TM</Type>
+    <Price>60000</Price>
+    <Description>Leaf Storm</Description>
+    <Link/>
+    <Key>GENTM159</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM160</Name>
+    <Type>TM</Type>
+    <Price>60000</Price>
+    <Description>Hurricane</Description>
+    <Link/>
+    <Key>GENTM160</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM161</Name>
+    <Type>TM</Type>
+    <Price>25000</Price>
+    <Description>Trick room</Description>
+    <Link/>
+    <Key>GENTM161</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM162</Name>
+    <Type>TM</Type>
+    <Price>50000</Price>
+    <Description>Bug Buzz</Description>
+    <Link/>
+    <Key>GENTM162</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM163</Name>
+    <Type>TM</Type>
+    <Price>70000</Price>
+    <Description>Hyper Beam</Description>
+    <Link/>
+    <Key>GENTM163</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM164</Name>
+    <Type>TM</Type>
+    <Price>60000</Price>
+    <Description>Brave Bird</Description>
+    <Link/>
+    <Key>GENTM164</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM165</Name>
+    <Type>TM</Type>
+    <Price>60000</Price>
+    <Description>Flare Blitz</Description>
+    <Link/>
+    <Key>GENTM165</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM166</Name>
+    <Type>TM</Type>
+    <Price>60000</Price>
+    <Description>Thunder</Description>
+    <Link/>
+    <Key>GENTM166</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM167</Name>
+    <Type>TM</Type>
+    <Price>60000</Price>
+    <Description>Close Combat</Description>
+    <Link/>
+    <Key>GENTM167</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM168</Name>
+    <Type>TM</Type>
+    <Price>60000</Price>
+    <Description>Solar Beam</Description>
+    <Link/>
+    <Key>GENTM168</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM169</Name>
+    <Type>TM</Type>
+    <Price>70000</Price>
+    <Description>Draco Meteor</Description>
+    <Link/>
+    <Key>GENTM169</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>TM170</Name>
+    <Type>TM</Type>
+    <Price>70000</Price>
+    <Description>Steel Beam</Description>
+    <Link/>
+    <Key>GENTM170</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+</Gears>
