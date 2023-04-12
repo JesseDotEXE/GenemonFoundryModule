@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Gears>
+<Gear>
+<Key>COMLINKH</Key>
+<Name>Comlink (handheld)</Name>
+<Description>
+[H3]Comlink (handheld)[h3]
+Please see page 171 of the Edge of the Empire Core Rulebook, page 186 of the Age of Rebellion Core Rulebook, or page 180 of the Force and Destiny Core Rulebook, for details.
+</Description>
+<Sources>
+<Source Page="171">Edge of the Empire Core Rulebook</Source>
+<Source Page="186">Age of Rebellion Core Rulebook</Source>
+<Source Page="180">Force and Destiny Core Rulebook</Source>
+</Sources>
+<Short>A small handheld communications device</Short>
+<Encumbrance>0</Encumbrance>
+<Price>25</Price>
+<Rarity>0</Rarity>
+<Type>Communications</Type>
+</Gear>
+<Gear>
+<Key>GENPKDX</Key>
+<Name>Pokedex</Name>
+<Description>
+[H3]Pokedex[h3]
+Check the Genemon manual for details.
+</Description>
+<Sources>
+<Source Page="171">Edge of the Empire Core Rulebook</Source>
+<Source Page="186">Age of Rebellion Core Rulebook</Source>
+<Source Page="180">Force and Destiny Core Rulebook</Source>
+</Sources>
+<Short>A small handheld device</Short>
+<Encumbrance>0</Encumbrance>
+<Price>25</Price>
+<Rarity>0</Rarity>
+<Type>Communications</Type>
+</Gear>
+</Gears>
