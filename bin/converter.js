@@ -18,7 +18,7 @@ const parseFile = async (filename) => {
     });
 };
 
-const buildFoundyXmlFile = async (data) => {
+const buildFoundyGearXmlFile = async (data) => {
     const builder = new xml2js.Builder();
     const foundyObjectType = 'Gear'; // Make a variable.
 
@@ -43,20 +43,9 @@ const buildFoundyXmlFile = async (data) => {
     return builder.buildObject(fullFormattedFoundryData);
 };
 
-// <Key>GENTESTMISS</Key>
-// <Name>Genemon Test Gear Missing</Name>
-// <Description>
-//     Downgrade the difficulty and add a blue on capture attempts two times if target is a baby Poke
-//     Check the Genemon manual for more details.
-//     <![CDATA[
-//     <br>
-//         <a href="https://docs.google.com/document/d/1RABsev4rtyAynCIb945XXNn1kAGS-hKAequhSdFHuf8/edit?usp=sharing">Genemon Rulebook</a>
-//             ]]>
-//         </Description>
-// <Encumbrance>0</Encumbrance>
-// <Price>25</Price>
-// <Rarity>0</Rarity>
-// <Type>General</Type>
+const buildFoundyAbilityXmlFile = async (data) => {
+    // TODO
+};
 
 const writeFile = async (data) => {
   try {
@@ -68,8 +57,23 @@ const writeFile = async (data) => {
 };
 
 (async () => {
-    const data = await parseFile('./data/Genemon Data Set - Items.tsv');
-    const formattedXmlData = await buildFoundyXmlFile(data);
-    await writeFile(formattedXmlData);
-    // console.log('XML Data: ', formattedXmlData);
+    const type = 'Ability';
+    let formattedXmlData = null;
+    let data = null;
+
+    switch (type) {
+        case "Gear":
+            data = await parseFile('./data/Genemon Data Set - Items.tsv');
+            formattedXmlData = await buildFoundyGearXmlFile(data);
+        case "Ability":
+            data = await parseFile('./data/Genemon Data Set - Items.tsv');
+            formattedXmlData = await buildFoundyAbilityXmlFile(data);
+    }
+
+    if (formattedXmlData !== null) {
+        await writeFile(formattedXmlData);
+        console.log('File created!');
+    } else {
+        console.error('Failed to parse data. Did not write file.');
+    }
 })();

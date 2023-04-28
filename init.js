@@ -20,6 +20,21 @@ Hooks.on("createActor", (actor) => {
     console.log('GENEMON | ACTOR CREATE', actor);
 });
 
+// Handlebars Config
+Handlebars.registerHelper('loud', function (aString) {
+    return aString.toUpperCase()
+});
+
+Handlebars.registerHelper('nature', function (items) {
+    let results = '';
+    for (const item of items) {
+        const itemDescription = item?.system?.description;
+        const doesDescriptionIncludeNature = itemDescription.includes('NATURE'); // Consider this a 'tag' we can throw in the description to look for.
+        results = (doesDescriptionIncludeNature) ? item?.name : '';
+    }
+    return (!!results) ? results : 'NOT FOUND!';
+});
+
 function register_hooks() {
     libWrapper.register("genemon");
 }
