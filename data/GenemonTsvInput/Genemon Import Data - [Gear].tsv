@@ -1,0 +1,733 @@
+Name	Type	Description	Price
+Protein	Vitamin	Increases a Pokes Attack by 1. A Poke is only capable of having a single Vitamin.	20000
+Iron	Vitamin	Increases a Pokes Defense by 1. A Poke is only capable of having a single Vitamin.	20000
+Calcium	Vitamin	Increases a Pokes Special Attack by 1. A Poke is only capable of having a single Vitamin.	20000
+Zink	Vitamin	Increases a Pokes Special Defense by 1. A Poke is only capable of having a single Vitamin.	20000
+Carbos	Vitamin	Increases a Pokes Speed by 1. A Poke is only capable of having a single Vitamin.	20000
+HP Up	Vitamin	Increases a Pokes HP by 1. A Poke is only capable of having a single Vitamin.	20000
+Pokedex	Gear	A hand-held computer with an advanced camera and image recognition software given to trainers at the start of their journey	0
+Old Rod	Gear	Can be used to seach for Pokes in water. It does not look very sturdy.	1000
+Good Rod	Gear	Can be used to seach for Pokes in water	5000
+Super Rod	Gear	Can be used to seach for Pokes in water. Shiny!	15000
+Escape Rope	Gear	Can be used to Escape Wild Battle without a check	150
+Backpack	Gear	Increases encomberance by 2	150
+Binoculars	Gear	Removes 1 setback die due to distance	250
+Flashlight	Gear	Removes 1 setback die due to darkness	50
+Flint and steel	Gear	Downgrade the difficulty of survival check to make fire	100
+Lantern	Gear	Removes 2 setback die due to darkness	100
+Picknic Table	Gear	Allows resting in wilderness	500
+Sandwich Ingrediants	Gear	Used  to make sandwich	10
+Sleeping Bag	Gear		250
+Tent	Gear	Fits 2 people	250
+Thieves Tols	Gear	Allows the ability to pick locks	500
+Honey	Gear	Attracts a random Poke native to the area	300
+Poke Ball	Ball	Allows a capture attempt	250
+Great Ball	Ball	Gain a blue on capture attemps	500
+Ultra Ball	Ball	Downgrade the difficulty on capture attempts	1000
+Fast Ball	Ball	Downgrade the difficulty on capture attempts three times if using against a poke with 3 speed or more 	1500
+Lure Ball	Ball	Downgrade the difficulty on capture attempts three times if target is in water outside of battle	1500
+Heavy Ball	Ball	Downgrade your capture attempt if target poke weights less than 100 kg, Downgrade the difficulty on capture if target Poke weighs 200 kgs < 300 kgs, Downgrade the difficulty on capture three times if target Poke weighs if 300 kgs or higher	1250
+Love Ball	Ball	Lower the difficulty by one and downgrade the difficulty on capture attempts four times if target is same species as your active poke and they are different genders	2200
+Multi Ball	Ball	Downgrade the difficulty on capture attempts twice if target has multiple heads	1250
+Net Ball	Ball	Downgrade the difficulty and add a blue on capture attempts two times if target is Water or Bug Type Poke	1250
+Dive Ball	Ball	Downgrade the difficulty and add a blue on capture attempts two times if target is in water	1250
+Nest Ball	Ball	Downgrade the difficulty and add a blue on capture attempts two times if target is a baby Poke	1000
+Trap Ball	Ball	Downgrade the difficulty on capture attempts twice if used in a forest or if target Poke is Normal Type	1250
+Faraday Ball	Ball	Downgrade the difficulty and add a blue on capture attempts two times if target is Electric or Steel Type Poke	1250
+Repeat Ball	Ball	Downgrade the difficulty and add a blue on capture attempts two times if you have a Poke of the same speciaes as the target	1250
+Timer Ball	Ball	If used on round 1 or outside of battle downgrade you capture attempt once. If used in round 3, 5, or 7 gain a blue on your capture attempt. If used on round 4 or 5 of battle downgrade the difficulty once, twice on rounds 6 and 7, and 3 times if used on or after round 8	2000
+Luxury Ball	Ball	Loyalty increases faster	2500
+Premier Ball	Ball	Gained for free if you buy 10 balls at once	0
+Dusk Ball	Ball	Downgrade the difficulty on capture attempts twice if used in a cave or at night	1250
+Heal Ball	Ball	Fully heals target Poke when caught	1000
+Quick Ball	Ball	Downgrade the difficulty on capture attempts four times if used round 1 of battle	2200
+Dream Ball	Ball	Downgrade the difficulty on capture attempts three times if target is asleep	1750
+Heal Powder	Medical	Removes all Status Effects from a Poke. Tastes Bad.	300
+Energy Powder	Medical	Heals 3 wounds. Tastes Bad	500
+Energy Root	Medical	Heals 6 wounds. Tastes Bad	1200
+Revival Herb	Medical	Revives a feinted Poke And heals all their wounds and Strain. Tastes Bad.	2800
+Potion	Medical	Heals 1 wound. 	300
+Super Potion	Medical	Heals 3 wounds.	700
+Hyper Potion	Medical	Heals 10 wounds. 	1500
+Max Potion	Medical	All HP	2500
+Full Restore	Medical	All HP and non-volatile Status Effects	3000
+Antidote	Medical	Removes Poison from a Poke. 	200
+Awakening	Medical	Removes Sleep from a Poke. 	250
+Burn Heal	Medical	Removes Burn from a Poke. 	300
+Ice heal	Medical	Removes Frozen from a Poke. 	250
+Paralyze Heal	Medical	Removes Paralysis from a Poke. 	300
+Full Heal	Medical	Removes all Status Effects from a Poke. 	600
+Revive	Medical	Revives feinted Poke and heals Wounds and strain down to half their threshold rounded up.	2000
+Max Revive	Medical	Revives a feinted Poke And heals all their wounds and Strain. Tastes Bad.	5000
+Ether	Medical	Restore 10 PP to 1 Move	1500
+Max Ether	Medical	Restore all PP to 1 Move	4500
+Sweet Apple	Evolution	Evolves Applin	2200
+Tart Apple	Evolution	Evolves Applin	2200
+Chipped Pot	Evolution	Evolves Sinistra	3000
+Cracked Pot	Evolution	Evolves Sinistra	3000
+Fire Stone	Evolution	Evolves Poke into Fire variant if availble	5000
+Liquid Stone	Evolution	Evolves Poke into Water variant if availble	5000
+Leaf Stone	Evolution	Evolves Poke into Grass variant if availble	5000
+Dusk Stone	Evolution	Evolves Poke into Dark variant if availble	5000
+Refiner Stone	Evolution	Evolves Poke into Steel variant if availble	5000
+Sand Stone	Evolution	Evolves Poke into Ground variant if availble	5000
+Moon Stone	Evolution	Evolves Poke into Rock variant if availble	5000
+Sun Stone	Evolution	Evolves Poke into Psychic variant if availble	5000
+Feather Stone	Evolution	Evolves Poke into Flying variant if availble	5000
+Metamophasis Stone	Evolution	Evolves Poke into Bug variant if availble	5000
+Thunder Stone	Evolution	Evolves Poke into Electric variant if availble	5000
+ShinyStone	Evolution	Evolves Poke into Normal variant if availble	5000
+Reaper Stone	Evolution	Evolves Poke into Ghost variant if availble	5000
+Dragon Stone	Evolution	Evolves Poke into Dragon variant if availble	5000
+Pixy Stone	Evolution	Evolves Poke into Fairy variant if availble	5000
+Frozen Stone	Evolution	Evolves Poke into Ice variant if availble	5000
+Knuckle Stone	Evolution	Evolves Poke into Fighting variant if availble	5000
+Polluted Stone	Evolution	Evolves Poke into Poison variant if availble	5000
+Alolan Sand	Evolution	Evolves Poke into Alolan variant if availble	5000
+Galarain Reath	Evolution	Evolves Poke into Galarian variant if availble	5000
+Hisuian Stone	Evolution	Evolves Poke into Hisuian variant if availble	5000
+Tera Stone	Evolution	Evolves Poke into Paldean variant if availble	5000
+Cheri Berry	Berry	Removes Paralysis	120
+Chesto Berry	Berry	Removes Sleep	120
+Petcha Berry	Berry	Removes Poison	120
+Rawst Berry	Berry	Removes Burn	120
+Aspear Berry	Berry	Removes Freeze	120
+Leppa Berry	Berry	Restores 10 PP	800
+Oran Berry	Berry	Heals 1 wound	80
+Persim Berry	Berry	Removes Confusion	120
+Lum Berry	Berry	Removes non-volatile Status Effects	300
+Sitrus Berry	Berry	Heals 4 wounds	800
+Razz Berry	Berry	Lowers the difficulty of capture attemps made against you	500
+Occa Berry	Berry	Halves the damage of a Fire Type move	200
+Pasho Berry	Berry	Halves the damage of a Water Type move	200
+Wacan Berry	Berry	Halves the damage of a Electric Type move	200
+Rindo Berry	Berry	Halves the damage of a Grass Type move	200
+Yeche Berry	Berry	Halves the damage of a Ice Type move	200
+Chople Berry	Berry	Halves the damage of a Fighting Type move	200
+Kebia Berry	Berry	Halves the damage of a Poison Type move	200
+Shuca Berry	Berry	Halves the damage of a Ground Type move	200
+Coba Berry	Berry	Halves the damage of a Flying Type move	200
+Payapa Berry	Berry	Halves the damage of a Psychic Type move	200
+Tanga Berry	Berry	Halves the damage of a Bug Type move	200
+Charti Berry	Berry	Halves the damage of a Rock Type move	200
+Kasib Berry	Berry	Halves the damage of a Ghost Type move	200
+Haban Berry	Berry	Halves the damage of a Dragon Type move	200
+Colbur Berry	Berry	Halves the damage of a Dark Type move	200
+Babiri Berry	Berry	Halves the damage of a Steel Type move	200
+Chilan Berry	Berry	Halves the damage of a Normal Type move	200
+Wepear Berry	Berry	Halves the damage of a Fairy Type move	200
+Enigma Berry	Berry	Add 4 Soak if hit by a move you are weak against	1500
+Mental Herb	Berry	Removes 1 condition	10000
+Power Herb	Berry	Gain Prepared condition	30000
+White Herb	Berry	Restore Stats to base	20000
+Ability Shield	Held Item	Holder cannot have their abilities changed other Pokes	20000
+Absorb Bulb	Held Item	Once per battle if the holder is hit by a Water type move Wax 1	5000
+Cell Battery	Held Item	Once per battle if the holder is hit by a Electric type move Hone 1	5000
+Luminous Moss	Held Item	Once per battle if the holder is hit by a Water type move Encourage 1	5000
+Snow Ball	Held Item	Once per battle if the holder is hit by a Ice type move Hone 1	5000
+Air Balloon	Held Item	Holder is Airborn until hit by a damaging Move	15000
+Amulet Coin	Held Item	Doubles the money gained from trainer battles is doubled if the holder is used in the battle	30000
+Assault Vest	Held Item	At the begining of battle the holder gains Encourage 2 but they can no longer use non-damaging Moves	50000
+Think Club	Held Item	At the begining of battle the holder gains Hone 1 or Hone 2 if the are Cubone	4000
+Big Root	Held Item	When the holder recovers wounds from a Move they recover 1 additional	10000
+Binding Band	Held Item	The DOT condition applied by the holder deal an aditional Wound	20000
+Grip Claw	Held Item	The holders Moves with the Dot Property gain an additional rank	10000
+Black Belt	Held Item	The holders Flighting Type Moves have their base damage increased by 1	3000
+Black Glasses	Held Item	The holders Dark Type Moves have their base damage increased by 1	3000
+Charcoal	Held Item	The holders Fire Type Moves have their base damage increased by 1	3000
+Dragon Fang	Held Item	The holders Dragon Type Moves have their base damage increased by 1	3000
+Soft Sand	Held Item	The holders Ground Type Moves have their base damage increased by 1	3000
+Hard Stone	Held Item	The holders Rock Type Moves have their base damage increased by 1	3000
+Never Melt Ice	Held Item	The holders Ice Type Moves have their base damage increased by 1	3000
+Silver Poweder	Held Item	The holders Bug Type Moves have their base damage increased by 1	3000
+Magnet	Held Item	The holders Electric Type Moves have their base damage increased by 1	3000
+Miracle Seed	Held Item	The holders Grass Type Moves have their base damage increased by 1	3000
+Metal Coat	Held Item	The holders Steel Type Moves have their base damage increased by 1	3000
+Twisted Spoon	Held Item	The holders Psychic Type Moves have their base damage increased by 1	3000
+Mystic Water	Held Item	The holders Water Type Moves have their base damage increased by 1	3000
+Silk Scarf	Held Item	The holders Normal Type Moves have their base damage increased by 1	3000
+Pixy Dust	Held Item	The holders Fairy Type Moves have their base damage increased by 1	3000
+Poision Barb	Held Item	The holders Poison Type Moves have their base damage increased by 1	3000
+Sharp Beak	Held Item	The holders Flying Type Moves have their base damage increased by 1	3000
+Spell tag	Held Item	The holders Ghost Type Moves have their base damage increased by 1	3000
+Muscle Band	Held Item	The holders Brawl Moves have their base damage increased by 1	8000
+Wise Glasses	Held Item	The holders Arcane Moves have their base damage increased by 1	8000
+Black Sludge	Held Item	At the begining of each turn, if the Holder is Poison Type they Heal 1 wound. Otherwise they recieve 1 wound.	10000
+Blunder Policy	Held Item	If the holders Move check fails and the Move had the inaccurate quality the holder gains Haste 2	30000
+Weakness Policy	Held Item	When the holder suffers wounds from a Move it has weakness to Hone 2 and Wax 2	50000
+Bright Powder	Held Item	The holder gains Armored	30000
+Choice Band	Held Item	The first Move used by the holder has its base damge increased by 3 and gains the Locked In Property for the rest of the battle	100000
+Choice Scarf	Held Item	At the beginning of battle the holder gains Haste 2 and the first their first Move used gains the Locked In Property for the rest of the battle	100000
+Choice Specs	Held Item	At the beginning of battle the holder gains Wax 2 and the first their first Move used gains the Locked In Property for the rest of the battle	100000
+Clear Amulet	Held Item	The holder is immune to Slow, Dull, Wane, Erode, and Discourage properties from sources other than itself	30000
+Covert Cloak	Held Item	The holder is immune to all Properties from sources other than itself	20000
+Damp Rock	Held Item	If the holder would cause Rain it becomes Heavy Rain instead	8000
+Heat Rock	Held Item	If the holder would cause Harsh Sunlight it becomes Extremly Harsh Sunlight instead	8000
+Icy Rock	Held Item	If the holder would cause Hail it becomes Hail Storm instead	8000
+Smooth Rock	Held Item	If the holder would cause Sandstorm it becomes Dust Devil instead	8000
+Terrain Extender	Held Item	Upgrade the difficulty to remove Battlefild Effects made by the holder	15000
+Destiny Knot	Held Item	If the holder becomes Infatuated the Poke that caused it is also gains Infatuated	20000
+Eject Button	Held Item	Once per battle when the holder recieves wounds from a Move with a range of engaged their trainer may take the switch action.	30000
+Eject Pack	Held Item	Once per battle when the holder would be subject to Slow, Dull, Wane, Erode, or Discourage properties their trainer may take the switch action. If they do do not apply any Properties from the triggering source.	30000
+Electric Seed	Held Item	If the battlefield gains Electric Terrain the Holder gains Fortify 1	20000
+Grassy Seed	Held Item	If the battlefield gains Grassy Terrain the Holder gains Fortify 1	20000
+Misty Seed	Held Item	If the battlefield gains Misty Terrain the Holder gains Encourage 1	20000
+Psychic Seed	Held Item	If the battlefield gains Psychic Terrain the Holder gains Encourage 1	20000
+Eviolite	Held Item	If the holder has the evolution Talent in their active Specailization increase their Defense and Special Defense by 2	50000
+Expert Belt	Held Item	Moves used by the holder have their base damage increased by 1 if their targe is weak to the Moves Type.	30000
+Flame Orb	Held Item	Holder gains the Burned Status Effect at the end of each of their turns	15000
+Toxic Orb	Held Item	Holder gains the Poisoned 2 Status Effect at the end of each of their turns	15000
+Life Orb	Held Item	Holders moves have their damage increased by 1 but sufferes 1 wound at the end of their turn	50000
+Float Stone	Held Item	Halves the holders weight	10000
+Focus Band	Held Item	If the holders wounds exceed their wound treshold by 2 or less, they do not feint untill after their next turn or they take another wound which ever happens first.	10000
+Focus Sash	Held Item	The Holder cannot take more wounds than their Wound Threshold from a single Move	50000
+Lagging Tail	Held Item	The holder always acts last each round. If multple Pokes hold this item the roll initutive normally but all others go before them.	20000
+Heavy-Duty Boots	Held Item	The holder is immune to Terrain and Entry Hazzards	20000
+Iron Ball	Held Item	At the begining of battle the holder gains Slow 2 and is gounded as long as they hold it.	20000
+Kings Rock	Held Item	The holders damaging Moves gain the Flinch Property	10000
+Leek	Held Item	Holder gains advantage on all move checks or two advantage if holder is Farfetch'd	200
+Lucky Punch	Held Item	Holder gains advantage on all move checks or two advantage if holder is Chansey	200
+Razor Claw	Held Item	Holder gains two advantage on all move checks	15000
+Scope Lens	Held Item	Holder gains two advantage on all move checks	15000
+Leftovers	Held Item	Holder heals 1 wound at the end of each of their turns	20000
+Loaded Dice	Held Item	Moves the holder uses with the linked property gain 2 free activations of the quality and have the rank of the quality increase by 1	20000
+Lucky Egg	Held Item	Holder gains an addional 5xp after each battle they participate in	10000
+Metronome	Held Item	After the holder makes a Move check add 1 base damage to the Move that was used and removes the bonus gratnted by this item to all the holders other Moves	15000
+Mirror Herb	Held Item	Once per battle the holder can copy a stat increase used by an opponent	30000
+Protective Pads	Held Item	Holder does not trigger effects that require an enemy to attack in engaged range	15000
+Punching Gloves	Held Item	Moves the holder uses with Punch in the name have their base damage increased by 1	15000
+Quick Claw	Held Item	Once per battle the holder can add the Quickness Property to a Move	8000
+Razor Fang	Held Item	Add Flinch Property to all the holders Moves	2200
+Red Card	Held Item	Once per battle when the holder suffers wounds from an enemy that enemy must be swapped out if possible	30000
+Ring target	Held Item	Holder looses any immunities	10000
+Rocky Helmet	Held Item	When holder recives wounds from a Move with Range of engaged the user also suffers 1 wound	50000
+Room Service	Held Item	When the holder is subject to Trick Room Slow 1 befor the effect of Trick Room	20000
+Safety Goggles	Held Item	Holder does not take damage from Sandstorm and Is immune to Properties of Spore and Powder Moves	20000
+Shed Shell	Held Item	Holder is immune to Properties activated by swapping	20000
+Shell Bell	Held Item	When the holder inflicts wounds they heal 2 wounds	20000
+Sticky Barb	Held Item	Holder suffers 1 wound at the end of each round. Is the holder is hit by a Move with range of engaged sticky barb is taken from the holder.	10000
+Throat Spray	Held Item	Once per battle when the holder uses a Move with the volcal Property Wax 1	20000
+Utility Unbrella	Held Item	Holder is immune to Rain, Heavy Rain, Harsh Sunlight, and Extremly Harsh Sunlight	15000
+Wide Lens	Held Item	Holders Moves gain Accurate 1 if they already have Accurate increase its rank by 1	20000
+Zoom Lens	Held Item	If the target of the Holders Move check has already gone this round the Move gains Accurate 2 if they already have Accurate increase its rank by 2	10000
+TM001	TM	Take Down	2000
+TM002	TM	Charm	2000
+TM003	TM	Fake Tears	2000
+TM004	TM	Agility	4000
+TM005	TM	Mud-Slap	1000
+TM006	TM	Scary Face	2000
+TM007	TM	Protect	2000
+TM008	TM	Fire Fang	4000
+TM009	TM	Thunder Fang	4000
+TM010	TM	Ice Fang	4000
+TM011	TM	Water Pulse	7500
+TM012	TM	Low Kick	2000
+TM013	TM	Acid Spray	4000
+TM014	TM	Acrobatics	15000
+TM015	TM	Struggle Bug	2000
+TM016	TM	Psybeam	4000
+TM017	TM	Confuse Ray	2000
+TM018	TM	Theif	15000
+TM019	TM	Disarming Voice	1000
+TM020	TM	Trailblaze	4000
+TM021	TM	Pounce	4000
+TM022	TM	Chilling Water	15000
+TM023	TM	Charge Beam	4000
+TM024	TM	Fire Spin	4000
+TM025	TM	Facade	25000
+TM026	TM	Poison Tail	4000
+TM027	TM	Aerial Ace	4000
+TM028	TM	Bulldoze	7500
+TM029	TM	Hex	15000
+TM030	TM	Snarl	4000
+TM031	TM	Metal Claw	2000
+TM032	TM	Swift	1000
+TM033	TM	Magical Leaf	7500
+TM034	TM	Icy Wind	4000
+TM035	TM	Mud Shot	4000
+TM036	TM	Rock Tomb	7500
+TM037	TM	Draining Kiss	4000
+TM038	TM	Flame Charge	4000
+TM039	TM	Low Sweep	15000
+TM040	TM	Air Cutter	2000
+TM041	TM	Stored Power	4000
+TM042	TM	Night Shade	2000
+TM043	TM	Fling	15000
+TM044	TM	Dragon Tail	7500
+TM045	TM	Venoshock	15000
+TM046	TM	Avalanche	7500
+TM047	TM	Endure	1000
+TM048	TM	Volt Switch	15000
+TM049	TM	Sunny Day	15000
+TM050	TM	Rain Dance	15000
+TM051	TM	Sandstorm	15000
+TM052	TM	Snowscape	15000
+TM053	TM	Smart Strike	15000
+TM054	TM	Psyshock	25000
+TM055	TM	Dig	25000
+TM056	TM	Bullet Seed	15000
+TM057	TM	False Swipe	2000
+TM058	TM	Brick Break	25000
+TM059	TM	Zen Headbutt	25000
+TM060	TM	U-Turn	15000
+TM061	TM	Shadow Claw	15000
+TM062	TM	Foul Play	15000
+TM063	TM	Psychic Fangs	50000
+TM064	TM	Bulk Up	15000
+TM065	TM	Air Slash	25000
+TM066	TM	Body Slam	25000
+TM067	TM	Fire Punch	25000
+TM068	TM	Thunder Punch	25000
+TM069	TM	Ice Punch	25000
+TM070	TM	Sleep Talk	2000
+TM071	TM	Seed Bomb	40000
+TM072	TM	Electro Ball	25000
+TM073	TM	Drain Punch	40000
+TM074	TM	Reflect	4000
+TM075	TM	Light Screen	4000
+TM076	TM	Rock Blast	15000
+TM077	TM	Waterfall	40000
+TM078	TM	Dragon Claw	40000
+TM079	TM	Dazzling Gleam	40000
+TM080	TM	Metronome	2000
+TM081	TM	Grass Knot	15000
+TM082	TM	Thunder Wave	2000
+TM083	TM	Poison Jab	25000
+TM084	TM	Stomping Tantrum	25000
+TM085	TM	Rest	2000
+TM086	TM	Rock Slide	25000
+TM087	TM	Taunt	15000
+TM088	TM	Swords Dance	25000
+TM089	TM	Body Press	40000
+TM090	TM	Spikes	15000
+TM091	TM	Toxic Spikes	15000
+TM092	TM	Imprison	15000
+TM093	TM	Flash Cannon	40000
+TM094	TM	Dark Pulse	40000
+TM095	TM	Leech Life	40000
+TM096	TM	Eerie Impulse	2000
+TM097	TM	Fly	25000
+TM098	TM	Skill Swap	15000
+TM099	TM	Iron Head	40000
+TM100	TM	Dragon Dance	25000
+TM101	TM	Power Gem	40000
+TM102	TM	Gunk Shot	25000
+TM103	TM	Substitute	25000
+TM104	TM	Iron Defense	7500
+TM105	TM	X-Scissor	25000
+TM106	TM	Drill Run	40000
+TM107	TM	Will-O-Wisp	15000
+TM108	TM	Crunch	40000
+TM109	TM	Trick	25000
+TM110	TM	Liquidation	50000
+TM111	TM	Giga Drain	40000
+TM112	TM	Aura Sphere	40000
+TM113	TM	Tailwind	25000
+TM114	TM	Shadow Ball	40000
+TM115	TM	Dragon Pulse	40000
+TM116	TM	Stealth Rock	25000
+TM117	TM	Hyper Voice	40000
+TM118	TM	Heat Wave	50000
+TM119	TM	Energy Ball	50000
+TM120	TM	Psychic	50000
+TM121	TM	Heavy Slam	25000
+TM122	TM	Encore	15000
+TM123	TM	Surf	50000
+TM124	TM	Ice Spinner	40000
+TM125	TM	Flamethrower	50000
+TM126	TM	Thunderbolt	50000
+TM127	TM	Play Rough	50000
+TM128	TM	Amnesia	7500
+TM129	TM	Calm Mind	15000
+TM130	TM	Helping Hand	2000
+TM131	TM	Pollen Puff	50000
+TM132	TM	Baton Pass	15000
+TM133	TM	Earth Power	50000
+TM134	TM	Reversal	15000
+TM135	TM	Ice Beam	50000
+TM136	TM	Electric Terrain	15000
+TM137	TM	Grassy Terrain	15000
+TM138	TM	Psychic Terrain	15000
+TM139	TM	Misty Terrain	15000
+TM140	TM	Nasty Plot	25000
+TM141	TM	Fire Blast	60000
+TM142	TM	Hydro Pump	60000
+TM143	TM	Blizzard	60000
+TM144	TM	Fire Pledge	40000
+TM145	TM	Water Pledge	40000
+TM146	TM	Grass Pledge	40000
+TM147	TM	Wild Charge	50000
+TM148	TM	Sludge Bomb	50000
+TM149	TM	Earthquake	60000
+TM150	TM	Stone Edge	60000
+TM151	TM	Phantom Force	50000
+TM152	TM	Giga Impact	70000
+TM153	TM	Blast Burn	70000
+TM154	TM	Hydro Cannon	70000
+TM155	TM	Frenzy Plant	70000
+TM156	TM	Outrage	60000
+TM157	TM	Overheat	60000
+TM158	TM	Focus Blast	60000
+TM159	TM	Leaf Storm	60000
+TM160	TM	Hurricane	60000
+TM161	TM	Trick room	25000
+TM162	TM	Bug Buzz	50000
+TM163	TM	Hyper Beam	70000
+TM164	TM	Brave Bird	60000
+TM165	TM	Flare Blitz	60000
+TM166	TM	Thunder	60000
+TM167	TM	Close Combat	60000
+TM168	TM	Solar Beam	60000
+TM169	TM	Draco Meteor	70000
+TM170	TM	Steel Beam	70000
+Adaptability	Ability	STAB Moves gain an additional advantage	0
+Aerilate	Ability	Normal Type moves used within short range become Flying Type instead	0
+Aftermath	Ability	When you feint if it was caused by a Move with range of engaged the user suffers 4 wounds	0
+Air Lock	Ability	Battlefield Effects are negated	0
+Analytic	Ability	If you are last to take a turn in the round increase your Moves base damage by 2	0
+Anger Point	Ability	If a triumph or despair is used against you Hone 6	0
+Anger Shell	Ability	While your wounds are above half your wound threshold gain Hone 1, Wax 1, Haste 1, Erode 1, Discourage 1	0
+Anticipation	Ability	You know if an enemy has a Move that you are weak to	0
+Arena Trap	Ability	Grounded enemies engaged with you gain Trapped condition	0
+Armor Tail	Ability	When you are targeted by a Move with the Quickness Property the Move fails without a roll.	0
+Aroma Veil	Ability	You are immune to the following conditions when they are caused by enemies: Locked In, Locked Out, Incurable. And the Infatuated Status Effect.	0
+As One	Ability	You die	0
+Aura Break	Ability	Enemies within medium range with either Fairy Aura or Dark Aura loose the effects of those abilities and also their fairy or fdark type moves have their base damage lowerd by 2	0
+Bad Dreams	Ability	At the end of each round enemies engaged with you that are asleep suffer 2 wounds	0
+Ball Fetch	Ability	If you are the active Poke your trainer does not lose their balls on failed capture attempts	0
+Battery	Ability	Allies in melee range gain Wax 1	0
+Battle Armor	Ability	Triumphs and Despairs rolled by others cannot be used against you	0
+Battle Bond	Ability	Once per battle if you cause another Poke to feint gain Hone 1, Wax 1, Haste 1	0
+Beads of Ruin	Ability	Other Pokes within medium range suffer Discourage 1	0
+Beast Boost	Ability	The first time each battle you cause a Poke to feint choose either Hone 1, Wax 1, Haste 1, Encourage 1, or Fortify 1 and gain that effect. Each time you cause another Poke to feint gain the chosen effect again. 	0
+Berserk	Ability	Each time you wounds increase past half your wound threshold gain Wax 1	0
+Big Pecks	Ability	You are immune to Erode property from other Pokes	0
+Blaze	Ability	While your wounds are above half your wound threshold the base damage of Fire Type Moves is 2 higher	0
+Bulletproof	Ability	You are immune to Moves is the Projectile Property	0
+Cheek Pouch	Ability	Heal 5 wounds when you consume a berry	0
+Chilling Neigh	Ability	If you cause another Poke to feint gain Hone 1	0
+Chlorophyll	Ability	In Harsh Sunlight or Extremely Harsh Sunlight gain Haste 2	0
+Clear Body	Ability	You are immune to Dull, Wane, Slow, Erode, and Discourage caused by other Pokes	0
+Cloud Nine	Ability	When you enter the battlefield Weather becomes Calm Skys	0
+Color Change	Ability	When you suffer wounds from a Move used by another Poke your Type changes to match that Move.	0
+Comatose	Ability	You have permanant Sleep Status Effect. All your Moves gain the Sleepwalk Property	0
+Commander	Ability	You die	0
+Competitive	Ability	When you suffer from Dull, Wane, Slow, Erode, or Discourage caused by other Pokes gain Wax 2	0
+Compound Eyes	Ability	Your Moves gain Accurate 3 if they already have Accurate increase the rank by 3	0
+Contrary	Ability	Hone, Wax, Haste, Encourage, Fortify, Dull, Wane, Slow, Erode, and Discourage used on you do the opposite of what they normally do	0
+Corrosion	Ability	You can Give the Poison Status Effect to Pokes that are immune to Poison 	0
+Costar	Ability	When you enter the battlefiled Copy the Stat bonuses and negitives of one ally	0
+Cotton Down	Ability	When you suffer wounds from another Poke's Move all other Pokes in Medium range suffer Slow 1	0
+Cud Chew	Ability	When you use a berry you gain the effects again at the end of your next turn	0
+Curious Medicine	Ability	All allies Stats are reset to normal	0
+Cursed body	Ability	You may use 2 disadvantages on Moves used against you to give the Move Locked-out 4	0
+Cute Charm	Ability	You may use 2 disadvantages on Moves used against you within short range to give the use Infatuated as long as it is the opposite gender	0
+Damp	Ability	Pokes within medium long cannot gain the benifits of the Aftermath Ability. And If they use Self-Destruct, Explosion, Mind Blown, or Misty Explosion they fail without a check.	0
+Dancer	Ability	When another Poke within Medium range uses a Move with the Dancing Property you may immediatly use that move as well as an out of turn incedental.	0
+Dark Aura	Ability	Base damge of Dark Type Moves used within medium range of you is increased by 2.	0
+Dauntless Shield	Ability	Once per battle when you enter the battlefield Fortify 1	0
+Dazzling	Ability	When you are targeted by a Move with the Quickness Property the Move fails without a roll.	0
+Defeatist	Ability	While you wounds are equal to or greater than holf you wound threshhold suffer Dull 2 and Wane 2	0
+Defiant	Ability	When you suffer from Dull, Wane, Slow, Erode, or Discourage caused by other Pokes gain Hone 2	0
+Delta Stream	Ability	When you enter the battlefield Weather becomes Strong Winds	0
+Desolate Land	Ability	When you enter the battlefield Weather becomes Extremly Harsh Sunlight	0
+Disguise	Ability	The first time you would suffer wounds each battle you instead do not. Excluding battlefield effects.	0
+Download	Ability	Once per battle when you enter the battle field choose gain either Hone 1 or Wax 1	0
+Dragon's Maw	Ability	Increase the base damage of Dragon Type Moves by 2	0
+Drizzle	Ability	When you enter the battlefield Weather becomes Rain	0
+Drought	Ability	When you enter the battlefield Weather becomes Harsh Sunlight	0
+Dry Skin	Ability	When you would suffer wounds from a Fire Type Move you suffer 2 additional. If a water Type Move is sucessfully used against you you suffer no wounds and instead heal 4 wounds. In Harsh sunlight and Extremely Harsh Sunlight you suffer 2 wounds at the end of each round. In Rain and Heavy Rain you heal 2 wounds at the end of each round.	0
+Early Bird	Ability	When making a Status Effect check to recover from sleep downgrade the difficulty of the check twice and if you succeed remove the condition and take your turn as if you did not have it at the start of your turn.	0
+Earth Eater	Ability	If a Ground Type Move is sucessfully used against you you suffer no wounds and instead heal 4 wounds.	0
+Effect Spore	Ability	Your engaged range Moves gain the Poison, Paralyze, and Sleep Properties	0
+Electric Surge	Ability	When you enter the battlefield Terrain becomes Electric	0
+Electromorphosis	Ability	Each time you are the target of a successful Move check you gain the Electrified condition	0
+Emergency Exit	Ability	The first time each battle that your wounds increase past half your wound threshold you can swap out as an out of turn incedental. If you are a wild Poke you instead leave the battle.	0
+Fairy Aura	Ability	Base damge of fairy Type Moves used within medium range of you is increased by 2.	0
+Filter	Ability	Moves you are weak to deal half as much extra damage as they usually would rounded down	0
+Flame Body	Ability	You may use 2 disadvantages on Moves used against you in engaged range to give the user the Burn Status Effect	0
+Flare Boost	Ability	While you have the Burned condition base damage of all Arcane Moves is increased by 2	0
+Flash Fire	Ability	If a Fire Type Move is sucessfully used against you you suffer no wounds and instead increase the base damage of you Fire Type Moves by 2 for the rest of the battle this effect does not stack.	0
+Flower Gift	Ability	Durring Harsh Sunlight and Extremly Harsh Sunlight you gain Hone 1 and Encourage 1	0
+Flower Veil	Ability	Allied Grass Type Pokes within medium range gain the Insolated conddition and are immune to Dull, Wane, Slow, Erode, and Discourage caused by other Pokes, and if targeted by Yawn it fails without a roll.	0
+Fluffy	Ability	Gain weakness to Fire Type Moves. Gain resistance to moves with range of engaged.	0
+Forcast	Ability	Your Type Changes to match the weater. Rain and Heavy Rain are Water, Hail and Hail Storm are Ice, Harsh Sunlight and Extremly Harsh Sunlight, are Fire. All others are Normal.	0
+Forewarn	Ability	You know enemy's Move with the highest base damage	0
+Friend Guard	Ability	Allies within short range take 2 less wounds when they would take wounds from other Pokes.	0
+Frisk	Ability	You know what enemies held items are	0
+Full Metal Body	Ability	You are immune to Dull, Wane, Slow, Erode, and Discourage caused by other Pokes	0
+Fur Coat	Ability	The first time you enter the battlefield Fortify 2	0
+Gale Wings	Ability	Your Flying Type Moves gain the Quickness Property	0
+Galvanize	Ability	Your Normal Type Moves are Electric Type instead	0
+Gluttony	Ability	Berries are 50% more effective on you.	0
+Good as Gold	Ability	Non-damaging Moves that target you fail without a check.	0
+Gooey	Ability	Each time you are the target of a successful Move with the range of engaged the user suffers Slow 1	0
+Gorilla Tactics	Ability	The first Move used by the holder has its base damge increased by 2 and gains the Locked In Property for the rest of the battle	0
+Grass Pelt	Ability	While the battlefield is Grassy Terrain the you gains Fortify 2	0
+Grassy Surge	Ability	When you enter the battlefield Terrain becomes Grassy	0
+Grim Neigh	Ability	If you cause another Poke to feint gain Wax 1	0
+Guard Dog	Ability	You are immune to the Scare Property. If you are subject to the Intimidate Ability you ignore it and gain Hone 1	0
+Gulp Missle	Ability	After you use Surf or Dive your next attack gains the Paralyze and Erode 1 Properties	0
+Guts	Ability	Your damage does not decrease due to the Burn Status effect. While effected by a non-volatile Status Effect Hone 2	0
+Hadron Engine	Ability	When you enter the battlefield Terrain becomes Electric. While the Terrain is Electric gain Wax 1	0
+Harvest	Ability	You may spend 2 advantages from a Move check to recover a berry you used since the end of your last turn. In Harsh Sunlight or Extremly Harsh Sunlight you do not need to spend advantages.	0
+Healer	Ability	You may spend 3 advantge on a Move check to remove a Status Effect from an ally in engaged range	0
+Heatproof	Ability	The Burn Status Effect inflicts 1 wound instead of two to you. Halve wounds suffered from Fire Type Moves.	0
+Heavy Metal	Ability	Your weight is considered double your actual weight for all effects.	0
+Honey Gather	Ability	Once per session if you have no held item gain one honey	0
+Huge Power	Ability	The first time you enter the battlefield Hone 2	0
+Hunger Switch	Ability	The Move Aura Wheel becomes Electric Type on odd combat rounds and Dark Type on even combat rounds	0
+Hustle	Ability	Your Brawl moves gain Inaccurate 2. The first time you enter the battlefield Hone 2	0
+Hydration	Ability	At the end of each round if the Weather is Rain or Heavy Rain remove any non-volatile Status Effects you have	0
+Hyper Cutter	Ability	You are immune to Dull caused by other Pokes	0
+Ice Body	Ability	Durring Hail and Ice  Storm you heal 1 wound at the end of each round	0
+Ice Face	Ability	The first time you are targeted with a Brawl Move after the weather changes to Hail or Hail Storm the move fails without a roll. If the weather was Hail or Hail Storm when the battle began this ability still activates.	0
+Ice Scales	Ability	Gain the Special Resistance condition	0
+Illuminate	Ability	You are a light source	0
+Illusion	Ability	You apear as another Poke in yohur trainers party until you take your first wound from a Move in each battle. For Wild Pokes you apear as a random Poke native to the area.	0
+Immunity	Ability	You are immune to the Poison Property. If you gain this ability while you have the Poisoned Status Effect remove the Status Effect.	0
+Imposter	Ability	When you enter the battlefield you become a copy of target opponent within short range you gain their stats, abilities, moves, and typing, but retain your talents. If no enemies are within short range you use this ability on the first enemy to enter short range.	0
+Infiltrator	Ability	You ignore the Insolated condition on targets of your Move checks	0
+Innards Out	Ability	When yout feint do to a Move increasing your wounds past your wound threshold the user of that Move suffers wound equal to the difference in your wound threshold and the number of wounds you had prior to that Move +1.	0
+Inner Focus	Ability	You are immune to the Flinch Property	0
+Insomnia	Ability	You are immune to the Sleep Property	0
+Intimidate	Ability	When you enter the battlefield Pokemon in engaged range suffer Dull 1	0
+Intrepid Sword	Ability	The first time you enter the battlefield Hone 1	0
+Iron Barbs	Ability	When a Move targeting you with range of engaged succeeds the user suffers 2 wounds. If this causes the user to feint you take no damge from the Move.	0
+Iron Fist	Ability	Your Moves with Punch in the name have their base damge increased by 2.	0
+Justified	Ability	Each time you are hit by a Dark Type Move Hone 1	0
+Keen Eye	Ability	Do not add setback die to your Move check for your targets Armor, you are also immune to gaining the Inaccurate Property from other Pokes.	0
+Klutz	Ability	You immedatly drop held items	0
+Leaf Guard	Ability	Durring Harsh Sunlight and Extremly Harsh Sunlight you gain the Insolated condition and and if you are targeted by Yawn it fails without a roll.	0
+Levitate	Ability	You are Airborne	0
+Libero	Ability	Once per battle when making a Move Check you can change your Type to match the Type of theMopve you are using.	0
+Light Metal	Ability	Your weight is considered half your actual weight for all effects.	0
+Lightning Rod	Ability	You are immune to Electric Type Moves. If an Electric Type Move is used within medium range the target switches to you before the Move check is rolled. If the check succeeds you gain Wax 1.	0
+Limber	Ability	You are immune to the Paralyzed Status Effect	0
+Lingering Aroma	Ability	When a Move targeting you with range of engaged succeeds the user loses acess to their abilities and gains the ability Lingering Aroma until the end of the battle.	0
+Liquid Ooze	Ability	If you are the target of a Move with the Drain Property you may spend two disadvantage to activate the Property. When the Drain Property is used on a Move that targeted you the user suffers wounds instead of healing them.	0
+Liquid Voice	Ability	Moves you use with the Vocal Property are Water Type	0
+Long Reach	Ability	You do not trigger effects that require an enemy to attack in engaged range	0
+Magic Bounce	Ability	You have the Threatening Condition. When you are tergeted by and enemy's Move they gain the Worried 1 condition which triggers immedatly. 	0
+Magic Guard	Ability	You are immune to DOT condition. You do not suffer wounds from Status Effects or Battlefield Effects. 	0
+Magician	Ability	Your damaging Moves gain the Steal Property	0
+Magma Armor	Ability	You are immune to the Fozen Status Effect	0
+Magnet Pull	Ability	Steel Type enemies engaged with you gain Trapped condition	0
+Marvel Scale	Ability	While effected by a Status Effect gain Fortify 2	0
+Mega Launcher	Ability	Pulse Moves you use have their base damagef increased by 2	0
+Merciless	Ability	When you make a Move Check targeting an enemy with the Poisoned Status Effect you get one free activation of a Move property if the check succeeds	0
+Mimicry	Ability	Your Type Changes to match the Terrain. If no Terrain is active your typing remain the same.	0
+Minus	Ability	When within short range of a Poke with the Plus Ability you gain Wax 2	0
+Mirror Armor	Ability	If you would suffer Dull, Wane, Slow, Erode, or Discourage caused by another Poke they instead suffer it.	0
+Misty Surge	Ability	When you enter the battlefield Terrain becomes Misty	0
+Mold Breaker	Ability	Other Pokes Abilities do not effect you and if an effect you cause would be ignored by an Ability that ability does not trigger	0
+Moody	Ability	At the end of each round Roll 1d6 twice the and do the folwing based on each roll. First die - 1: Hone 2. 2: Wax 2. 3: Haste 2. 4: Fortify 2. 5: Encourage 2. 6: reroll. Second Die - 1: Dull 1. 2: Wane 1. 3: Slow 1. 4: Erode 1. 5: Discourage 1. 6: reroll	0
+Motor Drive	Ability	If a Electric Type Move is sucessfully used against you you suffer no wounds and instead Haste 1	0
+Moxie	Ability	If you cause another Poke to feint gain Hone 1	0
+Multiscale	Ability	If you would suffer wounds and are currently at 0 wounds suffer half as many wounds rounded up.	0
+Multitype	Ability	At the beginning of each round choose a type you are that type	0
+Mummy	Ability	When a Move targeting you with range of engaged succeeds the user loses acess to their abilities and gains the ability Mummy until the end of the battle.	0
+Mycelium Might	Ability	You non-damaging Moves gain the Quickness Property	0
+Natural Cure	Ability	When you swap out remove all conditions and Status Effects	0
+Neurororce	Ability	Moves that hit a targets weakness gain an advantage	0
+Neutralizing Gas	Ability	Pokes within short range lose all abilities	0
+No Guard	Ability	Your Moves and any move targeting you gains the Homing and Crosshair Properties	0
+Normalize	Ability	All your Moves are Normal Type instead od their actual Type	0
+Oblivious	Ability	You are immune to the Infatuated Status Effect	0
+Opportunist	Ability	If an enemy within short range gains Hone, Wax, Haste, Fortify, or Encourage you also gain the same benifit	0
+Orichalcum Pulse	Ability	When you enter the battlefield Weather becomes Harsh Sunlight. While in Harsh Sunlight or Extremly Harsh Sunlight you gain Hone 1	0
+Overcoat	Ability	You do not take damage from Sandstorm and are immune to Properties of Spore and Powder Moves	0
+Overgrow	Ability	While your wounds are above half your wound threshold the base damage of Grass Type Moves is 2 higher	0
+Own Tempo	Ability	You are immune to the Confused Status Effect and the Intimidate Ability	0
+Parental Bond	Ability	All your Moves gain Linked 1 if they already have Linked increase the rank by 1	0
+Pastel Veil	Ability	You are immune to the Poisoned Status Effect	0
+Perish Body	Ability	When a Move targeting you with range of engaged succeeds both you and the user Suffer Doom 3 condition	0
+Pickpocket	Ability	Your Moves with range of engaged gain the Steal Property. You may activate the Steal Property for free.	0
+Pickup	Ability	If another Poke within short range drops or consumes an item you may gain a cpoy of that item as an out of turn incedental.	0
+Pixilate	Ability	Your Normal Type Moves become Fiary Type instead and their base damage increases by 1	0
+Plus	Ability	When within short range of a Poke with the Minus Ability you gain Wax 2	0
+Poison Heal	Ability	When you would suffer wounds from the Poisoned Condition Woulds you instead heal that many wounds.	0
+Poison Point	Ability	You may use 2 disadvantages on Moves used against you in engaged range to give the user the Poisoned Status Effect	0
+Poison Touch	Ability	Your Moves with range of engaged gain the Poison Property. 	0
+Power Construct	Ability	You die	0
+Power of Alchemy	Ability	When another Poke within short range feints you lose this Ability and choose one of their Abilities you gain that Ability for the rest of the battle	0
+Power Spot	Ability	The base damage of Moves used by other allies within short range is increased by 2	0
+Prankster	Ability	Your non-damaging Moves gain the Quickness Property	0
+Pressure	Ability	Each time you are targeted by a Move the user suffers from Pointless 1	0
+Primordial Sea	Ability	When you enter the battlefield Weather becomes Heavy Rain	0
+Prism Armor	Ability	Moves you are weak to deal half as much extra damage as they usually would rounded down	0
+Propeller Tail	Ability	You are immune to effects that would change the target of your Moves	0
+Protean	Ability	When you use a Move your Type changes to match the Type of the Move. You gain STAB on that Move.	0
+Protosynthesis	Ability	In Harsh Sunlight or Extremely Harsh Sunlight you gain one of the following Hone 2, Wax 2, Haste 2, Fortify 2, or Encourage 2. Which one is determained by what is currently your highest Stat. If there is a tie you pick which effect you recieve.	0
+Psychic Surge	Ability	When you enter the battlefield Terrain becomes Psychic	0
+Punk Rock	Ability	You take half damage from moves with the Vocal Property. Your Moves with the Vocal Property have their base damage increased by 2.	0
+Pure Power	Ability	The first time you enter the battlefield Hone 2	0
+Purifying Salt	Ability	You have resistance to Ghost Type Moves. You are immune to Status Effects.	0
+Quark Drive	Ability	In Electric Terrain you gain one of the following Hone 2, Wax 2, Haste 2, Fortify 2, or Encourage 2. Which one is determained by what is currently your highest Stat. If there is a tie you pick which effect you recieve.	0
+Queenly Majesty	Ability	When you are targeted by a Move with the Quickness Property the Move fails without a roll.	0
+Quick Draw	Ability	Your Moves gain the Quickness Property but they cost one additional advantage to activate	0
+Quick Feet	Ability	You do not lose your second manuver on a successful Status Effect check against Paralyze. While you have a Status Effect you gain Haste 2	0
+Rain Dish	Ability	In Rain and Heavy Rain you heal 1 wound at the end of each round.	0
+Rattled	Ability	Each time you are subject to the Intimidate Ability or the target of a successful Move check for a Ghost, Dark, or Bug Type Move gain Haste 1.	0
+Receiver	Ability	When an ally within short range feints you lose this Ability and choose one of their Abilities you gain that Ability for the rest of the battle	0
+Reckless	Ability	Base damage of Moves with the Recoil Property is increased by 2	0
+Refrigerate	Ability	Your Normal Type Moves become Ice Type instead and their base damage increases by 1	0
+Regenerator	Ability	When you are swapped out heal 5 wounds	0
+Ripen	Ability	Double the effects of any berries you eat.	0
+Rivalry	Ability	Base damage of your Moves is increased by 2 if the target of your Move is the same gender as you, otherwise your damage is reduced by 2.	0
+RKS System	Ability	You Die	0
+Rock Head	Ability	You are immune to suffering wounds from the Recoil Property	0
+Rocky Payload	Ability	Base damage of your Rock Type Moves increase by 2	0
+Rough Skin	Ability	Each time you are the target of a successful Move with the range of engaged the user suffers 1 wound.	0
+Run Away	Ability	You are immune to the Trapped condition. You are able to leave wild battles without a check.	0
+Sand Force	Ability	You take no damage from Sandstorm and Dust Devil. Base damage of Rock, Ground, and Steel Type Moves are increased buy 2 while weather is Sandstorm or Dust Devil.	0
+Sand Rush	Ability	In Sandstorm or Dust Devil you gain Haste 2.	0
+Sand Split	Ability	When you take wounds from another Poke's successful Move check the Weather becomes Sandstorm	0
+Sand Stream	Ability	When you enter the battlefield Weather becomes Sandstorm	0
+Sand Veil	Ability	In Sandstorm or Dust Devil you increase your armor by 2	0
+Sap Sipper	Ability	If a Ground Type Move is sucessfully used against you you suffer no wounds and instead gain Hone 1	0
+Schooling	Ability	Increase your Attack, Special Attack, Defense, and Special Defense by 2 while you wounds are less that 75% of your wound threshold	0
+Scrappy	Ability	Your Moves ignore Ghost Type Immunities	0
+Screen Cleaner	Ability	When you enter the battlefield remove Physical Resistance and Special Resistance conditions from Pokes within medium range	0
+Seed Sower	Ability	When you take wounds from another Poke's successful Move check the Terrain becomes Grassy	0
+Serene Grace	Ability	Your Moves have the Critical Property	0
+Shadow Shield	Ability	If you would suffer wounds and are currently at 0 wounds suffer half as many wounds rounded up.	0
+Shadow Tag	Ability	Enemies engaged with you gain Trapped condition	0
+Sharpness	Ability	Base damage of your Moves with the Sharp Property are increased by 2	0
+Shed Skin	Ability	You may spend 3 advantge on a Move or Status Effect check to remove a non-volitile Status Effect from yourself	0
+Sheer Force	Ability	Base damage of your Moves increase by 2. You cannot activate Move Properties.	0
+Shell Armor	Ability	Triumphs and Despairs rolled by others cannot be used against you	0
+Shield Dust	Ability	You are immune to gaining conditions or Status Effects from other Pokes damaging Moves.	0
+Shields Down	Ability	While your wounds are less than half your wounds threshold you are immune to gaining Status Effects	0
+Simple	Ability	Your Move Properties with ranks are 1 rank higher	0
+Skill Link	Ability	Your Moves with the Linked Property gain 2 free activations of the quality and have the rank of the quality increase by 1	0
+Slow Start	Ability	The first time you enter the battlefield suffer Dull 2 and Slow 2	0
+Slush Rush	Ability	In Hail or Hailstorm you gain Haste 2.	0
+Sniper	Ability	When using a triumph to activate a Property increase the rank of that property once and activate it an additional time	0
+Snow Cloak	Ability	In Hail or Hailstorm you increase your armor by 2	0
+Snow Warning	Ability	When you enter the battlefield Weather becomes Hail	0
+Solar Power	Ability	In Harsh Sunlight or Extremely Harsh Sunlight you gain Wax 2 and at the end of each round you suffer 2 wounds.	0
+Solid Rock	Ability	Moves you are weak to deal half as much extra damage as they usually would rounded down	0
+Soul-Heart	Ability	Each time a Poke within medium range feints Wax 1	0
+Soundproof	Ability	When you are targeted by a Move with the Vocal Property the Move fails without a roll.	0
+Speed Boost	Ability	At the end of each round gain Haste 1	0
+Stakeout	Ability	Increase the base damage of your Moves by 2 if the target entered the battlefield this round.	0
+Stall	Ability	You always act last each round. If multple Pokes hold this item the roll initutive normally but all others go before them.	0
+Stalwart	Ability	You are immune to effects that would change the target of your Moves	0
+Stamina	Ability	When you take wounds from another Poke's successful Move check gain Fortify 1.	0
+Stance Change	Ability	The first time you use a damaging Move swap your Attack with Defense and your Special Attack with Special Defense prior to the Move check. 	0
+Static	Ability	You may use 2 disadvantages on Moves used against you in engaged range to give the user the Paralyzed Status Effect	0
+Steadfast	Ability	When ever you gain the Flinch condition Haste 1	0
+Steam Engine	Ability	When you take wounds from another Poke's successful Move check If it was Fire or Water Type Haste 6	0
+Steelworker	Ability	The base damage of your Steel type Moves is increased by 2	0
+Steely Spirit	Ability	The base damage of Steel type Moves within medium range is increased by 2	0
+Stench	Ability	Your damaging Moves gain the Flinch Property but cost an additional advantage to activate	0
+Sticky Hold	Ability	You cannot lose your held item due to another Poke's Move	0
+Storm Drain	Ability	You are immune to Water Type Moves. If a Water Type Move is used within medium range the target switches to you before the Move check is rolled. If the check succeeds you gain Wax 1.	0
+Strong Jaw	Ability	The base damage of your bite Moves is increased by 2	0
+Sturdy	Ability	If you are at 0 wounds and would suffer wounds greater than you wound threshhold instead suffer wounds equal to your wound threshold.	0
+Suction Cups	Ability	Pokes within short range cannot be swapped out due to items of moves	0
+Super Luck	Ability	Your Moves have the Critical Property	0
+Supereme Overlord	Ability	The base damage of you Moves increases by 1 for each Poke in your party that is feinted.	0
+Surge Surfer	Ability	While the battlefield is Electric Terrain the you gains Haste 2	0
+Swarm	Ability	While your wounds are above half your wound threshold the base damage of Bug Type Moves is 2 higher	0
+Sweet Veil	Ability	Allies within short range are immune to Sleep Status Effect	0
+Swift Swim	Ability	In Rain and Heavy Rain you gain Haste 2	0
+Sword of Ruin	Ability	Other Pokes within medium range suffer Erode 2	0
+Symbiosis	Ability	When an ally within medium range uses a consumable held item you may give them your held item.	0
+Sychronize	Ability	If you suffer the Burned, Paralyzed, or Poisoned Status Effect from another Pokes Move the user also suffers the same Status effect	0
+Tablets of Ruin	Ability	Other Pokes within medium range suffer Dull 2	0
+Tangled Feet	Ability	While you have the Confused Status Effect increase your armor by 2	0
+Tangling Hair	Ability	Each time you are the target of a successful Move with the range of engaged the user suffers Slow 1	0
+Technician	Ability	Base damage of your Moves with base damage of 5 or less are increased by 2. This is only aplied once per Move.	0
+Telepathy	Ability	You are immune to the Blast and Surround properties from allies. you are immune Despairs rolled by other allies.	0
+Teravolt	Ability	Other Pokes Abilities do not effect you and if an effect you cause would be ignored by an Ability that ability does not trigger	0
+Thermal Exchange	Ability	You are immune to the Burned Status Effect. When you suffer wounds from a Fire Type Move gain Hone 1.	0
+Thick Fat	Ability	If you wound suffer wounds from a Fire or Ice Type Move from another Poke suffer half as many wounds rounded up.	0
+Tinted Lens	Ability	Ignore any effect that would lower damage done including resisteance.	0
+Torrent	Ability	While your wounds are above half your wound threshold the base damage of Water Type Moves is 2 higher	0
+Tough Claws	Ability	The base damage of your Moves with range of engaged are increased by 2	0
+Toxic Boost	Ability	While you have the Poisoned Status Effect the base damage of your Brawl Moves is increased by 2	0
+Toxic Debris	Ability	Each time you are the target of a successful Brawl Move check apply the Toxic Spikes entry hazzard to the battlefield	0
+Trace	Ability	When you enter the battlefield you lose this Ability and choose one Ability from a Poke within engaged range you gain that Ability for the rest of the battle. If there is no one within engaged range this Ability tiggers on the first Poke to enter engaged range.	0
+Transistor	Ability	The base damage of your Electric Type Moves is increased by 2	0
+Triage	Ability	Your Moves with the Heal or Drain Properties gain the Quickness Property	0
+Truant	Ability	You cannot make a Move check if you made one the previous round.	0
+Turboblaze	Ability	Other Pokes Abilities do not effect you and if an effect you cause would be ignored by an Ability that ability does not trigger	0
+Unaware	Ability	When you use a Move or are the target of a Move do not apply the effects of Hone, Wax, Haste, Encourage, Fortify, Dull, Wane, Slow, Erode, and Discourage.	0
+Unburden	Ability	If you drop, use, or lose your held Item so you are no longer holding anything gain Haste 2	0
+Unnerve	Ability	Enemies within short range cannot eat berries	0
+Unseen Fist	Ability	Targetes of your engaged range Moves do not gain the effect of the Shielded condition	0
+Vessel of Ruin	Ability	Other Pokes within medium range suffer Wane 2	0
+Victory Star	Ability	Your Moves gain Accurate 1. If it already has Accurate increase its rank by 1.	0
+Vital Spirit	Ability	You are immune to the Sleep Status Effect	0
+Volt Absorb	Ability	If a Electric Type Move is sucessfully used against you you suffer no wounds and instead heal 4 wounds.	0
+Wandering Spirit	Ability	When you succed on a Move check with range of engaged your target loses one ability and gains the ability Wandering Spirit until the end of the battle, you then lose Wandering Spirit and gain the Ability that was lost by your target.	0
+Water Absorb	Ability	If a Water Type Move is sucessfully used against you you suffer no wounds and instead heal 4 wounds.	0
+Water Bubble	Ability	If you would cause wounds with a Fire Type Move cause 2 less wounds. If you would cause wounds with a Water Type Move cause 2 more wounds. Apply this before Weakness and resistance are applied.	0
+Water Compaction	Ability	When you suffer wounds from a Water Type Move gain Fortify 2.	0
+Water Veil	Ability	You are immune to the Burned Status Effect.	0
+Weak Armor	Ability	Each time you are the target of a successful Brawl Move gain Haste 2 and suffer Erode 1	0
+Well-Baked Body	Ability	If a Fire Type Move is sucessfully used against you you suffer no wounds and instead Fortify 2.	0
+White Smoke	Ability	You are immune to Dull, Wane, Slow, Erode, and Discourage caused by other Pokes	0
+Wimp Out	Ability	The first time each battle that your wounds increase past half your wound threshold you can swap out as an out of turn incedental. If you are a wild Poke you instead leave the battle.	0
+Wind Power	Ability	When you suffer wounds from a wind Move gain the Charged condition	0
+Wind Rider	Ability	When you suffer wounds from a wind Move gain Hone 1	0
+Wonder Guard	Ability	You do not recieve wounds from Moves unless you are weak to them.	0
+Wonder Skin	Ability	Non-damaging Moves targeting you gain Inaccurate 5	0
+Zen Mode	Ability	You Die	0
+Zero to Hero	Ability	Increase your Attack by 2 and Special Attack by 1 when you enter the battlefield for the second time in the battle.	0
+Serious	Nature	Increase - Hit Points | Decrease - Speed	0
+Hardy	Nature	Increase - Hit Points | Decrease - Physical Attack	0
+Bashful	Nature	Increase - Hit Points | Decrease - Special Attack	0
+Docile	Nature	Increase - Hit Points | Decrease - Physical Defense	0
+Quirky	Nature	Increase - Hit Points | Decrease - Special Defense	0
+Skittish	Nature	Increase - Speed | Decrease - Hit Points	0
+Timid	Nature	Increase - Speed  | Decrease - Physical Attack	0
+Jolly	Nature	Increase - Speed | Decrease - Special Attack	0
+Hasty	Nature	Increase - Speed  | Decrease - Physical Defense	0
+Naive	Nature	Increase - Speed  | Decrease - Special Defense	0
+Reckless	Nature	Increase - Physical Attack | Decrease - Hit Points	0
+Brave	Nature	Increase - Physical Attack | Decrease - Speed	0
+Adamant	Nature	Increase - Physical Attack | Decrease - Special Attack	0
+Lonely	Nature	Increase - Physical Attack | Decrease - Physical Defense	0
+Naughty	Nature	Increase - Physical Attack | Decrease - Special Attack	0
+Arrogant	Nature	Increase - Special Attack | Decrease - Hit Points	0
+Quite	Nature	Increase - Special Attack | Decrease - Speed	0
+Modest	Nature	Increase - Special Attack | Decrease - Physical Attack	0
+Mild	Nature	Increase - Special Attack | Decrease - Physical Defense	0
+Rash	Nature	Increase - Special Attack | Decrease - Special Defense	0
+Apathetic	Nature	Increase - Physical Defense | Decrease - Hit Points	0
+Relaxed	Nature	Increase - Physical Defense | Decrease - Speed	0
+Bold	Nature	Increase - Physical Defense | Decrease - Physical Attack	0
+Impish	Nature	Increase - Physical Defense | Decrease - Special Attack	0
+Lax	Nature	Increase - Physical Defense | Decrease - Special Defense	0
+Curious	Nature	Increase - Special Defense | Decrease - Hit Points	0
+Sassy	Nature	Increase - Special Defense | Decrease - Speed	0
+Calm	Nature	Increase - Special Defense | Decrease - Physical Attack	0
+Gental	Nature	Increase - Special Defense | Decrease - Special Attack	0
+Careful	Nature	Increase - Special Defense | Decrease - Physical Defense	0
+Nimble	Nature	Increase - Armor | Decrease - Hit Points	0
+Clumsy	Nature	Increase - Armor | Decrease - Speed	0
+Stubborn	Nature	Increase - Armor | Decrease - Physical Attack	0
+Grumpy	Nature	Increase - Armor | Decrease - Special Attack	0
+Relaxed	Nature	Increase - Armor | Decrease - Physical Defense	0
+Cheerful	Nature	Increase - Armor | Decrease - Special Defense	0
+Normal	Type	Put type effectivness details here.	0
+Fire	Type	Put type effectivness details here.	0
+Water	Type	Put type effectivness details here.	0
+Grass	Type	Put type effectivness details here.	0
+Electric	Type	Put type effectivness details here.	0
+Ice	Type	Put type effectivness details here.	0
+Fighting	Type	Put type effectivness details here.	0
+Poison	Type	Put type effectivness details here.	0
+Ground	Type	Put type effectivness details here.	0
+Flying	Type	Put type effectivness details here.	0
+Psychic	Type	Put type effectivness details here.	0
+Bug	Type	Put type effectivness details here.	0
+Rock	Type	Put type effectivness details here.	0
+Ghost	Type	Put type effectivness details here.	0
+Dark	Type	Put type effectivness details here.	0
+Dragon	Type	Put type effectivness details here.	0
+Steel	Type	Put type effectivness details here.	0
+Fairy	Type	Put type effectivness details here.	0

@@ -1,10 +1,12 @@
 const fs = require('fs');
 const Papa= require('papaparse');
 const xml2js = require('xml2js');
-const { clone, forEach, toUpper, replace } = require('lodash');
+const { capitalize, clone, forEach, get, toUpper, replace } = require('lodash');
 
-const parseFile = async (filename) => {
-    const dataStream = fs.createReadStream(filename);
+const parseFile = async (fileName) => {
+    console.log(`Parsing Genemon TSV data from [${fileName}].`);
+
+    const dataStream = fs.createReadStream(fileName);
     return new Promise((resolve, reject) => {
         Papa.parse(dataStream, { // Should handle csv and tsv by default.
             header: true,
@@ -18,68 +20,89 @@ const parseFile = async (filename) => {
     });
 };
 
-const buildFoundryGearXmlFile = (data) => {
-    const builder = new xml2js.Builder();
-    const foundyObjectType = 'Gear'; // Make a variable.
+const createFoundryDataKey = (objectName, objectType) => {
+    // const prefix = `GEN-${objectType}-`; // Keys might need to be more unique because there is clashing for searching on images.
+    const prefix = `GEN`;
+    return `${prefix}${toUpper(replace(objectName, ' ', ''))}`; // Make sure to make all caps and strip whitespace.
+};
+
+const buildSwffgGearObject = (objectData) => {
+    const rawFoundryObj = clone(objectData);
+
+    const genemonType = get(rawFoundryObj, 'Type', 'Unknown');
+    rawFoundryObj.Key = createFoundryDataKey(objectData.Name, toUpper(genemonType));
+    rawFoundryObj.Name = `${rawFoundryObj.Name} [${genemonType}]`; // Add the type to the name to make searching easier.
+    rawFoundryObj.Description =
+      `${objectData.Description} \n<!--[CDATA[--><br><br><b>[${genemonType}]</b><!--]]-->
+      `; // Add the type to the description.
+    rawFoundryObj.Encumbrance = 0;
+    rawFoundryObj.Rarity = 0;
+
+    return rawFoundryObj;
+};
+
+/**
+ *
+ * @param swffgDataType - must be in 'Capitalize' format
+ * @param tsvData
+ * @returns {*}
+ */
+const buildFoundryXmlFile = (swffgDataType, tsvData) => {
+    const foundyObjectType = swffgDataType;
 
     const formattedFoundryObjects = [];
-    forEach(data, (objectData) => {
-        // TODO Move this code to a separate function for each object type.
-        const rawFoundryObj = clone(objectData);
-        rawFoundryObj.Key = `GEN${toUpper(replace(objectData.Name, ' ', ''))}`;
-        rawFoundryObj.Description = (objectData.Link) ?
-            `${objectData.Description} \<![CDATA[\<br\>\<br\>\<a href="${objectData.Link}"\>Genemon Rulebook\</a\>]]\>`
-            : objectData.Description;
-        rawFoundryObj.Encumbrance = 0;
-        rawFoundryObj.Rarity = 0;
+    forEach(tsvData, (objectData) => {
+        let wrappedFoundryObject = {};
 
-        const wrappedFoundryObject = {};
-        wrappedFoundryObject[foundyObjectType] = rawFoundryObj;
+        switch (foundyObjectType) {
+            case "Gear":
+                wrappedFoundryObject[foundyObjectType] = buildSwffgGearObject(objectData);
+        }
+
         formattedFoundryObjects.push(wrappedFoundryObject);
     });
+
     const fullFormattedFoundryData = {};
     fullFormattedFoundryData[`${foundyObjectType}s`] = formattedFoundryObjects;
 
-    // console.log('fullFormattedFoundryData: ', fullFormattedFoundryData);
-
-    const objToReturn = builder.buildObject(fullFormattedFoundryData);
-    console.log('objToReturn: ', objToReturn);
-
-    return objToReturn
+    const builder = new xml2js.Builder();
+    return builder.buildObject(fullFormattedFoundryData);
 };
 
-const buildFoundyAbilityXmlFile = async (data) => {
-    // TODO
+/**
+ *
+ * @param swffgDataType - must be in 'Capitalize' format
+ * @param data
+ * @returns {Promise<void>}
+ */
+const writeFile = async (swffgDataType, data) => {
+    try {
+        const baseFolder = `./data/GenemonXmlOutput/Data`;
+        const fileName = `${baseFolder}/${swffgDataType}.xml`;
+        console.log(`Saving Genemon XML data to [${fileName}].`);
+
+        await fs.mkdirSync(baseFolder, { recursive: true }); // Make folder first.
+        await fs.writeFileSync(fileName, data);
+        console.log('File saved successfully.');
+    } catch (error) {
+        console.error('Error saving file. Error: ', error.message);
+    }
 };
 
-const writeFile = async (data) => {
-  try {
-      await fs.writeFileSync(`./data/ConverterDataExample/Data/Gear.xml`, data, { recursive: true, });
-      console.log('File saved!');
-  } catch (error) {
-      console.error('Error saving file. Error: ', error.message);
-  }
-};
-
+// Will automatically run on launching file.
 (async () => {
-    const type = 'Gear';
-    let formattedXmlData = null;
-    let data = null;
+    const swffgDataType = capitalize(get(process, 'argv[2]', 'UNKNOWN')); // Must be in 'Captialize' format.
+    const fileName = `./data/GenemonTsvInput/Genemon Import Data - [${swffgDataType}].tsv`;
 
-    switch (type) {
-        case "Gear":
-            data = await parseFile('./data/Genemon Data Set - Items.tsv');
-            console.log('Data: ', data)
-            formattedXmlData = await buildFoundryGearXmlFile(data);
-            console.log('FormattedXmlData: ', formattedXmlData);
-            if (formattedXmlData !== null && formattedXmlData !== undefined) {
-                await writeFile(formattedXmlData);
-                console.log('File created!');
-            } else {
-                console.error('Failed to parse data. Did not write file.');
-            }
-        case "Ability":
-            data = await parseFile('./data/Genemon Data Set - Items.tsv');
-            formattedXmlData = await buildFoundyAbilityXmlFile(data);
+    console.log(`Converting Genemon data for SWFFG type [${swffgDataType}].`);
+
+    const genemonData = await parseFile(fileName);
+
+    const formattedXmlData = await buildFoundryXmlFile(swffgDataType, genemonData);
+
+    if (formattedXmlData !== null && formattedXmlData !== undefined) {
+        await writeFile(swffgDataType, formattedXmlData);
+    } else {
+        console.error('Failed to parse data. Did not write file.');
     }
 })();
