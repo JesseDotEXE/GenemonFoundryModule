@@ -4,7 +4,8 @@
   "description": "Genemon helper module for the SWFFG(Genesys) game system.",
   "main": "index.js",
   "scripts": {
-    "convert": "node bin/convert.js"
+    "convert": "node bin/converter.js",
+    "copy": "node bin/copier.js"
   },
   "author": "",
   "license": "MIT",

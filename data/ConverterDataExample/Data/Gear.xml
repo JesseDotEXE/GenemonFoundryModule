@@ -56,7 +56,7 @@
     <Price>20000</Price>
     <Description>Increases a Pokes HP by 1. A Poke is only capable of having a single Vitamin.</Description>
     <Link/>
-    <Key>GENHP UP</Key>
+    <Key>GENHPUP</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -76,7 +76,7 @@
     <Price>1000</Price>
     <Description>Can be used to seach for Pokes in water. It does not look very sturdy.</Description>
     <Link/>
-    <Key>GENOLD ROD</Key>
+    <Key>GENOLDROD</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -86,7 +86,7 @@
     <Price>5000</Price>
     <Description>Can be used to seach for Pokes in water</Description>
     <Link/>
-    <Key>GENGOOD ROD</Key>
+    <Key>GENGOODROD</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -96,7 +96,7 @@
     <Price>15000</Price>
     <Description>Can be used to seach for Pokes in water. Shiny!</Description>
     <Link/>
-    <Key>GENSUPER ROD</Key>
+    <Key>GENSUPERROD</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -106,7 +106,7 @@
     <Price>150</Price>
     <Description>Can be used to Escape Wild Battle without a check</Description>
     <Link/>
-    <Key>GENESCAPE ROPE</Key>
+    <Key>GENESCAPEROPE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -146,7 +146,7 @@
     <Price>100</Price>
     <Description>Downgrade the difficulty of survival check to make fire</Description>
     <Link/>
-    <Key>GENFLINT AND STEEL</Key>
+    <Key>GENFLINTAND STEEL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -166,7 +166,7 @@
     <Price>500</Price>
     <Description>Allows resting in wilderness</Description>
     <Link/>
-    <Key>GENPICKNIC TABLE</Key>
+    <Key>GENPICKNICTABLE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -176,7 +176,7 @@
     <Price>10</Price>
     <Description>Used  to make sandwich</Description>
     <Link/>
-    <Key>GENSANDWICH INGREDIANTS</Key>
+    <Key>GENSANDWICHINGREDIANTS</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -186,7 +186,7 @@
     <Price>250</Price>
     <Description/>
     <Link/>
-    <Key>GENSLEEPING BAG</Key>
+    <Key>GENSLEEPINGBAG</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -206,7 +206,7 @@
     <Price>500</Price>
     <Description>Allows the ability to pick locks</Description>
     <Link/>
-    <Key>GENTHIEVES TOLS</Key>
+    <Key>GENTHIEVESTOLS</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -226,7 +226,7 @@
     <Price>250</Price>
     <Description>Allows a capture attempt</Description>
     <Link/>
-    <Key>GENPOKE BALL</Key>
+    <Key>GENPOKEBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -236,7 +236,7 @@
     <Price>500</Price>
     <Description>Gain a blue on capture attemps</Description>
     <Link/>
-    <Key>GENGREAT BALL</Key>
+    <Key>GENGREATBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -246,7 +246,7 @@
     <Price>1000</Price>
     <Description>Downgrade the difficulty on capture attempts</Description>
     <Link/>
-    <Key>GENULTRA BALL</Key>
+    <Key>GENULTRABALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -256,7 +256,7 @@
     <Price>1500</Price>
     <Description>Downgrade the difficulty on capture attempts three times if using against a poke with 3 speed or more </Description>
     <Link/>
-    <Key>GENFAST BALL</Key>
+    <Key>GENFASTBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -266,7 +266,7 @@
     <Price>1500</Price>
     <Description>Downgrade the difficulty on capture attempts three times if target is in water outside of battle</Description>
     <Link/>
-    <Key>GENLURE BALL</Key>
+    <Key>GENLUREBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -276,7 +276,7 @@
     <Price>1250</Price>
     <Description>Downgrade your capture attempt if target poke weights less than 100 kg, Downgrade the difficulty on capture if target Poke weighs 200 kgs &lt; 300 kgs, Downgrade the difficulty on capture three times if target Poke weighs if 300 kgs or higher</Description>
     <Link/>
-    <Key>GENHEAVY BALL</Key>
+    <Key>GENHEAVYBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -286,7 +286,7 @@
     <Price>2200</Price>
     <Description>Lower the difficulty by one and downgrade the difficulty on capture attempts four times if target is same species as your active poke and they are different genders</Description>
     <Link/>
-    <Key>GENLOVE BALL</Key>
+    <Key>GENLOVEBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -296,7 +296,7 @@
     <Price>1250</Price>
     <Description>Downgrade the difficulty on capture attempts twice if target has multiple heads</Description>
     <Link/>
-    <Key>GENMULTI BALL</Key>
+    <Key>GENMULTIBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -306,7 +306,7 @@
     <Price>1250</Price>
     <Description>Downgrade the difficulty and add a blue on capture attempts two times if target is Water or Bug Type Poke</Description>
     <Link/>
-    <Key>GENNET BALL</Key>
+    <Key>GENNETBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -316,7 +316,7 @@
     <Price>1250</Price>
     <Description>Downgrade the difficulty and add a blue on capture attempts two times if target is in water</Description>
     <Link/>
-    <Key>GENDIVE BALL</Key>
+    <Key>GENDIVEBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -326,7 +326,7 @@
     <Price>1000</Price>
     <Description>Downgrade the difficulty and add a blue on capture attempts two times if target is a baby Poke</Description>
     <Link/>
-    <Key>GENNEST BALL</Key>
+    <Key>GENNESTBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -336,7 +336,7 @@
     <Price>1250</Price>
     <Description>Downgrade the difficulty on capture attempts twice if used in a forest or if target Poke is Normal Type</Description>
     <Link/>
-    <Key>GENTRAP BALL</Key>
+    <Key>GENTRAPBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -346,7 +346,7 @@
     <Price>1250</Price>
     <Description>Downgrade the difficulty and add a blue on capture attempts two times if target is Electric or Steel Type Poke</Description>
     <Link/>
-    <Key>GENFARADAY BALL</Key>
+    <Key>GENFARADAYBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -356,7 +356,7 @@
     <Price>1250</Price>
     <Description>Downgrade the difficulty and add a blue on capture attempts two times if you have a Poke of the same speciaes as the target</Description>
     <Link/>
-    <Key>GENREPEAT BALL</Key>
+    <Key>GENREPEATBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -366,7 +366,7 @@
     <Price>2000</Price>
     <Description>If used on round 1 or outside of battle downgrade you capture attempt once. If used in round 3, 5, or 7 gain a blue on your capture attempt. If used on round 4 or 5 of battle downgrade the difficulty once, twice on rounds 6 and 7, and 3 times if used on or after round 8</Description>
     <Link/>
-    <Key>GENTIMER BALL</Key>
+    <Key>GENTIMERBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -376,7 +376,7 @@
     <Price>2500</Price>
     <Description>Loyalty increases faster</Description>
     <Link/>
-    <Key>GENLUXURY BALL</Key>
+    <Key>GENLUXURYBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -386,7 +386,7 @@
     <Price>0</Price>
     <Description>Gained for free if you buy 10 balls at once</Description>
     <Link/>
-    <Key>GENPREMIER BALL</Key>
+    <Key>GENPREMIERBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -396,7 +396,7 @@
     <Price>1250</Price>
     <Description>Downgrade the difficulty on capture attempts twice if used in a cave or at night</Description>
     <Link/>
-    <Key>GENDUSK BALL</Key>
+    <Key>GENDUSKBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -406,7 +406,7 @@
     <Price>1000</Price>
     <Description>Fully heals target Poke when caught</Description>
     <Link/>
-    <Key>GENHEAL BALL</Key>
+    <Key>GENHEALBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -416,7 +416,7 @@
     <Price>2200</Price>
     <Description>Downgrade the difficulty on capture attempts four times if used round 1 of battle</Description>
     <Link/>
-    <Key>GENQUICK BALL</Key>
+    <Key>GENQUICKBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -426,7 +426,7 @@
     <Price>1750</Price>
     <Description>Downgrade the difficulty on capture attempts three times if target is asleep</Description>
     <Link/>
-    <Key>GENDREAM BALL</Key>
+    <Key>GENDREAMBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -436,7 +436,7 @@
     <Price>300</Price>
     <Description>Removes all Status Effects from a Poke. Tastes Bad.</Description>
     <Link/>
-    <Key>GENHEAL POWDER</Key>
+    <Key>GENHEALPOWDER</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -446,7 +446,7 @@
     <Price>500</Price>
     <Description>Heals 3 wounds. Tastes Bad</Description>
     <Link/>
-    <Key>GENENERGY POWDER</Key>
+    <Key>GENENERGYPOWDER</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -456,7 +456,7 @@
     <Price>1200</Price>
     <Description>Heals 6 wounds. Tastes Bad</Description>
     <Link/>
-    <Key>GENENERGY ROOT</Key>
+    <Key>GENENERGYROOT</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -466,7 +466,7 @@
     <Price>2800</Price>
     <Description>Revives a feinted Poke And heals all their wounds and Strain. Tastes Bad.</Description>
     <Link/>
-    <Key>GENREVIVAL HERB</Key>
+    <Key>GENREVIVALHERB</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -486,7 +486,7 @@
     <Price>700</Price>
     <Description>Heals 3 wounds.</Description>
     <Link/>
-    <Key>GENSUPER POTION</Key>
+    <Key>GENSUPERPOTION</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -496,7 +496,7 @@
     <Price>1500</Price>
     <Description>Heals 10 wounds. </Description>
     <Link/>
-    <Key>GENHYPER POTION</Key>
+    <Key>GENHYPERPOTION</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -506,7 +506,7 @@
     <Price>2500</Price>
     <Description>All HP</Description>
     <Link/>
-    <Key>GENMAX POTION</Key>
+    <Key>GENMAXPOTION</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -516,7 +516,7 @@
     <Price>3000</Price>
     <Description>All HP and non-volatile Status Effects</Description>
     <Link/>
-    <Key>GENFULL RESTORE</Key>
+    <Key>GENFULLRESTORE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -546,7 +546,7 @@
     <Price>300</Price>
     <Description>Removes Burn from a Poke. </Description>
     <Link/>
-    <Key>GENBURN HEAL</Key>
+    <Key>GENBURNHEAL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -556,7 +556,7 @@
     <Price>250</Price>
     <Description>Removes Frozen from a Poke. </Description>
     <Link/>
-    <Key>GENICE HEAL</Key>
+    <Key>GENICEHEAL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -566,7 +566,7 @@
     <Price>300</Price>
     <Description>Removes Paralysis from a Poke. </Description>
     <Link/>
-    <Key>GENPARALYZE HEAL</Key>
+    <Key>GENPARALYZEHEAL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -576,7 +576,7 @@
     <Price>600</Price>
     <Description>Removes all Status Effects from a Poke. </Description>
     <Link/>
-    <Key>GENFULL HEAL</Key>
+    <Key>GENFULLHEAL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -596,7 +596,7 @@
     <Price>5000</Price>
     <Description>Revives a feinted Poke And heals all their wounds and Strain. Tastes Bad.</Description>
     <Link/>
-    <Key>GENMAX REVIVE</Key>
+    <Key>GENMAXREVIVE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -616,7 +616,7 @@
     <Price>4500</Price>
     <Description>Restore all PP to 1 Move</Description>
     <Link/>
-    <Key>GENMAX ETHER</Key>
+    <Key>GENMAXETHER</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -626,7 +626,7 @@
     <Price>2200</Price>
     <Description>Evolves Applin</Description>
     <Link/>
-    <Key>GENSWEET APPLE</Key>
+    <Key>GENSWEETAPPLE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -636,7 +636,7 @@
     <Price>2200</Price>
     <Description>Evolves Applin</Description>
     <Link/>
-    <Key>GENTART APPLE</Key>
+    <Key>GENTARTAPPLE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -646,7 +646,7 @@
     <Price>3000</Price>
     <Description>Evolves Sinistra</Description>
     <Link/>
-    <Key>GENCHIPPED POT</Key>
+    <Key>GENCHIPPEDPOT</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -656,7 +656,7 @@
     <Price>3000</Price>
     <Description>Evolves Sinistra</Description>
     <Link/>
-    <Key>GENCRACKED POT</Key>
+    <Key>GENCRACKEDPOT</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -666,7 +666,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Fire variant if availble</Description>
     <Link/>
-    <Key>GENFIRE STONE</Key>
+    <Key>GENFIRESTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -676,7 +676,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Water variant if availble</Description>
     <Link/>
-    <Key>GENLIQUID STONE</Key>
+    <Key>GENLIQUIDSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -686,7 +686,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Grass variant if availble</Description>
     <Link/>
-    <Key>GENLEAF STONE</Key>
+    <Key>GENLEAFSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -696,7 +696,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Dark variant if availble</Description>
     <Link/>
-    <Key>GENDUSK STONE</Key>
+    <Key>GENDUSKSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -706,7 +706,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Steel variant if availble</Description>
     <Link/>
-    <Key>GENREFINER STONE</Key>
+    <Key>GENREFINERSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -716,7 +716,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Ground variant if availble</Description>
     <Link/>
-    <Key>GENSAND STONE</Key>
+    <Key>GENSANDSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -726,7 +726,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Rock variant if availble</Description>
     <Link/>
-    <Key>GENMOON STONE</Key>
+    <Key>GENMOONSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -736,7 +736,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Psychic variant if availble</Description>
     <Link/>
-    <Key>GENSUN STONE</Key>
+    <Key>GENSUNSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -746,7 +746,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Flying variant if availble</Description>
     <Link/>
-    <Key>GENFEATHER STONE</Key>
+    <Key>GENFEATHERSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -756,7 +756,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Bug variant if availble</Description>
     <Link/>
-    <Key>GENMETAMOPHASIS STONE</Key>
+    <Key>GENMETAMOPHASISSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -766,7 +766,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Electric variant if availble</Description>
     <Link/>
-    <Key>GENTHUNDER STONE</Key>
+    <Key>GENTHUNDERSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -786,7 +786,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Ghost variant if availble</Description>
     <Link/>
-    <Key>GENREAPER STONE</Key>
+    <Key>GENREAPERSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -796,7 +796,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Dragon variant if availble</Description>
     <Link/>
-    <Key>GENDRAGON STONE</Key>
+    <Key>GENDRAGONSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -806,7 +806,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Fairy variant if availble</Description>
     <Link/>
-    <Key>GENPIXY STONE</Key>
+    <Key>GENPIXYSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -816,7 +816,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Ice variant if availble</Description>
     <Link/>
-    <Key>GENFROZEN STONE</Key>
+    <Key>GENFROZENSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -826,7 +826,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Fighting variant if availble</Description>
     <Link/>
-    <Key>GENKNUCKLE STONE</Key>
+    <Key>GENKNUCKLESTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -836,7 +836,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Poison variant if availble</Description>
     <Link/>
-    <Key>GENPOLLUTED STONE</Key>
+    <Key>GENPOLLUTEDSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -846,7 +846,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Alolan variant if availble</Description>
     <Link/>
-    <Key>GENALOLAN SAND</Key>
+    <Key>GENALOLANSAND</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -856,7 +856,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Galarian variant if availble</Description>
     <Link/>
-    <Key>GENGALARAIN REATH</Key>
+    <Key>GENGALARAINREATH</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -866,7 +866,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Hisuian variant if availble</Description>
     <Link/>
-    <Key>GENHISUIAN STONE</Key>
+    <Key>GENHISUIANSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -876,7 +876,7 @@
     <Price>5000</Price>
     <Description>Evolves Poke into Paldean variant if availble</Description>
     <Link/>
-    <Key>GENTERA STONE</Key>
+    <Key>GENTERASTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -886,7 +886,7 @@
     <Price>120</Price>
     <Description>Removes Paralysis</Description>
     <Link/>
-    <Key>GENCHERI BERRY</Key>
+    <Key>GENCHERIBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -896,7 +896,7 @@
     <Price>120</Price>
     <Description>Removes Sleep</Description>
     <Link/>
-    <Key>GENCHESTO BERRY</Key>
+    <Key>GENCHESTOBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -906,7 +906,7 @@
     <Price>120</Price>
     <Description>Removes Poison</Description>
     <Link/>
-    <Key>GENPETCHA BERRY</Key>
+    <Key>GENPETCHABERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -916,7 +916,7 @@
     <Price>120</Price>
     <Description>Removes Burn</Description>
     <Link/>
-    <Key>GENRAWST BERRY</Key>
+    <Key>GENRAWSTBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -926,7 +926,7 @@
     <Price>120</Price>
     <Description>Removes Freeze</Description>
     <Link/>
-    <Key>GENASPEAR BERRY</Key>
+    <Key>GENASPEARBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -936,7 +936,7 @@
     <Price>800</Price>
     <Description>Restores 10 PP</Description>
     <Link/>
-    <Key>GENLEPPA BERRY</Key>
+    <Key>GENLEPPABERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -946,7 +946,7 @@
     <Price>80</Price>
     <Description>Heals 1 wound</Description>
     <Link/>
-    <Key>GENORAN BERRY</Key>
+    <Key>GENORANBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -956,7 +956,7 @@
     <Price>120</Price>
     <Description>Removes Confusion</Description>
     <Link/>
-    <Key>GENPERSIM BERRY</Key>
+    <Key>GENPERSIMBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -966,7 +966,7 @@
     <Price>300</Price>
     <Description>Removes non-volatile Status Effects</Description>
     <Link/>
-    <Key>GENLUM BERRY</Key>
+    <Key>GENLUMBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -976,7 +976,7 @@
     <Price>800</Price>
     <Description>Heals 4 wounds</Description>
     <Link/>
-    <Key>GENSITRUS BERRY</Key>
+    <Key>GENSITRUSBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -986,7 +986,7 @@
     <Price>500</Price>
     <Description>Lowers the difficulty of capture attemps made against you</Description>
     <Link/>
-    <Key>GENRAZZ BERRY</Key>
+    <Key>GENRAZZBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -996,7 +996,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Fire Type move</Description>
     <Link/>
-    <Key>GENOCCA BERRY</Key>
+    <Key>GENOCCABERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1006,7 +1006,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Water Type move</Description>
     <Link/>
-    <Key>GENPASHO BERRY</Key>
+    <Key>GENPASHOBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1016,7 +1016,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Electric Type move</Description>
     <Link/>
-    <Key>GENWACAN BERRY</Key>
+    <Key>GENWACANBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1026,7 +1026,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Grass Type move</Description>
     <Link/>
-    <Key>GENRINDO BERRY</Key>
+    <Key>GENRINDOBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1036,7 +1036,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Ice Type move</Description>
     <Link/>
-    <Key>GENYECHE BERRY</Key>
+    <Key>GENYECHEBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1046,7 +1046,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Fighting Type move</Description>
     <Link/>
-    <Key>GENCHOPLE BERRY</Key>
+    <Key>GENCHOPLEBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1056,7 +1056,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Poison Type move</Description>
     <Link/>
-    <Key>GENKEBIA BERRY</Key>
+    <Key>GENKEBIABERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1066,7 +1066,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Ground Type move</Description>
     <Link/>
-    <Key>GENSHUCA BERRY</Key>
+    <Key>GENSHUCABERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1076,7 +1076,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Flying Type move</Description>
     <Link/>
-    <Key>GENCOBA BERRY</Key>
+    <Key>GENCOBABERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1086,7 +1086,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Psychic Type move</Description>
     <Link/>
-    <Key>GENPAYAPA BERRY</Key>
+    <Key>GENPAYAPABERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1096,7 +1096,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Bug Type move</Description>
     <Link/>
-    <Key>GENTANGA BERRY</Key>
+    <Key>GENTANGABERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1106,7 +1106,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Rock Type move</Description>
     <Link/>
-    <Key>GENCHARTI BERRY</Key>
+    <Key>GENCHARTIBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1116,7 +1116,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Ghost Type move</Description>
     <Link/>
-    <Key>GENKASIB BERRY</Key>
+    <Key>GENKASIBBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1126,7 +1126,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Dragon Type move</Description>
     <Link/>
-    <Key>GENHABAN BERRY</Key>
+    <Key>GENHABANBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1136,7 +1136,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Dark Type move</Description>
     <Link/>
-    <Key>GENCOLBUR BERRY</Key>
+    <Key>GENCOLBURBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1146,7 +1146,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Steel Type move</Description>
     <Link/>
-    <Key>GENBABIRI BERRY</Key>
+    <Key>GENBABIRIBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1156,7 +1156,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Normal Type move</Description>
     <Link/>
-    <Key>GENCHILAN BERRY</Key>
+    <Key>GENCHILANBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1166,7 +1166,7 @@
     <Price>200</Price>
     <Description>Halves the damage of a Fairy Type move</Description>
     <Link/>
-    <Key>GENWEPEAR BERRY</Key>
+    <Key>GENWEPEARBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1176,7 +1176,7 @@
     <Price>1500</Price>
     <Description>Add 4 Soak if hit by a move you are weak against</Description>
     <Link/>
-    <Key>GENENIGMA BERRY</Key>
+    <Key>GENENIGMABERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1186,7 +1186,7 @@
     <Price>10000</Price>
     <Description>Removes 1 condition</Description>
     <Link/>
-    <Key>GENMENTAL HERB</Key>
+    <Key>GENMENTALHERB</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1196,7 +1196,7 @@
     <Price>30000</Price>
     <Description>Gain Prepared condition</Description>
     <Link/>
-    <Key>GENPOWER HERB</Key>
+    <Key>GENPOWERHERB</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1206,7 +1206,7 @@
     <Price>20000</Price>
     <Description>Restore Stats to base</Description>
     <Link/>
-    <Key>GENWHITE HERB</Key>
+    <Key>GENWHITEHERB</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1216,7 +1216,7 @@
     <Price>20000</Price>
     <Description>Holder cannot have their abilities changed other Pokes</Description>
     <Link/>
-    <Key>GENABILITY SHIELD</Key>
+    <Key>GENABILITYSHIELD</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1226,7 +1226,7 @@
     <Price>5000</Price>
     <Description>Once per battle if the holder is hit by a Water type move Wax 1</Description>
     <Link/>
-    <Key>GENABSORB BULB</Key>
+    <Key>GENABSORBBULB</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1236,7 +1236,7 @@
     <Price>5000</Price>
     <Description>Once per battle if the holder is hit by a Electric type move Hone 1</Description>
     <Link/>
-    <Key>GENCELL BATTERY</Key>
+    <Key>GENCELLBATTERY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1246,7 +1246,7 @@
     <Price>5000</Price>
     <Description>Once per battle if the holder is hit by a Water type move Encourage 1</Description>
     <Link/>
-    <Key>GENLUMINOUS MOSS</Key>
+    <Key>GENLUMINOUSMOSS</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1256,7 +1256,7 @@
     <Price>5000</Price>
     <Description>Once per battle if the holder is hit by a Ice type move Hone 1</Description>
     <Link/>
-    <Key>GENSNOW BALL</Key>
+    <Key>GENSNOWBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1266,7 +1266,7 @@
     <Price>15000</Price>
     <Description>Holder is Airborn until hit by a damaging Move</Description>
     <Link/>
-    <Key>GENAIR BALLOON</Key>
+    <Key>GENAIRBALLOON</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1276,7 +1276,7 @@
     <Price>30000</Price>
     <Description>Doubles the money gained from trainer battles is doubled if the holder is used in the battle</Description>
     <Link/>
-    <Key>GENAMULET COIN</Key>
+    <Key>GENAMULETCOIN</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1286,7 +1286,7 @@
     <Price>50000</Price>
     <Description>At the begining of battle the holder gains Encourage 2 but they can no longer use non-damaging Moves</Description>
     <Link/>
-    <Key>GENASSAULT VEST</Key>
+    <Key>GENASSAULTVEST</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1296,7 +1296,7 @@
     <Price>4000</Price>
     <Description>At the begining of battle the holder gains Hone 1 or Hone 2 if the are Cubone</Description>
     <Link/>
-    <Key>GENTHINK CLUB</Key>
+    <Key>GENTHINKCLUB</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1306,7 +1306,7 @@
     <Price>10000</Price>
     <Description>When the holder recovers wounds from a Move they recover 1 additional</Description>
     <Link/>
-    <Key>GENBIG ROOT</Key>
+    <Key>GENBIGROOT</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1316,7 +1316,7 @@
     <Price>20000</Price>
     <Description>The DOT condition applied by the holder deal an aditional Wound</Description>
     <Link/>
-    <Key>GENBINDING BAND</Key>
+    <Key>GENBINDINGBAND</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1326,7 +1326,7 @@
     <Price>10000</Price>
     <Description>The holders Moves with the Dot Property gain an additional rank</Description>
     <Link/>
-    <Key>GENGRIP CLAW</Key>
+    <Key>GENGRIPCLAW</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1336,7 +1336,7 @@
     <Price>3000</Price>
     <Description>The holders Flighting Type Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENBLACK BELT</Key>
+    <Key>GENBLACKBELT</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1346,7 +1346,7 @@
     <Price>3000</Price>
     <Description>The holders Dark Type Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENBLACK GLASSES</Key>
+    <Key>GENBLACKGLASSES</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1366,7 +1366,7 @@
     <Price>3000</Price>
     <Description>The holders Dragon Type Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENDRAGON FANG</Key>
+    <Key>GENDRAGONFANG</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1376,7 +1376,7 @@
     <Price>3000</Price>
     <Description>The holders Ground Type Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENSOFT SAND</Key>
+    <Key>GENSOFTSAND</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1386,7 +1386,7 @@
     <Price>3000</Price>
     <Description>The holders Rock Type Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENHARD STONE</Key>
+    <Key>GENHARDSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1396,7 +1396,7 @@
     <Price>3000</Price>
     <Description>The holders Ice Type Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENNEVER MELT ICE</Key>
+    <Key>GENNEVERMELT ICE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1406,7 +1406,7 @@
     <Price>3000</Price>
     <Description>The holders Bug Type Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENSILVER POWEDER</Key>
+    <Key>GENSILVERPOWEDER</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1426,7 +1426,7 @@
     <Price>3000</Price>
     <Description>The holders Grass Type Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENMIRACLE SEED</Key>
+    <Key>GENMIRACLESEED</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1436,7 +1436,7 @@
     <Price>3000</Price>
     <Description>The holders Steel Type Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENMETAL COAT</Key>
+    <Key>GENMETALCOAT</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1446,7 +1446,7 @@
     <Price>3000</Price>
     <Description>The holders Psychic Type Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENTWISTED SPOON</Key>
+    <Key>GENTWISTEDSPOON</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1456,7 +1456,7 @@
     <Price>3000</Price>
     <Description>The holders Water Type Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENMYSTIC WATER</Key>
+    <Key>GENMYSTICWATER</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1466,7 +1466,7 @@
     <Price>3000</Price>
     <Description>The holders Normal Type Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENSILK SCARF</Key>
+    <Key>GENSILKSCARF</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1476,7 +1476,7 @@
     <Price>3000</Price>
     <Description>The holders Fairy Type Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENPIXY DUST</Key>
+    <Key>GENPIXYDUST</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1486,7 +1486,7 @@
     <Price>3000</Price>
     <Description>The holders Poison Type Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENPOISION BARB</Key>
+    <Key>GENPOISIONBARB</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1496,7 +1496,7 @@
     <Price>3000</Price>
     <Description>The holders Flying Type Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENSHARP BEAK</Key>
+    <Key>GENSHARPBEAK</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1506,7 +1506,7 @@
     <Price>3000</Price>
     <Description>The holders Ghost Type Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENSPELL TAG</Key>
+    <Key>GENSPELLTAG</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1516,7 +1516,7 @@
     <Price>8000</Price>
     <Description>The holders Brawl Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENMUSCLE BAND</Key>
+    <Key>GENMUSCLEBAND</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1526,7 +1526,7 @@
     <Price>8000</Price>
     <Description>The holders Arcane Moves have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENWISE GLASSES</Key>
+    <Key>GENWISEGLASSES</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1536,7 +1536,7 @@
     <Price>10000</Price>
     <Description>At the begining of each turn, if the Holder is Poison Type they Heal 1 wound. Otherwise they recieve 1 wound.</Description>
     <Link/>
-    <Key>GENBLACK SLUDGE</Key>
+    <Key>GENBLACKSLUDGE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1546,7 +1546,7 @@
     <Price>30000</Price>
     <Description>If the holders Move check fails and the Move had the inaccurate quality the holder gains Haste 2</Description>
     <Link/>
-    <Key>GENBLUNDER POLICY</Key>
+    <Key>GENBLUNDERPOLICY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1556,7 +1556,7 @@
     <Price>50000</Price>
     <Description>When the holder suffers wounds from a Move it has weakness to Hone 2 and Wax 2</Description>
     <Link/>
-    <Key>GENWEAKNESS POLICY</Key>
+    <Key>GENWEAKNESSPOLICY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1566,7 +1566,7 @@
     <Price>30000</Price>
     <Description>The holder gains Armored</Description>
     <Link/>
-    <Key>GENBRIGHT POWDER</Key>
+    <Key>GENBRIGHTPOWDER</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1576,7 +1576,7 @@
     <Price>100000</Price>
     <Description>The first Move used by the holder has its base damge increased by 3 and gains the Locked In Property for the rest of the battle</Description>
     <Link/>
-    <Key>GENCHOICE BAND</Key>
+    <Key>GENCHOICEBAND</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1586,7 +1586,7 @@
     <Price>100000</Price>
     <Description>At the beginning of battle the holder gains Haste 2 and the first their first Move used gains the Locked In Property for the rest of the battle</Description>
     <Link/>
-    <Key>GENCHOICE SCARF</Key>
+    <Key>GENCHOICESCARF</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1596,7 +1596,7 @@
     <Price>100000</Price>
     <Description>At the beginning of battle the holder gains Wax 2 and the first their first Move used gains the Locked In Property for the rest of the battle</Description>
     <Link/>
-    <Key>GENCHOICE SPECS</Key>
+    <Key>GENCHOICESPECS</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1606,7 +1606,7 @@
     <Price>30000</Price>
     <Description>The holder is immune to Slow, Dull, Wane, Erode, and Discourage properties from sources other than itself</Description>
     <Link/>
-    <Key>GENCLEAR AMULET</Key>
+    <Key>GENCLEARAMULET</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1616,7 +1616,7 @@
     <Price>20000</Price>
     <Description>The holder is immune to all Properties from sources other than itself</Description>
     <Link/>
-    <Key>GENCOVERT CLOAK</Key>
+    <Key>GENCOVERTCLOAK</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1626,7 +1626,7 @@
     <Price>8000</Price>
     <Description>If the holder would cause Rain it becomes Heavy Rain instead</Description>
     <Link/>
-    <Key>GENDAMP ROCK</Key>
+    <Key>GENDAMPROCK</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1636,7 +1636,7 @@
     <Price>8000</Price>
     <Description>If the holder would cause Harsh Sunlight it becomes Extremly Harsh Sunlight instead</Description>
     <Link/>
-    <Key>GENHEAT ROCK</Key>
+    <Key>GENHEATROCK</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1646,7 +1646,7 @@
     <Price>8000</Price>
     <Description>If the holder would cause Hail it becomes Hail Storm instead</Description>
     <Link/>
-    <Key>GENICY ROCK</Key>
+    <Key>GENICYROCK</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1656,7 +1656,7 @@
     <Price>8000</Price>
     <Description>If the holder would cause Sandstorm it becomes Dust Devil instead</Description>
     <Link/>
-    <Key>GENSMOOTH ROCK</Key>
+    <Key>GENSMOOTHROCK</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1666,7 +1666,7 @@
     <Price>15000</Price>
     <Description>Upgrade the difficulty to remove Battlefild Effects made by the holder</Description>
     <Link/>
-    <Key>GENTERRAIN EXTENDER</Key>
+    <Key>GENTERRAINEXTENDER</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1676,7 +1676,7 @@
     <Price>20000</Price>
     <Description>If the holder becomes Infatuated the Poke that caused it is also gains Infatuated</Description>
     <Link/>
-    <Key>GENDESTINY KNOT</Key>
+    <Key>GENDESTINYKNOT</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1686,7 +1686,7 @@
     <Price>30000</Price>
     <Description>Once per battle when the holder recieves wounds from a Move with a range of engaged their trainer may take the switch action.</Description>
     <Link/>
-    <Key>GENEJECT BUTTON</Key>
+    <Key>GENEJECTBUTTON</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1696,7 +1696,7 @@
     <Price>30000</Price>
     <Description>Once per battle when the holder would be subject to Slow, Dull, Wane, Erode, or Discourage properties their trainer may take the switch action. If they do do not apply any Properties from the triggering source.</Description>
     <Link/>
-    <Key>GENEJECT PACK</Key>
+    <Key>GENEJECTPACK</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1706,7 +1706,7 @@
     <Price>20000</Price>
     <Description>If the battlefield gains Electric Terrain the Holder gains Fortify 1</Description>
     <Link/>
-    <Key>GENELECTRIC SEED</Key>
+    <Key>GENELECTRICSEED</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1716,7 +1716,7 @@
     <Price>20000</Price>
     <Description>If the battlefield gains Grassy Terrain the Holder gains Fortify 1</Description>
     <Link/>
-    <Key>GENGRASSY SEED</Key>
+    <Key>GENGRASSYSEED</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1726,7 +1726,7 @@
     <Price>20000</Price>
     <Description>If the battlefield gains Misty Terrain the Holder gains Encourage 1</Description>
     <Link/>
-    <Key>GENMISTY SEED</Key>
+    <Key>GENMISTYSEED</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1736,7 +1736,7 @@
     <Price>20000</Price>
     <Description>If the battlefield gains Psychic Terrain the Holder gains Encourage 1</Description>
     <Link/>
-    <Key>GENPSYCHIC SEED</Key>
+    <Key>GENPSYCHICSEED</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1756,7 +1756,7 @@
     <Price>30000</Price>
     <Description>Moves used by the holder have their base damage increased by 1 if their targe is weak to the Moves Type.</Description>
     <Link/>
-    <Key>GENEXPERT BELT</Key>
+    <Key>GENEXPERTBELT</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1766,7 +1766,7 @@
     <Price>15000</Price>
     <Description>Holder gains the Burned Status Effect at the end of each of their turns</Description>
     <Link/>
-    <Key>GENFLAME ORB</Key>
+    <Key>GENFLAMEORB</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1776,7 +1776,7 @@
     <Price>15000</Price>
     <Description>Holder gains the Poisoned 2 Status Effect at the end of each of their turns</Description>
     <Link/>
-    <Key>GENTOXIC ORB</Key>
+    <Key>GENTOXICORB</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1786,7 +1786,7 @@
     <Price>50000</Price>
     <Description>Holders moves have their damage increased by 1 but sufferes 1 wound at the end of their turn</Description>
     <Link/>
-    <Key>GENLIFE ORB</Key>
+    <Key>GENLIFEORB</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1796,7 +1796,7 @@
     <Price>10000</Price>
     <Description>Halves the holders weight</Description>
     <Link/>
-    <Key>GENFLOAT STONE</Key>
+    <Key>GENFLOATSTONE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1806,7 +1806,7 @@
     <Price>10000</Price>
     <Description>If the holders wounds exceed their wound treshold by 2 or less, they do not feint untill after their next turn or they take another wound which ever happens first.</Description>
     <Link/>
-    <Key>GENFOCUS BAND</Key>
+    <Key>GENFOCUSBAND</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1816,7 +1816,7 @@
     <Price>50000</Price>
     <Description>The Holder cannot take more wounds than their Wound Threshold from a single Move</Description>
     <Link/>
-    <Key>GENFOCUS SASH</Key>
+    <Key>GENFOCUSSASH</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1826,7 +1826,7 @@
     <Price>20000</Price>
     <Description>The holder always acts last each round. If multple Pokes hold this item the roll initutive normally but all others go before them.</Description>
     <Link/>
-    <Key>GENLAGGING TAIL</Key>
+    <Key>GENLAGGINGTAIL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1836,7 +1836,7 @@
     <Price>20000</Price>
     <Description>The holder is immune to Terrain and Entry Hazzards</Description>
     <Link/>
-    <Key>GENHEAVY-DUTY BOOTS</Key>
+    <Key>GENHEAVY-DUTYBOOTS</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1846,7 +1846,7 @@
     <Price>20000</Price>
     <Description>At the begining of battle the holder gains Slow 2 and is gounded as long as they hold it.</Description>
     <Link/>
-    <Key>GENIRON BALL</Key>
+    <Key>GENIRONBALL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1856,7 +1856,7 @@
     <Price>10000</Price>
     <Description>The holders damaging Moves gain the Flinch Property</Description>
     <Link/>
-    <Key>GENKINGS ROCK</Key>
+    <Key>GENKINGSROCK</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1876,7 +1876,7 @@
     <Price>200</Price>
     <Description>Holder gains advantage on all move checks or two advantage if holder is Chansey</Description>
     <Link/>
-    <Key>GENLUCKY PUNCH</Key>
+    <Key>GENLUCKYPUNCH</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1886,7 +1886,7 @@
     <Price>15000</Price>
     <Description>Holder gains two advantage on all move checks</Description>
     <Link/>
-    <Key>GENRAZOR CLAW</Key>
+    <Key>GENRAZORCLAW</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1896,7 +1896,7 @@
     <Price>15000</Price>
     <Description>Holder gains two advantage on all move checks</Description>
     <Link/>
-    <Key>GENSCOPE LENS</Key>
+    <Key>GENSCOPELENS</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1916,7 +1916,7 @@
     <Price>20000</Price>
     <Description>Moves the holder uses with the linked property gain 2 free activations of the quality and have the rank of the quality increase by 1</Description>
     <Link/>
-    <Key>GENLOADED DICE</Key>
+    <Key>GENLOADEDDICE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1926,7 +1926,7 @@
     <Price>10000</Price>
     <Description>Holder gains an addional 5xp after each battle they participate in</Description>
     <Link/>
-    <Key>GENLUCKY EGG</Key>
+    <Key>GENLUCKYEGG</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1946,7 +1946,7 @@
     <Price>30000</Price>
     <Description>Once per battle the holder can copy a stat increase used by an opponent</Description>
     <Link/>
-    <Key>GENMIRROR HERB</Key>
+    <Key>GENMIRRORHERB</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1956,7 +1956,7 @@
     <Price>15000</Price>
     <Description>Holder does not trigger effects that require an enemy to attack in engaged range</Description>
     <Link/>
-    <Key>GENPROTECTIVE PADS</Key>
+    <Key>GENPROTECTIVEPADS</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1966,7 +1966,7 @@
     <Price>15000</Price>
     <Description>Moves the holder uses with Punch in the name have their base damage increased by 1</Description>
     <Link/>
-    <Key>GENPUNCHING GLOVES</Key>
+    <Key>GENPUNCHINGGLOVES</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1976,7 +1976,7 @@
     <Price>8000</Price>
     <Description>Once per battle the holder can add the Quickness Property to a Move</Description>
     <Link/>
-    <Key>GENQUICK CLAW</Key>
+    <Key>GENQUICKCLAW</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1986,7 +1986,7 @@
     <Price>2200</Price>
     <Description>Add Flinch Property to all the holders Moves</Description>
     <Link/>
-    <Key>GENRAZOR FANG</Key>
+    <Key>GENRAZORFANG</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1996,7 +1996,7 @@
     <Price>30000</Price>
     <Description>Once per battle when the holder suffers wounds from an enemy that enemy must be swapped out if possible</Description>
     <Link/>
-    <Key>GENRED CARD</Key>
+    <Key>GENREDCARD</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -2006,7 +2006,7 @@
     <Price>10000</Price>
     <Description>Holder looses any immunities</Description>
     <Link/>
-    <Key>GENRING TARGET</Key>
+    <Key>GENRINGTARGET</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -2016,7 +2016,7 @@
     <Price>50000</Price>
     <Description>When holder recives wounds from a Move with Range of engaged the user also suffers 1 wound</Description>
     <Link/>
-    <Key>GENROCKY HELMET</Key>
+    <Key>GENROCKYHELMET</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -2026,7 +2026,7 @@
     <Price>20000</Price>
     <Description>When the holder is subject to Trick Room Slow 1 befor the effect of Trick Room</Description>
     <Link/>
-    <Key>GENROOM SERVICE</Key>
+    <Key>GENROOMSERVICE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -2036,7 +2036,7 @@
     <Price>20000</Price>
     <Description>Holder does not take damage from Sandstorm and Is immune to Properties of Spore and Powder Moves</Description>
     <Link/>
-    <Key>GENSAFETY GOGGLES</Key>
+    <Key>GENSAFETYGOGGLES</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -2046,7 +2046,7 @@
     <Price>20000</Price>
     <Description>Holder is immune to Properties activated by swapping</Description>
     <Link/>
-    <Key>GENSHED SHELL</Key>
+    <Key>GENSHEDSHELL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -2056,7 +2056,7 @@
     <Price>20000</Price>
     <Description>When the holder inflicts wounds they heal 2 wounds</Description>
     <Link/>
-    <Key>GENSHELL BELL</Key>
+    <Key>GENSHELLBELL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -2066,7 +2066,7 @@
     <Price>10000</Price>
     <Description>Holder suffers 1 wound at the end of each round. Is the holder is hit by a Move with range of engaged sticky barb is taken from the holder.</Description>
     <Link/>
-    <Key>GENSTICKY BARB</Key>
+    <Key>GENSTICKYBARB</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -2076,7 +2076,7 @@
     <Price>20000</Price>
     <Description>Once per battle when the holder uses a Move with the volcal Property Wax 1</Description>
     <Link/>
-    <Key>GENTHROAT SPRAY</Key>
+    <Key>GENTHROATSPRAY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -2086,7 +2086,7 @@
     <Price>15000</Price>
     <Description>Holder is immune to Rain, Heavy Rain, Harsh Sunlight, and Extremly Harsh Sunlight</Description>
     <Link/>
-    <Key>GENUTILITY UNBRELLA</Key>
+    <Key>GENUTILITYUNBRELLA</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -2096,7 +2096,7 @@
     <Price>20000</Price>
     <Description>Holders Moves gain Accurate 1 if they already have Accurate increase its rank by 1</Description>
     <Link/>
-    <Key>GENWIDE LENS</Key>
+    <Key>GENWIDELENS</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -2106,7 +2106,7 @@
     <Price>10000</Price>
     <Description>If the target of the Holders Move check has already gone this round the Move gains Accurate 2 if they already have Accurate increase its rank by 2</Description>
     <Link/>
-    <Key>GENZOOM LENS</Key>
+    <Key>GENZOOMLENS</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>

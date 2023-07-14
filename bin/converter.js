@@ -1,7 +1,7 @@
 const fs = require('fs');
 const Papa= require('papaparse');
 const xml2js = require('xml2js');
-const { clone, forEach, toUpper } = require('lodash');
+const { clone, forEach, toUpper, replace } = require('lodash');
 
 const parseFile = async (filename) => {
     const dataStream = fs.createReadStream(filename);
@@ -18,7 +18,7 @@ const parseFile = async (filename) => {
     });
 };
 
-const buildFoundyGearXmlFile = async (data) => {
+const buildFoundryGearXmlFile = (data) => {
     const builder = new xml2js.Builder();
     const foundyObjectType = 'Gear'; // Make a variable.
 
@@ -26,7 +26,7 @@ const buildFoundyGearXmlFile = async (data) => {
     forEach(data, (objectData) => {
         // TODO Move this code to a separate function for each object type.
         const rawFoundryObj = clone(objectData);
-        rawFoundryObj.Key = `GEN${toUpper(objectData.Name)}`;
+        rawFoundryObj.Key = `GEN${toUpper(replace(objectData.Name, ' ', ''))}`;
         rawFoundryObj.Description = (objectData.Link) ?
             `${objectData.Description} \<![CDATA[\<br\>\<br\>\<a href="${objectData.Link}"\>Genemon Rulebook\</a\>]]\>`
             : objectData.Description;
@@ -40,7 +40,12 @@ const buildFoundyGearXmlFile = async (data) => {
     const fullFormattedFoundryData = {};
     fullFormattedFoundryData[`${foundyObjectType}s`] = formattedFoundryObjects;
 
-    return builder.buildObject(fullFormattedFoundryData);
+    // console.log('fullFormattedFoundryData: ', fullFormattedFoundryData);
+
+    const objToReturn = builder.buildObject(fullFormattedFoundryData);
+    console.log('objToReturn: ', objToReturn);
+
+    return objToReturn
 };
 
 const buildFoundyAbilityXmlFile = async (data) => {
@@ -57,23 +62,24 @@ const writeFile = async (data) => {
 };
 
 (async () => {
-    const type = 'Ability';
+    const type = 'Gear';
     let formattedXmlData = null;
     let data = null;
 
     switch (type) {
         case "Gear":
             data = await parseFile('./data/Genemon Data Set - Items.tsv');
-            formattedXmlData = await buildFoundyGearXmlFile(data);
+            console.log('Data: ', data)
+            formattedXmlData = await buildFoundryGearXmlFile(data);
+            console.log('FormattedXmlData: ', formattedXmlData);
+            if (formattedXmlData !== null && formattedXmlData !== undefined) {
+                await writeFile(formattedXmlData);
+                console.log('File created!');
+            } else {
+                console.error('Failed to parse data. Did not write file.');
+            }
         case "Ability":
             data = await parseFile('./data/Genemon Data Set - Items.tsv');
             formattedXmlData = await buildFoundyAbilityXmlFile(data);
-    }
-
-    if (formattedXmlData !== null) {
-        await writeFile(formattedXmlData);
-        console.log('File created!');
-    } else {
-        console.error('Failed to parse data. Did not write file.');
     }
 })();
