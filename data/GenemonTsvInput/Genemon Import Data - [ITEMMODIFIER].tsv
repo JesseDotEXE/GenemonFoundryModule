@@ -1,0 +1,138 @@
+Name	Cost	Description
+Accurate	0	Add one Blue per rank, Remove 1 rank per rank of Inaccurate. Look at the total ranks of both before removing.
+Airborne	0	No immediate effect.
+Amorphous	0	Before activating a Move with this trait instead select a target and use the last move they used. Reduce the PP of the Move with this Proprerty as normal.
+Atrophy	0	Base damage lowers by 1 for each wound the user has.
+Badly Poisoned	0	Allows a Move to increase Poison to Poison 2. You must still activate the Poison Property for it to increase.
+Bloody	0	Base damage for Moves With this property is equal to the number of wounds it currently has.
+Critical	0	Properties on Moves that have this property cost one less advantage to activate.
+Crosshair	0	Move check does not include black dice from armor or battlefield effects.
+Dancing	0	No immediate effect.
+Delayed	0	Moves with this Trait are rolled as normal including soak but no other effects including Type weakness or resistance, but the damage is not applied until rounds have passed equal to the ranks in Delayed. If the original target is no longer on the battlefield you may select a new target. A new check is not made and the new target’s soak is not applied but all other effects are.
+Expertise	0	Base damage for Moves with this Property is equal to twice the number of ranks in the Moves Skill.
+Heal	0	Removes wounds from the target instead of adding them. Is not subject to armor or soak.
+Homing	0	Is not affected by Sky, Underground, or Underwater conditions
+Inaccurate	0	Add one Black per rank, Remove 1 rank per rank of Accurate. Look at the total ranks of both before removing.
+Innocuous	0	Moves with this Property gain Locked Out until the end of the round when the user suffers wounds.
+Kick Off	0	A Move with this property gains the Locked Out Property at the end of the first action of the user after having rolled Initiative.
+Lock In	0	If the user has the Locked condition this has no effect. Otherwise suffer the Locked condition with ranks equal to the ranks of Lock In.
+Locked Out	0	A Move with this property cannot be used.
+Loyal	0	Base damage is Pokes Loyalty multiplied by three
+Merciful	0	Damage cannot exceed wound or strain threshold
+Morpheus	0	A Move with this trait is Locked out unless the target is asleep.
+Opener	0	Base damage lowers by 1 for each wound the target has.
+Overwhelm	0	Base damage is equal to targets wound threshold
+Prepare	0	If you have the Prepared condition this has no effect. Otherwise do not make a Move check this turn, User gains Locked 1 and Prepared conditions, do not lower PP count.
+Projectile	0	No immediate effect.
+Random	0	Instead of making a Move check use another Move instead based on this Move's description. If you would recieve STAB on this Move you gain it on the new Move even if it is of a different Type.
+Recoil	0	User takes wounds equal to the number of wounds taken by the target divided by the rank of this Property rounded up.
+Reflective	0	Base damage for this Move is twice the last Special damage taken. This damage cannot have been taken prior to your last turn.
+Replace	0	After a Move with this Property is used, remove it from the users Move pool and add the last Move used by the Target.
+Retribution	0	Base damage for this Move is 150% the last damage taken. This damage cannot have been taken prior to your last turn.
+Rubber	0	Base damage for this Move is twice the last Physical damage taken. This damage cannot have been taken prior to your last turn.
+Sacrificial	0	User suffers wounds equal to ranks in Sacrificial after move is used. If Sacrificial has no ranks, the user faints after the Move is used.
+Sharp	0	No immediate effect.
+Sleepwalk	0	Moves with this property can be used instead of making a check to wake up from the Sleep Status Effect.
+Sore	0	Target gains the Sky Condition
+Submerge	0	User gains Underwater Condition
+Superior	0	Increase base damage by one and generates one advantage in addition to the roll.
+Tiring	0	User loses their action next turn.
+Trailing	0	Moves with this Property can only target Pokes that have taken an action this round.
+Underground	0	Target gains Recessed Condition
+Unsafe	0	If you fail the Move check you take wounds equal to half the Moves base damage.
+Vocal	0	No immediate effect.
+Adaptation	1	Moves with this Property changes Typing of either the Poke or the Move. After activating, follow the Moves rule text in order to apply the effect.
+Armored	1	Increase your armor rating by one.
+Dot	1	Target gains DOT condition with ranks equal to the rank of this Property.
+Drain	1	Reduce your current wounds by half the amount of wounds caused.
+Echopraxia	1	Target gains the Worried 2 Condition user gains the Threatening Condition
+Fortunate	1	Target gains Lucky Condition
+Give	1	You give your held item to your opponent if at the end of your turn they have two held items they drop the one you gave them.
+Hold	1	Target gains Held Condition
+Hot	1	Target gains HOT Condition.
+Insulate	1	Target gains the Insulated Condition
+Knock Down	1	Target becomes Prone
+Linked	1	Each activation deals an amount of damage to the target equal to the base damage plus uncancelled success minus soak. If this number is not at least 1 increase the base damage of the Move by 1 until the end of this turn and the target takes 1 wound.
+Mirrored	1	Target gains the Worried 1 Condition user gains the Threatening Condition
+Ominous	1	Target gains Unlucky Condition
+Quickness	1	After a Move with this Property is used Set the user to the top or the Initiative order.
+Rolling	1	Doubles base damage for every rank of Momentum user has. Add an additional rank of Momentum to the user after the Move completes.
+Pierce	1	Ignore one soak for each rank or Pierce when calculating damage.
+Pointless	1	Reduces the PP of the last Move used by the target by the ranks of Pointless.
+Rage	1	Target gains the Raging Condition.
+Scatter	1	Drop poke dollars on the Battlefield equal to 100 times the number of uncancelled successes plus advantages rolled.
+Shrink	1	Target gains the Shrunken condition and their Armor increases by one.
+Spin	1	User gains an additional rank of Momentum.
+Squish	1	Base damage is doubled if the target has the Shrunken condition.
+Stockpile	1	Target gains 1 rank of the Stocked Up Condition. If they already have the Stocked Up condition increase its Rank by 1.
+Strike Back	1	Double this Move’s base damage if the target has dealt damage to the user this round.
+Taunt	1	User gains the Black Spot Condition. Enemies within Medium range gain the Taunted Condition.
+Vanish	1	Target gains the Incorporeal Condition
+Aggravate	2	Target gain the Aggravated Condition
+Blinding	2	Target gain the Blind Condition
+Breach	2	Move ignores Soak
+Break	2	Removes Physical Resistance condition
+Chomp	2	Eat the target's Berry if it has one.
+Cleanse	2	Removes all conditions from the target
+Cut Off	2	Target gains the unwary Condition with ranks equal to this Move's base damage.
+Disarm	2	Target drops their held item
+Discourage	2	Special Defense attribute lowered by one
+Dull	2	Physical Attack attribute lowered by one
+Electrify	2	User Gains Electrified Condition
+Encore	2	Target suffers Locked condition equal to ranks in Encore
+Encourage	2	Special Defense attribute increased by one
+Erode	2	Physical Defense attribute lowered by one
+Exploit	2	Base damage is doubled if the target is suffering from a non-volatile Status effect.
+Fortify	2	Physical Defense attribute increased by one
+Grounding	2	Target gains the Grounded Condition
+Haste	2	Speed attribute increased by one
+Hazard	2	Applies Battlefield Effect from Move text
+Hide	2	Target gains Hidden Condition
+Hone	2	Physical Attack attribute Increased by one
+Patient	2	Double base damage of this Move if the target has already taken their turn this round.
+Poison	2	Apply Poison Status Effect to target
+Predictable	2	Target gains the Predicted condition.
+Pull	2	Move target one range band closer
+Push	2	Move target one range band away
+Reach	2	Hits sky targets and deals doubles damage
+Retreat	2	User switches out as an incidental
+Reveal	2	Removes Hidden from target
+Run	2	Leave the current battle without making an escape check. (If used in a trainer battle effect is as if you had lost but you are not unconscious)
+Scare	2	Force target to swap out on its turn
+Shatter	2	Removes Special Resistance condition
+Slow	2	Speed attribute lowered by one
+Steal	2	Take the target's held item. If at the end of your turn you are holding two or more held items you drop all held items.
+Marine	2	Hits Underwater targets and deals doubles damage
+Subterranean	2	Hits Recessed targets and deals doubles damage
+Trap	2	Target gains the Trapped Condition
+Wane	2	Special Attack attribute lowered by one
+Wax	2	Special Attack attribute increased by one
+Bully	3	If targets current wounds are equal to or greater than half their wound threshold double the base damage of this Move.
+Burn	3	Inflict the Burn Status Effect
+Confuse	3	Inflict the Confusion Status Effect
+Differential	3	Set users wounds to their current wounds plus target’s wounds divided by two.
+Imitate	3	User gains all temporary Attribute changes that the target has.
+Equalize	3	Set targets current wounds to equal users current wounds. If this would cause the target to exceed its wound threshold, set it at its wound threshold instead.
+Flinch	3	Target gains Flinching Condition
+Follow Up	3	If the target has already taken damage this round, double the base damage of this move.
+Freeze	3	Inflict the Frozen Status Effect
+Help	3	Target’s next Move base damage is 150% its normal value rounded down.
+Incurable	3	Target gain Incurable condition
+Infatuate	3	Inflict the Infatuated Status Effect
+Paralyze	3	Inflict the Paralyze Status Effect
+Physical Resistance	3	Target gains the Physical Resistance Condition
+Reset	3	Remove all temporary Attribute changes.
+Scope	3	Gives all users Moves Accurate 1 if it already has Accurate increase the rank by 1.
+Sleep	3	Inflict the Sleep Status Effect
+Special Resistance	3	Target gains the Physical Resistance Condition
+Torment	3	Target gains the Tormented condition
+Transfer	3	Give a non-volatile Status Effect affecting the user to the target. It is then removed from the user.
+Blast	4	Deal base damage - 2 or apply another activated property to everyone within engaged range with the target.
+Blockade	4	Target gains the Blockaded condition
+Doom	4	Applies Doomed condition to target with ranks equal to ranks of Doom Property.
+Exchange	4	User selects one of their abilities and one of the targets abilities. Each loses that ability and gains the others until the end of battle.
+Impair	4	Randomly select one of the target’s Abilities. That ability does not function until the end of battle.
+Override	4	Do not take Type weakness or resistance into consideration for damage.
+Paired	4	User gains Loved Pair Condition, Target gains Cursed Pair Condition.
+Shield	4	Target gains the Shielded Condition. After the Move check any move with Shield Property increases its rank by 1 then adds ranks of the Inaccurate Property equal to twice its Shield ranks. Moves can only gain 10 ranks of Inaccurate in this way.
+Surround	4	Deal base damage - 2 to everyone in short range of target.

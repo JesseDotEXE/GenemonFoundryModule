@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemDescriptors>
+    <ItemDescriptor>
+        <Key>DAMADD</Key>
+        <Name>Additional Damage Mod</Name>
+        <Description></Description>
+        <Type>Weapon</Type>
+        <ModDesc>Damage +1</ModDesc>
+        <QualDesc>Damage +{0}</QualDesc>
+    </ItemDescriptor>
+</ItemDescriptors>

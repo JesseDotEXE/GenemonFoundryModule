@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ItemDescriptors>
+  <ItemDescriptor>
+    <Name>Accurate</Name>
+    <Cost>0</Cost>
+    <Description>Add one Blue per rank, Remove 1 rank per rank of Inaccurate. Look at the total ranks of both before removing. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENACCURATE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Airborne</Name>
+    <Cost>0</Cost>
+    <Description>No immediate effect. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENAIRBORNE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Amorphous</Name>
+    <Cost>0</Cost>
+    <Description>Before activating a Move with this trait instead select a target and use the last move they used. Reduce the PP of the Move with this Proprerty as normal. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENAMORPHOUS</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Atrophy</Name>
+    <Cost>0</Cost>
+    <Description>Base damage lowers by 1 for each wound the user has. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENATROPHY</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Badly Poisoned</Name>
+    <Cost>0</Cost>
+    <Description>Allows a Move to increase Poison to Poison 2. You must still activate the Poison Property for it to increase. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBADLYPOISONED</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Bloody</Name>
+    <Cost>0</Cost>
+    <Description>Base damage for Moves With this property is equal to the number of wounds it currently has. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBLOODY</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Critical</Name>
+    <Cost>0</Cost>
+    <Description>Properties on Moves that have this property cost one less advantage to activate. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENCRITICAL</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Crosshair</Name>
+    <Cost>0</Cost>
+    <Description>Move check does not include black dice from armor or battlefield effects. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENCROSSHAIR</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Dancing</Name>
+    <Cost>0</Cost>
+    <Description>No immediate effect. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDANCING</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Delayed</Name>
+    <Cost>0</Cost>
+    <Description>Moves with this Trait are rolled as normal including soak but no other effects including Type weakness or resistance, but the damage is not applied until rounds have passed equal to the ranks in Delayed. If the original target is no longer on the battlefield you may select a new target. A new check is not made and the new target’s soak is not applied but all other effects are. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDELAYED</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Expertise</Name>
+    <Cost>0</Cost>
+    <Description>Base damage for Moves with this Property is equal to twice the number of ranks in the Moves Skill. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEXPERTISE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Heal</Name>
+    <Cost>0</Cost>
+    <Description>Removes wounds from the target instead of adding them. Is not subject to armor or soak. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHEAL</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Homing</Name>
+    <Cost>0</Cost>
+    <Description>Is not affected by Sky, Underground, or Underwater conditions 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHOMING</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Inaccurate</Name>
+    <Cost>0</Cost>
+    <Description>Add one Black per rank, Remove 1 rank per rank of Accurate. Look at the total ranks of both before removing. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENINACCURATE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Innocuous</Name>
+    <Cost>0</Cost>
+    <Description>Moves with this Property gain Locked Out until the end of the round when the user suffers wounds. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENINNOCUOUS</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Kick Off</Name>
+    <Cost>0</Cost>
+    <Description>A Move with this property gains the Locked Out Property at the end of the first action of the user after having rolled Initiative. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENKICKOFF</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Lock In</Name>
+    <Cost>0</Cost>
+    <Description>If the user has the Locked condition this has no effect. Otherwise suffer the Locked condition with ranks equal to the ranks of Lock In. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENLOCKIN</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Locked Out</Name>
+    <Cost>0</Cost>
+    <Description>A Move with this property cannot be used. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENLOCKEDOUT</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Loyal</Name>
+    <Cost>0</Cost>
+    <Description>Base damage is Pokes Loyalty multiplied by three 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENLOYAL</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Merciful</Name>
+    <Cost>0</Cost>
+    <Description>Damage cannot exceed wound or strain threshold 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENMERCIFUL</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Morpheus</Name>
+    <Cost>0</Cost>
+    <Description>A Move with this trait is Locked out unless the target is asleep. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENMORPHEUS</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Opener</Name>
+    <Cost>0</Cost>
+    <Description>Base damage lowers by 1 for each wound the target has. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENOPENER</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Overwhelm</Name>
+    <Cost>0</Cost>
+    <Description>Base damage is equal to targets wound threshold 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENOVERWHELM</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Prepare</Name>
+    <Cost>0</Cost>
+    <Description>If you have the Prepared condition this has no effect. Otherwise do not make a Move check this turn, User gains Locked 1 and Prepared conditions, do not lower PP count. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPREPARE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Projectile</Name>
+    <Cost>0</Cost>
+    <Description>No immediate effect. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPROJECTILE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Random</Name>
+    <Cost>0</Cost>
+    <Description>Instead of making a Move check use another Move instead based on this Move's description. If you would recieve STAB on this Move you gain it on the new Move even if it is of a different Type. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENRANDOM</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Recoil</Name>
+    <Cost>0</Cost>
+    <Description>User takes wounds equal to the number of wounds taken by the target divided by the rank of this Property rounded up. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENRECOIL</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Reflective</Name>
+    <Cost>0</Cost>
+    <Description>Base damage for this Move is twice the last Special damage taken. This damage cannot have been taken prior to your last turn. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENREFLECTIVE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Replace</Name>
+    <Cost>0</Cost>
+    <Description>After a Move with this Property is used, remove it from the users Move pool and add the last Move used by the Target. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENREPLACE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Retribution</Name>
+    <Cost>0</Cost>
+    <Description>Base damage for this Move is 150% the last damage taken. This damage cannot have been taken prior to your last turn. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENRETRIBUTION</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Rubber</Name>
+    <Cost>0</Cost>
+    <Description>Base damage for this Move is twice the last Physical damage taken. This damage cannot have been taken prior to your last turn. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENRUBBER</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Sacrificial</Name>
+    <Cost>0</Cost>
+    <Description>User suffers wounds equal to ranks in Sacrificial after move is used. If Sacrificial has no ranks, the user faints after the Move is used. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSACRIFICIAL</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Sharp</Name>
+    <Cost>0</Cost>
+    <Description>No immediate effect. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSHARP</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Sleepwalk</Name>
+    <Cost>0</Cost>
+    <Description>Moves with this property can be used instead of making a check to wake up from the Sleep Status Effect. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSLEEPWALK</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Sore</Name>
+    <Cost>0</Cost>
+    <Description>Target gains the Sky Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSORE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Submerge</Name>
+    <Cost>0</Cost>
+    <Description>User gains Underwater Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSUBMERGE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Superior</Name>
+    <Cost>0</Cost>
+    <Description>Increase base damage by one and generates one advantage in addition to the roll. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSUPERIOR</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Tiring</Name>
+    <Cost>0</Cost>
+    <Description>User loses their action next turn. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENTIRING</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Trailing</Name>
+    <Cost>0</Cost>
+    <Description>Moves with this Property can only target Pokes that have taken an action this round. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENTRAILING</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Underground</Name>
+    <Cost>0</Cost>
+    <Description>Target gains Recessed Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENUNDERGROUND</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Unsafe</Name>
+    <Cost>0</Cost>
+    <Description>If you fail the Move check you take wounds equal to half the Moves base damage. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENUNSAFE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Vocal</Name>
+    <Cost>0</Cost>
+    <Description>No immediate effect. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [0]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENVOCAL</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Adaptation</Name>
+    <Cost>1</Cost>
+    <Description>Moves with this Property changes Typing of either the Poke or the Move. After activating, follow the Moves rule text in order to apply the effect. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENADAPTATION</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Armored</Name>
+    <Cost>1</Cost>
+    <Description>Increase your armor rating by one. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENARMORED</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Dot</Name>
+    <Cost>1</Cost>
+    <Description>Target gains DOT condition with ranks equal to the rank of this Property. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDOT</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Drain</Name>
+    <Cost>1</Cost>
+    <Description>Reduce your current wounds by half the amount of wounds caused. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDRAIN</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Echopraxia</Name>
+    <Cost>1</Cost>
+    <Description>Target gains the Worried 2 Condition user gains the Threatening Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENECHOPRAXIA</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Fortunate</Name>
+    <Cost>1</Cost>
+    <Description>Target gains Lucky Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFORTUNATE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Give</Name>
+    <Cost>1</Cost>
+    <Description>You give your held item to your opponent if at the end of your turn they have two held items they drop the one you gave them. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENGIVE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Hold</Name>
+    <Cost>1</Cost>
+    <Description>Target gains Held Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHOLD</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Hot</Name>
+    <Cost>1</Cost>
+    <Description>Target gains HOT Condition. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHOT</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Insulate</Name>
+    <Cost>1</Cost>
+    <Description>Target gains the Insulated Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENINSULATE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Knock Down</Name>
+    <Cost>1</Cost>
+    <Description>Target becomes Prone 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENKNOCKDOWN</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Linked</Name>
+    <Cost>1</Cost>
+    <Description>Each activation deals an amount of damage to the target equal to the base damage plus uncancelled success minus soak. If this number is not at least 1 increase the base damage of the Move by 1 until the end of this turn and the target takes 1 wound. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENLINKED</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Mirrored</Name>
+    <Cost>1</Cost>
+    <Description>Target gains the Worried 1 Condition user gains the Threatening Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENMIRRORED</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Ominous</Name>
+    <Cost>1</Cost>
+    <Description>Target gains Unlucky Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENOMINOUS</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Quickness</Name>
+    <Cost>1</Cost>
+    <Description>After a Move with this Property is used Set the user to the top or the Initiative order. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENQUICKNESS</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Rolling</Name>
+    <Cost>1</Cost>
+    <Description>Doubles base damage for every rank of Momentum user has. Add an additional rank of Momentum to the user after the Move completes. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENROLLING</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Pierce</Name>
+    <Cost>1</Cost>
+    <Description>Ignore one soak for each rank or Pierce when calculating damage. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPIERCE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Pointless</Name>
+    <Cost>1</Cost>
+    <Description>Reduces the PP of the last Move used by the target by the ranks of Pointless. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPOINTLESS</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Rage</Name>
+    <Cost>1</Cost>
+    <Description>Target gains the Raging Condition. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENRAGE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Scatter</Name>
+    <Cost>1</Cost>
+    <Description>Drop poke dollars on the Battlefield equal to 100 times the number of uncancelled successes plus advantages rolled. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSCATTER</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Shrink</Name>
+    <Cost>1</Cost>
+    <Description>Target gains the Shrunken condition and their Armor increases by one. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSHRINK</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Spin</Name>
+    <Cost>1</Cost>
+    <Description>User gains an additional rank of Momentum. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSPIN</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Squish</Name>
+    <Cost>1</Cost>
+    <Description>Base damage is doubled if the target has the Shrunken condition. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSQUISH</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Stockpile</Name>
+    <Cost>1</Cost>
+    <Description>Target gains 1 rank of the Stocked Up Condition. If they already have the Stocked Up condition increase its Rank by 1. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSTOCKPILE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Strike Back</Name>
+    <Cost>1</Cost>
+    <Description>Double this Move’s base damage if the target has dealt damage to the user this round. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSTRIKEBACK</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Taunt</Name>
+    <Cost>1</Cost>
+    <Description>User gains the Black Spot Condition. Enemies within Medium range gain the Taunted Condition. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENTAUNT</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Vanish</Name>
+    <Cost>1</Cost>
+    <Description>Target gains the Incorporeal Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [1]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENVANISH</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Aggravate</Name>
+    <Cost>2</Cost>
+    <Description>Target gain the Aggravated Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENAGGRAVATE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Blinding</Name>
+    <Cost>2</Cost>
+    <Description>Target gain the Blind Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBLINDING</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Breach</Name>
+    <Cost>2</Cost>
+    <Description>Move ignores Soak 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBREACH</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Break</Name>
+    <Cost>2</Cost>
+    <Description>Removes Physical Resistance condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBREAK</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Chomp</Name>
+    <Cost>2</Cost>
+    <Description>Eat the target's Berry if it has one. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENCHOMP</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Cleanse</Name>
+    <Cost>2</Cost>
+    <Description>Removes all conditions from the target 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENCLEANSE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Cut Off</Name>
+    <Cost>2</Cost>
+    <Description>Target gains the unwary Condition with ranks equal to this Move's base damage. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENCUTOFF</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Disarm</Name>
+    <Cost>2</Cost>
+    <Description>Target drops their held item 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDISARM</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Discourage</Name>
+    <Cost>2</Cost>
+    <Description>Special Defense attribute lowered by one 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDISCOURAGE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Dull</Name>
+    <Cost>2</Cost>
+    <Description>Physical Attack attribute lowered by one 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDULL</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Electrify</Name>
+    <Cost>2</Cost>
+    <Description>User Gains Electrified Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENELECTRIFY</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Encore</Name>
+    <Cost>2</Cost>
+    <Description>Target suffers Locked condition equal to ranks in Encore 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENENCORE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Encourage</Name>
+    <Cost>2</Cost>
+    <Description>Special Defense attribute increased by one 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENENCOURAGE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Erode</Name>
+    <Cost>2</Cost>
+    <Description>Physical Defense attribute lowered by one 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENERODE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Exploit</Name>
+    <Cost>2</Cost>
+    <Description>Base damage is doubled if the target is suffering from a non-volatile Status effect. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEXPLOIT</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Fortify</Name>
+    <Cost>2</Cost>
+    <Description>Physical Defense attribute increased by one 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFORTIFY</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Grounding</Name>
+    <Cost>2</Cost>
+    <Description>Target gains the Grounded Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENGROUNDING</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Haste</Name>
+    <Cost>2</Cost>
+    <Description>Speed attribute increased by one 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHASTE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Hazard</Name>
+    <Cost>2</Cost>
+    <Description>Applies Battlefield Effect from Move text 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHAZARD</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Hide</Name>
+    <Cost>2</Cost>
+    <Description>Target gains Hidden Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHIDE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Hone</Name>
+    <Cost>2</Cost>
+    <Description>Physical Attack attribute Increased by one 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHONE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Patient</Name>
+    <Cost>2</Cost>
+    <Description>Double base damage of this Move if the target has already taken their turn this round. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPATIENT</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Poison</Name>
+    <Cost>2</Cost>
+    <Description>Apply Poison Status Effect to target 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPOISON</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Predictable</Name>
+    <Cost>2</Cost>
+    <Description>Target gains the Predicted condition. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPREDICTABLE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Pull</Name>
+    <Cost>2</Cost>
+    <Description>Move target one range band closer 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPULL</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Push</Name>
+    <Cost>2</Cost>
+    <Description>Move target one range band away 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPUSH</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Reach</Name>
+    <Cost>2</Cost>
+    <Description>Hits sky targets and deals doubles damage 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENREACH</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Retreat</Name>
+    <Cost>2</Cost>
+    <Description>User switches out as an incidental 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENRETREAT</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Reveal</Name>
+    <Cost>2</Cost>
+    <Description>Removes Hidden from target 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENREVEAL</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Run</Name>
+    <Cost>2</Cost>
+    <Description>Leave the current battle without making an escape check. (If used in a trainer battle effect is as if you had lost but you are not unconscious) 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENRUN</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Scare</Name>
+    <Cost>2</Cost>
+    <Description>Force target to swap out on its turn 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSCARE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Shatter</Name>
+    <Cost>2</Cost>
+    <Description>Removes Special Resistance condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSHATTER</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Slow</Name>
+    <Cost>2</Cost>
+    <Description>Speed attribute lowered by one 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSLOW</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Steal</Name>
+    <Cost>2</Cost>
+    <Description>Take the target's held item. If at the end of your turn you are holding two or more held items you drop all held items. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSTEAL</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Marine</Name>
+    <Cost>2</Cost>
+    <Description>Hits Underwater targets and deals doubles damage 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENMARINE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Subterranean</Name>
+    <Cost>2</Cost>
+    <Description>Hits Recessed targets and deals doubles damage 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSUBTERRANEAN</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Trap</Name>
+    <Cost>2</Cost>
+    <Description>Target gains the Trapped Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENTRAP</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Wane</Name>
+    <Cost>2</Cost>
+    <Description>Special Attack attribute lowered by one 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENWANE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Wax</Name>
+    <Cost>2</Cost>
+    <Description>Special Attack attribute increased by one 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [2]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENWAX</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Bully</Name>
+    <Cost>3</Cost>
+    <Description>If targets current wounds are equal to or greater than half their wound threshold double the base damage of this Move. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBULLY</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Burn</Name>
+    <Cost>3</Cost>
+    <Description>Inflict the Burn Status Effect 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBURN</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Confuse</Name>
+    <Cost>3</Cost>
+    <Description>Inflict the Confusion Status Effect 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENCONFUSE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Differential</Name>
+    <Cost>3</Cost>
+    <Description>Set users wounds to their current wounds plus target’s wounds divided by two. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDIFFERENTIAL</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Imitate</Name>
+    <Cost>3</Cost>
+    <Description>User gains all temporary Attribute changes that the target has. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENIMITATE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Equalize</Name>
+    <Cost>3</Cost>
+    <Description>Set targets current wounds to equal users current wounds. If this would cause the target to exceed its wound threshold, set it at its wound threshold instead. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEQUALIZE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Flinch</Name>
+    <Cost>3</Cost>
+    <Description>Target gains Flinching Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFLINCH</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Follow Up</Name>
+    <Cost>3</Cost>
+    <Description>If the target has already taken damage this round, double the base damage of this move. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFOLLOWUP</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Freeze</Name>
+    <Cost>3</Cost>
+    <Description>Inflict the Frozen Status Effect 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFREEZE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Help</Name>
+    <Cost>3</Cost>
+    <Description>Target’s next Move base damage is 150% its normal value rounded down. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHELP</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Incurable</Name>
+    <Cost>3</Cost>
+    <Description>Target gain Incurable condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENINCURABLE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Infatuate</Name>
+    <Cost>3</Cost>
+    <Description>Inflict the Infatuated Status Effect 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENINFATUATE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Paralyze</Name>
+    <Cost>3</Cost>
+    <Description>Inflict the Paralyze Status Effect 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPARALYZE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Physical Resistance</Name>
+    <Cost>3</Cost>
+    <Description>Target gains the Physical Resistance Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPHYSICALRESISTANCE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Reset</Name>
+    <Cost>3</Cost>
+    <Description>Remove all temporary Attribute changes. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENRESET</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Scope</Name>
+    <Cost>3</Cost>
+    <Description>Gives all users Moves Accurate 1 if it already has Accurate increase the rank by 1. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSCOPE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Sleep</Name>
+    <Cost>3</Cost>
+    <Description>Inflict the Sleep Status Effect 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSLEEP</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Special Resistance</Name>
+    <Cost>3</Cost>
+    <Description>Target gains the Physical Resistance Condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSPECIALRESISTANCE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Torment</Name>
+    <Cost>3</Cost>
+    <Description>Target gains the Tormented condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENTORMENT</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Transfer</Name>
+    <Cost>3</Cost>
+    <Description>Give a non-volatile Status Effect affecting the user to the target. It is then removed from the user. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [3]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENTRANSFER</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Blast</Name>
+    <Cost>4</Cost>
+    <Description>Deal base damage - 2 or apply another activated property to everyone within engaged range with the target. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [4]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBLAST</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Blockade</Name>
+    <Cost>4</Cost>
+    <Description>Target gains the Blockaded condition 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [4]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBLOCKADE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Doom</Name>
+    <Cost>4</Cost>
+    <Description>Applies Doomed condition to target with ranks equal to ranks of Doom Property. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [4]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDOOM</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Exchange</Name>
+    <Cost>4</Cost>
+    <Description>User selects one of their abilities and one of the targets abilities. Each loses that ability and gains the others until the end of battle. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [4]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEXCHANGE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Impair</Name>
+    <Cost>4</Cost>
+    <Description>Randomly select one of the target’s Abilities. That ability does not function until the end of battle. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [4]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENIMPAIR</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Override</Name>
+    <Cost>4</Cost>
+    <Description>Do not take Type weakness or resistance into consideration for damage. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [4]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENOVERRIDE</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Paired</Name>
+    <Cost>4</Cost>
+    <Description>User gains Loved Pair Condition, Target gains Cursed Pair Condition. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [4]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPAIRED</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Shield</Name>
+    <Cost>4</Cost>
+    <Description>Target gains the Shielded Condition. After the Move check any move with Shield Property increases its rank by 1 then adds ranks of the Inaccurate Property equal to twice its Shield ranks. Moves can only gain 10 ranks of Inaccurate in this way. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [4]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSHIELD</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+  <ItemDescriptor>
+    <Name>Surround</Name>
+    <Cost>4</Cost>
+    <Description>Deal base damage - 2 to everyone in short range of target. 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Cost: [4]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSURROUND</Key>
+    <Type>weapon</Type>
+  </ItemDescriptor>
+</ItemDescriptors>
