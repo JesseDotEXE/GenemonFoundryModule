@@ -1,0 +1,901 @@
+Number	Name	Type	Skill	PP	Damage	Range	Qualities	Description
+1	Pound	Normal	MELEE	35	3	Engaged	Knock Down	
+2	Karate Chop	Fighting	MELEE	25	4	Engaged	Critical-Knock Down-Push-Pierce 1	
+3	Double Slap	Normal	MELEE	10	1	Engaged	Linked 5-Inaccurate 2	
+4	Comet Punch	Normal	MELEE	15	1	Engaged	Linked 5-Inaccurate 2	
+5	Mega Punch	Normal	MELEE	20	7	Engaged	Push-Inaccurate 2	
+6	Pay Day	Normal	MELEE	20	3	Short	Scatter-Pull	
+7	Fire Punch	Fire	Fire	15	6	Engaged	Burn	
+8	Ice Punch	Ice	MELEE	15	6	Engaged	Freeze	
+9	Thunder Punch	Electric	MELEE	15	6	Engaged	Paralyze	
+10	Scratch	Normal	MELEE	35	3	Engaged		
+11	Vise Grip	Normal	MELEE	30	4	Engaged	Hold	
+12	Guillotine	Normal	MELEE	5	0	Engaged	Inaccurate 7-Overwelm-Override-Breach	
+13	Razor Wind	Normal	RANGLT	10	7	Short	Prepare-Critical-Push-Pull-Sharp	
+14	Swords Dance	Normal	MELEE	20	0	Self	Hone 2-Dancing	
+15	Cut	Normal	MELEE	30	4	Engaged	Open Chink-Sharp-Inaccurate 1	
+16	Gust	Flying	RANGLT	35	3	Medium	Push	
+17	Wing Attack	Flying	MELEE	35	5	Medium		
+18	Whirlwind	Normal	RANGLT	20	0	Short	Scare	
+19	Fly	Flying	MELEE	15	8	Engaged	Airborne-Sore-Prepare-Inaccurate 1	
+20	Bind	Normal	MELEE	20	1	Engaged	Dot 5-Inaccurate 1	
+21	Slam	Normal	MELEE	20	7	Engaged	Squish-Knock Down-Inaccurate 3	
+22	Vine Whip	Grass	MELEE	25	3	Short	Knock Down	
+23	Stomp	Normal	MELEE	20	5	Engaged	Squish-Flinch	
+24	Double Kick	Fighting	MELEE	30	2	Engaged	Linked 2	
+25	Mega Kick	Normal	MELEE	5	11	Engaged	Inaccurate 3-Push	
+26	Jump Kick	Fighting	MELEE	10	9	Engaged	Airborne-Unsafe-Inaccurate 1	
+27	Rolling Kick	Fighting	MELEE	15	5	Engaged	Flinch-Inaccurate 2	
+28	Sand Attack	Ground	MELEE	15	0	Engaged	Blinding 1	
+29	Headbutt	Normal	MELEE	15	6	Engaged	Flinch-Knock Down	
+30	Horn Attack	Normal	MELEE	25	5	Engaged	Pierce 1	
+31	Fury Attack	Normal	MELEE	20	1	Engaged	Linked 5-Inaccurate 2	
+32	Horn Drill	Normal	MELEE	5	0	Engaged	Inaccurate 7-Overwelm-Override-Breach	
+33	Tackle	Normal	MELEE	35	3	Engaged	Knock Down	
+34	Body Slam	Normal	MELEE	15	7	Engaged	Knock Down-Paralyze	
+35	Wrap	Normal	MELEE	20	1	Engaged	DOT 5-Inaccurate 1	
+36	Take Down	Normal	MELEE	20	8	Engaged	Recoil 4-Knock Down-Inaccurate 2	
+37	Thrash	Normal	MELEE	10	11	Engaged	Lock In 2	
+38	Double-Edge	Normal	MELEE	15	11	Engaged	Recoil 4-Pierce 2	
+39	Tail Whip	Normal	MELEE	30	0	Short	Erode 1-Blast	
+40	Poison Sting	Poison	MELEE	35	1	Engaged	Poison	
+41	Twineedle	Bug	MELEE	20	2	Engaged	Linked 2-Pierce 2	
+42	Pin Missile	Bug	MELEE	20	2	Engaged	Linked 5-Pierce 1-Inaccurate 1	
+43	Leer	Normal	MELEE	30	0	Short	Erode 1-Blast	
+44	Bite	Dark	MELEE	25	5	Engaged	Flinch	
+45	Growl	Normal	MELEE	40	0	Short	Dull-Blast-vocal	
+46	Roar	Normal	MELEE	20	0	Short	Scare	
+47	Sing	Normal	RANGLT	15	0	Short	Vocal-Sleep-Blast-Surround-Inaccurate 5	
+48	Supersonic	Normal	RANGLT	20	0	Short	Vocal-Confuse-Blast-Surround-Inaccurate 5	
+49	Sonic Boom	Normal	RANGLT	20	0	Short	Breach-Override-Inaccurate 1	
+50	Disable	Normal	MELEE	20	0	Short	Lockout 4	
+51	Acid	Poison	RANGLT	30	3	Short	Erode 1	
+52	Ember	Fire	RANGLT	25	3	Short	Burn	
+53	Flamethrower	Fire	RANGLT	15	8	Short	Burn	
+54	Mist	Ice	RANGLT	30	0	Medium	Hide	Can use a Triumph to add Foggy to the battlefield
+55	Water Gun	Water	RANGLT	25	3	Short		
+56	Hydro Pump	Water	RANGLT	5	10	Short	Inaccurate 2-Push	
+57	Surf	Water	RANGLT	15	8	Short	Marine-Push-Pull-Blast-Surround-Inaccurate 1	
+58	Ice Beam	Ice	RANGLT	10	8	Short	Freeze	
+59	Blizzard	Ice	RANGLT	5	10	Short	Freeze-Inaccurate 3	Gains Crosshairs during Hail
+60	Psybeam	Psychic	RANGLT	20	5	Short	Confuse	
+61	Bubble Beam	Water	RANGLT	20	5	Short	Slow	
+62	Aurora Beam	Ice	RANGLT	20	5	Short	Dull	
+63	Hyper Beam	Normal	RANGLT	5	14	Short	Inaccurate 1-Tiring	
+64	Peck	Flying	MELEE	35	2	Medium		
+65	Drill Peck	Flying	MELEE	20	7	Medium	Pierce 2-Push	
+66	Submission	Fighting	MELEE	20	7	Engaged	Inaccurate 2-Recoil 4-Hold	
+67	Low Kick	Fighting	MELEE	20	0	Engaged	Knock Down-Flinch-Inaccurate 1	
+68	Counter	Fighting	MELEE	20	0	Engaged	Rubber-Push	
+69	Seismic Toss	Fighting	MELEE	20	0	Engaged	Push-Expertise-Knock Down	
+70	Strength	Normal	MELEE	15	7	Engaged	Hold	
+71	Absorb	Grass	RANGLT	25	2	Short	Drain	
+72	Mega Drain	Grass	RANGLT	15	3	Short	Drain	
+73	Leech Seed	Grass	MELEE	10	0	Short	Inaccurate 1-Drain-Dot	
+74	Growth	Normal	RANGLT	20	0	Self	Wax 1-Hone 1	Increase Wax and Hone to 2 and adds Squish to Brawl Moves in Harsh sunlight
+75	Razor Leaf	Grass	MELEE	25	4	Short	Critical-Sharp-Inaccurate 1	
+76	Solar Beam	Grass	RANGLT	10	11	Short	Prepare	Loses Prepare in Harsh Sunlight. Base damage is halved in Hail, Fog, rain, or Sandstorm
+77	Poison Powder	Poison	MELEE	35	0	Short	Poison-Blast-Inaccurate 3	
+78	Stun Spore	Grass	MELEE	30	0	Short	Paralyze-Blast-Inaccurate 3	
+79	Sleep Powder	Grass	MELEE	15	0	Short	Sleep-Blast-Inaccurate 3	
+80	Petal Dance	Grass	RANGLT	10	11	Engaged	Lock In 2-Dancing	
+81	String Shot	Bug	MELEE	40	0	Short	Slow-Hold-Inaccurate 1	
+82	Dragon Rage	Dragon	RANGLT	10	0	Short	Breach-Override	
+83	Fire Spin	Fire	RANGLT	15	2	Short	Dot 5-Blast-Inaccurate 2	
+84	Thunder Shock	Electric	RANGLT	30	3	Short	Paralyze	
+85	Thunderbolt	Electric	RANGLT	15	8	Short	Paralyze	
+86	Thunder Wave	Electric	RANGLT	20	0	Short	Inaccurate 1-Paralyze	
+87	Thunder	Electric	RANGLT	10	10	Short	Inaccurate 3-Paralyze	
+88	Rock Throw	Rock	MELEE	15	4	Short	Knock Down-Inaccurate 1	
+89	Earthquake	Ground	MELEE	10	9	Short	Subterranean-Knock Down-Blast	
+90	Fissure	Ground	MELEE	5	0	Engaged	Inaccurate 7-Overwelm-Override-Breach	
+91	Dig	Ground	MELEE	10	7	Engaged	Knock Down-Recessed	
+92	Toxic	Poison	RANGLT	10	0	Short	Inaccurate 1-Poison-Badly Poisoned	Gains Crosshair if used by a Poison Type Poke
+93	Confusion	Psychic	RANGLT	25	4	Short	Confuse	
+94	Psychic	Psychic	RANGLT	10	8	Short	Knock Down-Discourage 1	
+95	Hypnosis	Psychic	RANGLT	20	0	Short	Inaccurate 4-Sleep	
+96	Meditate	Psychic	RANGLT	40	0	Self	Hone 1	
+97	Agility	Psychic	MELEE	30	0	Self	Haste 2	
+98	Quick Attack	Normal	MELEE	30	3	Engaged	Quickness	
+99	Rage	Normal	MELEE	20	2	Engaged	Rolling-Rage	
+100	Teleport	Psychic	RANGLT	20	0	Self	Run	
+101	Night Shade	Ghost	RANGLT	15	0	Short	Expertise	
+102	Mimic	Normal	MELEE	10	0	Short	Amorphous	
+103	Screech	Normal	MELEE	40	0	Short	Inaccurate 2-Erode 2-Vocal	
+104	Double Team	Normal	RANGLT	15	0	Self	Armored 1	
+105	Recover	Normal	RANGLT	10	7	Self	Heal	
+106	Harden	Normal	MELEE	30	0	Self	Fortify 1	
+107	Minimize	Normal	RANGLT	10	0	Self	Shrink-Armored 1	
+108	Smokescreen	Normal	RANGLT	20	0	Short	Blinding 1-Blast	
+109	Confuse Ray	Ghost	RANGLT	10	0	Short	Confuse	
+110	Withdraw	Water	MELEE	40	0	Self	Fortify 1	
+111	Defense Curl	Normal	MELEE	40	0	Self	Spin-Fortify 1	
+112	Barrier	Psychic	MELEE	20	0	Self	Fortify 2	
+113	Light Screen	Psychic	RANGLT	30	0	Medium	Special Resistance	
+114	Haze	Ice	RANGLT	30	0	Medium	Reset-Cleanse	
+115	Reflect	Psychic	RANGLT	20	0	Medium	Phisical Resistance	
+116	Focus Energy	Normal	MELEE	30	0	Self	Fortunate	
+117	Bide	Normal	MELEE	10	0	Engaged	Quickness-Retribution	
+118	Metronome	Normal	RANGLT	10	0	Self	Random	Roll 1d900 use the Move with the number rolled. If the number is null roll again if not targets are in the Moves range the move fails.
+119	Mirror Move	Flying	RANGLT	20	0	Short	Amorphous	
+120	Self-Destruct	Normal	MELEE	5	19	Short	Sacrificial-Blast-Surround-Push	
+121	Egg Bomb	Normal	MELEE	10	9	Short	Blast-Projectile-Inaccurate 3	
+122	Lick	Ghost	MELEE	30	2	Engaged	Paralyze	
+123	Smog	Poison	RANGLT	20	2	Short	Surround-Poison-Inaccurate 3	
+124	Sludge	Poison	RANGLT	20	5	Short	Poison	
+125	Bone Club	Ground	MELEE	20	5	Engaged	Inaccurate 2-Flinch	
+126	Fire Blast	Fire	RANGLT	5	10	Short	Inaccurate 2-Burn	
+127	Waterfall	Water	MELEE	15	7	Engaged	Flinch-Knock Down	
+128	Clamp	Water	MELEE	15	2	Engaged	Trap-Hold-DOT 5-Inaccurate 2	
+129	Swift	Normal	RANGLT	20	5	Short	Crosshair	
+130	Skull Bash	Normal	MELEE	10	12	Engaged	Prepare-Fortify 1-Push-Knock Down	
+131	Spike Cannon	Normal	MELEE	15	2	Short	Linked 5-Blast-Push	
+132	Constrict	Normal	MELEE	35	1	Engaged	Hold-Slow 1	
+133	Amnesia	Psychic	RANGLT	20	0	Self	Encourage 2	
+134	Kinesis	Psychic	MELEE	15	0	Short	Inaccurate 2-Blinding 1	
+135	Soft-Boiled	Normal	RANGLT	10	7	Self	Heal	
+136	High Jump Kick	Fighting	MELEE	10	12	Engaged	Unsafe-Airborne-Inaccurate 1	
+137	Glare	Normal	MELEE	30	0	Short	Paralyze	
+138	Dream Eater	Psychic	RANGLT	15	9	Short	Morpheus-Drain	
+139	Poison Gas	Poison	RANGLT	40	0	Short	Blast-Inaccurate 1-Poison	
+140	Barrage	Normal	MELEE	20	1	Short	Linked 5-Projectile-Inaccurate 2	
+141	Leech Life	Bug	MELEE	10	7	Engaged	Drain	
+142	Lovely Kiss	Normal	RANGLT	10	0	Engaged	Sleep-Inaccurate 3	
+143	Sky Attack	Flying	MELEE	5	13	Medium	Prepare-Flinch-Critical-Inaccurate 1	
+144	Transform	Normal	RANGLT	10	0	Short	Crosshair	Your Stats change to match your targets Stats. You lose access to your abilities and all you moves gain Locked Out Property. You then gain access to your targets Abilities and Moves. These changes last untill the end of the battle.
+145	Bubble	Water	RANGLT	30	3	Short	Slow 1	
+146	Dizzy Punch	Normal	MELEE	10	6	Engaged	Confuse	
+147	Spore	Grass	MELEE	15	0	Short	Sleep	
+148	Flash	Normal	RANGLT	20	0	Engaged	Blinding 1-Blast-Surround	You exclude yourself from the effects of this Move unless an enemy spends a Despair.
+149	Psywave	Psychic	RANGLT	15	0	Short	Expertise	Disadvantages can be used to lower this Moves damage by 1
+150	Splash	Normal	MELEE	40	0	Splash		
+151	Acid Armor	Poison	RANGLT	20	0	Self	Fortify 2	
+152	Crabhammer	Water	MELEE	10	9	Engaged	Critical-Knock Down-Inaccurate 1	
+153	Explosion	Normal	MELEE	5	24	Short	Sacrificial-Blast-Surround-Push	
+154	Fury Swipes	Normal	MELEE	15	1	Engaged	Linked 4-Inaccurate 2	
+155	Bonemerang	Ground	MELEE	10	4	Short	Linked 2-Pull-Inaccurate 1	
+156	Rest	Psychic	MELEE	10	15	Self	Heal	User gains the Asleep Status Effect
+157	Rock Slide	Rock	MELEE	10	6	Short	Flinch-Blast-Push-Pull-Inaccurate 1	
+158	Hyper Fang	Normal	MELEE	15	7	Engaged	Flinch-Inaccurate 1	
+159	Sharpen	Normal	MELEE	30	0	Self	Hone 1	
+160	Conversion	Normal	RANGLT	30	0	Short		User's Type chenges to match the target's Typing
+161	Tri Attack	Normal	RANGLT	10	7	Short	Paralyze-Burn-Freeze	
+162	Super Fang	Normal	MELEE	10	0	Engaged	Override-Merciful-Breach-Inaccurate 1	
+163	Slash	Normal	MELEE	20	6	Engaged	Critical-Sharp	
+164	You do not suffer wounds from the next successful Move check used against you.	Normal	RANGLT	10	0	Self	Sacrificial 4	You do not suffer wounds from the next successful Move check useed against you.
+165	Struggle	Normal	MELEE	1	4	Engaged	Recoil	If you would feint due to wounds suffered from the Recoil Property your target does no take wounds from this Move.  You still suffer wounds as if the move had happened normally.
+166	Sketch	Normal	RANGLT	1	0	Short	Replace	
+167	Triple Kick	Fighting	MELEE	10	1	Engaged	Linked 3-Knock Down	
+168	Thief	Dark	MELEE	25	5	Engaged	Steal	
+169	Spider Web	Bug	MELEE	10	0	Short	Crosshair-Trap	
+170	Mind Reader	Normal	RANGLT	5	0	Short		Target Gains the Crosshair Property on the next Move they use.
+171	Nightmare	Ghost	RANGLT	15	0	Short	Morpheus-Dot	Target loses the DOT condition when the lose the Asleep Status Effect.
+172	Flame Wheel	Fire	MELEE	25	5	Engaged	Burn-Surround	
+173	Snore	Normal	RANGLT	15	4	Short	Sleepwalk-Flinch-Vocal	This Move has the Locked Out Property unless the User has the Asleep condition
+174	Curse	Ghost	RANGLT	10	0	Self	Sacrificial-Dot-Hone 1-Fortify 1	If the user is Ghost Type this Move gains the Sacrificial 4 and Dot Properties and the range changes to Medium. Otherwise It gains Hone 1 and Fortify 1.
+175	Flail	Normal	MELEE	15	0	Engaged	Bloody-Knock Down	
+176	Conversion 2	Normal	RANGLT	30	0	Short		Change users type to a Type that has resistance to the last Move used by the target
+177	Aeroblast	Flying	RANGLT	5	9	Medium	Blast-Push-Critical-Inaccurate 1	
+178	Cotton Spore	Grass	MELEE	40	0	Short	Slow 2	
+179	Reversal	Fighting	MELEE	15	0	Engaged	Bloody	
+180	Spite	Ghost	RANGLT	10	0	Short	Pointless 4	
+181	Powder Snow	Ice	RANGLT	25	3	Short	Freeze-Blast	
+182	Protect	Normal	MELEE	10	0	Self	Shield	
+183	Mach Punch	Fighting	MELEE	30	3	Engaged	Quickness	
+184	Scary Face	Normal	MELEE	10	0	Short	Slow 2	
+185	Feint Attack	Dark	MELEE	20	5	Engaged	Crosshair-Knock Down	
+186	Sweet Kiss	Fairy	MELEE	10	0	Engaged	Confuse-Inaccurate 3	
+187	Belly Drum	Normal	MELEE	10	0	Self	Sacrificial 8-Hone 6	
+188	Sludge Bomb	Poison	RANGLT	10	8	Medium	Poison	
+189	Mud-Slap	Ground	RANGLT	10	2	Short	Blinding 1	
+190	Octazooka	Water	RANGLT	10	5	Short	Projectile-Blinding 1-Inaccurate 2	
+191	Spikes	Ground	MELEE	20	0	Battlefield	Hazard	Spikes
+192	Zap Cannon	Electric	RANGLT	5	11	Short	Projectile-Paralyze-Inaccurate 5	
+193	Foresight	Normal	RANGLT	40	0	Short	Predictable	
+194	Destiny Bond	Ghost	RANGLT	5	0	Medium	Paired	
+195	Perish Song	Normal	MELEE	5	0	Medium	Vocal-Doom 4-Blast-Surround	The User also gains the Doomed 4 condition on a successful Move check
+196	Icy Wind	Ice	RANGLT	15	4	Short	Slow 1-Blast-Push-Pull-Inaccurate 1	
+197	Detect	Fighting	MELEE	5	0	Self	Shield	
+198	Bone Rush	Ground	MELEE	10	2	Short	Linked 5-Inaccurate 1	
+199	Lock-On	Normal	MELEE	5	0	Short	Predictable	
+200	Outrage	Dragon	MELEE	10	11	Engaged	Lock In 3	User suffers Confused Status Effect
+201	Sandstorm	Rock	RANGLT	10	0	Battlefield	Hazard	Sandstorm
+202	Giga Drain	Grass	RANGLT	10	6	Short	Drain	
+203	Endure	Normal	MELEE	10	0	Self	Quickness	Until the beginning of your next turn Moves targeting you gain the Merciful Property
+204	Charm	Fairy	MELEE	20	0	Short	Dull 2	
+205	Rollout	Rock	MELEE	20	2	Engaged	Rolling-Inaccurate 1	
+206	False Swipe	Normal	MELEE	40	3	Engaged	Merciful	
+207	Swagger	Normal	MELEE	15	0	Short	Confuse-Hone 2-Inaccurate 2	
+208	Milk Drink	Normal	MELEE	10	8	Self	Heal	
+209	Spark	Electric	MELEE	20	5	Engaged	Paralyze	
+210	Fury Cutter	Bug	MELEE	20	3	Engaged	Sharp-Rolling-Inaccurate 1	
+211	Steel Wing	Steel	MELEE	25	6	Engaged	Fortify 1-Inaccurate 1	
+212	Mean Look	Normal	MELEE	5	0	Short	Trap-Crosshair	
+213	Attract	Normal	RANGLT	15	0	Short	Infatuate	
+214	Sleep Talk	Normal	RANGLT	10	0	Self	Random-Sleepwalk	User's Moves gains Sleepwalk Property untill end of the turn and one is used at random.
+215	Heal Bell	Normal	RANGLT	5	0	Medium	Cleanse-Vocal	
+216	Return	Normal	MELEE	20	0	Engaged	Loyal	
+217	Present	Normal	MELEE	15	4	Short	Inaccurate 1	Roll 1d10 this Move gains aditional prperties untill the end of turn based on the roll. 1-2: Move gains the Heal Property, 3-6: No effect, 7-9: Double the Moves base damage, 10:Triple the Moves base damage
+218	Frustration	Normal	MELEE	20	0	Engaged	Loyal	
+219	Safeguard	Normal	MELEE	25	0	Medium	Insulate	
+220	Pain Split	Normal	RANGLT	20	0	Short	Crosshair-Differential-Equalize	
+221	Sacred Fire	Fire	MELEE	5	9	Short	Burn-Inaccurate 1	
+222	Magnitude	Ground	MELEE	30	6	Short	Subterranean	
+223	Dynamic Punch	Fighting	MELEE	5	9	Engaged	Confuse	
+224	Megahorn	Bug	MELEE	10	11	Engaged	Push-Pierce 1-Inaccurate 2	
+225	Dragon Breath	Dragon	RANGLT	20	5	Short	Paralyze-Blast	
+226	Baton Pass	Normal	RANGLT	40	0	Self	Scare-Reset-Cleanse	Any Poke Swapped in due to this Move gains all conditions and teporary changes lost by the user.
+227	Encore	Normal	RANGLT	5	0	Short	Encore 6	
+228	Pursuit	Dark	MELEE	20	3	Engaged	Cut Off	
+229	Rapid Spin	Normal	MELEE	40	4	Engaged	Cleanse-Spin-Haste 1	
+230	Sweet Scent	Normal	RANGLT	20	0	Short	Blast-Open Chink 2	
+231	Iron Tail	Steel	MELEE	15	9	Engaged	Erode 1-Inaccurate 3	
+232	Metal Claw	Steel	MELEE	35	4	Engaged	Hone 1-Inaccurate 1	
+233	Vital Throw	Fighting	MELEE	10	6	Engaged	Crosshair-Push	
+234	Morning Sun	Normal	RANGLT	5	8	Self	Heal	Durring Harsh Sunlight or Extremly Harsh Sunlight base damage is doubled. Durring other weather not including Calm Skies base damage is halved.
+235	Synthesis	Grass	RANGLT	5	8	Self	Heal	Durring Harsh Sunlight or Extremly Harsh Sunlight base damage is doubled. Durring other weather not including Calm Skies base damage is halved.
+236	Moonlight	Fairy	RANGLT	5	8	Self	Heal	Durring Harsh Sunlight or Extremly Harsh Sunlight base damage is doubled. Durring other weather not including Calm Skies base damage is halved.
+237	Hidden Power	Normal	RANGLT	15	5	Short		This Moves Type is rolled randomly the first time it is used by each Poke. Once it is rolled it remains that Type evey time it is used by that Poke reguardless of other factors.
+238	Cross Chop	Fighting	MELEE	5	9	Engaged	Critical-Pierce 1-Inaccurate 2	
+239	Twister	Dragon	RANGLT	20	3	Short	Flinch-Blast-Reach	
+240	Rain Dance	Water	RANGLT	5	0	Battlefield	Hazard	Rain
+241	Sunny Day	Fire	RANGLT	5	0	Battlefield	Hazard	Harsh Sunlight
+242	Crunch	Dark	MELEE	15	7	Engaged	Erode	
+243	Mirror Coat	Psychic	RANGLT	20	0	Short	Reflective	
+244	Psych Up	Normal	MELEE	10	0	Short	Crosshair	Copy all Stat changes of the target onto yourself
+245	Extreme Speed	Normal	MELEE	5	7	Engaged	Quickness	
+246	Ancient Power	Rock	RANGLT	5	5	Medium	Knock Down-Empower	
+247	Shadow Ball	Ghost	RANGLT	15	7	Short	Projectile-Discourage 1	
+248	Future Sight	Psychic	RANGLT	10	11	Short	Delayed	
+249	Rock Smash	Fighting	MELEE	15	3	Engaged	Erode 1	
+250	Whirlpool	Water	RANGLT	15	2	Short	Marine-Dot 5-Trap-Inaccurate 2	
+251	Beat Up	Dark	MELEE	10	0	Engaged		Base damage is equal to the Attack stat of all Pokes, not feinted or suffering from a non-volitile Status Effect, in your trainers active party added together.
+252	Fake Out	Normal	MELEE	10	3	Engaged	Quickness-Flinch-Kick Off	
+253	Uproar	Normal	RANGLT	10	8	Short	Lock In 3-Vocal	Pokemon within medium range lose the Asleep condition. The user is immune to the Sleep condition untill the beginning of their next turn.
+254	Stockpile	Normal	MELEE	20	0	Self	Stockpile-Fortify 1-Encourge 1	
+255	Spit Up	Normal	RANGLT	10	0	Short		Base damage is 9 times the rank of the Stocked condition on the user. The user suffers Erode and Discourage with ranks equal to ranks of Stocked.
+256	Swallow	Normal	MELEE	10	0	Self		Base damage is 4 times the rank of the Stocked condition on the user. The user suffers Erode and Discourage with ranks equal to ranks of Stocked.
+257	Heat Wave	Fire	RANGLT	10	8	Short	Burn-Blast-Surround-Inaccurate 1	
+258	Hail	Ice	RANGLT	10	0	Battlefield		Hail
+259	Torment	Dark	RANGLT	15	0	Short	Torment	
+260	Flatter	Dark	MELEE	15	0	Short	Wax 1-Confuse	
+261	Will-O-Wisp	Fire	RANGLT	15	0	Short	Burn-Inaccurate 2	
+262	Memento	Dark	RANGLT	10	0	Short	Sacrificial-Homing-Dull 2-Wane 2	
+263	Facade	Normal	MELEE	20	6	Engaged	Exploit	
+264	Focus Punch	Fighting	MELEE	20	14	Engaged	Trailing-Innocuous-Push-Knock Down	
+265	Smelling Salts	Normal	MELEE	10	6	Engaged	Exploit-Cleanse	
+266	Follow Me	Normal	MELEE	20	0	Self	Quickness-Taunt	
+267	Nature Power	Normal	RANGLT	20	0	Short	Random	The move used will be based of your surroundings. In a town or building: Swift, Sandy: Earthquake, Cave: Shadow Ball, Rocky: Rock Slide, Plains: Stun Spore, Forest: Razor Leaf, Pond/Lake: Bubble Beam, Sea: Surf.
+268	Charge	Electric	RANGLT	20	0	Self	Electrify	
+269	Taunt	Dark	MELEE	20	0	Short	Aggravate	
+270	Helping Hand	Normal	MELEE	20	0	Engaged	Help	
+271	Trick	Psychic	MELEE	10	0	Short	Steal-Give	
+272	Role Play	Psychic	RANGLT	10	0	Short	Exchange	
+273	Wish	Normal	RANGLT	10	8	Short	Heal-Delayed 1	
+274	Assist	Normal	MELEE	20	0	Self	Random	Randomly select a Move from a list of all Moves of the user's trainer's other Pokes. Each Move on each Poke will have the same chance so if multiple Poke have the same Move it will increase that chance of that Move being chosen.
+275	Ingrain	Grass	MELEE	20	0	Self	Trap-Hot	
+276	Superpower	Fighting	MELEE	5	11	Short	Pull	User suffers Dull 1 and Erode 1
+277	Magic Coat	Psychic	RANGLT	15	0	Medium	Quickness-Mirrored	
+278	Recycle	Normal	MELEE	10	0	Self		Regain a used held item or pick up a dropped held item
+279	Revenge	Fighting	MELEE	10	5	Engaged	Strike Back	
+280	Brick Break	Fighting	MELEE	15	6	Engaged	Shatter-Break	
+281	Yawn	Normal	MELEE	10	0	Short	Vocal-Delayed 1-Sleep	
+282	Knock Off	Dark	MELEE	20	5	Engaged	Disarm-Push	
+283	Endeavor	Normal	MELEE	5	0	Engaged	Equalize	
+284	Eruption	Fire	RANGLT	5	14	Short	Opener	
+285	Skill Swap	Psychic	RANGLT	10	0	Short	Exchange	
+286	Imprison	Psychic	RANGLT	10	0	Short	Blast-Surround	Other Poke's Moves that are in the user's Move Pool gain t he Locked Out Property.
+287	Refresh	Normal	RANGLT	20	0	Self	Cleanse	
+288	Grudge	Ghost	RANGLT	5	0	Self		If user feints befor the start of their next turn due to another Pokes Move that  Move loses all  its remaining PP
+289	Snatch	Dark	MELEE	10	0	Medium	Quickness-Mirrored	
+290	Secret Power	Normal	MELEE	20	6	Short	Paralyze-Blinding 1-Flinch-Confuse-Poison-Sleep-Slow 1-Dull 1-Erode 1	You  can only activate 1 Property of this Move.
+291	Dive	Water	MELEE	10	7	Short	Prepare-Submerge	
+292	Arm Thrust	Fighting	MELEE	20	1	Engaged	Linked 5	
+293	Camouflage	Normal	MELEE	20	0	Self		User changes their Type match their surroundings
+294	Tail Glow	Bug	RANGLT	20	0	Self	Wax 2	
+295	Luster Purge	Psychic	RANGLT	5	6	Short	Discourage	
+296	Mist Ball	Psychic	RANGLT	5	6	Short	Projectile-Wane 1	
+297	Feather Dance	Flying	MELEE	15	0	Short	Dancing-Dull  2	
+298	Teeter Dance	Normal	MELEE	20	0	Short	Dancing-Blast-Confuse	
+299	Blaze Kick	Fire	MELEE	10	7	Engaged	Critical-Burn-Inaccurate 1	
+300	Mud Sport	Ground	RANGLT	15	0	Battlefield	Hazard	Muddy
+301	Ice Ball	Ice	MELEE	20	2	Engaged	Projectile-Lock In 5-Rolling-Inaccurate 1	
+302	Needle Arm	Grass	MELEE	15	5	Engaged	Flinch-Pierce 1	
+303	Slack Off	Normal	MELEE	10	8	Self	Heal	
+304	Hyper Voice	Normal	RANGLT	10	8	Short	Vocal-Blast	
+305	Poison Fang	Poison	MELEE	15	4	Engaged	Poison 2-Badly Poison	
+306	Crush Claw	Normal	MELEE	10	6	Engaged	Erode 1-Inaccurate 1	
+307	Blast Burn	Fire	RANGLT	5	14	Short	Tiring-Inaccurate 1	
+308	Hydro Cannon	Water	RANGLT	5	14	Short	Tiring-Inaccurate 1	
+309	Meteor Mash	Steel	MELEE	10	8	Short	Push-Pull-Hone 1-Inaccurate 1	
+310	Astonish	Ghost	MELEE	15	2	Engaged	Flinch	
+311	Weather Ball	Normal	RANGLT	10	4	Short	Projectile	If there is a weather effect on the Battlefield, this Move's base damage is doubled and the Type Changes to match it
+312	Aromatherapy	Grass	MELEE	5	0	Medium	Cleanse	
+313	Fake Tears	Dark	MELEE	20	0	Medium	Wane 2	
+314	Air Cutter	Flying	RANGLT	25	5	Medium	Blast-Critical-Sharp-Surround	
+315	Overheat	Fire	RANGLT	5	12	Short	Inaccurate 1	User suffers Wane 2
+316	Odor Sleuth	Normal	MELEE	40	0	Short	Predictable	
+317	Rock Tomb	Rock	MELEE	15	5	Short	Slow 1-Inaccurate 1	
+318	Silver Wind	Bug	RANGLT	5	5	Short	Hone 1-Wax 1-Haste 1-Fortify 1-Encourage 1	
+319	Metal Sound	Steel	RANGLT	40	0	Short	Wane 2-Vocal-Inaccurate 2	
+320	Grass Whistle	Grass	MELEE	15	0	Short	Sleep-Inaccurate 5	
+321	Tickle	Normal	MELEE	20	0	Short	Dull 1-Erode 1	
+322	Cosmic Power	Psychic	RANGLT	20	0	Self	Fortify 1-Encourage 1	
+323	Water Spout	Water	RANGLT	5	14	Short	Opener-Push-Pull-Blast	
+324	Signal Beam	Bug	RANGLT	15	6	Short	Confuse	
+325	Shadow Punch	Ghost	MELEE	20	5	Engaged	Crosshair	
+326	Extrasensory	Psychic	RANGLT	20	7	Short	Stomp-Flinch	
+327	Sky Uppercut	Fighting	MELEE	15	7	Engaged	Reach-Inaccurate 1	
+328	Sand Tomb	Ground	MELEE	15	2	Short	Dot 5-Inaccurate 2	
+329	Sheer Cold	Ice	RANGLT	5	0	Engaged	Inaccurate 7-Overwelm-Override-Breach	
+330	Muddy Water	Water	RANGLT	10	8	Short	Blinding 1-Blast-Inaccurate 2	
+331	Bullet Seed	Grass	MELEE	30	2	Short	Projectile-Linked 5	
+332	Aerial Ace	Flying	MELEE	20	5	Engaged	Crosshair-Sharp	
+333	Icicle Spear	Ice	MELEE	30	2	Short	Linked 5	
+334	Iron Defense	Steel	RANGLT	15	0	Self	Fortify 2	
+335	Block	Normal	MELEE	5	0	Short	Crosshair-Trap	
+336	Howl	Normal	MELEE	40	0	Self	Hone 1	
+337	Dragon Claw	Dragon	MELEE	15	7	Engaged	Pierce 1	
+338	Frenzy Plant	Grass	RANGLT	5	14	Short	Tiring-Inaccurate 1	
+339	Bulk Up	Fighting	MELEE	20	0	Self	Hone 1-Fortify 1	
+340	Bounce	Flying	MELEE	5	7	Medium	Airborne-Sore-Prepare-Paralyze-Inaccurate 2	
+341	Mud Shot	Ground	RANGLT	15	4	Short	Slow 1-Inaccurate 1	
+342	Poison Tail	Poison	MELEE	25	4	Engaged	Critical-Poison 1	
+343	Covet	Normal	MELEE	25	5	Engaged	Steal	
+344	Volt Tackle	Electric	MELEE	15	11	Engaged	Recoil-Paralyze	
+345	Magical Leaf	Grass	RANGLT	20	5	Short	Crosshair	
+346	Water Sport	Water	RANGLT	15	0	Medium		Target takes half damage from Fire Type Moves
+347	Calm Mind	Psychic	MELEE	20	0	Self	Wax 1-Encourage 1	
+348	Leaf Blade	Grass	MELEE	15	8	Engaged	Sharp-Critical-Pierce 1	
+349	Dragon Dance	Dragon	RANGLT	20	0	Self	Dancing-Hone 1-Haste 1	
+350	Rock Blast	Rock	MELEE	10	2	Short	Linked 5-Inaccurate 1	
+351	Shock Wave	Electric	RANGLT	20	5	Short	Crosshair	
+352	Water Pulse	Water	RANGLT	20	5	Medium	Confuse	
+353	Doom Desire	Steel	RANGLT	5	13	Short	Delayed	
+354	Psycho Boost	Psychic	RANGLT	5	13	Short	Wane 2-Inaccurate 1	
+355	Roost	Flying	MELEE	10	0	Self	Gounding	Target loses Flying Type untill the start of its next turn, if this causees it to have no type it is Normal Type. When it regains flying type it loses the Grounded condition.
+356	Gravity	Psychic	RANGLT	5	0	Battlefield	Gounding	
+357	Miracle Eye	Psychic	RANGLT	40	0	Short	Crosshair-Predictable	The Predicted condition apllied by this Move remove Immunity to Psychic Type instead of Ghost Type immunities.
+358	Wake-Up Slap	Fighting	MELEE	10	6	Engaged	Exploit	
+359	Hammer Arm	Fighting	MELEE	10	9	Engaged	Slow 1-Inaccurate 1	
+360	Gyro Ball	Steel	MELEE	5	0	Engaged	Spin	Base damage is equal to (Target's speed - User's speed) * 2
+361	Healing Wish	Psychic	RANGLT	10	16	Short	Sacrificial-Cleanse-Heal	
+362	Brine	Water	RANGLT	10	5	Short	Bully	
+363	Natural Gift	Normal	MELEE	15	7	Short		This Move consumes a the users held berry, if they have no berry the Move fails without a roll. The user chooses the Type this Move is.
+364	Feint	Normal	MELEE	10	2	Short	Quickness-Break	
+365	Pluck	Flying	MELEE	20	5	Engaged	Steal	If the item stolen is a berry it is consumed by the user immediatly.
+366	Tailwind	Flying	RANGLT	15	0	Long	Haste 2-Blast-Surround	This Move does not effect enemies
+367	Acupressure	Normal	MELEE	30	0	Self		Roll 1d8 this Move gains aditional prperties untill the end of turn based on the roll. 1: Hone 2, 2: Fortify 2, 3: Wax 2, 4: Encourage 2, 5: Haste 2, 6: Scope 2, 7: Armored 2, 8: Reroll
+368	Metal Burst	Steel	MELEE	10	0	Engaged	Retribution	
+369	U-turn	Bug	MELEE	20	6	Engaged	Retreat	
+370	Close Combat	Fighting	MELEE	5	11	Engaged		
+371	Payback	Dark	MELEE	10	4	Engaged	Patient	
+372	Assurance	Dark	MELEE	10	5	Engaged	Follow Up	
+373	Embargo	Dark	MELEE	15	0	Short	Blockade	
+374	Fling	Dark	MELEE	10	0	Short		This Move's base damage is based on the users held item, up to GM decision. User disarms themselves.
+375	Psycho Shift	Psychic	RANGLT	10	0	Short	Transfer	
+376	Trump Card	Normal	RANGLT	5	12	Engaged	Crosshair	Base damage for this Move is 2 lower for every PP it has remaining
+377	Heal Block	Psychic	RANGLT	15	0	Short	Incurable	
+378	Wring Out	Normal	RANGLT	5	12	Engaged	Opener	
+379	Power Trick	Psychic	RANGLT	10	0	Self		For the rest of battle. The user's Resiliance skill and phisical soak will be based off Attack and Brawl will be based off Defense.
+380	Gastro Acid	Poison	MELEE	10	0	Short	Impair 3	
+381	Lucky Chant	Normal	RANGLT	30	0	Medium		Target is unable to use Triumphs to activate Properties
+382	Me First	Normal	MELEE	20	0	Short	Echopraxia	
+383	Copycat	Normal	RANGLT	20	0	Medium	Amorphous	
+384	Power Swap	Psychic	RANGLT	10	0	Short		Any temporary stat changes to Attack and moved to Special Attack and from Special Attack to Attack.
+385	Guard Swap	Psychic	RANGLT	10	0	Short		Any temporary stat changes to Defense and moved to Special DDefense and from Special Attack to Attack.
+386	Punishment	Dark	MELEE	5	0	Engaged		Bases damage is increased by 2 for every temporary stat increase the target has.
+387	Last Resort	Normal	MELEE	5	13	Engaged	Locked Out	The Locked  Out Property is removed from this Move once all three other moves in the User's Move pool have been used this battle.
+388	Worry Seed	Grass	MELEE	10	0	Short	Impair	The ability removed by Impair is replaced by insomnia
+389	Sucker Punch	Dark	MELEE	5	6	Engaged	Quickness	Your target gains the Sacrificial 2 Property on all damaging Moves until the start of your next turn
+390	Toxic Spikes	Poison	MELEE	20	0	Battlefield	Hazard	Toxic Spikes
+391	Heart Swap	Psychic	RANGLT	10	0	Short	Imatate	Target also triggers Imitate simaltaniously. So all temporary stat changes will be swapped between user and target.
+392	Aqua Ring	Water	RANGLT	20	0	Self	Hot	
+393	Magnet Rise	Electric	RANGLT	10	0	Self		Target gains the Airbone condition
+394	Flare Blitz	Fire	MELEE	15	11	Engaged	Recoil 2-Burn-Knockdown	
+395	Force Palm	Fighting	MELEE	10	5	Engaged	Paralyze-Push	
+396	Aura Sphere	Fighting	RANGLT	20	7	Medium	Projectile-Crosshair-Push	
+397	Rock Polish	Rock	MELEE	20	0	Self	Haste 2	
+398	Poison Jab	Poison	MELEE	20	7	Engaged	Poison	
+399	Dark Pulse	Dark	RANGLT	15	7	Medium	Flinch	
+400	Night Slash	Dark	MELEE	15	6	Engaged	Critical-Sharp	
+401	Aqua Tail	Water	MELEE	10	8	Engaged	Knockdown-Inaccurate 1	
+402	Seed Bomb	Grass	MELEE	15	7	Short	Projectile-Blast	
+403	Air Slash	Flying	RANGLT	15	6	Medium	Flinch-Inaccurate 1	
+404	X-Scissor	Bug	MELEE	15	7	Engaged	Sharp-Pierce 2	
+405	Bug Buzz	Bug	RANGLT	10	8	Short	Wane 1	
+406	Dragon Pulse	Dragon	RANGLT	10	7	Medium	Push	
+407	Dragon Rush	Dragon	MELEE	10	9	Engaged	Flinch-Squish	
+408	Power Gem	Rock	RANGLT	20	7	Short		
+409	Drain Punch	Fighting	MELEE	10	6	Engaged	Drain	
+410	Vacuum Wave	Fighting	RANGLT	30	3	Short	Quickness	
+411	Focus Blast	Fighting	RANGLT	5	11	Short	Projectile-Discourage 1-Inaccurate 3	
+412	Energy Ball	Grass	RANGLT	10	8	Short	Discourage	
+413	Brave Bird	Flying	MELEE	15	11	Short	Recoil	
+414	Earth Power	Ground	RANGLT	10	8	Short	Discourage-Knock Down	
+415	Switcheroo	Dark	RANGLT	10	0	Short	Steal-Give	
+416	Giga Impact	Normal	MELEE	5	14	Engaged	Tiring-Inaccurate  1	
+417	Nasty Plot	Dark	RANGLT	20	0	Self	Wax 2	
+418	Bullet Punch	Steel	MELEE	30	3	Engaged	Quickness	
+419	Avalanche	Ice	MELEE	10	5	Engaged	Patient	
+420	Ice Shard	Ice	MELEE	30	3	Short	Quickness-Pierce 1	
+421	Shadow Claw	Ghost	MELEE	15	6	Engaged	Critical	
+422	Thunder Fang	Electric	MELEE	15	5	Engaged	Paralyze-Flinch-Inaccurate 1	
+423	Ice Fang	Ice	MELEE	15	5	Engaged	Freeze-Flinch-Inaccurate 1	
+424	Fire Fang	Fire	MELEE	15	5	Engaged	Burn-Flinch-Inaccurate 1	
+425	Shadow Sneak	Ghost	MELEE	30	3	Engaged	Quickness	
+426	Mud Bomb	Ground	RANGLT	10	5	Medium	Inaccurate 2-Blinding 1	
+427	Psycho Cut	Psychic	MELEE	20	6	Engaged	Critical-Sharp	
+428	Zen Headbutt	Psychic	MELEE	15	7	Engaged	Flinch-Knock Down-Inaccurate 1	
+429	Mirror Shot	Steel	RANGLT	10	5	Short	Inaccurate 2-Blinding 1	
+430	Flash Cannon	Steel	RANGLT	10	7	Medium	Discourage 1	
+431	Rock Climb	Normal	MELEE	20	8	Engaged	Confuse-Inaccurate 2	
+432	Defog	Flying	RANGLT	15	0	Short	Open Chink 1-Break-Shatter	Remove any Entry Hazards from the battlefield
+433	Trick Room	Psychic	RANGLT	5	0	Battlefield		Initutive moves in reverse order
+434	Draco Meteor	Dragon	RANGLT	5	12	Short	Push-Wane 2-Inaccurate 1	
+435	Discharge	Electric	RANGLT	15	7	Short	Blast-Surround-Paralyze	
+436	Lava Plume	Fire	RANGLT	15	7	Short	Blast-Surround-Burn	
+437	Leaf Storm	Grass	RANGLT	5	12	Short	Pull-Wane 2-Inaccurate 1	
+438	Power Whip	Grass	MELEE	10	11	Short	Inaccurate 2	
+439	Rock Wrecker	Rock	MELEE	5	14	Short	Tiring-Projectile-Inaccurate 1	
+440	Cross Poison	Poison	MELEE	20	6	Engaged	Critical-Poison	
+441	Gunk Shot	Poison	MELEE	5	11	Short	Poison-Inaccurate 2	
+442	Iron Head	Steel	MELEE	15	7	Engaged	Flinch-Knock Down	
+443	Magnet Bomb	Steel	MELEE	20	5	Short	Projectile-Crosshair	
+444	Stone Edge	Rock	MELEE	5	9	Short	Sharp-Critical-Pierce 1-Inaccurate 2	
+445	Captivate	Normal	RANGLT	20	0	Short	Pull-Wane 2-Blast	
+446	Stealth Rock	Rock	RANGLT	20	0	Battlefield	Hazard	Stealth Rock
+447	Grass Knot	Grass	RANGLT	20	4	Engaged	Hold	
+448	Chatter	Flying	RANGLT	20	5	Medium	Confuse-Vocal	
+449	Judgment	Normal	RANGLT	10	9	Short		
+450	Bug Bite	Bug	MELEE	20	5	Engaged	Chomp-Pierce 1	
+451	Charge Beam	Electric	RANGLT	10	4	Short	Wane 1-Inaccurate 1	
+452	Wood Hammer	Grass	MELEE	15	11	Engaged	Recoil 3-Push	
+453	Aqua Jet	Water	MELEE	20	3	Engaged	Quickness	
+454	Attack Order	Bug	MELEE	15	8	Short	Critical	
+455	Defend Order	Bug	MELEE	10	0	Self	Encourage 1-Fortify 1	
+456	Heal Order	Bug	RANGLT	10	8	Self	Heal	
+457	Head Smash	Rock	MELEE	5	14	Engaged	Recoil 2-Knock Down-Inaccurate 2	
+458	Double Hit	Normal	MELEE	10	2	Engaged	Linked 2-Inaccurate 1	
+459	Roar of Time	Dragon	RANGLT	5	14	Short	Tiring-Inaccurate 1	
+460	Spacial Rend	Dragon	RANGLT	5	9	Short	Critical-Push-Pull-Inaccurate 1	
+461	Lunar Dance	Psychic	RANGLT	10	16	Short	Dancing-Sacrificial-Heal-Cleanse	
+462	Crush Grip	Normal	MELEE	5	0	Engaged	Hold-Opener	
+463	Magma Storm	Fire	RANGLT	5	9	Short	Trap-Dot 5-Inaccurate 3	
+464	Dark Void	Dark	RANGLT	10	0	Short	Blast-Sleep-Inaccurate 5	
+465	Seed Flare	Grass	RANGLT	5	11	Short	Discourage 2-Inaccurate 2	
+466	Ominous Wind	Ghost	RANGLT	5	5	Medium	Empower	
+467	Shadow Force	Ghost	MELEE	5	11	Engaged	Squish-Vanish-Prepare	
+468	Hone Claws	Dark	MELEE	15	0	Self	Scope-Hone 1	
+469	Wide Guard	Rock	MELEE	10	0	Medium	Quickness-Shield	
+470	Guard Split	Psychic	RANGLT	10	0	Short		
+471	Power Split	Psychic	RANGLT	10	0	Short		
+472	Wonder Room	Psychic	RANGLT	10	0	Battlefield		
+473	Psyshock	Psychic	RANGLT	10	7	Short		Apply phisical soak instead of Special soak
+474	Venoshock	Poison	RANGLT	10	5	Short	Exploit	
+475	Autotomize	Steel	MELEE	15	0	Self	Haste 1	
+476	Rage Powder	Bug	MELEE	20	0	Self	Quickness-Taunt	
+477	Telekinesis	Psychic	RANGLT	15	0	Short	Predictable	
+478	Magic Room	Psychic	RANGLT	10	0	Battlefield		Held items do not function
+479	Smack Down	Rock	MELEE	15	4	Medium	Grounding-Reach	
+480	Storm Throw	Fighting	MELEE	10	5	Engaged	Push-Critical-Accurate 1	
+481	Flame Burst	Fire	RANGLT	15	6	Short	Blast	
+482	Sludge Wave	Poison	RANGLT	10	8	Medium	Poison-Blast	
+483	Quiver Dance	Bug	RANGLT	20	0	Self	Haste 1-Wax 1-Wane 1-Dancing	
+484	Heavy Slam	Steel	MELEE	10	7	Engaged	Squish	
+485	Synchronoise	Psychic	RANGLT	10	11	Short	Blast-Surround	Does not effect targets taht aree a different type than the targgett
+486	Electro Ball	Electric	RANGLT	10	0	Short	Target loses one of its abilities at random and gains  the ability Simple for the rest of the battle. If the ability that would be lost is Simple the target chooses another abilty thatt ability cannot be Simple.	Base damage is equal to (User's speed - Target's speed) * 2
+487	Soak	Water	RANGLT	20	0	Short		Target becomes Water Type and loses any otherr Types
+488	Flame Charge	Fire	MELEE	20	4	Engaged	Haste 1	
+489	Coil	Poison	MELEE	20	0	Self	Hone 1-Fortify 1-Scope	
+490	Low Sweep	Fighting	MELEE	20	5	Engaged	Knock Down-Slow 1	
+491	Acid Spray	Poison	RANGLT	20	3	Short	Projectile-Discourage 2	
+492	Foul Play	Dark	MELEE	15	8	Engaged		You use the target's Phisical Attack instead of yours for the Move Check
+493	Simple Beam	Normal	RANGLT	15	0	Short		
+494	Entrainment	Normal	MELEE	15	0	Short		Target loses all abilityies then gains all abilities of the user. This effect lasts untill the end of the battle.
+495	After You	Normal	MELEE	15	0	Short		Target's initutive moves to be right befor the user. If they havee not taken their turn this round they go immediatly  after this Move resolves.
+496	Round	Normal	RANGLT	15	5	Short	Vocal	If another Poke used Round this round double the  base damage of this Move.
+497	Echoed Voice	Normal	RANGLT	15	3	Short	Rolling	
+498	Chip Away	Normal	MELEE	20	6	Engaged	Crosshair	This Move gains a rank of Pierce for every temporary incrrease to their Phisical Defense.
+499	Clear Smog	Poison	RANGLT	15	4	Short	Crosshair-Reset	
+500	Stored Power	Psychic	RANGLT	10	2	Short		Increase the base damage off this Move by 2 for every temporary  stat increase the target has.
+501	Quick Guard	Fighting	MELEE	15	0	Medium	Quickness-Shield	
+502	Ally Switch	Psychic	MELEE	15	0	Short	Quickness	You become the target of the next Move that targets your target.
+503	Scald	Water	RANGLT	15	7	Medium	Burn	
+504	Shell Smash	Normal	MELEE	15	0	Self	Erode 1-Discourage 1-Hone 1-Wax 1-Hastet 1	
+505	Heal Pulse	Psychic	RANGLT	10	8	Medium	Projectile-Crosshair-Heal	
+506	Hex	Ghost	RANGLT	10	5	Short	Exploit	
+507	Sky Drop	Flying	MELEE	10	5	Medium	Airborne-Sore-Prepare-Flinch	
+508	Shift Gear	Steel	MELEE	10	0	Self	Haste 2-Hone 1	
+509	Circle Throw	Fighting	MELEE	10	5	Engaged	Scare-Inaccurate 1	
+510	Incinerate	Fire	RANGLT	15	5	Short	Blast-Disarm	
+511	Quash	Dark	MELEE	15	0	Short		Targets initutive becomes the last
+512	Acrobatics	Flying	MELEE	15	4	Medium		Base damage is doubled if the target does not have a held item.
+513	Reflect Type	Normal	RANGLT	15	0	Short		Your Type changes to match the target's Type
+514	Retaliate	Normal	MELEE	5	6	Engaged		
+515	Final Gambit	Fighting	RANGLT	5	0	Short	Sacrificial	Base damage for this Move is equal to your wound treshold minus your currect wounds.
+516	Bestow	Normal	MELEE	15	0	Short	Give	
+517	Inferno	Fire	RANGLT	5	9	Short	Burn-Inaccurate 5	
+518	Water Pledge	Water	RANGLT	10	7	Short		
+519	Fire Pledge	Fire	RANGLT	10	7	Short		
+520	Grass Pledge	Grass	RANGLT	10	7	Short		
+521	Volt Switch	Electric	RANGLT	20	6	Short	Retreat	
+522	Struggle Bug	Bug	RANGLT	20	4	Engaged	Blast-Wane	
+523	Bulldoze	Ground	MELEE	20	5	Short	Blast-Slow	
+524	Frost Breath	Ice	RANGLT	10	5	Short	Critical-Blast-Inaccurate 1	
+525	Dragon Tail	Dragon	MELEE	10	5	Engaged	Scare-Inaccurate 1	
+526	Work Up	Normal	MELEE	30	0	Self	Hone 1-Wax 1	
+527	Electroweb	Electric	RANGLT	15	4	Short	Slow 1-Blast	
+528	Wild Charge	Electric	MELEE	15	8	Engaged	Recoil 4	
+529	Drill Run	Ground	MELEE	10	7	Engaged	Critical-Inaccurate 1	
+530	Dual Chop	Dragon	MELEE	15	3	Engaged	Linked 2-Pierce 1	
+531	Heart Stamp	Psychic	MELEE	25	5	Engaged	Flinch-Infatuate	
+532	Horn Leech	Grass	MELEE	10	6	Engaged	Drain	
+533	Sacred Sword	Fighting	MELEE	15	8	Engaged	Sharp-Breach-Crosshair	
+534	Razor Shell	Water	MELEE	10	6	Engaged	Sharp-Erode	
+535	Heat Crash	Fire	MELEE	10	7	Engaged	Squish	
+536	Leaf Tornado	Grass	RANGLT	10	5	Short	Reach-Blinding 1-Inaccurate 1	
+537	Steamroller	Bug	MELEE	20	5	Engaged	Squish-Flinch	
+538	Cotton Guard	Grass	MELEE	10	0	Self	Fortify 3	
+539	Night Daze	Dark	RANGLT	10	7	Short	Blinding 1-Inaccurate 1	
+540	Psystrike	Psychic	RANGLT	10	9	Short		Apply phisical soak instead of Special soak
+541	Tail Slap	Normal	MELEE	10	2	Engaged	Linked 5-Knock Down-Inaccurate 2	
+542	Hurricane	Flying	RANGLT	10	10	Medium	Reach-Confuse-Inaccurate 3	Gain Crosshair in rain or Heavy Rain
+543	Head Charge	Normal	MELEE	15	11	Engaged	Recoil 4	
+544	Gear Grind	Steel	MELEE	15	4	Engaged	Linked 2-Hold-Inaccurate 2	
+545	Searing Shot	Fire	RANGLT	5	9	Short	Projectile-Burn	
+546	Techno Blast	Normal	RANGLT	5	11	Short	Vocal-Blast	
+547	Relic Song	Normal	RANGLT	10	6	Short	Vocal-Sleep-Blast	
+548	Secret Sword	Fighting	RANGLT	10	7	Short	Sharp	Apply phisical soak instead of Special soak
+549	Glaciate	Ice	RANGLT	10	5	Short	Slow 1-Blast-Inaccurate 1	
+550	Bolt Strike	Electric	MELEE	5	12	Engaged	Paralyze-Inaccurate 2	
+551	Blue Flare	Fire	RANGLT	5	12	Short	Burn-Inaccurate 2	
+552	Fiery Dance	Fire	RANGLT	10	7	Short	Dancing-Wax 1	
+553	Freeze Shock	Ice	MELEE	5	13	Short	Prepare-Paralyze-Inaccurate 1	
+554	Ice Burn	Ice	RANGLT	5	13	Short	Prepare-Burn-Inaccurate 1	
+555	Snarl	Dark	RANGLT	15	4	Short	Vocal-Wane 1-Inaccurate 1	
+556	Icicle Crash	Ice	MELEE	10	7	Short	Flinch-Inaccurate 1	
+557	V-create	Fire	MELEE	5	17	Engaged	Erode 1-Discourage 1-Slow 1-Inaccurate 1	
+558	Fusion Flare	Fire	RANGLT	5	9	Short		
+559	Fusion Bolt	Electric	MELEE	5	9	Short		
+560	Flying Press	Fighting	MELEE	10	9	Engaged	Airborne-Squish-Inaccurate 1	
+561	Mat Block	Fighting	MELEE	10	0	Medium	Shield	
+562	Belch	Poison	RANGLT	10	11	Short	Locked Out-Inaccurate 1	This Move loses the Locked Out Propererty for 1 round after the  user eats a berry
+563	Rototiller	Ground	RANGLT	10	0	Battlefield	Hazzard	Tilled
+564	Sticky Web	Bug	MELEE	20	0	Battlefield	Hazzard	Sticky Web
+565	Fell Stinger	Bug	MELEE	25	4	Engaged		If target feints due to this Move user gains Hone 2
+566	Phantom Force	Ghost	MELEE	10	8	Engaged	Vanish-Squish-Prepare	
+567	Trick-or-Treat	Ghost	RANGLT	20	0	Short		Target gains Ghost Type in addition to its other Types for the rest of the battle
+568	Noble Roar	Normal	MELEE	30	0	Short	Vocal-Dull 1-Wane 1	
+569	Ion Deluge	Electric	RANGLT	25	0	Battlefield		Normal Type Moves become Electric Type until the start of the users next turn.
+570	Parabolic Charge	Electric	RANGLT	20	5	Short	Drain	
+571	Forest's Curse	Grass	RANGLT	20	0	Short		Target gains Grass Type in addition to its other Types for the rest of the battle
+572	Petal Blizzard	Grass	MELEE	15	8	Short	Blast-Surround	
+573	Freeze-Dry	Ice	RANGLT	20	6	Short	Freeze	Water Type Pokes arer weak to this Move
+574	Disarming Voice	Fairy	RANGLT	15	3	Short	Crosshair	
+575	Parting Shot	Dark	MELEE	20	0	Short	Vocal-Dull 1-Wane 1-Retreat	
+576	Topsy-Turvy	Dark	RANGLT	20	0	Short		All targets teporary stat changes are  reversed
+577	Draining Kiss	Fairy	RANGLT	10	4	Engaged	Drain	
+578	Crafty Shield	Fairy	MELEE	10	0	Medium	Shield	
+579	Flower Shield	Fairy	RANGLT	10	0	Battlefield		Grass Type Pokes gain Fortify 1
+580	Grassy Terrain	Grass	RANGLT	10	0	Battlefield	Hazzard	Grassy Terrain
+581	Misty Terrain	Fairy	RANGLT	10	0	Battlefield	Hazzard	Misty Terrain
+582	Electrify	Electric	RANGLT	20	0	Short		Target's next Move becomes Electric Type
+583	Play Rough	Fairy	MELEE	10	8	Engaged	Dull 1-Inaccurate 1	
+584	Fairy Wind	Fairy	RANGLT	30	3	Short		
+585	Moonblast	Fairy	RANGLT	15	8	Medium	Wane 1	
+586	Boomburst	Normal	RANGLT	10	13	Short	Vocal-Blast	
+587	Fairy Lock	Fairy	RANGLT	10	0	Medium	Trap-Blast-Surround	
+588	King's Shield	Steel	MELEE	10	0	Self	Quickness-Shield	
+589	Play Nice	Normal	MELEE	20	0	Engaged	Dull 1-Crosshair	
+590	Confide	Normal	MELEE	20	0	Short	Vocal-Crosshair-Wane 1	
+591	Diamond Storm	Rock	MELEE	5	9	Short	Fortify 2-Inaccurrate 1	
+592	Steam Eruption	Water	RANGLT	5	10	Short	Burn-Inaccurrate 1	
+593	Hyperspace Hole	Psychic	RANGLT	5	7	Short	Crosshair	
+594	Water Shuriken	Water	RANGLT	20	1	Short	Linked 5	
+595	Mystical Fire	Fire	RANGLT	10	6	Medium	Wane 1	
+596	Spiky Shield	Grass	MELEE	10	0	Self	Quickness-Shield	
+597	Aromatic Mist	Fairy	RANGLT	20	0	Short	Encourage 1	
+598	Eerie Impulse	Electric	RANGLT	15	0	Short	Wane 2	
+599	Venom Drench	Poison	MELEE	20	0	Short	Dull 1-Wane 1-Slow 1-Blast-Surround	Only effects Poisoned Pokes
+600	Powder	Bug	MELEE	20	0	Short	Blast-Quickness	Pokes efected take 2 additional Fire damage frrom Fire Type attacks
+601	Geomancy	Fairy	RANGLT	10	0	Self	Prepare-Wax 2-Encourage 2-Haste 2	
+602	Magnetic Flux	Electric	RANGLT	20	0	Medium	Fortify 1-Encourage 1	
+603	Happy Hour	Normal	RANGLT	30	0	Medium	Scatter-Pull	
+604	Electric Terrain	Electric	RANGLT	10	0	Battlefield	Hazard	Electric Terrain
+605	Dazzling Gleam	Fairy	RANGLT	10	7	Short	Blinding 1	
+606	Celebrate	Normal	MELEE	40	0	Self		
+607	Hold Hands	Normal	MELEE	40	0	Self		
+608	Baby-Doll Eyes	Fairy	MELEE	30	0	Medium	Quickness-Dull 1	
+609	Nuzzle	Electric	MELEE	20	2	Engaged	Paralyze	
+610	Hold Back	Normal	MELEE	40	3	Merciful		
+611	Infestation	Bug	RANGLT	20	2	Engaged	Trap-Dot 5	
+612	Power-Up Punch	Fighting	MELEE	20	3	Engaged	Hone 1	
+613	Oblivion Wing	Flying	RANGLT	10	7	Medium	Drain	
+614	Thousand Arrows	Ground	MELEE	10	8	Short		Ignores immunity to Ground Type Moves
+615	Thousand Waves	Ground	MELEE	10	8	Short	Trap	
+616	Land's Wrath	Ground	MELEE	10	8	Short	Blast	
+617	Light of Ruin	Fairy	RANGLT	5	13	Short	Recoil 2-Inaccurate 1	
+618	Origin Pulse	Water	RANGLT	10	10	Short	Blast-Inaccurate 2	
+619	Precipice Blades	Ground	MELEE	10	11	Short	Blast-Inaccurate 2	
+620	Dragon Ascent	Flying	MELEE	5	11	Engaged	Erode 1-Discourage 1	
+621	Hyperspace Fury	Dark	MELEE	5	9	Short	Crosshair-Erode	
+622	Breakneck Blitz	Normal	MELEE	1	0	Self		
+623	Breakneck Blitz	Normal	RANGLT	1	0	Self		
+624	All-Out Pummeling	Fighting	MELEE	1	0	Self		
+625	All-Out Pummeling	Fighting	RANGLT	1	0	Self		
+626	Supersonic Skystrike	Flying	MELEE	1	0	Self		
+627	Supersonic Skystrike	Flying	RANGLT	1	0	Self		
+628	Acid Downpour	Poison	MELEE	1	0	Self		
+629	Acid Downpour	Poison	RANGLT	1	0	Self		
+630	Tectonic Rage	Ground	MELEE	1	0	Self		
+631	Tectonic Rage	Ground	RANGLT	1	0	Self		
+632	Continental Crush	Rock	MELEE	1	0	Self		
+633	Continental Crush	Rock	RANGLT	1	0	Self		
+634	Savage Spin-Out	Bug	MELEE	1	0	Self		
+635	Savage Spin-Out	Bug	RANGLT	1	0	Self		
+636	Never-Ending Nightmare	Ghost	MELEE	1	0	Self		
+637	Never-Ending Nightmare	Ghost	RANGLT	1	0	Self		
+638	Corkscrew Crash	Steel	MELEE	1	0	Self		
+639	Corkscrew Crash	Steel	RANGLT	1	0	Self		
+640	Inferno Overdrive	Fire	MELEE	1	0	Self		
+641	Inferno Overdrive	Fire	RANGLT	1	0	Self		
+642	Hydro Vortex	Water	MELEE	1	0	Self		
+643	Hydro Vortex	Water	RANGLT	1	0	Self		
+644	Bloom Doom	Grass	MELEE	1	0	Self		
+645	Bloom Doom	Grass	RANGLT	1	0	Self		
+646	Gigavolt Havoc	Electric	MELEE	1	0	Self		
+647	Gigavolt Havoc	Electric	RANGLT	1	0	Self		
+648	Shattered Psyche	Psychic	MELEE	1	0	Self		
+649	Shattered Psyche	Psychic	RANGLT	1	0	Self		
+650	Subzero Slammer	Ice	MELEE	1	0	Self		
+651	Subzero Slammer	Ice	RANGLT	1	0	Self		
+652	Devastating Drake	Dragon	MELEE	1	0	Self		
+653	Devastating Drake	Dragon	RANGLT	1	0	Self		
+654	Black Hole Eclipse	Dark	MELEE	1	0	Self		
+655	Black Hole Eclipse	Dark	RANGLT	1	0	Self		
+656	Twinkle Tackle	Fairy	MELEE	1	0	Self		
+657	Twinkle Tackle	Fairy	RANGLT	1	0	Self		
+658	Catastropika	Electric	MELEE	1	20	Self		
+659	Shore Up	Ground	MELEE	10	7	Self	Heal	Base damage for this Move 4 higher durring Sandstrom or Dust Devil
+660	First Impression	Bug	MELEE	10	8	Engaged	Quickness	
+661	Baneful Bunker	Poison	MELEE	10	0	Self	Quickness-Shield	
+662	Spirit Shackle	Ghost	MELEE	10	7	Short	Trap	
+663	Darkest Lariat	Dark	MELEE	10	7	Engaged	Pierce 2-Crosshair	
+664	Sparkling Aria	Water	RANGLT	10	8	Short	Vocal-Blast	Removes Burned Status Effect from any damaged Pokes
+665	Ice Hammer	Ice	MELEE	10	9	Engaged	Slow 1-Inaccurate 1	
+666	Floral Healing	Fairy	MELEE	10	7	Short	Heal	Base damage for this Move 4 higher durring Grassy Terrain
+667	High Horsepower	Ground	MELEE	10	8	Engaged	Inaccurate 1	
+668	Strength Sap	Grass	RANGLT	10	0	Short	Dull 1	User heals 2 Wounds
+669	Solar Blade	Grass	MELEE	10	11	Engaged	Prepare	Loses Prepare in Harsh Sunlight. Base damage is halved in Hail, Fog, rain, or Sandstorm
+670	Leafage	Grass	MELEE	40	3	Short	Pierce 1	
+671	Spotlight	Normal	RANGLT	15	0	Short	Quickness-Taunt	
+672	Toxic Thread	Poison	MELEE	20	0	Short	Slow 1-Poison	
+673	Laser Focus	Normal	MELEE	30	0	Self	Scope	
+674	Gear Up	Steel	MELEE	20	0	Medium	Blast-Surround-Hone 1-Wax 1	
+675	Throat Chop	Dark	MELEE	15	7	Engaged		Target gains the Locked Out Property on any Move with the Vocal Property until the end of the battle.
+676	Pollen Puff	Bug	RANGLT	15	8	Short	Projectile-Blast	This Move gains the Heal Properrty if targeting an ally.
+677	Anchor Shot	Steel	MELEE	20	7	Engaged	Trap	
+678	Psychic Terrain	Psychic	RANGLT	10	0	Battlefield	Hazzard	Psychic Terrain
+679	Lunge	Bug	MELEE	15	7	Engaged	Dull 1	
+680	Fire Lash	Fire	MELEE	15	7	Engaged	Erode 1	
+681	Power Trip	Dark	MELEE	10	2	Engaged		Base damage of this Move is increased by 2 for every temporary stat increase the target has.
+682	Burn Up	Fire	RANGLT	5	12	Short		If the user is Fire Type they lose that type untill the end of the battle
+683	Speed Swap	Psychic	RANGLT	10	0	Short	Crosshair	User and target swap Speed Stat
+684	Smart Strike	Steel	MELEE	10	6	Engaged	Crosshair	
+685	Purify	Poison	RANGLT	20	7	Short	Heal-Cleanse	
+686	Revelation Dance	Normal	RANGLT	15	8	Short	Dancing	User's Type returns to their origional Typing
+687	Core Enforcer	Dragon	RANGLT	10	9	Short	Impair	
+688	Trop Kick	Grass	MELEE	15	6	Engaged	Dull 1	
+689	Instruct	Psychic	MELEE	15	0	Short		Target uses the last Move they used again. They may choose a new target.
+690	Beak Blast	Flying	MELEE	15	9	Short	Prepare	While user has the Prepared condition they gain the Flame Body Ability
+691	Clanging Scales	Dragon	RANGLT	5	10	Short	Vocal-Erode	
+692	Dragon Hammer	Dragon	MELEE	15	8	Engaged	Knock Down	
+693	Brutal Swing	Dark	MELEE	20	5	Engaged	Blast-Surround-Push	
+694	Aurora Veil	Ice	RANGLT	20	0	Medium	Physical Resistance-Special Resistance-Blast-Surround	
+695	Sinister Arrow Raid	Ghost	MELEE	1	17	Self		
+696	Malicious Moonsault	Dark	MELEE	1	17	Self		
+697	Oceanic Operetta	Water	RANGLT	1	18	Self		
+698	Guardian of Alola	Fairy	RANGLT	1	0	Self		
+699	Soul-Stealing 7-Star Strike	Ghost	MELEE	1	18	Self		
+700	Stoked Sparksurfer	Electric	RANGLT	1	16	Self		
+701	Pulverizing Pancake	Normal	MELEE	1	20	Self		
+702	Extreme Evoboost	Normal	MELEE	1	0	Self		
+703	Genesis Supernova	Psychic	RANGLT	1	17	Self		
+704	Shell Trap	Fire	RANGLT	5	14	Short		This Move fails if the target has not yet acted this round
+705	Fleur Cannon	Fairy	RANGLT	5	12	Short	Wax 2-Inaccurate 1	
+706	Psychic Fangs	Psychic	MELEE	10	7	Engaged	Shatter-Break	
+707	Stomping Tantrum	Ground	MELEE	10	6	Engaged		Base damage for this move is doubled if the users last  Move check failed
+708	Shadow Bone	Ghost	MELEE	10	7	Short	Erode 1	
+709	Accelerock	Rock	MELEE	20	3	Engaged	Quickness	
+710	Liquidation	Water	MELEE	10	7	Engaged	Erode 1	
+711	Prismatic Laser	Psychic	RANGLT	10	15	Short	Tiring	
+712	Spectral Thief	Ghost	MELEE	10	8	Engaged		This Move gains Properties based on any possitive temp stat changes tthe targete has. These Properties cost 1 less to activate.
+713	Sunsteel Strike	Steel	MELEE	5	9	Engaged		Ignore the target's Abilities that would lower this Move's damage
+714	Moongeist Beam	Ghost	RANGLT	5	9	Short		Ignore the target's Abilities that would lower this Move's damage
+715	Tearful Look	Normal	MELEE	20	0	Engaged	Dull 1-Wane 1-Crosshair	
+716	Zing Zap	Electric	MELEE	10	7	Engaged	Flinch	
+717	Nature's Madness	Fairy	RANGLT	10	0	Short		Base damage for this Move is target wound threshohld minus their currrent wounds divided by two rounded down.
+718	Multi-Attack	Normal	MELEE	10	11	Engaged		
+719	10,000,000 Volt Thunderbolt	Electric	RANGLT	1	18	Self		
+720	Mind Blown	Fire	RANGLT	5	14	Short	Sacrificial 8	
+721	Plasma Fists	Electric	MELEE	15	9	Engaged		Until the end of the round all Normal Type Moves Become Electric Type
+722	Photon Geyser	Psychic	RANGLT	5	9	Short		Ignore the target's Abilities that would lower this Move's damage
+723	Light That Burns the Sky	Psychic	RANGLT	1	19	Self		
+724	Searing Sunraze Smash	Steel	MELEE	1	19	Self		
+725	Menacing Moonraze Maelstrom	Ghost	RANGLT	1	19	Self		
+726	Let's Snuggle Forever	Fairy	MELEE	1	18	Self		
+727	Splintered Stormshards	Rock	MELEE	1	18	Self		
+728	Clangorous Soulblaze	Dragon	RANGLT	1	17	Self		
+729	Zippy Zap	Electric	MELEE	10	7	Engaged	Quickness-Accurate 1	
+730	Splishy Splash	Water	RANGLT	15	8	Short	Paralyze	
+731	Floaty Fall	Flying	MELEE	15	8	Engaged	Flinch-Inaccurate 1	
+732	Pika Papow	Electric	RANGLT	20	0	Short	Crosshair-Loyal	
+733	Bouncy Bubble	Water	RANGLT	20	5	Short	Drain	
+734	Buzzy Buzz	Electric	RANGLT	20	5	Short	Paralyze	
+735	Sizzly Slide	Fire	MELEE	20	5	Engaged	Burn	
+736	Glitzy Glow	Psychic	RANGLT	15	7	Short	Shatter-Inaccurate 1	
+737	Baddy Bad	Dark	RANGLT	15	7	Short	Break-Inaccurate 1	
+738	Sappy Seed	Grass	MELEE	10	9	Short	Drain-Dot-Inaccurate 1	
+739	Freezy Frost	Ice	RANGLT	10	9	Short	Inaccurate 1	Remove all temp Stat changes from the user and target
+740	Sparkly Swirl	Fairy	RANGLT	5	11	Short	Cleanse-Inaccurate 2	
+741	Veevee Volley	Normal	MELEE	20	0	Engaged	Crosshair-Loyal	
+742	Double Iron Bash	Steel	MELEE	5	5	Engaged	Squish-Linked 2-Flinch	
+743	Max Guard	Normal	RANGLT	10	0	Self	Shield-Quickness	
+744	Dynamax Cannon	Dragon	RANGLT	5	9	Short		
+745	Snipe Shot	Water	RANGLT	15	7	Short	Critical	Ignores the Taunted condition
+746	Jaw Lock	Dark	MELEE	10	7	Engaged	Hold-Trap	
+747	Stuff Cheeks	Normal	MELEE	10	0	Self	Fortify 2	This Move has the Locked Out Property if the user does not have a berry. Consume your held item.
+748	No Retreat	Fighting	RANGLT	5	0	Self	Hone 1-Fortify 1-Wax 1-Encourage 1-Haste 1	User gain the Trapped condition
+749	Tar Shot	Rock	RANGLT	15	0	Short	Slow 1	Target gains weakness to Fire Type
+750	Magic Powder	Psychic	MELEE	20	0	Short		Target loses its typing and becomes Psychic Type
+751	Dragon Darts	Dragon	MELEE	10	4	Short	Link 2	
+752	Teatime	Normal	MELEE	10	0	Battlefield		All Pokes eat their berries
+753	Octolock	Fighting	MELEE	15	0	Short	Hold-Trap-Erode 1-Discourage 1	
+754	Bolt Beak	Electric	MELEE	10	7	Engaged	Cut Off	
+755	Fishious Rend	Water	MELEE	10	7	Engaged	Cut Off	
+756	Court Change	Normal	RANGLT	10	0	Self		
+757	Max Flare	Fire	MELEE	10	0	Self		
+758	Max Flutterby	Bug	MELEE	10	0	Self		
+759	Max Lightning	Electric	MELEE	10	0	Self		
+760	Max Strike	Normal	MELEE	10	0	Self		
+761	Max Knuckle	Fighting	MELEE	10	0	Self		
+762	Max Phantasm	Ghost	MELEE	10	0	Self		
+763	Max Hailstorm	Ice	MELEE	10	0	Self		
+764	Max Ooze	Poison	MELEE	10	0	Self		
+765	Max Geyser	Water	MELEE	10	0	Self		
+766	Max Airstream	Flying	MELEE	10	0	Self		
+767	Max Starfall	Fairy	MELEE	10	0	Self		
+768	Max Wyrmwind	Dragon	MELEE	10	0	Self		
+769	Max Mindstorm	Psychic	MELEE	10	0	Self		
+770	Max Rockfall	Rock	MELEE	10	0	Self		
+771	Max Quake	Ground	MELEE	10	0	Self		
+772	Max Darkness	Dark	MELEE	10	0	Self		
+773	Max Overgrowth	Grass	MELEE	10	0	Self		
+774	Max Steelspike	Steel	MELEE	10	0	Self		
+775	Clangorous Soul	Dragon	RANGLT	5	0	Self	Vocal-Sacrificial 5-Hone 1-Haste 1-Wax 1-Fortify 1-Encourage 1	
+776	Body Press	Fighting	MELEE	10	7	Engaged		This Move uses Defence instead of Attack for its Move check
+777	Decorate	Fairy	MELEE	15	0	Short	Hone 2-Wax 2	
+778	Drum Beating	Grass	MELEE	10	7	Short	Slow 1	
+779	Snap Trap	Grass	MELEE	15	2	Engaged	Dot 5	
+780	Pyro Ball	Fire	MELEE	5	11	Short	Projectile-Burn-Inaccurrate 1	
+781	Behemoth Blade	Steel	MELEE	5	9	Engaged		
+782	Behemoth Bash	Steel	MELEE	5	9	Engaged		
+783	Aura Wheel	Electric	MELEE	10	10	Short	Haste 1	
+784	Breaking Swipe	Dragon	MELEE	15	5	Engaged	Blast-Dull 1	
+785	Branch Poke	Grass	MELEE	40	3	Engaged	Pierce 1	
+786	Overdrive	Electric	RANGLT	10	7	Short	Blast-Surround-Vocal	
+787	Apple Acid	Grass	RANGLT	10	7	Short	Discourage	
+788	Grav Apple	Grass	MELEE	10	7	Short	Erode 1	If target has the grounded condition double the  base damage of this Move
+789	Spirit Break	Fairy	MELEE	15	6	Engaged	Wane1	
+790	Strange Steam	Fairy	RANGLT	10	8	Short	Confuse-Inaccurate 1	
+791	Life Dew	Water	RANGLT	10	4	Medium	Heal-Blast-Surround	
+792	Obstruct	Dark	MELEE	10	0	Self	Shield	
+793	False Surrender	Dark	MELEE	10	7	Engaged	Crosshair	
+794	Meteor Assault	Fighting	MELEE	5	14	Short	Tiring-Inaccurate 1	
+795	Eternabeam	Dragon	RANGLT	5	15	Short	Tiring-Inaccurate 1	
+796	Steel Beam	Steel	RANGLT	5	13	Short	Sacrificial 8-Inaccurate 1	
+797	Expanding Force	Psychic	RANGLT	10	7	Short		In Psychic Terrain this move gains the Blast Property
+798	Steel Roller	Steel	MELEE	5	12	Engaged	Spin	Remove any Terrain or Modifier type Battlefield effects
+799	Scale Shot	Dragon	MELEE	20	2	Short	Linked 5-Inaccurate 1	
+800	Meteor Beam	Rock	RANGLT	10	11	Short		
+801	Shell Side Arm	Poison	RANGLT	10	8	Short	Poison	
+802	Misty Explosion	Fairy	RANGLT	5	9	Short	Sacrificial-Blast	In Misty Terrain base damage in increased by 5
+803	Grassy Glide	Grass	MELEE	20	6	Engaged		In Grassy Terrain this move gains the Quickness Property
+804	Rising Voltage	Electric	RANGLT	20	6	Short		Base damage for this Move is Doubled in Electric Terrain
+805	Terrain Pulse	Normal	RANGLT	10	4	Short		This Move's Type Changes to match the any Terrain effecting the battlefield.
+806	Skitter Smack	Bug	MELEE	10	6	Engaged	Wane 1-Inaccurate 1	
+807	Burning Jealousy	Fire	RANGLT	5	6	Short	Blast-Burn	
+808	Lash Out	Dark	MELEE	5	6	Engaged		This Move deals double damage if any of the user's Stats are lower that the target's
+809	Poltergeist	Ghost	MELEE	5	10	Short	Inaccurate 1	This Move fails if the target is not holding an item
+810	Corrosive Gas	Poison	RANGLT	40	0	Short	Disarm-Surround	
+811	Coaching	Fighting	MELEE	10	0	Medium	Fortify 1-Hone 1-Blast-Surround	
+812	Flip Turn	Water	MELEE	20	5	Engaged	Retreat	
+813	Triple Axel	Ice	MELEE	10	2	Engaged	Linked 3-Inaccurate 1	
+814	Dual Wingbeat	Flying	MELEE	10	3	Engaged	Linked 2-Inaccurate 1	
+815	Scorching Sands	Ground	RANGLT	10	6	Burn		
+816	Jungle Healing	Grass	RANGLT	10	4	Medium	Heal-Cleanse	
+817	Wicked Blow	Dark	MELEE	5	7	Engaged	Accurate 2	
+818	Surging Strikes	Water	MELEE	5	2	Engaged	Linked 3	
+819	Thunder Cage	Electric	RANGLT	15	7	Short	Dot 5-Inaccurate 1	
+820	Dragon Energy	Dragon	RANGLT	5	14	Short	Atrophy	
+821	Freezing Glare	Psychic	RANGLT	10	8	Short	Freeze	
+822	Fiery Wrath	Dark	RANGLT	10	8	Short	Flinch	
+823	Thunderous Kick	Fighting	MELEE	10	8	Engaged	Erode 1	
+824	Glacial Lance	Ice	MELEE	5	12	Short	Blast	
+825	Astral Barrage	Ghost	RANGLT	5	11	Short	Blast	
+826	Eerie Spell	Psychic	RANGLT	5	7	Short	Vocal-Pointless	
+827	Dire Claw	Poison	MELEE	15	5	Engaged	Critical-Sleep-Paralyze-Poison	
+828	Psyshield Bash	Psychic	MELEE	10	6	Engaged	Fortify 1-Inaccurate 1	
+829	Power Shift	Normal	RANGLT	10	0	Self		Switch users Attack with Defence and Special Attack with Special Defence
+830	Stone Axe	Rock	MELEE	15	5	Engaged	Sharp-Critical-Dot 4-Hazzard-Inaccurate 1	Stealth Rock
+831	Springtide Storm	Fairy	RANGLT	5	8	Short	Inaccurate 2	Target's Attack and Defence Stats are swapped
+832	Mystical Power	Psychic	RANGLT	10	6	Short	Wax 1-Inaccurate 1	
+833	Raging Fury	Fire	MELEE	10	8	Short	Locked In 3	
+834	Wave Crash	Water	MELEE	10	6	Recoil 3-Haste 1		
+835	Chloroblast	Grass	RANGLT	5	11	Short	Sacrificial 8-Inaccurate 1	
+836	Mountain Gale	Ice	MELEE	5	9	Short	Flinch-Slow 1-Inaccurate 2	
+837	Victory Dance	Fighting	RANGLT	10	0	Self	Dancing-Hone 1-Haste 1-Fortify 1	
+838	Headlong Rush	Ground	MELEE	5	9	Engaged	Erode 1-Discourage 1	
+839	Barb Barrage	Poison	MELEE	15	5	Short	Poison-Exploit	
+840	Esper Wing	Psychic	RANGLT	10	6	Short	Critical-Haste 1	
+841	Bitter Malice	Ghost	RANGLT	15	5	Short	Dull 1	
+842	Shelter	Steel	MELEE	10	0	Self	Fortify 2	
+843	Triple Arrows	Fighting	MELEE	15	4	Short	Critical-Fortify 1-Flinch	
+844	Infernal Parade	Ghost	RANGLT	15	5	Short	Burn	
+845	Ceaseless Edge	Dark	MELEE	15	5	Engaged	Sharp-Critical-Inaccurate 1-Dot 4-Hazzard	Spikes
+846	Bleakwind Storm	Flying	RANGLT	5	8	Short	Blast-Slow 1-Inaccurate 2	This Move gains the Crosshair Property durring Rain or Heavy Rain
+847	Wildbolt Storm	Electric	RANGLT	5	8	Short	Blast-Paralyse-Inaccurate 2	This Move gains the Crosshair Property durring Rain or Heavy Rain
+848	Sandsear Storm	Ground	RANGLT	5	8	Short	Blast-Burn-Inaccurate 2	This Move gains the Crosshair Property durring Rain or Heavy Rain
+849	Lunar Blessing	Psychic	RANGLT	10	4	Medium	Heal-Cleanse-Blast-Surround	
+850	Take Heart	Psychic	MELEE	10	0	Self	Cleanse-Hone 1-Wax 1	
+851	Tera Blast	Normal	RANGLT	10	7	Self		
+852	Silk Trap	Bug	MELEE	10	0	Self	Shield-Quickness	
+853	Axe Kick	Fighting	MELEE	10	11	Engaged	Confuse-Unsafe-Inaccurate 1	
+854	Last Respects	Ghost	MELEE	10	4	Short		
+855	Lumina Crash	Psychic	RANGLT	10	7	Short	Discourage 2	
+856	Order Up	Dragon	MELEE	10	7	Engaged		
+857	Jet Punch	Water	MELEE	15	5	Engaged	Quickness	
+858	Spicy Extract	Grass	MELEE	15	0	Self	Hone 2-Erode 2	
+859	Spin Out	Steel	MELEE	5	9	Engaged	Spin-Slow 2	
+860	Population Bomb	Normal	MELEE	10	2	Engaged	Sharp-Linked 10	
+861	Ice Spinner	Ice	MELEE	15	7	Engaged		Remove Terrain type Battlfield effects
+862	Glaive Rush	Dragon	MELEE	5	11	Engaged		User takes double damage until their next turn
+863	Revival Blessing	Normal	RANGLT	1	0	Battlefield		Choose a Poke that fainted this battle, They are revived set their wounds to zero
+864	Salt Cure	Rock	MELEE	15	3	Short	Dot	Base damage of this move is doubled if the target is Steel or Water Type
+865	Triple Dive	Water	MELEE	10	2	Engaged	Linked 3	
+866	Mortal Spin	Poison	MELEE	15	2	Engaged	Spin-Cleanse-Poison	
+867	Doodle	Normal	MELEE	10	0	Short		User loses their abilities and gains the target's. Target loses their abilities and gains those lost by the user.
+868	Fillet Away	Normal	MELEE	10	0	Self	Sacrificial 8-Hone 2-Wax 2-Haste 2	
+869	Kowtow Cleave	Dark	MELEE	10	7	Engaged	Sharp-Crosshair	
+870	Flower Trick	Grass	MELEE	10	6	Short	Critical-Accurate 1-Crosshairs	
+871	Torch Song	Fire	RANGLT	10	7	Short	Vocal-Wax 1	
+872	Aqua Step	Water	MELEE	10	7	Engaged	Haste 1	
+873	Raging Bull	Normal	MELEE	10	8	Engaged	Shatter-Break	
+874	Make It Rain	Steel	RANGLT	5	11	Short	Wane 1-Blast-Scatter	
+875	Psyblade	Psychic	MELEE	15	7	Engaged	Sharp	In Electric Terrain double this Move's base damage
+876	Hydro Steam	Water	RANGLT	15	7	Short		This Move is not effected by Weather
+877	Ruination	Dark	RANGLT	10	15	Short	Opener-Inaccurate 1	
+878	Collision Course	Fighting	MELEE	5	9	Engaged	Squish	
+879	Electro Drift	Electric	RANGLT	5	9	Engaged		
+880	Shed Tail	Normal	MELEE	10	0	Engaged	Retreat	Target does not suffer wounds from the next successful Move check useed against you.
+881	Chilly Reception	Ice	RANGLT	10	0	Battlefield	Hazard-Retreat	Hail
+882	Tidy Up	Normal	MELEE	10	0	Self	Hone 1-Haste 1	Remove any Entry Hazards from the battlefield
+883	Snowscape	Ice	RANGLT	10	0	Hazard	Hail	
+884	Pounce	Bug	MELEE	20	4	Engaged	Slow 1	
+885	Trailblaze	Grass	MELEE	20	4	Engaged	Haste 1	
+886	Chilling Water	Water	RANGLT	20	4	Short	Dull 1	
+887	Hyper Drill	Normal	MELEE	5	9	Engaged	Pierce 1	This Move ignores the Shielded condition
+888	Twin Beam	Psychic	RANGLT	10	3	Short	Linked 2	
+889	Rage Fist	Ghost	MELEE	10	4	Engaged	Bloody	
+890	Armor Cannon	Fire	RANGLT	5	11	Short	Erode 1-Discourage 1	
+891	Bitter Blade	Fire	MELEE	10	8	Engaged	Sharp-Drain	
+892	Double Shock	Electric	MELEE	5	11	Short		User loses their Electric Type. This Move has the Locked Out Property if the user is not Electric Type
+893	Gigaton Hammer	Steel	MELEE	5	15	Engaged	Squish-Push	Cannot be used two turns in a row
+894	Comeuppance	Dark	MELEE	10	0	Short	Retribution	
+895	Aqua Cutter	Water	MELEE	20	6	Short	Sharp-Critical-Pierce 1-Surround	
+896	Blazing Torque	Fire	MELEE	10	7	Short	Burn	
+897	Wicked Torque	Dark	MELEE	10	7	Short	Sleep	
+898	Noxious Torque	Poison	MELEE	10	9	Short	Poison	
+899	Combat Torque	Fighting	MELEE	10	9	Short	Paralyze	
+900	Magical Torque	Fairy	MELEE	10	9	Short	Confuse	

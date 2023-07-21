@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "convert:gear": "node bin/converter.js GEAR",
+    "convert:weapon": "node bin/converter.js WEAPON",
     "convert:itemmodifier": "node bin/converter.js ITEMMODIFIER",
     "copy": "node bin/copier.js"
   },

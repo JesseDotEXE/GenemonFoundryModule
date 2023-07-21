@@ -39,3 +39,6 @@ actual SWFFG types which we can key off of for placing in custom character sheet
 # Importer Images
 So images are wierd and need to be placed into a specific folder path. The "OggDudeDataFull" folder gives examples.
 
+# Weapon Importer
+Weapons require the skill list to be in the import directory otherwise it will crash and burn.
+
