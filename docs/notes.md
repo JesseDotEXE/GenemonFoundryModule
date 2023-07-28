@@ -42,3 +42,13 @@ So images are wierd and need to be placed into a specific folder path. The "OggD
 # Weapon Importer
 Weapons require the skill list to be in the import directory otherwise it will crash and burn.
 
+# Pokemon Importer
+Character portraits are imported as base64 strings. I'll need to have the images somewhere to convert to base64 and then let the script upload to the game world.
+
+They also seem to be savable as ```character.img = `${serverPath}/${characterData.Character.Key}.png`;```
+
+There is a bug with weapons that the qualities appear but break. Players will need to re-add attacks to Pokemon.
+
+Pokemon should have blank Specialization, Species, and Career items (unless Morgan wants it in).
+* Checkout the Pikachu - Pokemon.xml file for details.
+
