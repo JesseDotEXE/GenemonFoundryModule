@@ -35,7 +35,7 @@ const parseFile = async (fileName) => {
 
 const createFoundryDataKey = (objectName) => {
     const prefix = `GEN`; // At some point we might need this to be more unique.
-    return `${prefix}${toUpper(replace(objectName, ' ', ''))}`; // Make sure to make all caps and strip whitespace.
+    return `${prefix}${toUpper(replace(objectName, /\s/g, ''))}`; // Make sure to make all caps and strip whitespace.
 };
 
 const buildSwffgGearObject = (objectData) => {

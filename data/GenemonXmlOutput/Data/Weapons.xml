@@ -4010,7 +4010,7 @@
     <Description> 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Fighting]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
-    <Key>GENHIGHJUMP KICK</Key>
+    <Key>GENHIGHJUMPKICK</Key>
     <ElementType>Fighting</ElementType>
     <Crit>0</Crit>
     <Encumbrance>0</Encumbrance>
@@ -4846,7 +4846,7 @@
     <Description>You do not suffer wounds from the next successful Move check useed against you. 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Normal]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
-    <Key>GENYOUDO NOT SUFFER WOUNDS FROM THE NEXT SUCCESSFUL MOVE CHECK USED AGAINST YOU.</Key>
+    <Key>GENYOUDONOTSUFFERWOUNDSFROMTHENEXTSUCCESSFULMOVECHECKUSEDAGAINSTYOU.</Key>
     <ElementType>Normal</ElementType>
     <Crit>0</Crit>
     <Encumbrance>0</Encumbrance>
@@ -13354,7 +13354,7 @@
     <Description> 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Dragon]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
-    <Key>GENROAROF TIME</Key>
+    <Key>GENROAROFTIME</Key>
     <ElementType>Dragon</ElementType>
     <Crit>0</Crit>
     <Encumbrance>0</Encumbrance>
@@ -14137,7 +14137,7 @@
     <Range>Short</Range>
     <Qualities>
       <Quality>
-        <Key>GENTARGETLOSES ONE OF ITS ABILITIES AT RANDOM AND GAINS  THE ABILITY SIMPLE FOR THE REST OF THE BATTLE. IF THE ABILITY THAT WOULD BE LOST IS SIMPLE THE TARGET CHOOSES ANOTHER ABILTY THATT ABILITY CANNOT BE SIMPLE.</Key>
+        <Key>GENTARGETLOSESONEOFITSABILITIESATRANDOMANDGAINSTHEABILITYSIMPLEFORTHERESTOFTHEBATTLE.IFTHEABILITYTHATWOULDBELOSTISSIMPLETHETARGETCHOOSESANOTHERABILTYTHATTABILITYCANNOTBESIMPLE.</Key>
       </Quality>
     </Qualities>
     <Description>Base damage is equal to (User's speed - Target's speed) * 2 
@@ -17917,7 +17917,7 @@
     <Description> 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Fairy]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
-    <Key>GENLIGHTOF RUIN</Key>
+    <Key>GENLIGHTOFRUIN</Key>
     <ElementType>Fairy</ElementType>
     <Crit>0</Crit>
     <Encumbrance>0</Encumbrance>
@@ -18895,7 +18895,7 @@
     <Description> 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Dark]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
-    <Key>GENBLACKHOLE ECLIPSE</Key>
+    <Key>GENBLACKHOLEECLIPSE</Key>
     <ElementType>Dark</ElementType>
     <Crit>0</Crit>
     <Encumbrance>0</Encumbrance>
@@ -18921,7 +18921,7 @@
     <Description> 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Dark]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
-    <Key>GENBLACKHOLE ECLIPSE</Key>
+    <Key>GENBLACKHOLEECLIPSE</Key>
     <ElementType>Dark</ElementType>
     <Crit>0</Crit>
     <Encumbrance>0</Encumbrance>
@@ -20024,7 +20024,7 @@
     <Description> 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Ghost]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
-    <Key>GENSINISTERARROW RAID</Key>
+    <Key>GENSINISTERARROWRAID</Key>
     <ElementType>Ghost</ElementType>
     <Crit>0</Crit>
     <Encumbrance>0</Encumbrance>
@@ -20102,7 +20102,7 @@
     <Description> 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Fairy]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
-    <Key>GENGUARDIANOF ALOLA</Key>
+    <Key>GENGUARDIANOFALOLA</Key>
     <ElementType>Fairy</ElementType>
     <Crit>0</Crit>
     <Encumbrance>0</Encumbrance>
@@ -20128,7 +20128,7 @@
     <Description> 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Ghost]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
-    <Key>GENSOUL-STEALING7-STAR STRIKE</Key>
+    <Key>GENSOUL-STEALING7-STARSTRIKE</Key>
     <ElementType>Ghost</ElementType>
     <Crit>0</Crit>
     <Encumbrance>0</Encumbrance>
@@ -20666,7 +20666,7 @@
     <Description> 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Electric]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
-    <Key>GEN10,000,000VOLT THUNDERBOLT</Key>
+    <Key>GEN10,000,000VOLTTHUNDERBOLT</Key>
     <ElementType>Electric</ElementType>
     <Crit>0</Crit>
     <Encumbrance>0</Encumbrance>
@@ -20771,7 +20771,7 @@
     <Description> 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Psychic]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
-    <Key>GENLIGHTTHAT BURNS THE SKY</Key>
+    <Key>GENLIGHTTHATBURNSTHESKY</Key>
     <ElementType>Psychic</ElementType>
     <Crit>0</Crit>
     <Encumbrance>0</Encumbrance>
@@ -20797,7 +20797,7 @@
     <Description> 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Steel]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
-    <Key>GENSEARINGSUNRAZE SMASH</Key>
+    <Key>GENSEARINGSUNRAZESMASH</Key>
     <ElementType>Steel</ElementType>
     <Crit>0</Crit>
     <Encumbrance>0</Encumbrance>
@@ -20823,7 +20823,7 @@
     <Description> 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Ghost]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
-    <Key>GENMENACINGMOONRAZE MAELSTROM</Key>
+    <Key>GENMENACINGMOONRAZEMAELSTROM</Key>
     <ElementType>Ghost</ElementType>
     <Crit>0</Crit>
     <Encumbrance>0</Encumbrance>
@@ -20849,7 +20849,7 @@
     <Description> 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Fairy]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
-    <Key>GENLET'SSNUGGLE FOREVER</Key>
+    <Key>GENLET'SSNUGGLEFOREVER</Key>
     <ElementType>Fairy</ElementType>
     <Crit>0</Crit>
     <Encumbrance>0</Encumbrance>
@@ -21306,7 +21306,7 @@
     <Description> 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Steel]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
-    <Key>GENDOUBLEIRON BASH</Key>
+    <Key>GENDOUBLEIRONBASH</Key>
     <ElementType>Steel</ElementType>
     <Crit>0</Crit>
     <Encumbrance>0</Encumbrance>
@@ -22957,7 +22957,7 @@
     <Description> 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poison]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
-    <Key>GENSHELLSIDE ARM</Key>
+    <Key>GENSHELLSIDEARM</Key>
     <ElementType>Poison</ElementType>
     <Crit>0</Crit>
     <Encumbrance>0</Encumbrance>
@@ -25108,7 +25108,7 @@
     <Description> 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Steel]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
-    <Key>GENMAKEIT RAIN</Key>
+    <Key>GENMAKEITRAIN</Key>
     <ElementType>Steel</ElementType>
     <Crit>0</Crit>
     <Encumbrance>0</Encumbrance>

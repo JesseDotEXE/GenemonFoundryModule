@@ -161,7 +161,7 @@
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Gear]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>100</Price>
-    <Key>GENFLINTAND STEEL</Key>
+    <Key>GENFLINTANDSTEEL</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1536,7 +1536,7 @@
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Held Item]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>3000</Price>
-    <Key>GENNEVERMELT ICE</Key>
+    <Key>GENNEVERMELTICE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -4396,7 +4396,7 @@
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Ability]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>0</Price>
-    <Key>GENBEADSOF RUIN</Key>
+    <Key>GENBEADSOFRUIN</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -5023,7 +5023,7 @@
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Ability]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>0</Price>
-    <Key>GENFULLMETAL BODY</Key>
+    <Key>GENFULLMETALBODY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -5078,7 +5078,7 @@
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Ability]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>0</Price>
-    <Key>GENGOODAS GOLD</Key>
+    <Key>GENGOODASGOLD</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -6068,7 +6068,7 @@
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Ability]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>0</Price>
-    <Key>GENPOWEROF ALCHEMY</Key>
+    <Key>GENPOWEROFALCHEMY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -6981,7 +6981,7 @@
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Ability]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>0</Price>
-    <Key>GENSWORDOF RUIN</Key>
+    <Key>GENSWORDOFRUIN</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -7014,7 +7014,7 @@
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Ability]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>0</Price>
-    <Key>GENTABLETSOF RUIN</Key>
+    <Key>GENTABLETSOFRUIN</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -7256,7 +7256,7 @@
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Ability]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>0</Price>
-    <Key>GENVESSELOF RUIN</Key>
+    <Key>GENVESSELOFRUIN</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -7454,7 +7454,7 @@
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Ability]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>0</Price>
-    <Key>GENZEROTO HERO</Key>
+    <Key>GENZEROTOHERO</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
