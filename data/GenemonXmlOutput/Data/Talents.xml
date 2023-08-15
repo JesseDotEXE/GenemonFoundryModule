@@ -1,0 +1,2955 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Talents>
+  <Talent>
+    <Name>Toughness [Shared]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Wound threshhold  increases by 2 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Shared]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Shared]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENTOUGHNESS</Key>
+  </Talent>
+  <Talent>
+    <Name>Grit [Shared]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Strain threshhold increases by 2 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Shared]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Shared]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENGRIT</Key>
+  </Talent>
+  <Talent>
+    <Name>Dedication [Shared]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Increase a Characteristic/Stat by 1 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Shared]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Shared]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDEDICATION</Key>
+  </Talent>
+  <Talent>
+    <Name>Power [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Damaging Moves that recieves STAB with Type matching the specialization this talent is in are upgraded once 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPOWER</Key>
+  </Talent>
+  <Talent>
+    <Name>Stay [Trainer]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When a poke would disengage from one of your pokes. Your Poke may take 2 strain as an out of turn incedental. If they do the enemy poke must succeed a average resilience check or is unable to move until the end of their turn. They do not lose their maneuver. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSTAY</Key>
+  </Talent>
+  <Talent>
+    <Name>Status More Effective [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Status Effects that match the Type of the Specializtion this is taken in cost 1 less to inflict 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSTATUSMORE EFFECTIVE</Key>
+  </Talent>
+  <Talent>
+    <Name>Break [Trainer]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you can ignore an Enemy Pokemons abililty that would reduce damage you would deal. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBREAK</Key>
+  </Talent>
+  <Talent>
+    <Name>Percise Aim [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>When one of your Pokes is targeting a Poke in engaged range of an ally add a Blue for each rank of Percise Aim 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPERCISEAIM</Key>
+  </Talent>
+  <Talent>
+    <Name>Piercing Strike [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>For each rank of Piercing Strike add pierce 1 for to moves that have 3 or less base damage if it already has pierce increase its rank by 1 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPIERCINGSTRIKE</Key>
+  </Talent>
+  <Talent>
+    <Name>Utility [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Non-damaging Moves that recieves STAB with Type matching the specialization this talent is in are upgraded once 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENUTILITY</Key>
+  </Talent>
+  <Talent>
+    <Name>Improved Utilization [Trainer]</Name>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Increase the rank of a Property on a non-damageing Move whos type matches the specailization this was taken in by 1 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENIMPROVEDUTILIZATION</Key>
+  </Talent>
+  <Talent>
+    <Name>Easier Utilization [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When a Poke with Type matching the specialization this talent was taken in uses non-damaging Moves that recieves STAB they may use 3 uncannceleld successes for a free activation of a Property 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEASIERUTILIZATION</Key>
+  </Talent>
+  <Talent>
+    <Name>Adaptaion [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Checks to overcome envirmental challenges or effects matching the specialization this talent was taken in have their difficulty reduced by 1 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENADAPTAION</Key>
+  </Talent>
+  <Talent>
+    <Name>Hit and Run [Trainer]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When your Pokes with Type matching the Specailization in which this talent was taken uses a manuver to move followed by Move with range of engaged. They gain a free manuver that can only be used to disengage as an incedental. This does not count against your two manuver per turn limit. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHITAND RUN</Key>
+  </Talent>
+  <Talent>
+    <Name>Uncanny Reactions [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Add a blue per rank of Uncanny reactionsto all vigilence checks 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENUNCANNYREACTIONS</Key>
+  </Talent>
+  <Talent>
+    <Name>Healer [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Moves with Typing that matches the Specialization in which this Talent was taken that gain STAB and have the Heal property are upgraded once 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHEALER</Key>
+  </Talent>
+  <Talent>
+    <Name>Scavenger [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You are more likly to find berries in the wilderness 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSCAVENGER</Key>
+  </Talent>
+  <Talent>
+    <Name>Envirmentally Unfriendly [Trainer]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you may spend a story point to add an envirmental hazzard to the sceen. Type of hazzard is at GMs discression. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENENVIRMENTALLYUNFRIENDLY</Key>
+  </Talent>
+  <Talent>
+    <Name>Ethereal Hand [Trainer]</Name>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>You may move 1 object within short range up to 1 range band. The objects weight can be no move than 1 KG per rank of this talent. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENETHEREALHAND</Key>
+  </Talent>
+  <Talent>
+    <Name>One With Nature [Trainer]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You may use Survival instead of cool or disiple to recover strain at the end of a scene 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENONEWITH NATURE</Key>
+  </Talent>
+  <Talent>
+    <Name>Perticular [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Gain 2 Blue on capture checks targeting Pokes way is Type match the specialization in which this talent was taken 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPERTICULAR</Key>
+  </Talent>
+  <Talent>
+    <Name>Proper Upbringing [Trainer]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Gain advantage to social battle rolls equal to your ranks in Proper Upbringing 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPROPERUPBRINGING</Key>
+  </Talent>
+  <Talent>
+    <Name>Natural [Trainer]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>When you select this talent choose two skills. Once persession you may reroll a check that uses one of the selected skills. If you take this talent multiple times select two new skills each time. You never gain more than one reroll each session but you can choose from any of the chosen skills. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENNATURAL</Key>
+  </Talent>
+  <Talent>
+    <Name>Nobody's Fool [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Upgrade the dificulty of Charm, Coersion, and Deception checks against you once per rank of Nobody's Fool 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENNOBODY'SFOOL</Key>
+  </Talent>
+  <Talent>
+    <Name>Intimidating [Trainer]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>When attempting a Coercion check, the character may suffer a number of strain to downgrade the difficulty of the check a number of times equal to the strain suffered. This number cannot exceed your ranks in Intimidating. When you are the target of a Coercion check, you may suffer a number of strain to upgrade the difficulty of the check a number of times equal to the strain suffered. This number cannot exceed your ranks in Intimidating 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENINTIMIDATING</Key>
+  </Talent>
+  <Talent>
+    <Name>Heightened Awareness [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Allies within short range of your character add blue to their Perception and Vigilance checks. Allies engaged with your character add two blue instead 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHEIGHTENEDAWARENESS</Key>
+  </Talent>
+  <Talent>
+    <Name>Fine Tuning [Trainer]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>When attempting a Mechanics check, you may suffer a number of strain to gain a blue up to a number of times equal to the strain suffered. This number cannot exceed your ranks in Fine Tuning. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFINETUNING</Key>
+  </Talent>
+  <Talent>
+    <Name>Quiet Entry [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Remove one setback die per rank on computers, skulduggery, and stealth checks when entering or moving through hostile territory. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENQUIETENTRY</Key>
+  </Talent>
+  <Talent>
+    <Name>Convincing Demeanor [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Remove one setback die per rank on deception and scullduggery checks. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENCONVINCINGDEMEANOR</Key>
+  </Talent>
+  <Talent>
+    <Name>Persisteance [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Pokes whos Type matches the specialization this talent is in upgrades Resolve and Resilience checks once 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPERSISTEANCE</Key>
+  </Talent>
+  <Talent>
+    <Name>AoO [Trainer]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>If an enemy leaves disengages with one of your Pokes whos Type matches the specialization this talent was taken in your Poke may make an average dificulty Brawl check against them if it suceeds your poke deals their Attaks or Special Attack, which ever is higher, as damage to the enemy attempting to disengage, this damage is resisted by every Poke. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENAOO</Key>
+  </Talent>
+  <Talent>
+    <Name>Stout [Trainer]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>When one of your Pokes is hit by a Move using the Arcana Skill you may take 4 strain to reduce the damage they take by the number to ranks you have in Stout plus one. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSTOUT</Key>
+  </Talent>
+  <Talent>
+    <Name>Durable [Trainer]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>When one of your Pokes is hit by a Move using the Brawl Skill you may take 4 strain to reduce the damage they take by the number to ranks you have in Durable plus one. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDURABLE</Key>
+  </Talent>
+  <Talent>
+    <Name>Status Less Effective [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Status Effects that are the oppposite of the Type of the Specializtion this is taken in cost 1 more to inflict 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSTATUSLESS EFFECTIVE</Key>
+  </Talent>
+  <Talent>
+    <Name>Improved Constitution [Trainer]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When one of your Pokes is targeted but a non-damaging Move you may take 2 strain to upgrade the difficulty of the check. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENIMPROVEDCONSTITUTION</Key>
+  </Talent>
+  <Talent>
+    <Name>Improved Armor [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Pokes whos Type match the specialization this talent was taken in are immune to the Open Chink Property 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENIMPROVEDARMOR</Key>
+  </Talent>
+  <Talent>
+    <Name>Worker [Trainer]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When your Poke whos Type matches the specailiztion in which it was taken attempts a Status Effect check They gain and additional advantage. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENWORKER</Key>
+  </Talent>
+  <Talent>
+    <Name>Hardpan [Trainer- Rock]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When one of your Rock Type Pokes are targeted by a Move that has the Drain Property Upgrade the dificulty 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Rock]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Rock]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHARDPAN</Key>
+  </Talent>
+  <Talent>
+    <Name>Rock head [Trainer- Rock]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When one of your Rock Type pokes receives wounds from a Move with the Recoil Property they recieve 1 less wound 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Rock]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Rock]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENROCKHEAD</Key>
+  </Talent>
+  <Talent>
+    <Name>Gravitational Pull [Trainer- Rock]</Name>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Your Rock Type Pokes may take 2 strain to add the Grounding Property to their next move 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Rock]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Rock]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENGRAVITATIONALPULL</Key>
+  </Talent>
+  <Talent>
+    <Name>Evasive [Trainer- Flying]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>If an enemy's Move has the blast Property that would include one of your Flying Type Pokes increase the cost to activate it by one. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Flying]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Flying]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEVASIVE</Key>
+  </Talent>
+  <Talent>
+    <Name>Speedy [Trainer- Flying]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Your Flying Type Moves with the Haste Poperty gain the Armored 1 Property 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Flying]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Flying]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSPEEDY</Key>
+  </Talent>
+  <Talent>
+    <Name>Eagle Eye  [Trainer- Flying]</Name>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When you spend two manuvers on aiming you gain an additional boost die. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Flying]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Flying]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEAGLEEYE </Key>
+  </Talent>
+  <Talent>
+    <Name>Area Control [Trainer- Ground]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Ground Type Moves With STAB that have the Blast, Surround, or Hazzard Properties are upgraded once 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Ground]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Ground]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENAREACONTROL</Key>
+  </Talent>
+  <Talent>
+    <Name>Tremor Sense [Trainer- Ground]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>The difficulty for enemies using stealth to sneak within Medium range of you is upgraded once if they are touching the ground. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Ground]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Ground]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENTREMORSENSE</Key>
+  </Talent>
+  <Talent>
+    <Name>Head Start [Trainer- Ground]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When you choose a Learn Move talent on one of your Ground Type Pokes you may also learn one Move from the next tier of that talent. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Ground]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Ground]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHEADSTART</Key>
+  </Talent>
+  <Talent>
+    <Name>Bug Finder [Trainer- Bug]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You are more likely to find Bug Type TMs in the wilderness 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Bug]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Bug]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBUGFINDER</Key>
+  </Talent>
+  <Talent>
+    <Name>Evolution Surge [Trainer- Bug]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When one of your Bug type Pokes selects the evolution talent they may also recieve another talent from their Specailization for free. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Bug]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Bug]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEVOLUTIONSURGE</Key>
+  </Talent>
+  <Talent>
+    <Name>Metamorphosis [Trainer- Bug]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You may spend XP durring session instead of between sessions 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Bug]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Bug]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENMETAMORPHOSIS</Key>
+  </Talent>
+  <Talent>
+    <Name>Evasion [Trainer- Electric]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>If an enemy's Move has the Surround Property that would include one of your Electric Type Pokes increase the cost to activate it by one. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Electric]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Electric]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEVASION</Key>
+  </Talent>
+  <Talent>
+    <Name>Crafter [Trainer- Electric]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You are able create your own Pokeballs using materials that cost have as much as the ball would cost if you bought it. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Electric]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Electric]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENCRAFTER</Key>
+  </Talent>
+  <Talent>
+    <Name>Inventor [Trainer- Electric]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When you create a Pokeball you can choose to follow an existing scematic or attempt to make something new. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Electric]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Electric]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENINVENTOR</Key>
+  </Talent>
+  <Talent>
+    <Name>Open Field [Trainer- Grass]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Your Grass Type Pokes are immune to Powder and Spore Moves. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Grass]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Grass]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENOPENFIELD</Key>
+  </Talent>
+  <Talent>
+    <Name>Set Down Roots [Trainer- Grass]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When your Grass Type Pokes use a Move with the Drain Property they may give themselves the Trapped condition to increase the ammount they heal by 50% 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Grass]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Grass]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSETDOWN ROOTS</Key>
+  </Talent>
+  <Talent>
+    <Name>Herboligy [Trainer- Grass]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Upgrade your knowledge checks to identify plants 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Grass]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Grass]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHERBOLIGY</Key>
+  </Talent>
+  <Talent>
+    <Name>Blasting Off Again [Trainer- Poison]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You may use a story point to trigger the blast or surround property 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Poison]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Poison]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBLASTINGOFF AGAIN</Key>
+  </Talent>
+  <Talent>
+    <Name>Aim for the Eyes [Trainer- Poison]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Poisoned enemies that target your Pokes with moves upgrade the difficulty of their Move checks 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Poison]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Poison]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENAIMFOR THE EYES</Key>
+  </Talent>
+  <Talent>
+    <Name>Stay Upwind [Trainer- Poison]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Spore and Powder Moves used by your Pokes gain the superier property. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Poison]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Poison]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSTAYUPWIND</Key>
+  </Talent>
+  <Talent>
+    <Name>Freightful Presence [Trainer- Ghost]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Poke within Medium Range that have Timid or Skittish as their nature upgrade the difficulty of Move checks 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Ghost]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Ghost]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFREIGHTFULPRESENCE</Key>
+  </Talent>
+  <Talent>
+    <Name>Sight Unseen [Trainer- Ghost]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you and your active Poke may fade into the background. Enemies must make a hard vigilance check or you go unnoticed. Taking any fast or loud movments or actions ends this ability.  
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Ghost]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Ghost]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSIGHTUNSEEN</Key>
+  </Talent>
+  <Talent>
+    <Name>Insubstantial [Trainer- Ghost]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Your Ghost Type Pokes are immune to the Trapped Condition 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Ghost]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Ghost]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENINSUBSTANTIAL</Key>
+  </Talent>
+  <Talent>
+    <Name>Soundless orders [Trainer- Psychic]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You may take 2 strain to hide the Move used by your Psychic Pokes this turn. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Psychic]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Psychic]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSOUNDLESSORDERS</Key>
+  </Talent>
+  <Talent>
+    <Name>Mind Speech [Trainer- Psychic]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You may take 2 strain to speek directly into another persons mind for up to 1 minute. This can be resisted with an opposed Disipline vs Disipline Check. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Psychic]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Psychic]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENMINDSPEECH</Key>
+  </Talent>
+  <Talent>
+    <Name>Mind Reader [Trainer- Psychic]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When you use Mind Speech you are also able to hear surface thoughts of your target. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Psychic]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Psychic]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENMINDREADER</Key>
+  </Talent>
+  <Talent>
+    <Name>Darkvision [Trainer- Dark]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You no longer recieve setback dice from darkness 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Dark]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Dark]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDARKVISION</Key>
+  </Talent>
+  <Talent>
+    <Name>Slow Down [Trainer- Dark]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When one of you Pokes is targeted by a Move with the Quickness Property that Property cannot be activated. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Dark]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Dark]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSLOWDOWN</Key>
+  </Talent>
+  <Talent>
+    <Name>What's Yours is Mine [Trainer- Dark]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When one of your Dark Type Pokes uses a swap Move or a Move with the Steal Property add an aditional sucess to the pool. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Dark]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Dark]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENWHAT'SYOURS IS MINE</Key>
+  </Talent>
+  <Talent>
+    <Name>Fey Tounge [Trainer- Fairy]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When making a deception check you you may use the skilled assist action on yourself using your diplomacy as long as what you say is technically true. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Fairy]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Fairy]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFEYTOUNGE</Key>
+  </Talent>
+  <Talent>
+    <Name>Restore Balence [Trainer- Fairy]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>The Blast Property on non-damaging Moves cost one less for your Fairy Type Pokes 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Fairy]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Fairy]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENRESTOREBALENCE</Key>
+  </Talent>
+  <Talent>
+    <Name>Can't We Talk About This [Trainer- Fairy]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>In the first tun of combat, you may attempt a Charm or Deception Check to turn it into a Social battle instead. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Fairy]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Fairy]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENCAN'TWE TALK ABOUT THIS</Key>
+  </Talent>
+  <Talent>
+    <Name>Hoarfrost [Trainer- Ice]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Before rolling a Move check for an Ice type Move with STAB your Poke May suffer 2 strain to Halve any resistance to the Move's damage 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Ice]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Ice]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHOARFROST</Key>
+  </Talent>
+  <Talent>
+    <Name>Aurora [Trainer- Ice]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Beam Moves used by your Ice type Pokes gain the Suprier Property 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Ice]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Ice]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENAURORA</Key>
+  </Talent>
+  <Talent>
+    <Name>Stick the Landing [Trainer- Ice]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you may reroll a Move check for a damaging Move 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Ice]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Ice]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSTICKTHE LANDING</Key>
+  </Talent>
+  <Talent>
+    <Name>Ball Boy [Trainer- Normal]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You are more likely to find balls in the wilderness 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Normal]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Normal]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBALLBOY</Key>
+  </Talent>
+  <Talent>
+    <Name>Friendly Fire: Off [Trainer- Normal]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You may take 2 strain per target to exclude targets from the activation of the Blast of Surround property you activate. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Normal]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Normal]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFRIENDLYFIRE: OFF</Key>
+  </Talent>
+  <Talent>
+    <Name>Magic Touch [Trainer- Normal]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Moves used by your Normal Type Pokes with the Heal Property gain the Superier Property 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Normal]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Normal]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENMAGICTOUCH</Key>
+  </Talent>
+  <Talent>
+    <Name>Powerful Blows [Trainer- Fighting]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When one of your Fighting Type Pokes activates the knockdown Property they may also use the Push property as a Incidental at no cost 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Fighting]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Fighting]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPOWERFULBLOWS</Key>
+  </Talent>
+  <Talent>
+    <Name>Martial Training [Trainer- Fighting]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Your Fighting Type Pokes gain one additional armor when targeted by Pokes in engaged range 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Fighting]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Fighting]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENMARTIALTRAINING</Key>
+  </Talent>
+  <Talent>
+    <Name>C-C-C-Combo [Trainer- Fighting]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Fighting Type Moves with the Linked Property gain an addional rank and you gain one free activation. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Fighting]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Fighting]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENC-C-C-COMBO</Key>
+  </Talent>
+  <Talent>
+    <Name>Heavy Metal [Trainer- Steel]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Your Steel Type Pokes are immute to Push and Pull Properties. Unless activated by an Electric Type Move or Poke. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Steel]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Steel]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHEAVYMETAL</Key>
+  </Talent>
+  <Talent>
+    <Name>Wet Stone [Trainer- Steel]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Steel Type Moves with Hone increase their rank by one 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Steel]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Steel]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENWETSTONE</Key>
+  </Talent>
+  <Talent>
+    <Name>Armor Up [Trainer- Steel]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When your Steel Type Pokes use a non-damaging Move that recieves STAB they gain 1 armor 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Steel]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Steel]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENARMORUP</Key>
+  </Talent>
+  <Talent>
+    <Name>Water Trainer Talent 1 [Trainer- Water]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Description of Water Trainer Talent 1 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Water]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Water]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENWATERTRAINER TALENT 1</Key>
+  </Talent>
+  <Talent>
+    <Name>Water Trainer Talent 2 [Trainer- Water]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Description of Water Trainer Talent 2 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Water]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Water]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENWATERTRAINER TALENT 2</Key>
+  </Talent>
+  <Talent>
+    <Name>Water Trainer Talent 3 [Trainer- Water]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Description of Water Trainer Talent 3 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Water]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Water]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENWATERTRAINER TALENT 3</Key>
+  </Talent>
+  <Talent>
+    <Name>Generosity of Others [Trainer- Dragon]</Name>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You may spend a story point to give an oppponents Move the Give Property for the rest of combat. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Dragon]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Dragon]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENGENEROSITYOF OTHERS</Key>
+  </Talent>
+  <Talent>
+    <Name>Hoard [Trainer- Dragon]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>In battle your Dragon Type Pokes do not drop held items at the end of theirturn due to holding more than one. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Dragon]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Dragon]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHOARD</Key>
+  </Talent>
+  <Talent>
+    <Name>Tribute [Trainer- Dragon]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You may spend two disadvantage to activate the Give Property on Moves targeting you. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Dragon]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Dragon]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENTRIBUTE</Key>
+  </Talent>
+  <Talent>
+    <Name>Heat Warp [Trainer- Fire]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Fire Type Moves with the Dull Property increase their rank by 1 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Fire]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Fire]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHEATWARP</Key>
+  </Talent>
+  <Talent>
+    <Name>Fire Trainer Talent 2 [Trainer- Fire]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Description of Fire Trainer Talent 2 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Fire]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Fire]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFIRETRAINER TALENT 2</Key>
+  </Talent>
+  <Talent>
+    <Name>Fire Trainer Talent 3 [Trainer- Fire]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Description of Fire Trainer Talent 3 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Trainer- Fire]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Trainer- Fire]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFIRETRAINER TALENT 3</Key>
+  </Talent>
+  <Talent>
+    <Name>Move Set [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Add 1/4th of your learn set to your availible moves for each rank of this talent 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENMOVESET</Key>
+  </Talent>
+  <Talent>
+    <Name>Second Ability [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Gain your other ability 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSECONDABILITY</Key>
+  </Talent>
+  <Talent>
+    <Name>Hidden Ability [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Gain your hidden ability 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHIDDENABILITY</Key>
+  </Talent>
+  <Talent>
+    <Name>Evolution [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Gain access to the next Specialization in your evolution tree. You may no longer purchase Talents from the specailiaztion this was selected from. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEVOLUTION</Key>
+  </Talent>
+  <Talent>
+    <Name>Armored [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Increase armor rating by 1 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENARMORED</Key>
+  </Talent>
+  <Talent>
+    <Name>Defensive [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Increase Soak by 1 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDEFENSIVE</Key>
+  </Talent>
+  <Talent>
+    <Name>Especially Defensive [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Increase Specail Soak by 1 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENESPECIALLYDEFENSIVE</Key>
+  </Talent>
+  <Talent>
+    <Name>Bobbing Stance [Poke]</Name>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Once per round, you may suffer a number of strain up to your ranks in Defensive Stance. Then, until the end of your next turn, upgrade the difficulty of all Moves coming from opponents in engaged range a number of times equal to the strain suffered 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBOBBINGSTANCE</Key>
+  </Talent>
+  <Talent>
+    <Name>Weaving Stance [Poke]</Name>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Once per round, you may suffer a number of strain up to your ranks in Jitter Stance. Then, until the end of your next turn, upgrade the difficulty of all Moves coming from opponents outside engaged range a number of times equal to the strain suffered 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENWEAVINGSTANCE</Key>
+  </Talent>
+  <Talent>
+    <Name>Second Wind [Poke]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Once per encounter, you may use this talent to heal an amount of strain equal to their ranks in Second Wind. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSECONDWIND</Key>
+  </Talent>
+  <Talent>
+    <Name>Block [Poke]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>When hit by a Move in engaged range you may take 3 strain to reduced the number of wounds you recive by 2 plus the number of ranks you have in Block. (This reduction happens befor soak is applied but after weakness and resistance is calculated.) 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBLOCK</Key>
+  </Talent>
+  <Talent>
+    <Name>Dodge [Poke]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>When hit by a Move outside engaged range you may take 3 strain to reduced the number of wounds you recive by 2 plus the number of ranks you have in Dodge. (This reduction happens befor soak is applied but after weakness and resistance is calculated.) 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDODGE</Key>
+  </Talent>
+  <Talent>
+    <Name>Top Defense [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>For each rank of the momentum condidtion you have gain 1 additional armor 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENTOPDEFENSE</Key>
+  </Talent>
+  <Talent>
+    <Name>Artilery Stance [Poke]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Suffer 2 strain to increase the range of all your Moves by 1 range band. Cannot be used more than once. You lose this benifit if you move. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENARTILERYSTANCE</Key>
+  </Talent>
+  <Talent>
+    <Name>Precision Blast [Poke]</Name>
+    <ActivationValue>Action (Incidental)</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When you activate the Blast or Surround properties you do not hit allies 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPRECISIONBLAST</Key>
+  </Talent>
+  <Talent>
+    <Name>Charge [Poke]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Move 1 range band then use a Move with range of engaged 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENCHARGE</Key>
+  </Talent>
+  <Talent>
+    <Name>Echo [Poke]</Name>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Suffer 2 strain to add linked 1 to a damaging Move with the Vocal Property or if it is a non-damaging Move add a scond target increasing the difficulty of the check and adding armor of both targets. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENECHO</Key>
+  </Talent>
+  <Talent>
+    <Name>Favored Weapon [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>true</Ranked>
+    <Description>Gain 1 advantage ont your signiture moves for each rank in Favored Weapon 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFAVOREDWEAPON</Key>
+  </Talent>
+  <Talent>
+    <Name>Pack Attack [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When targeting an opponent in engaged range. Gain 1 advantage on Move checks for every ally engaged with your target. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPACKATTACK</Key>
+  </Talent>
+  <Talent>
+    <Name>Sharpening Stone [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When ever you are the recipiant of the Hone property Your Moves gain Pierce 1 untill the end of your next turn. (If they already have Piece increase its rank by 1, this is stackable) 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSHARPENINGSTONE</Key>
+  </Talent>
+  <Talent>
+    <Name>High Ground [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When using a Move at a range greater than engaged, if you are at a higher eleveation add a Blue to your check. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHIGHGROUND</Key>
+  </Talent>
+  <Talent>
+    <Name>Increased Pressure [Poke]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When you are the target of a Move you may spend spend 2 dissadvantage to lower the PP of that move by 1.  
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENINCREASEDPRESSURE</Key>
+  </Talent>
+  <Talent>
+    <Name>Forceful Strike [Poke]</Name>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Add the Push Property to a Move with range of Engaged until the end of your turn 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFORCEFULSTRIKE</Key>
+  </Talent>
+  <Talent>
+    <Name>Vampire [Poke]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When activating the Drain Property you may take 2 strain to increase the amount of wounds you heal by 4 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENVAMPIRE</Key>
+  </Talent>
+  <Talent>
+    <Name>Jump Up [Poke]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per round during your turn, you may stand from prone as an incidental. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENJUMPUP</Key>
+  </Talent>
+  <Talent>
+    <Name>Keep Away [Poke]</Name>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Until your next turn it takes 2 manuvers for enemies to move to engaged range. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENKEEPAWAY</Key>
+  </Talent>
+  <Talent>
+    <Name>Skitter [Poke]</Name>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Move up to 1 range band along a vertical suface. If you end your turn still attached to the surface each time you are sucessfully hit with a Move you must make a hard Resilience check or fall to the ground and gain the prone condition. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSKITTER</Key>
+  </Talent>
+  <Talent>
+    <Name>Sticky [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>After you are hit by a Brawl based Move with range of Engaged, your opponent must succeed and hard Brawl check before disengaging. If you move they must make the same check or be moved with you. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSTICKY</Key>
+  </Talent>
+  <Talent>
+    <Name>Fire [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When activating the Blast Property you may spend a story point to also activate the Burn property. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFIRE</Key>
+  </Talent>
+  <Talent>
+    <Name>Water [Poke]</Name>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Add the Surround Property to a Move that recieves STAB and has the Blast Property until the end of the turn. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENWATER</Key>
+  </Talent>
+  <Talent>
+    <Name>Grass [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You are immune to Powder and Spore Moves 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENGRASS</Key>
+  </Talent>
+  <Talent>
+    <Name>Ghost [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Ignore all Setback dice added from cover. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENGHOST</Key>
+  </Talent>
+  <Talent>
+    <Name>Steel [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When hit by an Electric Type Move. You may store half the damage taken until the end of your next turn. You may add this damage to your next Steel type Move that makes contact. It is still electric type. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSTEEL</Key>
+  </Talent>
+  <Talent>
+    <Name>Dark [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Increase base damage of STAB Moves by 1 in darkness 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDARK</Key>
+  </Talent>
+  <Talent>
+    <Name>Electric [Poke]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When hit by a move from range of engaged. You may take 3 strain to reduce the damge by your Speed. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENELECTRIC</Key>
+  </Talent>
+  <Talent>
+    <Name>Ground [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Gain 2 blue when targeting an enemy who has lost the airborne Condition. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENGROUND</Key>
+  </Talent>
+  <Talent>
+    <Name>Rock [Poke]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Create a piece of cover that remain untill the end of the battle 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENROCK</Key>
+  </Talent>
+  <Talent>
+    <Name>Ice [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When you deal wounds to an enemy your next Move against a diffeerent target gains Pierce 1 (If the Move alraeady hase Pierce increase its rank by 1). This bonus will stack until you fail to deal wonds to a new target. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENICE</Key>
+  </Talent>
+  <Talent>
+    <Name>Flying [Poke]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When hit by a move from range greater than engaged. You may take 3 strain to reduce the damge by your Speed. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFLYING</Key>
+  </Talent>
+  <Talent>
+    <Name>Bug [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When this Poke feints if it was the result of a super effective Move the next Poke used by the same trainer gains Haste 1. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBUG</Key>
+  </Talent>
+  <Talent>
+    <Name>Psychic [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Remove two setback dice from all your Move checks when you are withing short range of the target. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPSYCHIC</Key>
+  </Talent>
+  <Talent>
+    <Name>Poison [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per battle take half damage from a super effective move made by a poisoned enemy. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPOISON</Key>
+  </Talent>
+  <Talent>
+    <Name>Fairy [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Difficulty to remove battle field effects you put in place is increased by 1 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFAIRY</Key>
+  </Talent>
+  <Talent>
+    <Name>Fighting [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Each time you deal or recieve wounds from Moves with range of engaged add a blue to your Move checks until the end of your next turn. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFIGHTING</Key>
+  </Talent>
+  <Talent>
+    <Name>Normal [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When you reduce your own or an allies wounds you reduce them by 1 additional wound. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENNORMAL</Key>
+  </Talent>
+  <Talent>
+    <Name>Dragon [Poke]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You are immune to the Steal and Disarm Properties 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Poke]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDRAGON</Key>
+  </Talent>
+  <Talent>
+    <Name>I Know The Owner [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Downgrade the difficulty to find all items by 1 (Wilderness only). 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENIKNOW THE OWNER</Key>
+  </Talent>
+  <Talent>
+    <Name>I Know Where to Find That [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Downgrade the difficulty to find all items by 1 (Shops only). 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENIKNOW WHERE TO FIND THAT</Key>
+  </Talent>
+  <Talent>
+    <Name>Strenuous Exercise - Poke [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When one of your Pokes would suffer strain you may choose to suffer it instead. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSTRENUOUSEXERCISE - POKE</Key>
+  </Talent>
+  <Talent>
+    <Name>Strenuous Exercise - Self [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When you would suffer strain you may choose to have your active Poke suffer it instead. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSTRENUOUSEXERCISE - SELF</Key>
+  </Talent>
+  <Talent>
+    <Name>Pointers [Path]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>At the start of each combat choose one move per Poke, that move generates one advantage each time it is used. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPOINTERS</Key>
+  </Talent>
+  <Talent>
+    <Name>Nourishing Incubation [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Eggs you keep in one of your Pokéslots hatch much faster than normal. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENNOURISHINGINCUBATION</Key>
+  </Talent>
+  <Talent>
+    <Name>Egg Timer [Path]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You can examine an egg to get an idea when it will hatch. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEGGTIMER</Key>
+  </Talent>
+  <Talent>
+    <Name>Among Friends [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Poke you capture start at Loyalty 1 instead of 0. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENAMONGFRIENDS</Key>
+  </Talent>
+  <Talent>
+    <Name>Information Network [Path]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You may use a story point to hear rumors of any rare Pokes in your area. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENINFORMATIONNETWORK</Key>
+  </Talent>
+  <Talent>
+    <Name>Durable Pokes [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Triumphs against your Pokes can only be used to activate properties that cost two advantages or less. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDURABLEPOKES</Key>
+  </Talent>
+  <Talent>
+    <Name>For Me, It Was Tuesday [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Whenever you roll a Triumph remove one strain from you or one of your Pokes. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFORME, IT WAS TUESDAY</Key>
+  </Talent>
+  <Talent>
+    <Name>Smoke Bomb [Path]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You can retreat from battle without rolling. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSMOKEBOMB</Key>
+  </Talent>
+  <Talent>
+    <Name>Unremarkable [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>All attempts to identify you automatically gain one failure. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENUNREMARKABLE</Key>
+  </Talent>
+  <Talent>
+    <Name>Sage Advice [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When you aid in knowledge checks you give two boosts instead of one. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSAGEADVICE</Key>
+  </Talent>
+  <Talent>
+    <Name>Mental Mobility [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Whenever one of your Pokes attempts to use a non damaging Move you may suffer two strain to upgrade your check. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENMENTALMOBILITY</Key>
+  </Talent>
+  <Talent>
+    <Name>Forger [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Given an example you can make any document look authentic. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFORGER</Key>
+  </Talent>
+  <Talent>
+    <Name>Prepared [Path]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you may have an Item you did not previously buy. You must pay for this item at full price immediately. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPREPARED</Key>
+  </Talent>
+  <Talent>
+    <Name>Versatile [Path]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per day you may swap one move from each for his Pokes Move pool. (Out of combat only.) 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENVERSATILE</Key>
+  </Talent>
+  <Talent>
+    <Name>Good Veins [Path]</Name>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you may use a healing item as a maneuver. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENGOODVEINS</Key>
+  </Talent>
+  <Talent>
+    <Name>Nurse Training [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Healing items you use heal one additional wound. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENNURSETRAINING</Key>
+  </Talent>
+  <Talent>
+    <Name>Pass Without Trace [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Survival check to track you have their difficulty increased once. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPASSWITHOUT TRACE</Key>
+  </Talent>
+  <Talent>
+    <Name>Perfect Recall [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You do not need to make knowledge checks to remember details for previously known information. This applies to personal experience only, not information you have read. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPERFECTRECALL</Key>
+  </Talent>
+  <Talent>
+    <Name>Trainer Joey [Path]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you may upgrade your check when attempting to catch a Poke of the same type as your specialization. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENTRAINERJOEY</Key>
+  </Talent>
+  <Talent>
+    <Name>Power Shaper [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Moves of your chosen Specializations cannot damage allies even with the use of a Despair or the blast property. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPOWERSHAPER</Key>
+  </Talent>
+  <Talent>
+    <Name>Dual Pokes [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You can have two active Pokes out during exploration mode. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDUALPOKES</Key>
+  </Talent>
+  <Talent>
+    <Name>Well Trained [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>If your active Poke succeeds on a check, add its skill ranks in the skill used as successes. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENWELLTRAINED</Key>
+  </Talent>
+  <Talent>
+    <Name>Stat [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Prior to one of your Pokes rolling Initutive, you may suffer two strain to upgrade a Pokes Initiative check(This be used multiple times on the same Poke.) 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSTAT</Key>
+  </Talent>
+  <Talent>
+    <Name>Egg Slot [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You gain one extra Pokéslot that can only be used to hold eggs. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEGGSLOT</Key>
+  </Talent>
+  <Talent>
+    <Name>Snacks [Path]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You may spend one hour each day making biscuits, they last one day and can mimic the effect of any berry, must be decided when making them. You get one per Poke in your active party, they are considered help items. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSNACKS</Key>
+  </Talent>
+  <Talent>
+    <Name>Charming Demeanor [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When you end a social encounter in a compromise the details always slightly favor you. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENCHARMINGDEMEANOR</Key>
+  </Talent>
+  <Talent>
+    <Name>Genémon Box Link [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You do not need a PC to move Pokes between box and active party. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENGENÉMONBOX LINK</Key>
+  </Talent>
+  <Talent>
+    <Name>A Worthy Sacrifice [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When one of your Pokes faints you may take two strain to upgrade the next Move check of all allies in medium range of your Poke. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENAWORTHY SACRIFICE</Key>
+  </Talent>
+  <Talent>
+    <Name>Skilled [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>All your Pokes gain two non-combat skill proficiencies. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSKILLED</Key>
+  </Talent>
+  <Talent>
+    <Name>Energy Conservation [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>All your Pokes moves gain 1 extra PP. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENENERGYCONSERVATION</Key>
+  </Talent>
+  <Talent>
+    <Name>Fake It Till You Make It [Path]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you may use your ranks in skulduggery in place of a skill you do not have proficiency in. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFAKEIT TILL YOU MAKE IT</Key>
+  </Talent>
+  <Talent>
+    <Name>Show Of Defiance [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session when one of your Pokes is targeted by a Move you may suffer two strain, they gain resistance to that Move. (If they are Weak to this Move ignore that weakness.) 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSHOWOF DEFIANCE</Key>
+  </Talent>
+  <Talent>
+    <Name>Strong Mind, Strong Body [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You gain a second use of your Path ability per session. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSTRONGMIND, STRONG BODY</Key>
+  </Talent>
+  <Talent>
+    <Name>Spiritual Sight [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You know the current wounds and strain of allies and enemies you can see without rolling. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSPIRITUALSIGHT</Key>
+  </Talent>
+  <Talent>
+    <Name>Be At Peace [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When your Poke removes strain after a battle you also remove strain though one less than they did. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBEAT PEACE</Key>
+  </Talent>
+  <Talent>
+    <Name>Gundam Mini's [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When attempting to distract a single person using conversation no roll is needed. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENGUNDAMMINI'S</Key>
+  </Talent>
+  <Talent>
+    <Name>Move Tutor [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You may use TMs twice instead of once. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENMOVETUTOR</Key>
+  </Talent>
+  <Talent>
+    <Name>Shortcut [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You always know a faster but more difficult and dangerous path through the wilderness. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSHORTCUT</Key>
+  </Talent>
+  <Talent>
+    <Name>Supier Pokedex [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You may make a knowledge check to identify Talents and Paths of enemy trainers. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSUPIERPOKEDEX</Key>
+  </Talent>
+  <Talent>
+    <Name>Scouted The Battlefield [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>If a Poke successfully flees battle you may spend a story point to make them reroll. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSCOUTEDTHE BATTLEFIELD</Key>
+  </Talent>
+  <Talent>
+    <Name>Point Defense [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>At the beginning of each fight choose a type. Your Pokes gain one Armor against all Moves of that type. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPOINTDEFENSE</Key>
+  </Talent>
+  <Talent>
+    <Name>I'll Handle It [Path]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Treat a check as if you succeed without rolling as long as your active Poke’s type is the same as your Specialization and it is within their ability to handle. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENI'LLHANDLE IT</Key>
+  </Talent>
+  <Talent>
+    <Name>Suprising Reposition - Ally [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session when a friendly Poke is targeted by a Move you may swap its position with one of your Pokes within short range, your Poke is now the target of the Move. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSUPRISINGREPOSITION - ALLY</Key>
+  </Talent>
+  <Talent>
+    <Name>Suprising Reposition - Self [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session when one of your Pokes is the target of a successful Move check by a Move you may change places with an ally in short range. They are now the target of the Move. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSUPRISINGREPOSITION - SELF</Key>
+  </Talent>
+  <Talent>
+    <Name>Max Potential [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>All your Pokes gain +2 strain and wound threshold. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENMAXPOTENTIAL</Key>
+  </Talent>
+  <Talent>
+    <Name>Take Cover [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When you or one of your Pokes use disadvantages to take a maneuver to move you may move two range bands instead of one. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENTAKECOVER</Key>
+  </Talent>
+  <Talent>
+    <Name>Experienced Aid [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session when you would give someone a boost die they gain two additional boosts. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEXPERIENCEDAID</Key>
+  </Talent>
+  <Talent>
+    <Name>Trusted Trades [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When you give or receive a Poke has 0 Loyalty instead of -1. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENTRUSTEDTRADES</Key>
+  </Talent>
+  <Talent>
+    <Name>Nurture &gt; Nature [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Pokes you hatch have the Nature of your choice. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENNURTURE&gt; NATURE</Key>
+  </Talent>
+  <Talent>
+    <Name>Evolutionary Expert [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When one of you Pokes evolve they get one tier 1 talent for free. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEVOLUTIONARYEXPERT</Key>
+  </Talent>
+  <Talent>
+    <Name>Expert Shopper [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Items you buy cost 30% less. Items you sell, sell for 25% more. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEXPERTSHOPPER</Key>
+  </Talent>
+  <Talent>
+    <Name>It's For Your Own Good [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When rolling Coercion to help someone downgrade the difficulty by one. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENIT'SFOR YOUR OWN GOOD</Key>
+  </Talent>
+  <Talent>
+    <Name>Unbreakable [Path]</Name>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you may have one of your Pokes suffer two strain to break out of a Status effect that requires a roll without rolling or losing its action or maneuver. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENUNBREAKABLE</Key>
+  </Talent>
+  <Talent>
+    <Name>Meowth, Dat's Right [Path]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Whenever you make a check using Deception or Skulduggery, your Poke can expend PP from an appropriate Move for the situation to add successes or advantages. Whether this talent gives successes or advantages is dependent on how relevant the Move is to the situation (determined by GM.) Each PP spent is one success or advantage.  
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENMEOWTH,DAT'S RIGHT</Key>
+  </Talent>
+  <Talent>
+    <Name>Danger Sense [Path]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You may suffer two strain to know the move pool of one Poke. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDANGERSENSE</Key>
+  </Talent>
+  <Talent>
+    <Name>Fast Learner [Path]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When you take this talent gain a tier 3 Talent from one of your allies Paths 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFASTLEARNER</Key>
+  </Talent>
+  <Talent>
+    <Name>Listen To Your Heart [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session when your Poke is hit by a Move the Poke who used the Move becomes infatuated with your Poke. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENLISTENTO YOUR HEART</Key>
+  </Talent>
+  <Talent>
+    <Name>Mentalist [Path]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you may choose to upgrade a knowledge check any number of times you take two strain per upgrade. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENMENTALIST</Key>
+  </Talent>
+  <Talent>
+    <Name>Cure What Ails You [Path]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you may use Story points to remove a status condition. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENCUREWHAT AILS YOU</Key>
+  </Talent>
+  <Talent>
+    <Name>Friendly Terrain [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When you take this talent select a type. You can speak with and understand Pokes of that type. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFRIENDLYTERRAIN</Key>
+  </Talent>
+  <Talent>
+    <Name>Ranger Danger [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You can sense wilderness based traps and ambushes without rolling.  
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENRANGERDANGER</Key>
+  </Talent>
+  <Talent>
+    <Name>Evasion [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session if one of your Poke would be hit by the blast property or would be hit by a friendly Move due to a Despair. You may have them suffer two strain instead. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEVASION</Key>
+  </Talent>
+  <Talent>
+    <Name>Correct Measurements [Path]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you may Increase the range of one of your Pokes attacks by one range band. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENCORRECTMEASUREMENTS</Key>
+  </Talent>
+  <Talent>
+    <Name>Data Analisis [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You can use Computers instead of Knowledge for checks as long as you have access to a computer. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDATAANALISIS</Key>
+  </Talent>
+  <Talent>
+    <Name>Tactical Support [Path]</Name>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session your Poke can use a move that does not cause damage as a maneuver. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENTACTICALSUPPORT</Key>
+  </Talent>
+  <Talent>
+    <Name>Shot In The Dark [Path]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you may remove two setback die from any one check, you can increase the number of setback die removed by two, if you do you suffer 1 strain. You may do this any number of times. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSHOTIN THE DARK</Key>
+  </Talent>
+  <Talent>
+    <Name>Learn From Experience [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per day when one of your Pokes suffers a Status Effect. Immediately end that effect and all of your Pokes are immune to that Status effect until the end of the battle. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENLEARNFROM EXPERIENCE</Key>
+  </Talent>
+  <Talent>
+    <Name>Can't Stop Me Now [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you may add five setback dice or five boost die to any one check. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENCAN'TSTOP ME NOW</Key>
+  </Talent>
+  <Talent>
+    <Name>It's Me, Dio [Path]</Name>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you may suffer two strain to swap your Poke as a maneuver. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENIT'SME, DIO</Key>
+  </Talent>
+  <Talent>
+    <Name>Purebred [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You choose the egg move for Pokes you bred or hatched. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPUREBRED</Key>
+  </Talent>
+  <Talent>
+    <Name>Egg Scent [Path]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You may may make survival checks to find Pokénests without any tracks or other signs. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEGGSCENT</Key>
+  </Talent>
+  <Talent>
+    <Name>Unlimited Potential [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Your evolved Pokes can take talents from their previous Specializations and do not become locked out of them. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENUNLIMITEDPOTENTIAL</Key>
+  </Talent>
+  <Talent>
+    <Name>XP Share [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>After each battle you gain half again the XP you received from the fight, rounded down maximum 10. This additional XP must be assigned to a Poke that did not participate in the battle. That Poke must be in your active team. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENXPSHARE</Key>
+  </Talent>
+  <Talent>
+    <Name>Excited Return [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>The first check a Poke makes after leaving the box is upgraded twice. (Must have been in the Box for at least one day) 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEXCITEDRETURN</Key>
+  </Talent>
+  <Talent>
+    <Name>Extra Poke [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You have 7 Pokéslots in your active team. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEXTRAPOKE</Key>
+  </Talent>
+  <Talent>
+    <Name>I Need More Power [Path]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you may force a Poke to use a Move that is not in its current Move pool but is on its learn set, they suffer two strain. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENINEED MORE POWER</Key>
+  </Talent>
+  <Talent>
+    <Name>Not Even My Final Form [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Each of your Pokes can take one talent from one of the other Specializations in its Career for free. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENNOTEVEN MY FINAL FORM</Key>
+  </Talent>
+  <Talent>
+    <Name>Loyalty Through Strength [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Your Pokes gain a bonus for each point of Loyalty they have toward you: 1 Loyalty - +1 to HP or Speed 2 loyalty - +1 to Physical Defense or Special Defense 3 loyalty - +1 to Physical Attack or Special Attack 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENLOYALTYTHROUGH STRENGTH</Key>
+  </Talent>
+  <Talent>
+    <Name>Suffer The Consequences [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once Per session when an opponent fails a check you may suffer two strain each up to the number of uncancelled failures. Each time you do this one failure is instead treated as a despair. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSUFFERTHE CONSEQUENCES</Key>
+  </Talent>
+  <Talent>
+    <Name>Every Goon Has His Day [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session when you succeed a check you may suffer two strain each up to the number of uncancelled Successes. Each time you do this one success is treated as a triumph. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEVERYGOON HAS HIS DAY</Key>
+  </Talent>
+  <Talent>
+    <Name>Do Or Die [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session when one of your Pokes fails to do damage with a Move you may have your Poke take two times the uncancelled failures plus 1 strain to reroll the attack. Once this talent is triggered it does not stop until either your attack succeeds or your Poke feints. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDOOR DIE</Key>
+  </Talent>
+  <Talent>
+    <Name>Unity [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Your Path ability extends to your Pokes you may use their scores as well as your own for the swap. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENUNITY</Key>
+  </Talent>
+  <Talent>
+    <Name>Third Sight [Path]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You know where a certain path leads (Once per session ask the GM the outcome of one choice, out of battle only). 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENTHIRDSIGHT</Key>
+  </Talent>
+  <Talent>
+    <Name>Threefold Strike [Path]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per day if PCs have three turns before the next NCP turn you may activate this ability. Each Poke takes two strain then all three Pokes act at once Moves activate as normal but only the Poke belonging to you has their damage reduced by the enemy soak. Turn tracker is then set three forward. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENTHREEFOLDSTRIKE</Key>
+  </Talent>
+  <Talent>
+    <Name>Quick Hands [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session when one of your Pokes eats or has their held item taken from them. You may replace it with an item from your inventory. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENQUICKHANDS</Key>
+  </Talent>
+  <Talent>
+    <Name>Patience [Path]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you may spend a story point to reroll any check. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENPATIENCE</Key>
+  </Talent>
+  <Talent>
+    <Name>Specialization Makes You. Predictable. [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you may cancel another Trainer’s Path ability or Talent. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSPECIALIZATIONMAKES YOU. PREDICTABLE.</Key>
+  </Talent>
+  <Talent>
+    <Name>Loyal Companion [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You gain boost die on skill checks equal to the Loyalty score of your active Poke. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENLOYALCOMPANION</Key>
+  </Talent>
+  <Talent>
+    <Name>Motivational Speaker [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once Per session when a player and GM Each spend a story point to upgrade a check. You may regain the story point and add a boost die to the check. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENMOTIVATIONALSPEAKER</Key>
+  </Talent>
+  <Talent>
+    <Name>Corrected Stance [Path]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session you may use a story point to downdgrade the difficulty of an attack. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENCORRECTEDSTANCE</Key>
+  </Talent>
+  <Talent>
+    <Name>Hellllooooooo Nurse [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Charm checks against people who could find you attractive have their difficulty downgraded once. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENHELLLLOOOOOOONURSE</Key>
+  </Talent>
+  <Talent>
+    <Name>Laughter is The Best Medicine [Path]</Name>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session make a charm check to heal a person or Poke(effects very based on success). 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENLAUGHTERIS THE BEST MEDICINE</Key>
+  </Talent>
+  <Talent>
+    <Name>Viral Load [Path]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session add the Poison property to one of your Pokes moves for one attack. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENVIRALLOAD</Key>
+  </Talent>
+  <Talent>
+    <Name>Strider [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per day at the start of a battle you may activate this ability. The first time you use each Poke in the battle your enemy does not know what the Poke is. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSTRIDER</Key>
+  </Talent>
+  <Talent>
+    <Name>Tag Team [Path]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once each battle you may take two strain to add the linked property to one of your Poke’s moves for one attack, if it already has the linked property increase the linked rating by one. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENTAGTEAM</Key>
+  </Talent>
+  <Talent>
+    <Name>Favored Enemy [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When you take this talent pick a type. Moves of the chosen type do not receive STAB when targeting your Pokes. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENFAVOREDENEMY</Key>
+  </Talent>
+  <Talent>
+    <Name>Well Actually... [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session when an ally fails a knowledge check or gains false information. You may immediately make a knowledge check using his skill ranks upgraded twice or your own, whichever is higher. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENWELLACTUALLY...</Key>
+  </Talent>
+  <Talent>
+    <Name>Scientific Rigger [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>When you fail two checks in a row, any subsequent checks are upgraded you receive additional upgrades for each two failed checks continuing until you succeed on a check at which point your checks return to normal. Upgrades do not carry over between sessions. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSCIENTIFICRIGGER</Key>
+  </Talent>
+  <Talent>
+    <Name>Eureka [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Whenever you roll a triumph on a knowledge check you can trade the triumph for successes equal to the ranks of the skill rolled. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENEUREKA</Key>
+  </Talent>
+  <Talent>
+    <Name>Rappid Reposition [Path]</Name>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per session as an out of turn incidental one of your Pokes gains a maneuver that can only be used to move into cover or move into engaged range of an enemy.   If you move into cover, give enemies attacking you an additional disadvantage.   If you move into engage range of an enemy, you may immediately use a Move however during your next turn you cannot use your action to use a Move.  
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENRAPPIDREPOSITION</Key>
+  </Talent>
+  <Talent>
+    <Name>Defensive Posturing [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Your Pokes have +1 to their Armor. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENDEFENSIVEPOSTURING</Key>
+  </Talent>
+  <Talent>
+    <Name>Called Shot [Path]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Whenever one of your Pokes uses the Aim maneuver you may choose to add an amount of setback dice to their dice pool for their Move this turn. If their Move succeeds and deals damage add twice that many dice to the target Pokes next Move. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENCALLEDSHOT</Key>
+  </Talent>
+  <Talent>
+    <Name>Superior Typing [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>All moves of your Specializations include STAB. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENSUPERIORTYPING</Key>
+  </Talent>
+  <Talent>
+    <Name>Custom Moves [Path]</Name>
+    <ActivationValue>taPassive</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>You may add one property to each move of your Specialization thats your Pokes have in their Move pool. (Keep it thematic) 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENCUSTOMMOVES</Key>
+  </Talent>
+  <Talent>
+    <Name>Battle Surge [Path]</Name>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Ranked>false</Ranked>
+    <Description>Once per day at the beginning of a battle you may choose one of your Specializations. Moves of that specialization are not subject to resistance or immunities for this battle. 
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+       
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Rank Min: [Path]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Key>GENBATTLESURGE</Key>
+  </Talent>
+</Talents>

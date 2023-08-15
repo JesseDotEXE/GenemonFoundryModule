@@ -1,0 +1,247 @@
+Name	Type	Activation	ActivationValue	Ranked	RankMin	Description
+Toughness	Shared	Passive	taPassive	true	1	Wound threshhold  increases by 2
+Grit	Shared	Passive	taPassive	true	1	Strain threshhold increases by 2
+Dedication	Shared	Passive	taPassive	true	5	Increase a Characteristic/Stat by 1
+Power	Trainer	Passive	taPassive	false	5	Damaging Moves that recieves STAB with Type matching the specialization this talent is in are upgraded once
+Stay	Trainer	Active - Incidental | Out of Turn	taIncidentalOOT	false	2	When a poke would disengage from one of your pokes. Your Poke may take 2 strain as an out of turn incedental. If they do the enemy poke must succeed a average resilience check or is unable to move until the end of their turn. They do not lose their maneuver.
+Status More Effective	Trainer	Passive	taPassive	false	4	Status Effects that match the Type of the Specializtion this is taken in cost 1 less to inflict
+Break	Trainer	Active - Incidental | Out of Turn	taIncidentalOOT	false	4	Once per session you can ignore an Enemy Pokemons abililty that would reduce damage you would deal.
+Percise Aim	Trainer	Passive	taPassive	true	2	When one of your Pokes is targeting a Poke in engaged range of an ally add a Blue for each rank of Percise Aim
+Piercing Strike	Trainer	Passive	taPassive	true	3	For each rank of Piercing Strike add pierce 1 for to moves that have 3 or less base damage if it already has pierce increase its rank by 1
+Utility	Trainer	Passive	taPassive	false	5	Non-damaging Moves that recieves STAB with Type matching the specialization this talent is in are upgraded once
+Improved Utilization	Trainer	Active - Manuver	taManeuver	false	4	Increase the rank of a Property on a non-damageing Move whos type matches the specailization this was taken in by 1
+Easier Utilization	Trainer	Passive	taPassive	false	4	When a Poke with Type matching the specialization this talent was taken in uses non-damaging Moves that recieves STAB they may use 3 uncannceleld successes for a free activation of a Property
+Adaptaion	Trainer	Passive	taPassive	true	1	Checks to overcome envirmental challenges or effects matching the specialization this talent was taken in have their difficulty reduced by 1
+Hit and Run	Trainer	Active - Incidental	taIncidental	false	3	When your Pokes with Type matching the Specailization in which this talent was taken uses a manuver to move followed by Move with range of engaged. They gain a free manuver that can only be used to disengage as an incedental. This does not count against your two manuver per turn limit.
+Uncanny Reactions	Trainer	Passive	taPassive	true	2	Add a blue per rank of Uncanny reactionsto all vigilence checks
+Healer	Trainer	Passive	taPassive	false	4	Moves with Typing that matches the Specialization in which this Talent was taken that gain STAB and have the Heal property are upgraded once
+Scavenger	Trainer	Passive	taPassive	false	1	You are more likly to find berries in the wilderness
+Envirmentally Unfriendly	Trainer	Active - Incidental	taIncidental	false	4	Once per session you may spend a story point to add an envirmental hazzard to the sceen. Type of hazzard is at GMs discression.
+Ethereal Hand	Trainer	Active - Manuver	taManeuver	true	1	You may move 1 object within short range up to 1 range band. The objects weight can be no move than 1 KG per rank of this talent.
+One With Nature	Trainer	Active - Incidental | Out of Turn	taIncidentalOOT	false	1	You may use Survival instead of cool or disiple to recover strain at the end of a scene
+Perticular	Trainer	Passive	taPassive	false	2	Gain 2 Blue on capture checks targeting Pokes way is Type match the specialization in which this talent was taken
+Proper Upbringing	Trainer	Active - Incidental	taIncidental	true	1	Gain advantage to social battle rolls equal to your ranks in Proper Upbringing
+Natural	Trainer	Active - Incidental	taIncidental	true	3	When you select this talent choose two skills. Once persession you may reroll a check that uses one of the selected skills. If you take this talent multiple times select two new skills each time. You never gain more than one reroll each session but you can choose from any of the chosen skills.
+Nobody's Fool	Trainer	Passive	taPassive	true	1	Upgrade the dificulty of Charm, Coersion, and Deception checks against you once per rank of Nobody's Fool
+Intimidating	Trainer	Active - Incidental | Out of Turn	taIncidentalOOT	true	2	When attempting a Coercion check, the character may suffer a number of strain to downgrade the difficulty of the check a number of times equal to the strain suffered. This number cannot exceed your ranks in Intimidating. When you are the target of a Coercion check, you may suffer a number of strain to upgrade the difficulty of the check a number of times equal to the strain suffered. This number cannot exceed your ranks in Intimidating
+Heightened Awareness	Trainer	Passive	taPassive	true	2	Allies within short range of your character add blue to their Perception and Vigilance checks. Allies engaged with your character add two blue instead
+Fine Tuning	Trainer	Active - Incidental | Out of Turn	taIncidentalOOT	true	1	When attempting a Mechanics check, you may suffer a number of strain to gain a blue up to a number of times equal to the strain suffered. This number cannot exceed your ranks in Fine Tuning.
+Quiet Entry	Trainer	Passive	taPassive	true	1	Remove one setback die per rank on computers, skulduggery, and stealth checks when entering or moving through hostile territory.
+Convincing Demeanor	Trainer	Passive	taPassive	true	1	Remove one setback die per rank on deception and scullduggery checks.
+Persisteance	Trainer	Passive	taPassive	false	3	Pokes whos Type matches the specialization this talent is in upgrades Resolve and Resilience checks once
+AoO	Trainer	Active - Incidental | Out of Turn	taIncidentalOOT	false	2	If an enemy leaves disengages with one of your Pokes whos Type matches the specialization this talent was taken in your Poke may make an average dificulty Brawl check against them if it suceeds your poke deals their Attaks or Special Attack, which ever is higher, as damage to the enemy attempting to disengage, this damage is resisted by every Poke.
+Stout	Trainer	Active - Incidental | Out of Turn	taIncidentalOOT	true	1	When one of your Pokes is hit by a Move using the Arcana Skill you may take 4 strain to reduce the damage they take by the number to ranks you have in Stout plus one.
+Durable	Trainer	Active - Incidental | Out of Turn	taIncidentalOOT	true	1	When one of your Pokes is hit by a Move using the Brawl Skill you may take 4 strain to reduce the damage they take by the number to ranks you have in Durable plus one.
+Status Less Effective	Trainer	Passive	taPassive	false	4	Status Effects that are the oppposite of the Type of the Specializtion this is taken in cost 1 more to inflict
+Improved Constitution	Trainer	Active - Incidental | Out of Turn	taIncidentalOOT	false	4	When one of your Pokes is targeted but a non-damaging Move you may take 2 strain to upgrade the difficulty of the check.
+Improved Armor	Trainer	Passive	taPassive	false	3	Pokes whos Type match the specialization this talent was taken in are immune to the Open Chink Property
+Worker	Trainer	Passive	taPassive	false	2	When your Poke whos Type matches the specailiztion in which it was taken attempts a Status Effect check They gain and additional advantage.
+Hardpan	Trainer- Rock	Passive	taPassive	false	1	When one of your Rock Type Pokes are targeted by a Move that has the Drain Property Upgrade the dificulty
+Rock head	Trainer- Rock	Passive	taPassive	false	3	When one of your Rock Type pokes receives wounds from a Move with the Recoil Property they recieve 1 less wound
+Gravitational Pull	Trainer- Rock	Active - Maneuver	taManeuver	false	4	Your Rock Type Pokes may take 2 strain to add the Grounding Property to their next move
+Evasive	Trainer- Flying	Passive	taPassive	false	3	If an enemy's Move has the blast Property that would include one of your Flying Type Pokes increase the cost to activate it by one.
+Speedy	Trainer- Flying	Passive	taPassive	false	2	Your Flying Type Moves with the Haste Poperty gain the Armored 1 Property
+Eagle Eye 	Trainer- Flying	Active - Maneuver	taManeuver	false	5	When you spend two manuvers on aiming you gain an additional boost die.
+Area Control	Trainer- Ground	Passive	taPassive	false	5	Ground Type Moves With STAB that have the Blast, Surround, or Hazzard Properties are upgraded once
+Tremor Sense	Trainer- Ground	Passive	taPassive	false	5	The difficulty for enemies using stealth to sneak within Medium range of you is upgraded once if they are touching the ground.
+Head Start	Trainer- Ground	Passive	taPassive	false	2	When you choose a Learn Move talent on one of your Ground Type Pokes you may also learn one Move from the next tier of that talent.
+Bug Finder	Trainer- Bug	Passive	taPassive	false	2	You are more likely to find Bug Type TMs in the wilderness
+Evolution Surge	Trainer- Bug	Passive	taPassive	false	1	When one of your Bug type Pokes selects the evolution talent they may also recieve another talent from their Specailization for free.
+Metamorphosis	Trainer- Bug	Active - Action	taAction	false	3	You may spend XP durring session instead of between sessions
+Evasion	Trainer- Electric	Passive	taPassive	false	4	If an enemy's Move has the Surround Property that would include one of your Electric Type Pokes increase the cost to activate it by one.
+Crafter	Trainer- Electric	Active - Action	taAction	false	3	You are able create your own Pokeballs using materials that cost have as much as the ball would cost if you bought it.
+Inventor	Trainer- Electric	Passive	taPassive	false	5	When you create a Pokeball you can choose to follow an existing scematic or attempt to make something new.
+Open Field	Trainer- Grass	Passive	taPassive	false	3	Your Grass Type Pokes are immune to Powder and Spore Moves.
+Set Down Roots	Trainer- Grass	Active - Incidental	taIncidental	false	4	When your Grass Type Pokes use a Move with the Drain Property they may give themselves the Trapped condition to increase the ammount they heal by 50%
+Herboligy	Trainer- Grass	Passive	taPassive	false	3	Upgrade your knowledge checks to identify plants
+Blasting Off Again	Trainer- Poison	Active - Incidental	taIncidental	false	3	You may use a story point to trigger the blast or surround property
+Aim for the Eyes	Trainer- Poison	Passive	taPassive	false	4	Poisoned enemies that target your Pokes with moves upgrade the difficulty of their Move checks
+Stay Upwind	Trainer- Poison	Passive	taPassive	false	4	Spore and Powder Moves used by your Pokes gain the superier property.
+Freightful Presence	Trainer- Ghost	Passive	taPassive	false	1	Poke within Medium Range that have Timid or Skittish as their nature upgrade the difficulty of Move checks
+Sight Unseen	Trainer- Ghost	Active - Action	taAction	false	4	Once per session you and your active Poke may fade into the background. Enemies must make a hard vigilance check or you go unnoticed. Taking any fast or loud movments or actions ends this ability. 
+Insubstantial	Trainer- Ghost	Active - Action	taAction	false	3	Your Ghost Type Pokes are immune to the Trapped Condition
+Soundless orders	Trainer- Psychic	Active - Incidental	taIncidental	false	3	You may take 2 strain to hide the Move used by your Psychic Pokes this turn.
+Mind Speech	Trainer- Psychic	Active - Incidental	taIncidental	false	4	You may take 2 strain to speek directly into another persons mind for up to 1 minute. This can be resisted with an opposed Disipline vs Disipline Check.
+Mind Reader	Trainer- Psychic	Active - Incidental	taIncidental	false	5	When you use Mind Speech you are also able to hear surface thoughts of your target.
+Darkvision	Trainer- Dark	Passive	taPassive	false	1	You no longer recieve setback dice from darkness
+Slow Down	Trainer- Dark	Passive	taPassive	false	3	When one of you Pokes is targeted by a Move with the Quickness Property that Property cannot be activated.
+What's Yours is Mine	Trainer- Dark	Passive	taPassive	false	4	When one of your Dark Type Pokes uses a swap Move or a Move with the Steal Property add an aditional sucess to the pool.
+Fey Tounge	Trainer- Fairy	Active - Incidental	taIncidental	false	2	When making a deception check you you may use the skilled assist action on yourself using your diplomacy as long as what you say is technically true.
+Restore Balence	Trainer- Fairy	Passive	taPassive	false	3	The Blast Property on non-damaging Moves cost one less for your Fairy Type Pokes
+Can't We Talk About This	Trainer- Fairy	Active - Action	taAction	false	5	In the first tun of combat, you may attempt a Charm or Deception Check to turn it into a Social battle instead.
+Hoarfrost	Trainer- Ice	Active - Incidental	taIncidental	false	4	Before rolling a Move check for an Ice type Move with STAB your Poke May suffer 2 strain to Halve any resistance to the Move's damage
+Aurora	Trainer- Ice	Passive	taPassive	false	2	Beam Moves used by your Ice type Pokes gain the Suprier Property
+Stick the Landing	Trainer- Ice	Active - Incidental	taIncidental	false	5	Once per session you may reroll a Move check for a damaging Move
+Ball Boy	Trainer- Normal	Passive	taPassive	false	2	You are more likely to find balls in the wilderness
+Friendly Fire: Off	Trainer- Normal	Active - Incidental	taIncidental	false	4	You may take 2 strain per target to exclude targets from the activation of the Blast of Surround property you activate.
+Magic Touch	Trainer- Normal	Passive	taPassive	false	3	Moves used by your Normal Type Pokes with the Heal Property gain the Superier Property
+Powerful Blows	Trainer- Fighting	Active - Incidental	taIncidental	false	1	When one of your Fighting Type Pokes activates the knockdown Property they may also use the Push property as a Incidental at no cost
+Martial Training	Trainer- Fighting	Passive	taPassive	false	3	Your Fighting Type Pokes gain one additional armor when targeted by Pokes in engaged range
+C-C-C-Combo	Trainer- Fighting	Passive	taPassive	false	5	Fighting Type Moves with the Linked Property gain an addional rank and you gain one free activation.
+Heavy Metal	Trainer- Steel	Passive	taPassive	false	2	Your Steel Type Pokes are immute to Push and Pull Properties. Unless activated by an Electric Type Move or Poke.
+Wet Stone	Trainer- Steel	Passive	taPassive	false	2	Steel Type Moves with Hone increase their rank by one
+Armor Up	Trainer- Steel	Passive	taPassive	false	4	When your Steel Type Pokes use a non-damaging Move that recieves STAB they gain 1 armor
+Water Trainer Talent 1	Trainer- Water	Passive	taPassive	false		Description of Water Trainer Talent 1
+Water Trainer Talent 2	Trainer- Water	Passive	taPassive	false		Description of Water Trainer Talent 2
+Water Trainer Talent 3	Trainer- Water	Passive	taPassive	false		Description of Water Trainer Talent 3
+Generosity of Others	Trainer- Dragon	Active - Maneuver	taManeuver	false	5	You may spend a story point to give an oppponents Move the Give Property for the rest of combat.
+Hoard	Trainer- Dragon	Passive	taPassive	false	2	In battle your Dragon Type Pokes do not drop held items at the end of theirturn due to holding more than one.
+Tribute	Trainer- Dragon	Active - Incidental | Out of Turn	taIncidentalOOT	false	4	You may spend two disadvantage to activate the Give Property on Moves targeting you.
+Heat Warp	Trainer- Fire	Passive	taPassive	false	2	Fire Type Moves with the Dull Property increase their rank by 1
+Fire Trainer Talent 2	Trainer- Fire	Passive	taPassive	false		Description of Fire Trainer Talent 2
+Fire Trainer Talent 3	Trainer- Fire	Passive	taPassive	false		Description of Fire Trainer Talent 3
+Move Set	Poke	Passive	taPassive	true		Add 1/4th of your learn set to your availible moves for each rank of this talent
+Second Ability	Poke	Passive	taPassive	false		Gain your other ability
+Hidden Ability	Poke	Passive	taPassive	false		Gain your hidden ability
+Evolution	Poke	Passive	taPassive	false		Gain access to the next Specialization in your evolution tree. You may no longer purchase Talents from the specailiaztion this was selected from.
+Armored	Poke	Passive	taPassive	true		Increase armor rating by 1
+Defensive	Poke	Passive	taPassive	true		Increase Soak by 1
+Especially Defensive	Poke	Passive	taPassive	true		Increase Specail Soak by 1
+Bobbing Stance	Poke	Active - Maneuver	taManeuver	true		Once per round, you may suffer a number of strain up to your ranks in Defensive Stance. Then, until the end of your next turn, upgrade the difficulty of all Moves coming from opponents in engaged range a number of times equal to the strain suffered
+Weaving Stance	Poke	Active - Maneuver	taManeuver	true		Once per round, you may suffer a number of strain up to your ranks in Jitter Stance. Then, until the end of your next turn, upgrade the difficulty of all Moves coming from opponents outside engaged range a number of times equal to the strain suffered
+Second Wind	Poke	Active - Incidental | Out of Turn	taIncidentalOOT	true		Once per encounter, you may use this talent to heal an amount of strain equal to their ranks in Second Wind.
+Block	Poke	Active - Incidental | Out of Turn	taIncidentalOOT	true		When hit by a Move in engaged range you may take 3 strain to reduced the number of wounds you recive by 2 plus the number of ranks you have in Block. (This reduction happens befor soak is applied but after weakness and resistance is calculated.)
+Dodge	Poke	Active - Incidental | Out of Turn	taIncidentalOOT	true		When hit by a Move outside engaged range you may take 3 strain to reduced the number of wounds you recive by 2 plus the number of ranks you have in Dodge. (This reduction happens befor soak is applied but after weakness and resistance is calculated.)
+Top Defense	Poke	Passive	taPassive	false		For each rank of the momentum condidtion you have gain 1 additional armor
+Artilery Stance	Poke	Active - Action	taAction	false		Suffer 2 strain to increase the range of all your Moves by 1 range band. Cannot be used more than once. You lose this benifit if you move.
+Precision Blast	Poke	Action - Incidental	Action (Incidental)	false		When you activate the Blast or Surround properties you do not hit allies
+Charge	Poke	Active - Action	taAction	false		Move 1 range band then use a Move with range of engaged
+Echo	Poke	Active - Maneuver	taManeuver	false		Suffer 2 strain to add linked 1 to a damaging Move with the Vocal Property or if it is a non-damaging Move add a scond target increasing the difficulty of the check and adding armor of both targets.
+Favored Weapon	Poke	Passive	taPassive	true		Gain 1 advantage ont your signiture moves for each rank in Favored Weapon
+Pack Attack	Poke	Passive	taPassive	false		When targeting an opponent in engaged range. Gain 1 advantage on Move checks for every ally engaged with your target.
+Sharpening Stone	Poke	Passive	taPassive	false		When ever you are the recipiant of the Hone property Your Moves gain Pierce 1 untill the end of your next turn. (If they already have Piece increase its rank by 1, this is stackable)
+High Ground	Poke	Passive	taPassive	false		When using a Move at a range greater than engaged, if you are at a higher eleveation add a Blue to your check.
+Increased Pressure	Poke	Active - Incidental | Out of Turn	taIncidentalOOT	false		When you are the target of a Move you may spend spend 2 dissadvantage to lower the PP of that move by 1. 
+Forceful Strike	Poke	Active - Maneuver	taManeuver	false		Add the Push Property to a Move with range of Engaged until the end of your turn
+Vampire	Poke	Active - Incidental	taIncidental	false		When activating the Drain Property you may take 2 strain to increase the amount of wounds you heal by 4
+Jump Up	Poke	Active - Incidental	taIncidental	false		Once per round during your turn, you may stand from prone as an incidental.
+Keep Away	Poke	Active - Maneuver	taManeuver	false		Until your next turn it takes 2 manuvers for enemies to move to engaged range.
+Skitter	Poke	Active - Maneuver	taManeuver	false		Move up to 1 range band along a vertical suface. If you end your turn still attached to the surface each time you are sucessfully hit with a Move you must make a hard Resilience check or fall to the ground and gain the prone condition.
+Sticky	Poke	Passive	taPassive	false		After you are hit by a Brawl based Move with range of Engaged, your opponent must succeed and hard Brawl check before disengaging. If you move they must make the same check or be moved with you.
+Fire	Poke	Passive	taPassive	false		When activating the Blast Property you may spend a story point to also activate the Burn property.
+Water	Poke	Active - Maneuver	taManeuver	false		Add the Surround Property to a Move that recieves STAB and has the Blast Property until the end of the turn.
+Grass	Poke	Passive	taPassive	false		You are immune to Powder and Spore Moves
+Ghost	Poke	Passive	taPassive	false		Ignore all Setback dice added from cover.
+Steel	Poke	Passive	taPassive	false		When hit by an Electric Type Move. You may store half the damage taken until the end of your next turn. You may add this damage to your next Steel type Move that makes contact. It is still electric type.
+Dark	Poke	Passive	taPassive	false		Increase base damage of STAB Moves by 1 in darkness
+Electric	Poke	Active - Incidental | Out of Turn	taIncidentalOOT	false		When hit by a move from range of engaged. You may take 3 strain to reduce the damge by your Speed.
+Ground	Poke	Passive	taPassive	false		Gain 2 blue when targeting an enemy who has lost the airborne Condition.
+Rock	Poke	Active - Action	taAction	false		Create a piece of cover that remain untill the end of the battle
+Ice	Poke	Passive	taPassive	false		When you deal wounds to an enemy your next Move against a diffeerent target gains Pierce 1 (If the Move alraeady hase Pierce increase its rank by 1). This bonus will stack until you fail to deal wonds to a new target.
+Flying	Poke	Active - Incidental | Out of Turn	taIncidentalOOT	false		When hit by a move from range greater than engaged. You may take 3 strain to reduce the damge by your Speed.
+Bug	Poke	Passive	taPassive	false		When this Poke feints if it was the result of a super effective Move the next Poke used by the same trainer gains Haste 1.
+Psychic	Poke	Passive	taPassive	false		Remove two setback dice from all your Move checks when you are withing short range of the target.
+Poison	Poke	Passive	taPassive	false		Once per battle take half damage from a super effective move made by a poisoned enemy.
+Fairy	Poke	Passive	taPassive	false		Difficulty to remove battle field effects you put in place is increased by 1
+Fighting	Poke	Passive	taPassive	false		Each time you deal or recieve wounds from Moves with range of engaged add a blue to your Move checks until the end of your next turn.
+Normal	Poke	Passive	taPassive	false		When you reduce your own or an allies wounds you reduce them by 1 additional wound.
+Dragon	Poke	Passive	taPassive	false		You are immune to the Steal and Disarm Properties
+I Know The Owner	Path	Passive	taPassive	false	1	Downgrade the difficulty to find all items by 1 (Wilderness only).
+I Know Where to Find That	Path	Passive	taPassive	false	1	Downgrade the difficulty to find all items by 1 (Shops only).
+Strenuous Exercise - Poke	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	1	When one of your Pokes would suffer strain you may choose to suffer it instead.
+Strenuous Exercise - Self	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	1	When you would suffer strain you may choose to have your active Poke suffer it instead.
+Pointers	Path	Active - Incidental	taIncidental	false	1	At the start of each combat choose one move per Poke, that move generates one advantage each time it is used.
+Nourishing Incubation	Path	Passive	taPassive	false	1	Eggs you keep in one of your Pokéslots hatch much faster than normal.
+Egg Timer	Path	Active - Action	taAction	false	1	You can examine an egg to get an idea when it will hatch.
+Among Friends	Path	Passive	taPassive	false	1	Poke you capture start at Loyalty 1 instead of 0.
+Information Network	Path	Active - Action	taAction	false	1	You may use a story point to hear rumors of any rare Pokes in your area.
+Durable Pokes	Path	Passive	taPassive	false	1	Triumphs against your Pokes can only be used to activate properties that cost two advantages or less.
+For Me, It Was Tuesday	Path	Passive	taPassive	false	1	Whenever you roll a Triumph remove one strain from you or one of your Pokes.
+Smoke Bomb	Path	Active - Action	taAction	false	1	You can retreat from battle without rolling.
+Unremarkable	Path	Passive	taPassive	false	1	All attempts to identify you automatically gain one failure.
+Sage Advice	Path	Passive	taPassive	false	1	When you aid in knowledge checks you give two boosts instead of one.
+Mental Mobility	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	1	Whenever one of your Pokes attempts to use a non damaging Move you may suffer two strain to upgrade your check.
+Forger	Path	Passive	taPassive	false	1	Given an example you can make any document look authentic.
+Prepared	Path	Active - Action	taAction	false	1	Once per session you may have an Item you did not previously buy. You must pay for this item at full price immediately.
+Versatile	Path	Active - Action	taAction	false	1	Once per day you may swap one move from each for his Pokes Move pool. (Out of combat only.)
+Good Veins	Path	Active - Maneuver	taManeuver	false	1	Once per session you may use a healing item as a maneuver.
+Nurse Training	Path	Passive	taPassive	false	1	Healing items you use heal one additional wound.
+Pass Without Trace	Path	Passive	taPassive	false	1	Survival check to track you have their difficulty increased once.
+Perfect Recall	Path	Passive	taPassive	false	1	You do not need to make knowledge checks to remember details for previously known information. This applies to personal experience only, not information you have read.
+Trainer Joey	Path	Active - Action	taAction	false	1	Once per session you may upgrade your check when attempting to catch a Poke of the same type as your specialization.
+Power Shaper	Path	Passive	taPassive	false	1	Moves of your chosen Specializations cannot damage allies even with the use of a Despair or the blast property.
+Dual Pokes	Path	Passive	taPassive	false	2	You can have two active Pokes out during exploration mode.
+Well Trained	Path	Passive	taPassive	false	2	If your active Poke succeeds on a check, add its skill ranks in the skill used as successes.
+Stat	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	2	Prior to one of your Pokes rolling Initutive, you may suffer two strain to upgrade a Pokes Initiative check(This be used multiple times on the same Poke.)
+Egg Slot	Path	Passive	taPassive	false	2	You gain one extra Pokéslot that can only be used to hold eggs.
+Snacks	Path	Active - Action	taAction	false	2	You may spend one hour each day making biscuits, they last one day and can mimic the effect of any berry, must be decided when making them. You get one per Poke in your active party, they are considered help items.
+Charming Demeanor	Path	Passive	taPassive	false	2	When you end a social encounter in a compromise the details always slightly favor you.
+Genémon Box Link	Path	Passive	taPassive	false	2	You do not need a PC to move Pokes between box and active party.
+A Worthy Sacrifice	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	2	When one of your Pokes faints you may take two strain to upgrade the next Move check of all allies in medium range of your Poke.
+Skilled	Path	Passive	taPassive	false	2	All your Pokes gain two non-combat skill proficiencies.
+Energy Conservation	Path	Passive	taPassive	false	2	All your Pokes moves gain 1 extra PP.
+Fake It Till You Make It	Path	Active - Incidental	taIncidental	false	2	Once per session you may use your ranks in skulduggery in place of a skill you do not have proficiency in.
+Show Of Defiance	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	2	Once per session when one of your Pokes is targeted by a Move you may suffer two strain, they gain resistance to that Move. (If they are Weak to this Move ignore that weakness.)
+Strong Mind, Strong Body	Path	Passive	taPassive	false	2	You gain a second use of your Path ability per session.
+Spiritual Sight	Path	Passive	taPassive	false	2	You know the current wounds and strain of allies and enemies you can see without rolling.
+Be At Peace	Path	Passive	taPassive	false	2	When your Poke removes strain after a battle you also remove strain though one less than they did.
+Gundam Mini's	Path	Passive	taPassive	false	2	When attempting to distract a single person using conversation no roll is needed.
+Move Tutor	Path	Passive	taPassive	false	2	You may use TMs twice instead of once.
+Shortcut	Path	Passive	taPassive	false	2	You always know a faster but more difficult and dangerous path through the wilderness.
+Supier Pokedex	Path	Passive	taPassive	false	2	You may make a knowledge check to identify Talents and Paths of enemy trainers.
+Scouted The Battlefield	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	2	If a Poke successfully flees battle you may spend a story point to make them reroll.
+Point Defense	Path	Passive	taPassive	false	2	At the beginning of each fight choose a type. Your Pokes gain one Armor against all Moves of that type.
+I'll Handle It	Path	Active - Action	taAction	false	2	Treat a check as if you succeed without rolling as long as your active Poke’s type is the same as your Specialization and it is within their ability to handle.
+Suprising Reposition - Ally	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	3	Once per session when a friendly Poke is targeted by a Move you may swap its position with one of your Pokes within short range, your Poke is now the target of the Move.
+Suprising Reposition - Self	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	3	Once per session when one of your Pokes is the target of a successful Move check by a Move you may change places with an ally in short range. They are now the target of the Move.
+Max Potential	Path	Passive	taPassive	false	3	All your Pokes gain +2 strain and wound threshold.
+Take Cover	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	3	When you or one of your Pokes use disadvantages to take a maneuver to move you may move two range bands instead of one.
+Experienced Aid	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	3	Once per session when you would give someone a boost die they gain two additional boosts.
+Trusted Trades	Path	Passive	taPassive	false	3	When you give or receive a Poke has 0 Loyalty instead of -1.
+Nurture > Nature	Path	Passive	taPassive	false	3	Pokes you hatch have the Nature of your choice.
+Evolutionary Expert	Path	Passive	taPassive	false	3	When one of you Pokes evolve they get one tier 1 talent for free.
+Expert Shopper	Path	Passive	taPassive	false	3	Items you buy cost 30% less. Items you sell, sell for 25% more.
+It's For Your Own Good	Path	Passive	taPassive	false	3	When rolling Coercion to help someone downgrade the difficulty by one.
+Unbreakable	Path	Active - Maneuver	taManeuver	false	3	Once per session you may have one of your Pokes suffer two strain to break out of a Status effect that requires a roll without rolling or losing its action or maneuver.
+Meowth, Dat's Right	Path	Active - Incidental	taIncidental	false	3	Whenever you make a check using Deception or Skulduggery, your Poke can expend PP from an appropriate Move for the situation to add successes or advantages. Whether this talent gives successes or advantages is dependent on how relevant the Move is to the situation (determined by GM.) Each PP spent is one success or advantage. 
+Danger Sense	Path	Active - Incidental	taIncidental	false	3	You may suffer two strain to know the move pool of one Poke.
+Fast Learner	Path	Active - Action	taAction	false	3	When you take this talent gain a tier 3 Talent from one of your allies Paths
+Listen To Your Heart	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	3	Once per session when your Poke is hit by a Move the Poke who used the Move becomes infatuated with your Poke.
+Mentalist	Path	Active - Incidental	taIncidental	false	3	Once per session you may choose to upgrade a knowledge check any number of times you take two strain per upgrade.
+Cure What Ails You	Path	Active - Incidental	taIncidental	false	3	Once per session you may use Story points to remove a status condition.
+Friendly Terrain	Path	Passive	taPassive	false	3	When you take this talent select a type. You can speak with and understand Pokes of that type.
+Ranger Danger	Path	Passive	taPassive	false	3	You can sense wilderness based traps and ambushes without rolling. 
+Evasion	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	3	Once per session if one of your Poke would be hit by the blast property or would be hit by a friendly Move due to a Despair. You may have them suffer two strain instead.
+Correct Measurements	Path	Active - Incidental	taIncidental	false	3	Once per session you may Increase the range of one of your Pokes attacks by one range band.
+Data Analisis	Path	Passive	taPassive	false	3	You can use Computers instead of Knowledge for checks as long as you have access to a computer.
+Tactical Support	Path	Active - Maneuver	taManeuver	false	3	Once per session your Poke can use a move that does not cause damage as a maneuver.
+Shot In The Dark	Path	Active - Incidental	taIncidental	false	3	Once per session you may remove two setback die from any one check, you can increase the number of setback die removed by two, if you do you suffer 1 strain. You may do this any number of times.
+Learn From Experience	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	4	Once per day when one of your Pokes suffers a Status Effect. Immediately end that effect and all of your Pokes are immune to that Status effect until the end of the battle.
+Can't Stop Me Now	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	4	Once per session you may add five setback dice or five boost die to any one check.
+It's Me, Dio	Path	Active - Maneuver	taManeuver	false	4	Once per session you may suffer two strain to swap your Poke as a maneuver.
+Purebred	Path	Passive	taPassive	false	4	You choose the egg move for Pokes you bred or hatched.
+Egg Scent	Path	Active - Action	taAction	false	4	You may may make survival checks to find Pokénests without any tracks or other signs.
+Unlimited Potential	Path	Passive	taPassive	false	4	Your evolved Pokes can take talents from their previous Specializations and do not become locked out of them.
+XP Share	Path	Passive	taPassive	false	4	After each battle you gain half again the XP you received from the fight, rounded down maximum 10. This additional XP must be assigned to a Poke that did not participate in the battle. That Poke must be in your active team.
+Excited Return	Path	Passive	taPassive	false	4	The first check a Poke makes after leaving the box is upgraded twice. (Must have been in the Box for at least one day)
+Extra Poke	Path	Passive	taPassive	false	4	You have 7 Pokéslots in your active team.
+I Need More Power	Path	Active - Incidental	taIncidental	false	4	Once per session you may force a Poke to use a Move that is not in its current Move pool but is on its learn set, they suffer two strain.
+Not Even My Final Form	Path	Passive	taPassive	false	4	Each of your Pokes can take one talent from one of the other Specializations in its Career for free.
+Loyalty Through Strength	Path	Passive	taPassive	false	4	Your Pokes gain a bonus for each point of Loyalty they have toward you: 1 Loyalty - +1 to HP or Speed 2 loyalty - +1 to Physical Defense or Special Defense 3 loyalty - +1 to Physical Attack or Special Attack
+Suffer The Consequences	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	4	Once Per session when an opponent fails a check you may suffer two strain each up to the number of uncancelled failures. Each time you do this one failure is instead treated as a despair.
+Every Goon Has His Day	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	4	Once per session when you succeed a check you may suffer two strain each up to the number of uncancelled Successes. Each time you do this one success is treated as a triumph.
+Do Or Die	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	4	Once per session when one of your Pokes fails to do damage with a Move you may have your Poke take two times the uncancelled failures plus 1 strain to reroll the attack. Once this talent is triggered it does not stop until either your attack succeeds or your Poke feints.
+Unity	Path	Passive	taPassive	false	4	Your Path ability extends to your Pokes you may use their scores as well as your own for the swap.
+Third Sight	Path	Active - Action	taAction	false	4	You know where a certain path leads (Once per session ask the GM the outcome of one choice, out of battle only).
+Threefold Strike	Path	Active - Incidental	taIncidental	false	4	Once per day if PCs have three turns before the next NCP turn you may activate this ability. Each Poke takes two strain then all three Pokes act at once Moves activate as normal but only the Poke belonging to you has their damage reduced by the enemy soak. Turn tracker is then set three forward.
+Quick Hands	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	4	Once per session when one of your Pokes eats or has their held item taken from them. You may replace it with an item from your inventory.
+Patience	Path	Active - Incidental	taIncidental	false	4	Once per session you may spend a story point to reroll any check.
+Specialization Makes You. Predictable.	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	4	Once per session you may cancel another Trainer’s Path ability or Talent.
+Loyal Companion	Path	Passive	taPassive	false	4	You gain boost die on skill checks equal to the Loyalty score of your active Poke.
+Motivational Speaker	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	4	Once Per session when a player and GM Each spend a story point to upgrade a check. You may regain the story point and add a boost die to the check.
+Corrected Stance	Path	Active - Incidental	taIncidental	false	4	Once per session you may use a story point to downdgrade the difficulty of an attack.
+Hellllooooooo Nurse	Path	Passive	taPassive	false	4	Charm checks against people who could find you attractive have their difficulty downgraded once.
+Laughter is The Best Medicine	Path	Active - Action	taAction	false	4	Once per session make a charm check to heal a person or Poke(effects very based on success).
+Viral Load	Path	Active - Incidental	taIncidental	false	4	Once per session add the Poison property to one of your Pokes moves for one attack.
+Strider	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	4	Once per day at the start of a battle you may activate this ability. The first time you use each Poke in the battle your enemy does not know what the Poke is.
+Tag Team	Path	Active - Incidental	taIncidental	false	4	Once each battle you may take two strain to add the linked property to one of your Poke’s moves for one attack, if it already has the linked property increase the linked rating by one.
+Favored Enemy	Path	Passive	taPassive	false	4	When you take this talent pick a type. Moves of the chosen type do not receive STAB when targeting your Pokes.
+Well Actually...	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	4	Once per session when an ally fails a knowledge check or gains false information. You may immediately make a knowledge check using his skill ranks upgraded twice or your own, whichever is higher.
+Scientific Rigger	Path	Passive	taPassive	false	4	When you fail two checks in a row, any subsequent checks are upgraded you receive additional upgrades for each two failed checks continuing until you succeed on a check at which point your checks return to normal. Upgrades do not carry over between sessions.
+Eureka	Path	Passive	taPassive	false	4	Whenever you roll a triumph on a knowledge check you can trade the triumph for successes equal to the ranks of the skill rolled.
+Rappid Reposition	Path	Active - Incidental | Out of Turn	taIncidentalOOT	false	4	Once per session as an out of turn incidental one of your Pokes gains a maneuver that can only be used to move into cover or move into engaged range of an enemy.   If you move into cover, give enemies attacking you an additional disadvantage.   If you move into engage range of an enemy, you may immediately use a Move however during your next turn you cannot use your action to use a Move. 
+Defensive Posturing	Path	Passive	taPassive	false	4	Your Pokes have +1 to their Armor.
+Called Shot	Path	Active - Incidental	taIncidental	false	4	Whenever one of your Pokes uses the Aim maneuver you may choose to add an amount of setback dice to their dice pool for their Move this turn. If their Move succeeds and deals damage add twice that many dice to the target Pokes next Move.
+Superior Typing	Path	Passive	taPassive	false	4	All moves of your Specializations include STAB.
+Custom Moves	Path	Passive	taPassive	false	4	You may add one property to each move of your Specialization thats your Pokes have in their Move pool. (Keep it thematic)
+Battle Surge	Path	Active - Incidental	taIncidental	false	4	Once per day at the beginning of a battle you may choose one of your Specializations. Moves of that specialization are not subject to resistance or immunities for this battle.

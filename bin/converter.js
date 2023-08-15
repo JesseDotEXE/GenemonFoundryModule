@@ -7,11 +7,13 @@ const swffgTypeMapping = {
     'GEAR': 'Gear',
     'ITEMMODIFIER': 'ItemDescriptor',
     'WEAPON': 'Weapon',
+    'TALENT': 'Talent',
 };
 const outputFileNameMapping = {
     'GEAR': 'Gear',
     'ITEMMODIFIER': 'ItemDescriptors',
     'WEAPON': 'Weapons',
+    'TALENT': 'Talents',
 };
 
 const parseFile = async (fileName) => {
@@ -61,6 +63,28 @@ const buildSwffgItemModifierObject = (objectData) => {
       `${objectData.Description} \n<!--[CDATA[--><br><br><b>Cost: [${genemonCost}]</b><!--]]-->
       `; // Add the cost to the description.
     rawFoundryObj.Type = 'weapon'; // Leave as 'weapon' because all these will be associated weapons (moves)
+
+    return rawFoundryObj;
+};
+
+const buildSwffgTalentObject = (objectData) => {
+    const rawFoundryObj = clone(objectData);
+
+    const genemonType = get(rawFoundryObj, 'Type', 'Unknown');
+    const genemonRankMin = get(rawFoundryObj, 'Type', 'Unknown');
+    rawFoundryObj.Key = createFoundryDataKey(objectData.Name);
+    rawFoundryObj.Name = `${rawFoundryObj.Name} [${genemonType}]`; // Add the type to the name to make searching easier.
+    rawFoundryObj.Description =
+      `${objectData.Description} 
+       \n<!--[CDATA[--><br><br><b>Type: [${genemonType}]</b><!--]]-->
+       \n<!--[CDATA[--><br><br><b>Rank Min: [${genemonRankMin}]</b><!--]]-->
+      `; // Add the cost to the description.
+    rawFoundryObj.Type = 'talent';
+
+    // Don't want to take these fields.
+    delete rawFoundryObj.Type;
+    delete rawFoundryObj.Activation;
+    delete rawFoundryObj.RankMin;
 
     return rawFoundryObj;
 };
@@ -143,8 +167,12 @@ const buildFoundryXmlFile = (swffgDataType, tsvData) => {
             case "ItemDescriptor":
                 wrappedFoundryObject[foundyObjectType] = buildSwffgItemModifierObject(objectData);
                 break;
+            case "Talent":
+                wrappedFoundryObject[foundyObjectType] = buildSwffgTalentObject(objectData);
+                break;
             case "Weapon":
                 wrappedFoundryObject[foundyObjectType] = buildSwffgWeaponObject(objectData);
+                break;
         }
 
         formattedFoundryObjects.push(wrappedFoundryObject);
