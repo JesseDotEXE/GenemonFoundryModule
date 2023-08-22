@@ -52,3 +52,17 @@ There is a bug with weapons that the qualities appear but break. Players will ne
 Pokemon should have blank Specialization, Species, and Career items (unless Morgan wants it in).
 * Checkout the Pikachu - Pokemon.xml file for details.
 
+# Pokemon Importer Notes from 7/31 Discussion
+Potentially shift Abilities to SWFFG Talents.
+
+Conversions
+* Region is Species
+* Path is Forcepower
+* Specialization is Specialization
+* Catch Rate is just text in Pokemon biography.
+* Don't worry about Status and Conditions.
+
+Pokemon will import with Species, Gear, Bio, and Picture.
+* Each Pokemon will be a Species.
+* Players will assign attacks.
+* Morgan will make Specializations.
