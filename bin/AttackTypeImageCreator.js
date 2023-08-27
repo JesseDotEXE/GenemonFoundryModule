@@ -43,8 +43,6 @@ const createFoundryDataKey = (objectName) => {
     const sourceFilePath = `./data/GenemonTsvInput/TypeImages/${toLower(actionType)}.png`;
     const destFilePath = `./data/GenemonXmlOutput/Data/EquipmentImages/${destFileName}`;
 
-    // console.log(`${sourceFilePath} - ${destFileName} - ${actionType}`);
-
     await fs.copyFile(sourceFilePath, destFilePath, (error) => {
       if (error) throw error;
       console.log(`File [${destFileName}] was created.`);
