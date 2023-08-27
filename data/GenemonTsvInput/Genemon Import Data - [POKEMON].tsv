@@ -1,1170 +1,1170 @@
-Name	Brawn	Agility	Intellect	Cunning	Willpower	Presence	WoundThreshold	StrainThreshold	DefenseRanged	DefenseMelee	Ability	Second Ability	Hidden Ability	Catch Rate
-Bulbasaur	1	1	2	1	1	2	11	11	2	1	Overgrow		Chlorophyll	45
-Ivysaur	2	2	2	2	2	2	12	12	2	2	Overgrow		Chlorophyll	45
-Venusaur	2	2	3	2	2	3	12	12	3	2	Overgrow		Chlorophyll	45
-Venusaur (Mega Venusaur)	2	2	3	3	3	3	12	12	3	3	Thick Fat			45
-Charmander	1	2	2	2	1	2	11	12	2	1	Blaze		Solar Power	45
-Charmeleon	2	2	2	2	2	2	12	12	2	2	Blaze		Solar Power	45
-Charizard	2	3	3	2	2	2	12	13	2	2	Blaze		Solar Power	45
-Charizard (Mega Charizard X)	2	3	3	3	3	2	12	13	2	3	Tough Claws			45
-Charizard (Mega Charizard Y)	2	3	4	3	2	3	12	13	3	2	Drought			45
-Squirtle	1	1	2	1	2	2	11	11	2	2	Torrent		Rain Dish	45
-Wartortle	2	2	2	2	2	2	12	12	2	2	Torrent		Rain Dish	45
-Blastoise	2	2	2	2	3	3	12	12	3	3	Torrent		Rain Dish	45
-Blastoise (Mega Blastoise)	2	2	3	3	3	3	12	12	3	3	Mega Launcher			45
-Caterpie	1	1	1	1	1	1	11	11	1	1	Shield Dust		Run Away	255
-Metapod	2	1	1	1	2	1	12	11	1	2	Shed Skin			120
-Butterfree	2	2	2	1	2	2	12	12	2	2	Compound Eyes		Tinted Lens	45
-Weedle	1	2	1	1	1	1	11	12	1	1	Shield Dust		Run Away	255
-Kakuna	1	1	1	1	2	1	11	11	1	2	Shed Skin			120
-Beedrill	2	2	1	2	1	2	12	12	2	1	Swarm		Sniper	45
-Beedrill (Mega Beedrill)	2	3	1	4	1	2	12	13	2	1	Adaptability			45
-Pidgey	1	2	1	1	1	1	11	12	1	1	Keen Eye	Tangled Feet	Big Pecks	255
-Pidgeotto	2	2	2	2	2	2	12	12	2	2	Keen Eye	Tangled Feet	Big Pecks	120
-Pidgeot	2	3	2	2	2	2	12	13	2	2	Keen Eye	Tangled Feet	Big Pecks	45
-Pidgeot (Mega Pidgeot)	2	3	3	2	2	2	12	13	2	2	No Guard			45
-Rattata	1	2	1	2	1	1	11	12	1	1	Run Away	Guts	Hustle	255
-Rattata (Alolan Rattata)	1	2	1	2	1	1	11	12	1	1	Gluttony	Hustle	Thick Fat	255
-Raticate	2	2	2	2	2	2	12	12	2	2	Run Away	Guts	Hustle	127
-Raticate (Alolan Raticate)	2	2	1	2	2	2	12	12	2	2	Gluttony	Hustle	Thick Fat	127
-Spearow	1	2	1	2	1	1	11	12	1	1	Keen Eye		Sniper	255
-Fearow	2	3	2	2	2	2	12	13	2	2	Keen Eye		Sniper	90
-Ekans	1	2	1	2	1	2	11	12	2	1	Intimidate	Shed Skin	Unnerve	255
-Arbok	2	2	2	2	2	2	12	12	2	2	Intimidate	Shed Skin	Unnerve	90
-Pikachu	1	2	2	2	1	2	11	12	2	1	Static		Lightning Rod	190
-Raichu	2	3	2	2	2	2	12	13	2	2	Static		Lightning Rod	75
-Raichu (Alolan Raichu)	2	3	2	2	2	2	12	13	2	2	Surge Surfer			75
-Sandshrew	2	1	1	2	2	1	12	11	1	2	Sand Veil		Sand Rush	255
-Sandshrew (Alolan Sandshrew)	2	1	1	2	2	1	12	11	1	2	Snow Cloak		Slush Rush	255
-Sandslash	2	2	1	3	3	2	12	12	2	3	Sand Veil		Sand Rush	90
-Sandslash (Alolan Sandslash)	2	2	1	3	3	2	12	12	2	3	Snow Cloak		Slush Rush	90
-Nidoran (Male)	2	1	1	1	2	1	12	11	1	2	Poison Point	Rivalry	Hustle	235
-Nidorina	2	2	2	2	2	2	12	12	2	2	Poison Point	Rivalry	Hustle	120
-Nidoqueen	2	2	2	2	2	2	12	12	2	2	Poison Point	Rivalry	Sheer Force	45
-Nidoran (Female)	1	2	1	2	1	1	11	12	1	1	Poison Point	Rivalry	Hustle	235
-Nidorino	2	2	2	2	2	2	12	12	2	2	Poison Point	Rivalry	Hustle	120
-Nidoking	2	2	2	3	2	2	12	12	2	2	Poison Point	Rivalry	Sheer Force	45
-Clefairy	2	1	2	1	1	2	12	11	2	1	Cute Charm	Magic Guard	Friend Guard	150
-Clefable	2	2	2	2	2	2	12	12	2	2	Cute Charm	Magic Guard	Unaware	25
-Vulpix	1	2	2	1	1	2	11	12	2	1	Flash Fire		Drought	190
-Vulpix (Alolan Vulpix)	1	2	2	1	1	2	11	12	2	1	Snow Cloak		Snow Warning	190
-Ninetales	2	3	2	2	2	3	12	13	3	2	Flash Fire		Drought	75
-Ninetales (Alolan Ninetales)	2	3	2	2	2	3	12	13	3	2	Snow Cloak		Snow Warning	75
-Jigglypuff	3	1	1	1	1	1	13	11	1	1	Cute Charm	Competitive	Friend Guard	170
-Wigglytuff	3	1	2	2	1	2	13	11	2	1	Cute Charm	Competitive	Frisk	50
-Zubat	1	2	1	1	1	1	11	12	1	1	Inner Focus		Infiltrator	255
-Golbat	2	2	2	2	2	2	12	12	2	2	Inner Focus		Infiltrator	90
-Oddish	1	1	2	2	2	2	11	11	2	2	Chlorophyll		Run Away	255
-Gloom	2	1	2	2	2	2	12	11	2	2	Chlorophyll		Stench	120
-Vileplume	2	2	3	2	2	2	12	12	2	2	Chlorophyll		Effect Spore	45
-Paras	1	1	1	2	2	2	11	11	2	2	Effect Spore	Dry Skin	Damp	190
-Parasect	2	1	2	2	2	2	12	11	2	2	Effect Spore	Dry Skin	Damp	75
-Venonat	2	1	1	2	2	2	12	11	2	2	Compound Eyes	Tinted Lens	Run Away	190
-Venomoth	2	2	2	2	2	2	12	12	2	2	Shield Dust	Tinted Lens	Wonder Skin	75
-Diglett	1	2	1	2	1	1	11	12	1	1	Sand Veil	Arena Trap	Sand Force	255
-Diglett (Alolan Diglett)	1	2	1	2	1	1	11	12	1	1	Sand Veil	Tangling Hair	Sand Force	255
-Dugtrio	1	3	2	3	2	2	11	13	2	2	Sand Veil	Arena Trap	Sand Force	50
-Dugtrio (Alolan Dugtrio)	1	3	2	3	2	2	11	13	2	2	Sand Veil	Tangling Hair	Sand Force	50
-Meowth	1	2	1	1	1	1	11	12	1	1	Pickup	Technician	Unnerve	255
-Meowth (Alolan Meowth)	1	2	2	1	1	1	11	12	1	1	Pickup	Technician	Rattled	255
-Meowth (Galarian Meowth)	2	1	1	2	2	1	12	11	1	2	Pickup	Tough Claws	Unnerve	255
-Persian	2	3	2	2	2	2	12	13	2	2	Limber	Technician	Unnerve	90
-Persian (Alolan Persian)	2	3	2	2	2	2	12	13	2	2	Fur Coat	Technician	Rattled	90
-Psyduck	2	2	2	2	1	2	12	12	2	1	Damp	Cloud Nine	Swift Swim	190
-Golduck	2	2	2	2	2	2	12	12	2	2	Damp	Cloud Nine	Swift Swim	75
-Mankey	1	2	1	2	1	1	11	12	1	1	Vital Spirit	Anger Point	Defiant	190
-Primeape	2	2	2	3	2	2	12	12	2	2	Vital Spirit	Anger Point	Defiant	75
-Growlithe	2	2	2	2	1	2	12	12	2	1	Intimidate	Flash Fire	Justified	190
-Growlithe (Hisuian Growlithe)	2	2	2	2	1	2	12	12	2	1	Intimidate	Flash Fire	Rock Head	190
-Arcanine	2	2	3	3	2	2	12	12	2	2	Intimidate	Flash Fire	Justified	75
-Arcanine (Hisuian Arcanine)	2	2	2	3	2	2	12	12	2	2	Intimidate	Flash Fire	Rock Head	75
-Poliwag	1	2	1	2	1	1	11	12	1	1	Water Absorb	Damp	Swift Swim	255
-Poliwhirl	2	2	2	2	2	2	12	12	2	2	Water Absorb	Damp	Swift Swim	120
-Poliwrath	2	2	2	2	2	2	12	12	2	2	Water Absorb	Damp	Swift Swim	45
-Abra	1	2	3	1	1	2	11	12	2	1	Synchronize	Inner Focus	Magic Guard	200
-Kadabra	1	3	3	1	1	2	11	13	2	1	Synchronize	Inner Focus	Magic Guard	100
-Alakazam	2	3	3	2	1	2	12	13	2	1	Synchronize	Inner Focus	Magic Guard	50
-Alakazam (Mega Alakazam)	2	4	4	2	2	3	12	14	3	2	Trace			50
-Machop	2	1	1	2	2	1	12	11	1	2	Guts	No Guard	Steadfast	180
-Machoke	2	1	2	3	2	2	12	11	2	2	Guts	No Guard	Steadfast	90
-Machamp	2	2	2	3	2	2	12	12	2	2	Guts	No Guard	Steadfast	45
-Bellsprout	2	1	2	2	1	1	12	11	1	1	Chlorophyll		Gluttony	255
-Weepinbell	2	2	2	2	2	1	12	12	1	2	Chlorophyll		Gluttony	120
-Victreebel	2	2	3	3	2	2	12	12	2	2	Chlorophyll		Gluttony	45
-Tentacool	1	2	2	1	1	3	11	12	3	1	Clear Body	Liquid Ooze	Rain Dish	190
-Tentacruel	2	3	2	2	2	3	12	13	3	2	Clear Body	Liquid Ooze	Rain Dish	60
-Geodude	1	1	1	2	3	1	11	11	1	3	Rock Head	Sturdy	Sand Veil	255
-Geodude (Alolan Geodude)	1	1	1	2	3	1	11	11	1	3	Magnet Pull	Sturdy	Galvanize	255
-Graveler	2	1	1	2	3	1	12	11	1	3	Rock Head	Sturdy	Sand Veil	120
-Graveler (Alolan Graveler)	2	1	1	2	3	1	12	11	1	3	Magnet Pull	Sturdy	Galvanize	120
-Golem	2	1	2	3	3	2	12	11	2	3	Rock Head	Sturdy	Sand Veil	45
-Golem (Alolan Golem)	2	1	2	3	3	2	12	11	2	3	Magnet Pull	Sturdy	Galvanize	45
-Ponyta	2	2	2	2	2	2	12	12	2	2	Run Away	Flash Fire	Flame Body	190
-Ponyta (Galarian Ponyta)	2	2	2	2	2	2	12	12	2	2	Run Away	Pastel Veil	Anticipation	190
-Rapidash	2	3	2	3	2	2	12	13	2	2	Run Away	Flash Fire	Flame Body	60
-Rapidash (Galarian Rapidash)	2	3	2	3	2	2	12	13	2	2	Run Away	Pastel Veil	Anticipation	60
-Slowpoke	2	1	1	2	2	1	12	11	1	2	Oblivious	Own Tempo	Regenerator	190
-Slowpoke (Galarian Slowpoke)	2	1	1	2	2	1	12	11	1	2	Gluttony	Own Tempo	Regenerator	190
-Slowbro	2	1	3	2	3	2	12	11	2	3	Oblivious	Own Tempo	Regenerator	75
-Slowbro (Mega Slowbro)	2	1	3	2	4	2	12	11	2	4	Shell Armor			75
-Slowbro (Galarian Slowbro)	2	1	3	3	2	2	12	11	2	2	Quick Draw	Own Tempo	Regenerator	75
-Magnemite	1	1	2	1	2	2	11	11	2	2	Magnet Pull	Sturdy	Analytic	190
-Magneton	2	2	3	2	2	2	12	12	2	2	Magnet Pull	Sturdy	Analytic	60
-Farfetch'd	2	2	2	2	2	2	12	12	2	2	Keen Eye	Inner Focus	Defiant	45
-Farfetch'd (Galarian Farfetch'd)	2	2	2	2	2	2	12	12	2	2	Steadfast		Scrappy	45
-Doduo	1	2	1	2	1	1	11	12	1	1	Run Away	Early Bird	Tangled Feet	190
-Dodrio	2	3	2	3	2	2	12	13	2	2	Run Away	Early Bird	Tangled Feet	45
-Seel	2	1	1	1	2	2	12	11	2	2	Thick Fat	Hydration	Ice Body	190
-Dewgong	2	2	2	2	2	2	12	12	2	2	Thick Fat	Hydration	Ice Body	75
-Grimer	2	1	1	2	2	2	12	11	2	2	Stench	Sticky Hold	Poison Touch	190
-Grimer (Alolan Grimer)	2	1	1	2	2	2	12	11	2	2	Poison Touch	Gluttony	Power of Alchemy	190
-Muk	3	2	2	3	2	3	13	12	3	2	Stench	Sticky Hold	Poison Touch	75
-Muk (Alolan Muk)	3	2	2	3	2	3	13	12	3	2	Poison Touch	Gluttony	Power of Alchemy	75
-Shellder	1	1	1	2	3	1	11	11	1	3	Shell Armor	Skill Link	Overcoat	190
-Cloyster	2	2	2	2	4	1	12	12	1	4	Shell Armor	Skill Link	Overcoat	60
-Gastly	1	2	3	1	1	1	11	12	1	1	Levitate			190
-Haunter	1	2	3	2	1	2	11	12	2	1	Levitate			90
-Gengar	2	3	3	2	2	2	12	13	2	2	Cursed Body			45
-Gengar (Mega Gengar)	2	3	4	2	2	2	12	13	2	2	Shadow Tag			45
-Onix	1	2	1	1	4	1	11	12	1	4	Rock Head	Sturdy	Weak Armor	45
-Drowzee	2	1	1	1	1	2	12	11	2	1	Insomnia	Forewarn	Inner Focus	190
-Hypno	2	2	2	2	2	3	12	12	3	2	Insomnia	Forewarn	Inner Focus	75
-Krabby	1	2	1	3	2	1	11	12	1	2	Hyper Cutter	Shell Armor	Sheer Force	225
-Kingler	2	2	2	3	3	2	12	12	2	3	Hyper Cutter	Shell Armor	Sheer Force	60
-Voltorb	1	3	2	1	2	2	11	13	2	2	Soundproof	Static	Aftermath	190
-Voltorb (Hisuian Voltorb)	1	3	2	1	2	2	11	13	2	2	Soundproof	Static	Aftermath	190
-Electrode	2	4	2	2	2	2	12	14	2	2	Soundproof	Static	Aftermath	60
-Electrode (Hisuian Electrode)	2	4	2	2	2	2	12	14	2	2	Soundproof	Static	Aftermath	60
-Exeggcute	2	1	2	1	2	1	12	11	1	2	Chlorophyll		Harvest	90
-Exeggutor	2	2	3	2	2	2	12	12	2	2	Chlorophyll		Harvest	45
-Exeggutor (Alolan Exeggutor)	2	1	3	3	2	2	12	11	2	2	Frisk		Harvest	45
-Cubone	2	1	1	2	2	2	12	11	2	2	Rock Head	Lightning Rod	Battle Armor	190
-Marowak	2	1	2	2	3	2	12	11	2	3	Rock Head	Lightning Rod	Battle Armor	75
-Marowak (Alolan Marowak)	2	1	2	2	3	2	12	11	2	3	Cursed Body	Lightning Rod	Rock Head	75
-Hitmonlee	2	2	1	3	2	3	12	12	3	2	Limber	Reckless	Unburden	45
-Hitmonchan	2	2	1	3	2	3	12	12	3	2	Keen Eye	Iron Fist	Inner Focus	45
-Lickitung	2	1	2	2	2	2	12	11	2	2	Own Tempo	Oblivious	Cloud Nine	45
-Koffing	1	1	2	2	2	1	11	11	1	2	Levitate	Neutralizing Gas	Stench	190
-Weezing	2	2	2	2	3	2	12	12	2	3	Levitate	Neutralizing Gas	Stench	60
-Weezing (Galarian Weezing)	2	2	2	2	3	2	12	12	2	3	Levitate	Neutralizing Gas	Misty Surge	60
-Rhyhorn	2	1	1	2	2	1	12	11	1	2	Lightning Rod	Rock Head	Reckless	120
-Rhydon	3	1	1	3	3	1	13	11	1	3	Lightning Rod	Rock Head	Reckless	60
-Chansey	6	2	1	1	1	3	16	12	3	1	Natural Cure	Serene Grace	Healer	30
-Tangela	2	2	3	2	3	1	12	12	1	3	Chlorophyll	Leaf Guard	Regenerator	45
-Kangaskhan	3	2	1	2	2	2	13	12	2	2	Early Bird	Scrappy	Inner Focus	45
-Kangaskhan (Mega Kangaskhan)	3	3	2	3	3	3	13	13	3	3	Parental Bond			45
-Horsea	1	2	2	1	2	1	11	12	1	2	Swift Swim	Sniper	Damp	225
-Seadra	2	2	2	2	2	1	12	12	1	2	Poison Point	Sniper	Damp	75
-Goldeen	1	2	1	2	2	2	11	12	2	2	Swift Swim	Water Veil	Lightning Rod	225
-Seaking	2	2	2	2	2	2	12	12	2	2	Swift Swim	Water Veil	Lightning Rod	60
-Staryu	1	2	2	1	2	2	11	12	2	2	Illuminate	Natural Cure	Analytic	225
-Starmie	2	3	3	2	2	2	12	13	2	2	Illuminate	Natural Cure	Analytic	60
-Mr. Mime	1	2	3	1	2	3	11	12	3	2	Soundproof	Filter	Technician	45
-Mr. Mime (Galarian Mr. Mime)	2	3	2	2	2	2	12	13	2	2	Vital Spirit	Screen Cleaner	Ice Body	45
-Scyther	2	3	2	3	2	2	12	13	2	2	Swarm	Technician	Steadfast	45
-Jynx	2	2	3	2	1	2	12	12	2	1	Oblivious	Forewarn	Dry Skin	45
-Electabuzz	2	3	2	2	2	2	12	13	2	2	Static		Vital Spirit	45
-Magmar	2	2	3	2	2	2	12	12	2	2	Flame Body		Vital Spirit	45
-Pinsir	2	2	2	3	3	2	12	12	2	3	Hyper Cutter	Mold Breaker	Moxie	45
-Pinsir (Mega Pinsir)	2	3	2	4	3	2	12	13	2	3	Aerilate			45
-Tauros	2	3	1	3	2	2	12	13	2	2	Intimidate	Anger Point	Sheer Force	45
-Tauros (Paldean Tauros (Combat Breed))	2	3	1	3	3	2	12	13	2	3	Intimidate	Anger Point	Cud Chew	45
-Tauros (Paldean Tauros (Blaze Breed))	2	3	1	3	3	2	12	13	2	3	Intimidate	Anger Point	Cud Chew	45
-Tauros (Paldean Tauros (Aqua Breed))	2	3	1	3	3	2	12	13	2	3	Intimidate	Anger Point	Cud Chew	45
-Magikarp	1	2	1	1	2	1	11	12	1	2	Swift Swim		Rattled	255
-Gyarados	2	2	2	3	2	3	12	12	3	2	Intimidate		Moxie	45
-Gyarados (Mega Gyarados)	2	2	2	4	3	3	12	12	3	3	Mold Breaker			45
-Lapras	3	2	2	2	2	2	13	12	2	2	Water Absorb	Shell Armor	Hydration	45
-Ditto	1	1	1	1	1	1	11	11	1	1	Limber		Imposter	35
-Eevee	2	2	1	2	2	2	12	12	2	2	Run Away	Adaptability	Anticipation	45
-Vaporeon	3	2	3	2	2	2	13	12	2	2	Water Absorb		Hydration	45
-Jolteon	2	3	3	2	2	2	12	13	2	2	Volt Absorb		Quick Feet	45
-Flareon	2	2	2	3	2	3	12	12	3	2	Flash Fire		Guts	45
-Porygon	2	1	2	2	2	2	12	11	2	2	Trace	Download	Analytic	45
-Omanyte	1	1	2	1	3	2	11	11	2	3	Swift Swim	Shell Armor	Weak Armor	45
-Omastar	2	2	3	2	3	2	12	12	2	3	Swift Swim	Shell Armor	Weak Armor	45
-Kabuto	1	2	2	2	2	1	11	12	1	2	Swift Swim	Battle Armor	Weak Armor	45
-Kabutops	2	2	2	3	3	2	12	12	2	3	Swift Swim	Battle Armor	Weak Armor	45
-Aerodactyl	2	3	2	3	2	2	12	13	2	2	Rock Head	Pressure	Unnerve	45
-Aerodactyl (Mega Aerodactyl)	2	4	2	3	2	2	12	14	2	2	Tough Claws			45
-Snorlax	4	1	2	3	2	3	14	11	3	2	Immunity	Thick Fat	Gluttony	25
-Articuno	2	2	2	2	3	3	12	12	3	3	Pressure		Snow Cloak	3
-Articuno (Galarian Articuno)	2	2	3	2	2	3	12	12	3	2	Competitive			3
-Zapdos	2	3	3	2	2	2	12	13	2	2	Pressure		Static	3
-Zapdos (Galarian Zapdos)	2	3	2	3	2	2	12	13	2	2	Defiant			3
-Moltres	2	2	3	3	2	2	12	12	2	2	Pressure		Flame Body	3
-Moltres (Galarian Moltres)	2	2	3	2	2	3	12	12	3	2	Berserk			3
-Dratini	1	2	2	2	1	2	11	12	2	1	Shed Skin		Marvel Scale	45
-Dragonair	2	2	2	2	2	2	12	12	2	2	Shed Skin		Marvel Scale	45
-Dragonite	2	2	3	3	2	3	12	12	3	2	Inner Focus		Multiscale	45
-Mewtwo	3	3	4	3	2	2	13	13	2	2	Pressure		Unnerve	3
-Mewtwo (Mega Mewtwo X)	3	3	4	4	3	3	13	13	3	3	Steadfast			3
-Mewtwo (Mega Mewtwo Y)	3	3	4	4	2	3	13	13	3	2	Insomnia			3
-Mew	3	3	3	3	3	3	13	13	3	3	Synchronize			45
-Chikorita	1	1	1	1	2	2	11	11	2	2	Overgrow		Leaf Guard	45
-Bayleef	2	2	2	2	2	2	12	12	2	2	Overgrow		Leaf Guard	45
-Meganium	2	2	2	2	3	3	12	12	3	3	Overgrow		Leaf Guard	45
-Cyndaquil	1	2	2	2	1	2	11	12	2	1	Blaze		Flash Fire	45
-Quilava	2	2	2	2	2	2	12	12	2	2	Blaze		Flash Fire	45
-Typhlosion	2	3	3	2	2	2	12	13	2	2	Blaze		Flash Fire	45
-Typhlosion (Hisuian Typhlosion)	2	2	3	2	2	2	12	12	2	2	Blaze		Frisk	45
-Totodile	2	1	1	2	2	1	12	11	1	2	Torrent		Sheer Force	45
-Croconaw	2	2	2	2	2	2	12	12	2	2	Torrent		Sheer Force	45
-Feraligatr	2	2	2	3	3	2	12	12	2	3	Torrent		Sheer Force	45
-Sentret	1	1	1	1	1	1	11	11	1	1	Run Away	Keen Eye	Frisk	255
-Furret	2	2	1	2	2	2	12	12	2	2	Run Away	Keen Eye	Frisk	90
-Hoothoot	2	2	1	1	1	2	12	12	2	1	Insomnia	Keen Eye	Tinted Lens	255
-Noctowl	3	2	2	2	2	2	13	12	2	2	Insomnia	Keen Eye	Tinted Lens	90
-Ledyba	1	2	1	1	1	2	11	12	2	1	Swarm	Early Bird	Rattled	255
-Ledian	2	2	2	1	2	3	12	12	3	2	Swarm	Early Bird	Iron Fist	90
-Spinarak	1	1	1	2	1	1	11	11	1	1	Swarm	Insomnia	Sniper	255
-Ariados	2	1	2	2	2	2	12	11	2	2	Swarm	Insomnia	Sniper	90
-Crobat	2	3	2	2	2	2	12	13	2	2	Inner Focus		Infiltrator	90
-Chinchou	2	2	2	1	1	2	12	12	2	1	Volt Absorb	Illuminate	Water Absorb	190
-Lanturn	3	2	2	2	2	2	13	12	2	2	Volt Absorb	Illuminate	Water Absorb	75
-Pichu	1	2	1	1	1	1	11	12	1	1	Static		Lightning Rod	190
-Cleffa	2	1	1	1	1	2	12	11	2	1	Cute Charm	Magic Guard	Friend Guard	150
-Igglybuff	2	1	1	1	1	1	12	11	1	1	Cute Charm	Competitive	Friend Guard	170
-Togepi	1	1	1	1	2	2	11	11	2	2	Hustle	Serene Grace	Super Luck	190
-Togetic	2	1	2	1	2	3	12	11	3	2	Hustle	Serene Grace	Super Luck	75
-Natu	1	2	2	2	1	1	11	12	1	1	Synchronize	Early Bird	Magic Bounce	190
-Xatu	2	2	2	2	2	2	12	12	2	2	Synchronize	Early Bird	Magic Bounce	75
-Mareep	2	1	2	1	1	1	12	11	1	1	Static		Plus	235
-Flaaffy	2	1	2	2	2	2	12	11	2	2	Static		Plus	120
-Ampharos	2	2	3	2	2	2	12	12	2	2	Static		Plus	45
-Ampharos (Mega Ampharos)	2	1	4	2	3	3	12	11	3	3	Mold Breaker			45
-Bellossom	2	2	2	2	2	3	12	12	3	2	Chlorophyll		Healer	45
-Marill	2	1	1	1	2	2	12	11	2	2	Thick Fat	Huge Power	Sap Sipper	190
-Azumarill	3	2	2	2	2	2	13	12	2	2	Thick Fat	Huge Power	Sap Sipper	75
-Sudowoodo	2	1	1	3	3	2	12	11	2	3	Sturdy	Rock Head	Rattled	65
-Politoed	2	2	2	2	2	3	12	12	3	2	Water Absorb	Damp	Drizzle	45
-Hoppip	1	2	1	1	1	2	11	12	2	1	Chlorophyll	Leaf Guard	Infiltrator	255
-Skiploom	2	2	1	1	2	2	12	12	2	2	Chlorophyll	Leaf Guard	Infiltrator	120
-Jumpluff	2	3	2	2	2	2	12	13	2	2	Chlorophyll	Leaf Guard	Infiltrator	45
-Aipom	2	2	1	2	2	2	12	12	2	2	Run Away	Pickup	Skill Link	45
-Sunkern	1	1	1	1	1	1	11	11	1	1	Chlorophyll	Solar Power	Early Bird	235
-Sunflora	2	1	3	2	2	2	12	11	2	2	Chlorophyll	Solar Power	Early Bird	120
-Yanma	2	2	2	2	1	1	12	12	1	1	Speed Boost	Compound Eyes	Frisk	75
-Wooper	2	1	1	1	1	1	12	11	1	1	Damp	Water Absorb	Unaware	255
-Wooper (Paldean Wooper)	2	1	1	1	1	1	12	11	1	1	Poison Point	Water Absorb	Unaware	255
-Quagsire	2	1	2	2	2	2	12	11	2	2	Damp	Water Absorb	Unaware	90
-Espeon	2	3	3	2	2	2	12	13	2	2	Synchronize		Magic Bounce	45
-Umbreon	2	2	2	2	3	3	12	12	3	3	Synchronize		Inner Focus	45
-Murkrow	2	2	2	2	1	1	12	12	1	1	Insomnia	Super Luck	Prankster	30
-Slowking	2	1	3	2	2	3	12	11	3	2	Oblivious	Own Tempo	Regenerator	70
-Slowking (Galarian Slowking)	2	1	3	2	2	3	12	11	3	2	Curious Medicine	Own Tempo	Regenerator	70
-Misdreavus	2	2	2	2	2	2	12	12	2	2	Levitate			45
-Unown	1	1	2	2	1	1	11	11	1	1	Levitate			225
-Wobbuffet	4	1	1	1	2	2	14	11	2	2	Shadow Tag		Telepathy	45
-Girafarig	2	2	2	2	2	2	12	12	2	2	Inner Focus	Early Bird	Sap Sipper	60
-Pineco	2	1	1	2	2	1	12	11	1	2	Sturdy		Overcoat	190
-Forretress	2	1	2	2	3	2	12	11	2	3	Sturdy		Overcoat	75
-Dunsparce	3	1	2	2	2	2	13	11	2	2	Serene Grace	Run Away	Rattled	190
-Gligar	2	2	1	2	3	2	12	12	2	3	Hyper Cutter	Sand Veil	Immunity	60
-Steelix	2	1	2	2	5	2	12	11	2	5	Rock Head	Sturdy	Sheer Force	25
-Steelix (Mega Steelix)	2	1	2	3	5	2	12	11	2	5	Sand Force			25
-Snubbull	2	1	1	2	2	1	12	11	1	2	Intimidate	Run Away	Rattled	190
-Granbull	2	1	2	3	2	2	12	11	2	2	Intimidate	Quick Feet	Rattled	75
-Qwilfish	2	2	2	2	2	2	12	12	2	2	Poison Point	Swift Swim	Intimidate	45
-Qwilfish (Hisuian Qwilfish)	2	2	2	2	2	2	12	12	2	2	Poison Point	Swift Swim	Intimidate	45
-Scizor	2	2	2	3	3	2	12	12	2	3	Swarm	Technician	Light Metal	25
-Scizor (Mega Scizor)	2	2	2	4	3	3	12	12	3	3	Technician			25
-Shuckle	1	1	1	1	5	5	11	11	5	5	Sturdy	Gluttony	Contrary	190
-Heracross	2	2	1	3	2	2	12	12	2	2	Swarm	Guts	Moxie	45
-Heracross (Mega Heracross)	2	2	1	4	3	3	12	12	3	3	Skill Link			45
-Sneasel	2	3	1	2	2	2	12	13	2	2	Inner Focus	Keen Eye	Pickpocket	60
-Sneasel (Hisuian Sneasel)	2	3	1	2	2	2	12	13	2	2	Inner Focus	Keen Eye	Pickpocket	60
-Teddiursa	2	1	2	2	2	2	12	11	2	2	Pickup	Quick Feet	Honey Gather	120
-Ursaring	2	2	2	3	2	2	12	12	2	2	Guts	Quick Feet	Unnerve	60
-Slugma	1	1	2	1	1	1	11	11	1	1	Magma Armor	Flame Body	Weak Armor	190
-Magcargo	2	1	2	2	3	2	12	11	2	3	Magma Armor	Flame Body	Weak Armor	75
-Swinub	2	2	1	2	1	1	12	12	1	1	Oblivious	Snow Cloak	Thick Fat	225
-Piloswine	3	2	2	3	2	2	13	12	2	2	Oblivious	Snow Cloak	Thick Fat	75
-Corsola	2	1	2	2	2	2	12	11	2	2	Hustle	Natural Cure	Regenerator	60
-Corsola (Galarian Corsola)	2	1	2	2	3	3	12	11	3	3	Weak Armor		Cursed Body	60
-Remoraid	1	2	2	2	1	1	11	12	1	1	Hustle	Sniper	Moody	190
-Octillery	2	1	3	3	2	2	12	11	2	2	Suction Cups	Sniper	Moody	75
-Delibird	1	2	2	2	1	1	11	12	1	1	Vital Spirit	Hustle	Insomnia	45
-Mantine	2	2	2	1	2	3	12	12	3	2	Swift Swim	Water Absorb	Water Veil	25
-Skarmory	2	2	1	2	3	2	12	12	2	3	Keen Eye	Sturdy	Weak Armor	25
-Houndour	1	2	2	2	1	2	11	12	2	1	Early Bird	Flash Fire	Unnerve	120
-Houndoom	2	2	3	2	2	2	12	12	2	2	Early Bird	Flash Fire	Unnerve	45
-Houndoom (Mega Houndoom)	2	3	3	2	2	2	12	13	2	2	Solar Power			45
-Kingdra	2	2	2	2	2	2	12	12	2	2	Swift Swim	Sniper	Damp	45
-Phanpy	2	1	1	2	2	1	12	11	1	2	Pickup		Sand Veil	120
-Donphan	2	2	2	3	3	2	12	12	2	3	Sturdy		Sand Veil	60
-Porygon2	2	2	3	2	2	2	12	12	2	2	Trace	Download	Analytic	45
-Stantler	2	2	2	2	2	2	12	12	2	2	Intimidate	Frisk	Sap Sipper	45
-Smeargle	2	2	1	1	1	1	12	12	1	1	Own Tempo	Technician	Moody	45
-Tyrogue	1	1	1	1	1	1	11	11	1	1	Guts	Steadfast	Vital Spirit	75
-Hitmontop	2	2	1	2	2	3	12	12	3	2	Intimidate	Technician	Steadfast	45
-Smoochum	1	2	2	1	1	2	11	12	2	1	Oblivious	Forewarn	Hydration	45
-Elekid	1	2	2	2	1	2	11	12	2	1	Static		Vital Spirit	45
-Magby	1	2	2	2	1	2	11	12	2	1	Flame Body		Vital Spirit	45
-Miltank	2	3	1	2	3	2	12	13	2	3	Thick Fat	Scrappy	Sap Sipper	45
-Blissey	6	2	2	1	1	3	16	12	3	1	Natural Cure	Serene Grace	Healer	30
-Raikou	2	3	3	2	2	3	12	13	3	2	Pressure		Inner Focus	3
-Entei	3	3	2	3	2	2	13	13	2	2	Pressure		Inner Focus	3
-Suicune	3	2	2	2	3	3	13	12	3	3	Pressure		Inner Focus	3
-Larvitar	2	1	1	2	2	2	12	11	2	2	Guts		Sand Veil	45
-Pupitar	2	2	2	2	2	2	12	12	2	2	Shed Skin			45
-Tyranitar	3	2	2	3	3	3	13	12	3	3	Sand Stream		Unnerve	45
-Tyranitar (Mega Tyranitar)	3	2	2	4	4	3	13	12	3	4	Sand Stream			45
-Lugia	3	3	2	2	3	4	13	13	4	3	Pressure		Multiscale	3
-Ho-Oh	3	2	3	3	2	4	13	12	4	2	Pressure		Regenerator	3
-Celebi	3	3	3	3	3	3	13	13	3	3	Natural Cure			45
-Treecko	1	2	2	1	1	2	11	12	2	1	Overgrow		Unburden	45
-Grovyle	2	2	2	2	1	2	12	12	2	1	Overgrow		Unburden	45
-Sceptile	2	3	3	2	2	2	12	13	2	2	Overgrow		Unburden	45
-Sceptile (Mega Sceptile)	2	3	3	3	2	2	12	13	2	2	Lightning Rod			45
-Torchic	1	1	2	2	1	2	11	11	2	1	Blaze		Speed Boost	45
-Combusken	2	2	2	2	2	2	12	12	2	2	Blaze		Speed Boost	45
-Blaziken	2	2	3	3	2	2	12	12	2	2	Blaze		Speed Boost	45
-Blaziken (Mega Blaziken)	2	3	3	4	2	2	12	13	2	2	Speed Boost			45
-Mudkip	2	1	2	2	2	2	12	11	2	2	Torrent		Damp	45
-Marshtomp	2	2	2	2	2	2	12	12	2	2	Torrent		Damp	45
-Swampert	3	2	2	3	2	2	13	12	2	2	Torrent		Damp	45
-Swampert (Mega Swampert)	3	2	2	4	3	3	13	12	3	3	Swift Swim			45
-Poochyena	1	1	1	2	1	1	11	11	1	1	Run Away	Quick Feet	Rattled	255
-Mightyena	2	2	2	2	2	2	12	12	2	2	Intimidate	Quick Feet	Moxie	127
-Zigzagoon	1	2	1	1	1	1	11	12	1	1	Pickup	Gluttony	Quick Feet	255
-Zigzagoon (Galarian Zigzagoon)	1	2	1	1	1	1	11	12	1	1	Pickup	Gluttony	Quick Feet	255
-Linoone	2	3	2	2	2	2	12	13	2	2	Pickup	Gluttony	Quick Feet	90
-Linoone (Galarian Linoone)	2	3	2	2	2	2	12	13	2	2	Pickup	Gluttony	Quick Feet	90
-Wurmple	1	1	1	1	1	1	11	11	1	1	Shield Dust		Run Away	255
-Silcoon	2	1	1	1	2	1	12	11	1	2	Shed Skin			120
-Beautifly	2	2	3	2	2	2	12	12	2	2	Swarm		Rivalry	45
-Cascoon	2	1	1	1	2	1	12	11	1	2	Shed Skin			120
-Dustox	2	2	2	2	2	2	12	12	2	2	Shield Dust		Compound Eyes	45
-Lotad	1	1	1	1	1	2	11	11	2	1	Swift Swim	Rain Dish	Own Tempo	255
-Lombre	2	2	2	2	2	2	12	12	2	2	Swift Swim	Rain Dish	Own Tempo	120
-Ludicolo	2	2	2	2	2	3	12	12	3	2	Swift Swim	Rain Dish	Own Tempo	45
-Seedot	1	1	1	1	2	1	11	11	1	2	Chlorophyll	Early Bird	Pickpocket	255
-Nuzleaf	2	2	2	2	1	1	12	12	1	1	Chlorophyll	Early Bird	Pickpocket	120
-Shiftry	2	2	2	3	2	2	12	12	2	2	Chlorophyll	Early Bird	Pickpocket	45
-Taillow	1	2	1	2	1	1	11	12	1	1	Guts		Scrappy	200
-Swellow	2	3	2	2	2	2	12	13	2	2	Guts		Scrappy	45
-Wingull	1	2	2	1	1	1	11	12	1	1	Keen Eye	Hydration	Rain Dish	190
-Pelipper	2	2	2	2	3	2	12	12	2	3	Keen Eye	Drizzle	Rain Dish	45
-Ralts	1	1	1	1	1	1	11	11	1	1	Synchronize	Trace	Telepathy	235
-Kirlia	1	2	2	1	1	2	11	12	2	1	Synchronize	Trace	Telepathy	120
-Gardevoir	2	2	3	2	2	3	12	12	3	2	Synchronize	Trace	Telepathy	45
-Gardevoir (Mega Gardevoir)	2	3	4	2	2	3	12	13	3	2	Pixilate			45
-Surskit	1	2	2	1	1	2	11	12	2	1	Swift Swim		Rain Dish	200
-Masquerain	2	2	3	2	2	2	12	12	2	2	Intimidate		Unnerve	75
-Shroomish	2	1	1	1	2	2	12	11	2	2	Effect Spore	Poison Heal	Quick Feet	255
-Breloom	2	2	2	3	2	2	12	12	2	2	Effect Spore	Poison Heal	Technician	90
-Slakoth	2	1	1	2	2	1	12	11	1	2	Truant			255
-Vigoroth	2	2	2	2	2	2	12	12	2	2	Vital Spirit			120
-Slaking	4	3	2	4	3	2	14	13	2	3	Truant			45
-Nincada	1	1	1	1	2	1	11	11	1	2	Compound Eyes		Run Away	255
-Ninjask	2	4	2	2	1	2	12	14	2	1	Speed Boost		Infiltrator	120
-Shedinja	1	1	1	2	1	1	11	11	1	1	Wonder Guard			45
-Whismur	2	1	2	2	1	1	12	11	1	1	Soundproof		Rattled	190
-Loudred	2	1	2	2	1	1	12	11	1	1	Soundproof		Scrappy	120
-Exploud	3	2	2	2	2	2	13	12	2	2	Soundproof		Scrappy	45
-Makuhita	2	1	1	2	1	1	12	11	1	1	Thick Fat	Guts	Sheer Force	180
-Hariyama	3	2	1	3	2	2	13	12	2	2	Thick Fat	Guts	Sheer Force	200
-Azurill	2	1	1	1	1	1	12	11	1	1	Thick Fat	Huge Power	Sap Sipper	150
-Nosepass	1	1	1	1	3	2	11	11	2	3	Sturdy	Magnet Pull	Sand Force	255
-Skitty	2	2	1	1	1	1	12	12	1	1	Cute Charm	Normalize	Wonder Skin	255
-Delcatty	2	2	2	2	2	2	12	12	2	2	Cute Charm	Normalize	Wonder Skin	60
-Sableye	2	2	2	2	2	2	12	12	2	2	Keen Eye	Stall	Prankster	45
-Sableye (Mega Sableye)	2	1	2	2	3	3	12	11	3	3	Magic Bounce			45
-Mawile	2	2	2	2	2	2	12	12	2	2	Hyper Cutter	Intimidate	Sheer Force	45
-Mawile (Mega Mawile)	2	2	2	3	3	2	12	12	2	3	Huge Power			45
-Aron	2	1	1	2	3	1	12	11	1	3	Sturdy	Rock Head	Heavy Metal	180
-Lairon	2	1	2	2	3	2	12	11	2	3	Sturdy	Rock Head	Heavy Metal	90
-Aggron	2	2	2	3	4	2	12	12	2	4	Sturdy	Rock Head	Heavy Metal	45
-Aggron (Mega Aggron)	2	2	2	3	5	2	12	12	2	5	Filter			45
-Meditite	1	2	1	1	2	2	11	12	2	2	Pure Power		Telepathy	180
-Medicham	2	2	2	2	2	2	12	12	2	2	Pure Power		Telepathy	90
-Medicham (Mega Medicham)	2	3	2	3	2	2	12	13	2	2	Pure Power			45
-Electrike	1	2	2	1	1	1	11	12	1	1	Static	Lightning Rod	Minus	120
-Manectric	2	3	3	2	2	2	12	13	2	2	Static	Lightning Rod	Minus	45
-Manectric (Mega Manectric)	2	3	3	2	2	2	12	13	2	2	Intimidate			45
-Plusle	2	2	2	2	1	2	12	12	2	1	Plus		Lightning Rod	200
-Minun	2	2	2	1	2	2	12	12	2	2	Minus		Volt Absorb	200
-Volbeat	2	2	1	2	2	2	12	12	2	2	Illuminate	Swarm	Prankster	150
-Illumise	2	2	2	1	2	2	12	12	2	2	Oblivious	Tinted Lens	Prankster	150
-Roselia	2	2	3	2	1	2	12	12	2	1	Natural Cure	Poison Point	Leaf Guard	150
-Gulpin	2	1	1	1	2	2	12	11	2	2	Liquid Ooze	Sticky Hold	Gluttony	225
-Swalot	3	2	2	2	2	2	13	12	2	2	Liquid Ooze	Sticky Hold	Gluttony	75
-Carvanha	1	2	2	2	1	1	11	12	1	1	Rough Skin		Speed Boost	225
-Sharpedo	2	2	2	3	1	1	12	12	1	1	Rough Skin		Speed Boost	60
-Sharpedo (Mega Sharpedo)	2	3	3	3	2	2	12	13	2	2	Strong Jaw			60
-Wailmer	3	2	2	2	1	1	13	12	1	1	Water Veil	Oblivious	Pressure	125
-Wailord	4	2	2	2	1	1	14	12	1	1	Water Veil	Oblivious	Pressure	60
-Numel	2	1	2	2	1	1	12	11	1	1	Oblivious	Simple	Own Tempo	255
-Camerupt	2	1	3	3	2	2	12	11	2	2	Magma Armor	Solid Rock	Anger Point	150
-Camerupt (Mega Camerupt)	2	1	3	3	3	3	12	11	3	3	Sheer Force			150
-Torkoal	2	1	2	2	3	2	12	11	2	3	White Smoke	Drought	Shell Armor	90
-Spoink	2	2	2	1	1	2	12	12	2	1	Thick Fat	Own Tempo	Gluttony	255
-Grumpig	2	2	2	1	2	3	12	12	3	2	Thick Fat	Own Tempo	Gluttony	60
-Spinda	2	2	2	2	2	2	12	12	2	2	Own Tempo	Tangled Feet	Contrary	255
-Trapinch	1	1	1	3	1	1	11	11	1	1	Hyper Cutter	Arena Trap	Sheer Force	255
-Vibrava	2	2	2	2	2	2	12	12	2	2	Levitate			120
-Flygon	2	3	2	3	2	2	12	13	2	2	Levitate			45
-Cacnea	2	1	2	2	1	1	12	11	1	1	Sand Veil		Water Absorb	190
-Cacturne	2	2	3	3	2	2	12	12	2	2	Sand Veil		Water Absorb	60
-Swablu	1	2	1	1	2	2	11	12	2	2	Natural Cure		Cloud Nine	255
-Altaria	2	2	2	2	2	3	12	12	3	2	Natural Cure		Cloud Nine	45
-Altaria (Mega Altaria)	2	2	3	3	3	3	12	12	3	3	Pixilate			45
-Zangoose	2	2	2	3	2	2	12	12	2	2	Immunity		Toxic Boost	90
-Seviper	2	2	3	3	2	2	12	12	2	2	Shed Skin		Infiltrator	90
-Lunatone	2	2	2	2	2	2	12	12	2	2	Levitate			45
-Solrock	2	2	2	2	2	2	12	12	2	2	Levitate			45
-Barboach	2	2	1	1	1	1	12	12	1	1	Oblivious	Anticipation	Hydration	190
-Whiscash	3	2	2	2	2	2	13	12	2	2	Oblivious	Anticipation	Hydration	75
-Corphish	1	1	2	2	2	1	11	11	1	2	Hyper Cutter	Shell Armor	Adaptability	205
-Crawdaunt	2	2	2	3	2	2	12	12	2	2	Hyper Cutter	Shell Armor	Adaptability	155
-Baltoy	1	2	1	1	2	2	11	12	2	2	Levitate			255
-Claydol	2	2	2	2	3	3	12	12	3	3	Levitate			90
-Lileep	2	1	2	1	2	2	12	11	2	2	Suction Cups		Storm Drain	45
-Cradily	2	1	2	2	2	3	12	11	3	2	Suction Cups		Storm Drain	45
-Anorith	1	2	1	2	2	2	11	12	2	2	Battle Armor		Swift Swim	45
-Armaldo	2	1	2	3	3	2	12	11	2	3	Battle Armor		Swift Swim	45
-Feebas	1	2	1	1	1	2	11	12	2	1	Swift Swim	Oblivious	Adaptability	255
-Milotic	2	2	3	2	2	3	12	12	3	2	Marvel Scale	Competitive	Cute Charm	60
-Castform	2	2	2	2	2	2	12	12	2	2	Forecast			45
-Kecleon	2	1	2	2	2	3	12	11	3	2	Color Change		Protean	200
-Shuppet	1	1	2	2	1	1	11	11	1	1	Insomnia	Frisk	Cursed Body	225
-Banette	2	2	2	3	2	2	12	12	2	2	Insomnia	Frisk	Cursed Body	45
-Banette (Mega Banette)	2	2	2	4	2	2	12	12	2	2	Prankster			45
-Duskull	1	1	1	1	2	2	11	11	2	2	Levitate		Frisk	190
-Dusclops	1	1	2	2	3	3	11	11	3	3	Pressure		Frisk	90
-Tropius	2	2	2	2	2	2	12	12	2	2	Chlorophyll	Solar Power	Harvest	200
-Chimecho	2	2	2	2	2	2	12	12	2	2	Levitate			45
-Absol	2	2	2	3	2	2	12	12	2	2	Pressure	Super Luck	Justified	30
-Absol (Mega Absol)	2	3	3	4	2	2	12	13	2	2	Magic Bounce			30
-Wynaut	2	1	1	1	1	1	12	11	1	1	Shadow Tag		Telepathy	125
-Snorunt	2	2	2	2	2	2	12	12	2	2	Inner Focus	Ice Body	Moody	190
-Glalie	2	2	2	2	2	2	12	12	2	2	Inner Focus	Ice Body	Moody	75
-Glalie (Mega Glalie)	2	3	3	3	2	2	12	13	2	2	Refrigerate			75
-Spheal	2	1	2	1	2	2	12	11	2	2	Thick Fat	Ice Body	Oblivious	255
-Sealeo	2	1	2	2	2	2	12	11	2	2	Thick Fat	Ice Body	Oblivious	120
-Walrein	3	2	2	2	2	2	13	12	2	2	Thick Fat	Ice Body	Oblivious	45
-Clamperl	1	1	2	2	2	2	11	11	2	2	Shell Armor		Rattled	255
-Huntail	2	2	2	3	3	2	12	12	2	3	Swift Swim		Water Veil	60
-Gorebyss	2	2	3	2	3	2	12	12	2	3	Swift Swim		Hydration	60
-Relicanth	3	2	1	2	3	2	13	12	2	3	Swift Swim	Rock Head	Sturdy	25
-Luvdisc	1	2	1	1	2	2	11	12	2	2	Swift Swim		Hydration	225
-Bagon	1	2	1	2	2	1	11	12	1	2	Rock Head		Sheer Force	45
-Shelgon	2	2	2	2	3	2	12	12	2	3	Rock Head		Overcoat	45
-Salamence	2	3	3	3	2	2	12	13	2	2	Intimidate		Moxie	45
-Salamence (Mega Salamence)	2	3	3	3	3	2	12	13	2	3	Aerilate			45
-Beldum	1	1	1	2	2	2	11	11	2	2	Clear Body		Light Metal	3
-Metang	2	2	2	2	3	2	12	12	2	3	Clear Body		Light Metal	3
-Metagross	2	2	2	3	3	2	12	12	2	3	Clear Body		Light Metal	3
-Metagross (Mega Metagross)	2	3	3	3	4	3	12	13	3	4	Tough Claws			3
-Regirock	2	2	2	3	5	3	12	12	3	5	Clear Body		Sturdy	3
-Regice	2	2	3	2	3	5	12	12	5	3	Clear Body		Ice Body	3
-Registeel	2	2	2	2	4	4	12	12	4	4	Clear Body		Light Metal	3
-Latias	2	3	3	2	2	3	12	13	3	2	Levitate			3
-Latias (Mega Latias)	2	3	3	3	3	4	12	13	4	3	Levitate			3
-Latios	2	3	3	2	2	3	12	13	3	2	Levitate			3
-Latios (Mega Latios)	2	3	4	3	3	3	12	13	3	3	Levitate			3
-Kyogre	3	2	4	3	2	3	13	12	3	2	Drizzle			3
-Kyogre (Primal Kyogre)	3	2	4	4	2	4	13	12	4	2	Primordial Sea			3
-Groudon	3	2	3	4	3	2	13	12	2	3	Drought			3
-Groudon (Primal Groudon)	3	2	4	4	4	2	13	12	2	4	Desolate Land			3
-Rayquaza	3	2	4	4	2	2	13	12	2	2	Air Lock			45
-Rayquaza (Mega Rayquaza)	3	3	4	4	3	3	13	13	3	3	Delta Stream			3
-Jirachi	3	3	3	3	3	3	13	13	3	3	Serene Grace			3
-Deoxys (Normal Forme)	2	4	4	4	2	2	12	14	2	2	Pressure			3
-Deoxys (Attack Forme)	2	4	4	4	1	1	12	14	1	1	Pressure			3
-Deoxys (Defense Forme)	2	2	2	2	4	4	12	12	4	4	Pressure			3
-Deoxys (Speed Forme)	2	4	2	2	2	2	12	14	2	2	Pressure			3
-Turtwig	2	1	1	2	2	2	12	11	2	2	Overgrow		Shell Armor	45
-Grotle	2	1	2	2	2	2	12	11	2	2	Overgrow		Shell Armor	45
-Torterra	2	2	2	3	3	2	12	12	2	3	Overgrow		Shell Armor	45
-Chimchar	1	2	2	2	1	1	11	12	1	1	Blaze		Iron Fist	45
-Monferno	2	2	2	2	2	2	12	12	2	2	Blaze		Iron Fist	45
-Infernape	2	3	3	3	2	2	12	13	2	2	Blaze		Iron Fist	45
-Piplup	2	1	2	2	2	2	12	11	2	2	Torrent		Defiant	45
-Prinplup	2	2	2	2	2	2	12	12	2	2	Torrent		Defiant	45
-Empoleon	2	2	3	2	2	3	12	12	3	2	Torrent		Defiant	45
-Starly	1	2	1	2	1	1	11	12	1	1	Keen Eye		Reckless	255
-Staravia	2	2	1	2	2	1	12	12	1	2	Intimidate		Reckless	120
-Staraptor	2	3	2	3	2	2	12	13	2	2	Intimidate		Reckless	45
-Bidoof	2	1	1	1	1	1	12	11	1	1	Simple	Unaware	Moody	255
-Bibarel	2	2	2	2	2	2	12	12	2	2	Simple	Unaware	Moody	127
-Kricketot	1	1	1	1	1	1	11	11	1	1	Shed Skin		Run Away	255
-Kricketune	2	2	2	2	2	2	12	12	2	2	Swarm		Technician	45
-Shinx	1	1	1	2	1	1	11	11	1	1	Rivalry	Intimidate	Guts	235
-Luxio	2	2	2	2	1	1	12	12	1	1	Rivalry	Intimidate	Guts	120
-Luxray	2	2	2	3	2	2	12	12	2	2	Rivalry	Intimidate	Guts	45
-Budew	1	2	2	1	1	2	11	12	2	1	Natural Cure	Poison Point	Leaf Guard	255
-Roserade	2	2	3	2	2	3	12	12	3	2	Natural Cure	Poison Point	Technician	75
-Cranidos	2	2	1	3	1	1	12	12	1	1	Mold Breaker		Sheer Force	45
-Rampardos	2	2	2	4	2	2	12	12	2	2	Mold Breaker		Sheer Force	45
-Shieldon	1	1	1	1	3	2	11	11	2	3	Sturdy		Soundproof	45
-Bastiodon	2	1	1	2	4	3	12	11	3	4	Sturdy		Soundproof	45
-Burmy	1	1	1	1	1	1	11	11	1	1	Shed Skin		Overcoat	120
-Wormadam (Plant Cloak)	2	1	2	2	2	3	12	11	3	2	Anticipation		Overcoat	45
-Wormadam (Sandy Cloak)	2	1	2	2	3	2	12	11	2	3	Anticipation		Overcoat	45
-Wormadam (Trash Cloak)	2	1	2	2	2	2	12	11	2	2	Anticipation		Overcoat	45
-Mothim	2	2	2	2	2	2	12	12	2	2	Swarm		Tinted Lens	45
-Combee	1	2	1	1	1	1	11	12	1	1	Honey Gather		Hustle	120
-Vespiquen	2	1	2	2	3	3	12	11	3	3	Pressure		Unnerve	45
-Pachirisu	2	2	1	1	2	2	12	12	2	2	Run Away	Pickup	Volt Absorb	200
-Buizel	2	2	2	2	1	1	12	12	1	1	Swift Swim		Water Veil	190
-Floatzel	2	3	2	3	2	2	12	13	2	2	Swift Swim		Water Veil	75
-Cherubi	1	1	2	1	1	2	11	11	2	1	Chlorophyll			190
-Cherrim	2	2	2	2	2	2	12	12	2	2	Flower Gift			75
-Shellos	2	1	2	1	1	2	12	11	2	1	Sticky Hold	Storm Drain	Sand Force	190
-Gastrodon	3	1	2	2	2	2	13	11	2	2	Sticky Hold	Storm Drain	Sand Force	75
-Ambipom	2	3	2	3	2	2	12	13	2	2	Technician	Pickup	Skill Link	45
-Drifloon	2	2	2	2	1	1	12	12	1	1	Aftermath	Unburden	Flare Boost	125
-Drifblim	4	2	2	2	1	2	14	12	2	1	Aftermath	Unburden	Flare Boost	60
-Buneary	2	2	1	2	1	2	12	12	2	1	Run Away	Klutz	Limber	190
-Lopunny	2	3	2	2	2	2	12	13	2	2	Cute Charm	Klutz	Limber	60
-Lopunny (Mega Lopunny)	2	3	2	3	2	2	12	13	2	2	Scrappy			60
-Mismagius	2	3	3	2	2	3	12	13	3	2	Levitate			45
-Honchkrow	3	2	3	3	2	2	13	12	2	2	Insomnia	Super Luck	Moxie	30
-Glameow	1	2	1	2	1	1	11	12	1	1	Limber	Own Tempo	Keen Eye	190
-Purugly	2	3	2	2	2	2	12	13	2	2	Thick Fat	Own Tempo	Defiant	75
-Chingling	1	1	2	1	2	2	11	11	2	2	Levitate			120
-Stunky	2	2	1	2	1	1	12	12	1	1	Stench	Aftermath	Keen Eye	225
-Skuntank	3	2	2	2	2	2	13	12	2	2	Stench	Aftermath	Keen Eye	60
-Bronzor	2	1	1	1	2	2	12	11	2	2	Levitate	Heatproof	Heavy Metal	255
-Bronzong	2	1	2	2	3	3	12	11	3	3	Levitate	Heatproof	Heavy Metal	90
-Bonsly	2	1	1	2	2	1	12	11	1	2	Sturdy	Rock Head	Rattled	255
-Mime Jr.	1	2	2	1	1	2	11	12	2	1	Soundproof	Filter	Technician	145
-Happiny	3	1	1	1	1	2	13	11	2	1	Natural Cure	Serene Grace	Friend Guard	130
-Chatot	2	2	2	2	1	1	12	12	1	1	Keen Eye	Tangled Feet	Big Pecks	30
-Spiritomb	2	1	2	2	3	3	12	11	3	3	Pressure		Infiltrator	100
-Gible	2	1	1	2	1	1	12	11	1	1	Sand Veil		Rough Skin	45
-Gabite	2	2	2	2	2	2	12	12	2	2	Sand Veil		Rough Skin	45
-Garchomp	3	3	2	3	2	2	13	13	2	2	Sand Veil		Rough Skin	45
-Garchomp (Mega Garchomp)	3	2	3	4	3	2	13	12	2	3	Sand Force			45
-Munchlax	3	1	1	2	1	2	13	11	2	1	Pickup	Thick Fat	Gluttony	50
-Riolu	1	2	1	2	1	1	11	12	1	1	Steadfast	Inner Focus	Prankster	75
-Lucario	2	2	3	3	2	2	12	12	2	2	Steadfast	Inner Focus	Justified	45
-Lucario (Mega Lucario)	2	3	3	3	2	2	12	13	2	2	Adaptability			45
-Hippopotas	2	1	1	2	2	1	12	11	1	2	Sand Stream		Sand Force	140
-Hippowdon	3	1	2	3	3	2	13	11	2	3	Sand Stream		Sand Force	60
-Skorupi	1	2	1	2	2	2	11	12	2	2	Battle Armor	Sniper	Keen Eye	120
-Drapion	2	2	2	2	3	2	12	12	2	3	Battle Armor	Sniper	Keen Eye	45
-Croagunk	1	2	2	2	1	1	11	12	1	1	Anticipation	Dry Skin	Poison Touch	140
-Toxicroak	2	2	2	3	2	2	12	12	2	2	Anticipation	Dry Skin	Poison Touch	75
-Carnivine	2	1	2	3	2	2	12	11	2	2	Levitate			200
-Finneon	1	2	1	1	2	2	11	12	2	2	Swift Swim	Storm Drain	Water Veil	190
-Lumineon	2	2	2	2	2	2	12	12	2	2	Swift Swim	Storm Drain	Water Veil	75
-Mantyke	1	2	2	1	2	3	11	12	3	2	Swift Swim	Water Absorb	Water Veil	25
-Snover	2	1	2	2	2	2	12	11	2	2	Snow Warning		Soundproof	120
-Abomasnow	2	2	2	2	2	2	12	12	2	2	Snow Warning		Soundproof	60
-Abomasnow (Mega Abomasnow)	2	1	3	3	3	3	12	11	3	3	Snow Warning			60
-Weavile	2	3	1	3	2	2	12	13	2	2	Pressure		Pickpocket	45
-Magnezone	2	2	3	2	3	2	12	12	2	3	Magnet Pull	Sturdy	Analytic	30
-Lickilicky	3	2	2	2	2	2	13	12	2	2	Own Tempo	Oblivious	Cloud Nine	30
-Rhyperior	3	1	2	3	3	2	13	11	2	3	Lightning Rod	Solid Rock	Reckless	30
-Tangrowth	3	2	3	3	3	2	13	12	2	3	Chlorophyll	Leaf Guard	Regenerator	30
-Electivire	2	2	2	3	2	2	12	12	2	2	Motor Drive		Vital Spirit	30
-Magmortar	2	2	3	2	2	2	12	12	2	2	Flame Body		Vital Spirit	30
-Togekiss	2	2	3	2	2	3	12	12	3	2	Hustle	Serene Grace	Super Luck	30
-Yanmega	2	2	3	2	2	2	12	12	2	2	Speed Boost	Tinted Lens	Frisk	30
-Leafeon	2	2	2	3	3	2	12	12	2	3	Leaf Guard		Chlorophyll	45
-Glaceon	2	2	3	2	3	2	12	12	2	3	Snow Cloak		Ice Body	45
-Gliscor	2	2	1	2	3	2	12	12	2	3	Hyper Cutter	Sand Veil	Poison Heal	30
-Mamoswine	3	2	2	3	2	2	13	12	2	2	Oblivious	Snow Cloak	Thick Fat	50
-Porygon-Z	2	2	3	2	2	2	12	12	2	2	Adaptability	Download	Analytic	30
-Gallade	2	2	2	3	2	3	12	12	3	2	Steadfast	Sharpness	Justified	45
-Gallade (Mega Gallade)	2	3	2	4	2	3	12	13	3	2	Inner Focus			45
-Probopass	2	1	2	2	3	4	12	11	4	3	Sturdy	Magnet Pull	Sand Force	60
-Dusknoir	1	1	2	3	3	3	11	11	3	3	Pressure		Frisk	45
-Froslass	2	3	2	2	2	2	12	13	2	2	Snow Cloak		Cursed Body	75
-Rotom	2	2	2	2	2	2	12	12	2	2	Levitate			45
-Rotom (Heat Rotom)	2	2	3	2	3	3	12	12	3	3	Levitate			45
-Rotom (Wash Rotom)	2	2	3	2	3	3	12	12	3	3	Levitate			45
-Rotom (Frost Rotom)	2	2	3	2	3	3	12	12	3	3	Levitate			45
-Rotom (Fan Rotom)	2	2	3	2	3	3	12	12	3	3	Levitate			45
-Rotom (Mow Rotom)	2	2	3	2	3	3	12	12	3	3	Levitate			45
-Uxie	2	2	2	2	3	3	12	12	3	3	Levitate			3
-Mesprit	2	2	3	3	3	3	12	12	3	3	Levitate			3
-Azelf	2	3	3	3	2	2	12	13	2	2	Levitate			3
-Dialga	3	2	4	3	3	3	13	12	3	3	Pressure		Telepathy	3
-Dialga (Origin Forme)	3	2	4	3	3	3	13	12	3	3	Pressure		Telepathy	3
-Palkia	2	3	4	3	3	3	12	13	3	3	Pressure		Telepathy	3
-Palkia (Origin Forme)	2	3	4	3	3	3	12	13	3	3	Pressure		Telepathy	3
-Heatran	2	2	3	2	3	3	12	12	3	3	Flash Fire		Flame Body	3
-Regigigas	3	3	2	4	3	3	13	13	3	3	Slow Start			3
-Giratina (Altered Forme)	4	2	3	3	3	3	14	12	3	3	Pressure		Telepathy	3
-Giratina (Origin Forme)	4	2	3	3	3	3	14	12	3	3	Levitate			3
-Cresselia	3	2	2	2	3	3	13	12	3	3	Levitate			3
-Phione	2	2	2	2	2	2	12	12	2	2	Hydration			30
-Manaphy	3	3	3	3	3	3	13	13	3	3	Hydration			3
-Darkrai	2	3	3	2	2	2	12	13	2	2	Bad Dreams			3
-Shaymin (Land Forme)	3	3	3	3	3	3	13	13	3	3	Natural Cure			3
-Shaymin (Sky Forme)	3	3	3	3	2	2	13	13	2	2	Serene Grace			3
-Arceus	3	3	3	3	3	3	13	13	3	3	Multitype			3
-Victini	3	3	3	3	3	3	13	13	3	3	Victory Star			3
-Snivy	1	2	1	1	2	2	11	12	2	2	Overgrow		Contrary	45
-Servine	2	2	2	2	2	2	12	12	2	2	Overgrow		Contrary	45
-Serperior	2	3	2	2	2	2	12	13	2	2	Overgrow		Contrary	45
-Tepig	2	1	1	2	1	1	12	11	1	1	Blaze		Thick Fat	45
-Pignite	2	2	2	2	2	2	12	12	2	2	Blaze		Thick Fat	45
-Emboar	3	2	3	3	2	2	13	12	2	2	Blaze		Reckless	45
-Oshawott	2	1	2	2	1	1	12	11	1	1	Torrent		Shell Armor	45
-Dewott	2	2	2	2	2	2	12	12	2	2	Torrent		Shell Armor	45
-Samurott	2	2	3	3	2	2	12	12	2	2	Torrent		Shell Armor	45
-Samurott (Hisuian Samurott)	2	2	3	3	2	2	12	12	2	2	Torrent		Sharpness	45
-Patrat	1	1	1	2	1	1	11	11	1	1	Run Away	Keen Eye	Analytic	255
-Watchog	2	2	2	2	2	2	12	12	2	2	Illuminate	Keen Eye	Analytic	255
-Lillipup	1	2	1	2	1	1	11	12	1	1	Vital Spirit	Pickup	Run Away	255
-Herdier	2	2	1	2	2	2	12	12	2	2	Intimidate	Sand Rush	Scrappy	120
-Stoutland	2	2	1	3	2	2	12	12	2	2	Intimidate	Sand Rush	Scrappy	45
-Purrloin	1	2	2	2	1	1	11	12	1	1	Limber	Unburden	Prankster	255
-Liepard	2	3	2	2	2	2	12	13	2	2	Limber	Unburden	Prankster	90
-Pansage	2	2	2	2	1	1	12	12	1	1	Gluttony		Overgrow	190
-Simisage	2	3	2	2	2	2	12	13	2	2	Gluttony		Overgrow	75
-Pansear	2	2	2	2	1	1	12	12	1	1	Gluttony		Blaze	190
-Simisear	2	3	2	2	2	2	12	13	2	2	Gluttony		Blaze	75
-Panpour	2	2	2	2	1	1	12	12	1	1	Gluttony		Torrent	190
-Simipour	2	3	2	2	2	2	12	13	2	2	Gluttony		Torrent	75
-Munna	2	1	2	1	1	2	12	11	2	1	Forewarn	Synchronize	Telepathy	190
-Musharna	3	1	3	2	2	2	13	11	2	2	Forewarn	Synchronize	Telepathy	75
-Pidove	2	1	1	2	2	1	12	11	1	2	Big Pecks	Super Luck	Rivalry	255
-Tranquill	2	2	2	2	2	1	12	12	1	2	Big Pecks	Super Luck	Rivalry	120
-Unfezant	2	2	2	3	2	2	12	12	2	2	Big Pecks	Super Luck	Rivalry	45
-Blitzle	1	2	2	2	1	1	11	12	1	1	Lightning Rod	Motor Drive	Sap Sipper	190
-Zebstrika	2	3	2	3	2	2	12	13	2	2	Lightning Rod	Motor Drive	Sap Sipper	75
-Roggenrola	2	1	1	2	2	1	12	11	1	2	Sturdy	Weak Armor	Sand Force	255
-Boldore	2	1	2	3	3	1	12	11	1	3	Sturdy	Weak Armor	Sand Force	120
-Gigalith	2	1	2	3	3	2	12	11	2	3	Sturdy	Sand Stream	Sand Force	45
-Woobat	2	2	2	1	1	1	12	12	1	1	Unaware	Klutz	Simple	190
-Swoobat	2	3	2	2	2	2	12	13	2	2	Unaware	Klutz	Simple	45
-Drilbur	2	2	1	2	1	1	12	12	1	1	Sand Rush	Sand Force	Mold Breaker	120
-Excadrill	3	2	2	3	2	2	13	12	2	2	Sand Rush	Sand Force	Mold Breaker	60
-Audino	3	2	2	2	2	2	13	12	2	2	Healer	Regenerator	Klutz	255
-Audino (Mega Audino)	3	2	2	2	3	3	13	12	3	3	Healer			255
-Timburr	2	1	1	2	2	1	12	11	1	2	Guts	Sheer Force	Iron Fist	180
-Gurdurr	2	1	1	3	2	2	12	11	2	2	Guts	Sheer Force	Iron Fist	90
-Conkeldurr	3	1	2	3	2	2	13	11	2	2	Guts	Sheer Force	Iron Fist	45
-Tympole	2	2	2	2	1	1	12	12	1	1	Swift Swim	Hydration	Water Absorb	255
-Palpitoad	2	2	2	2	2	2	12	12	2	2	Swift Swim	Hydration	Water Absorb	120
-Seismitoad	3	2	2	2	2	2	13	12	2	2	Swift Swim	Poison Touch	Water Absorb	45
-Throh	3	1	1	3	2	2	13	11	2	2	Guts	Inner Focus	Mold Breaker	45
-Sawk	2	2	1	3	2	2	12	12	2	2	Sturdy	Inner Focus	Mold Breaker	45
-Sewaddle	1	1	1	2	2	2	11	11	2	2	Swarm	Chlorophyll	Overcoat	255
-Swadloon	2	1	2	2	2	2	12	11	2	2	Leaf Guard	Chlorophyll	Overcoat	120
-Leavanny	2	2	2	3	2	2	12	12	2	2	Swarm	Chlorophyll	Overcoat	45
-Venipede	1	2	1	1	2	1	11	12	1	2	Poison Point	Swarm	Speed Boost	255
-Whirlipede	1	1	1	2	2	2	11	11	2	2	Poison Point	Swarm	Speed Boost	120
-Scolipede	2	3	2	3	2	2	12	13	2	2	Poison Point	Swarm	Speed Boost	45
-Cottonee	1	2	1	1	2	2	11	12	2	2	Prankster	Infiltrator	Chlorophyll	190
-Whimsicott	2	3	2	2	2	2	12	13	2	2	Prankster	Infiltrator	Chlorophyll	75
-Petilil	1	1	2	1	2	2	11	11	2	2	Chlorophyll	Own Tempo	Leaf Guard	190
-Lilligant	2	2	3	2	2	2	12	12	2	2	Chlorophyll	Own Tempo	Leaf Guard	75
-Lilligant (Hisuian Lilligant)	2	3	2	3	2	2	12	13	2	2	Chlorophyll	Hustle	Leaf Guard	75
-Basculin	2	2	2	2	2	2	12	12	2	2	Rock Head	Adaptability	Mold Breaker	25
-Sandile	2	2	1	2	1	1	12	12	1	1	Intimidate	Moxie	Anger Point	180
-Krokorok	2	2	1	2	1	1	12	12	1	1	Intimidate	Moxie	Anger Point	90
-Krookodile	2	2	2	3	2	2	12	12	2	2	Intimidate	Moxie	Anger Point	45
-Darumaka	2	2	1	2	1	1	12	12	1	1	Hustle		Inner Focus	120
-Darumaka (Galarian Darumaka)	2	2	1	2	1	1	12	12	1	1	Hustle		Inner Focus	120
-Darmanitan (Standard Mode)	3	2	1	3	2	2	13	12	2	2	Sheer Force		Zen Mode	120
-Darmanitan (Zen Mode)	3	2	3	1	3	3	13	12	3	3	Zen Mode			120
-Darmanitan (Galarian Standard Mode)	3	2	1	3	2	2	13	12	2	2	Gorilla Tactics		Zen Mode	120
-Darmanitan (Galarian Zen Mode)	3	3	1	4	2	2	13	13	2	2	Zen Mode			120
-Maractus	2	2	3	2	2	2	12	12	2	2	Water Absorb	Chlorophyll	Storm Drain	255
-Dwebble	2	2	1	2	2	1	12	12	1	2	Sturdy	Shell Armor	Weak Armor	190
-Crustle	2	1	2	3	3	2	12	11	2	3	Sturdy	Shell Armor	Weak Armor	75
-Scraggy	2	1	1	2	2	2	12	11	2	2	Shed Skin	Moxie	Intimidate	180
-Scrafty	2	2	1	2	3	3	12	12	3	3	Shed Skin	Moxie	Intimidate	90
-Sigilyph	2	2	3	2	2	2	12	12	2	2	Wonder Skin	Magic Guard	Tinted Lens	45
-Yamask	1	1	2	1	2	2	11	11	2	2	Mummy			190
-Yamask (Galarian Yamask)	1	1	1	2	2	2	11	11	2	2	Wandering Spirit			190
-Cofagrigus	2	1	2	2	3	3	12	11	3	3	Mummy			90
-Tirtouga	2	1	2	2	3	1	12	11	1	3	Solid Rock	Sturdy	Swift Swim	45
-Carracosta	2	1	2	3	3	2	12	11	2	3	Solid Rock	Sturdy	Swift Swim	45
-Archen	2	2	2	3	1	1	12	12	1	1	Defeatist			45
-Archeops	2	3	3	3	2	2	12	13	2	2	Defeatist			45
-Trubbish	2	2	1	2	2	2	12	12	2	2	Stench	Sticky Hold	Aftermath	190
-Garbodor	2	2	2	2	2	2	12	12	2	2	Stench	Weak Armor	Aftermath	60
-Zorua	1	2	2	2	1	1	11	12	1	1	Illusion			75
-Zorua (Hisuian Zorua)	1	2	2	2	1	1	11	12	1	1	Illusion			75
-Zoroark	2	3	3	3	2	2	12	13	2	2	Illusion			45
-Zoroark (Hisuian Zoroark)	2	3	3	3	2	2	12	13	2	2	Illusion			45
-Minccino	2	2	1	2	1	1	12	12	1	1	Cute Charm	Technician	Skill Link	255
-Cinccino	2	3	2	2	2	2	12	13	2	2	Cute Charm	Technician	Skill Link	60
-Gothita	1	1	2	1	2	2	11	11	2	2	Frisk	Competitive	Shadow Tag	200
-Gothorita	2	2	2	1	2	2	12	12	2	2	Frisk	Competitive	Shadow Tag	100
-Gothitelle	2	2	2	2	2	3	12	12	3	2	Frisk	Competitive	Shadow Tag	50
-Solosis	1	1	3	1	1	2	11	11	2	1	Overcoat	Magic Guard	Regenerator	200
-Duosion	2	1	3	1	2	2	12	11	2	2	Overcoat	Magic Guard	Regenerator	100
-Reuniclus	3	1	3	2	2	2	13	11	2	2	Overcoat	Magic Guard	Regenerator	50
-Ducklett	2	2	1	1	2	2	12	12	2	2	Keen Eye	Big Pecks	Hydration	190
-Swanna	2	2	2	2	2	2	12	12	2	2	Keen Eye	Big Pecks	Hydration	45
-Vanillite	1	1	2	2	2	2	11	11	2	2	Ice Body	Snow Cloak	Weak Armor	255
-Vanillish	2	2	2	2	2	2	12	12	2	2	Ice Body	Snow Cloak	Weak Armor	120
-Vanilluxe	2	2	3	2	2	2	12	12	2	2	Ice Body	Snow Warning	Weak Armor	45
-Deerling	2	2	1	2	2	2	12	12	2	2	Chlorophyll	Sap Sipper	Serene Grace	190
-Sawsbuck	2	2	2	3	2	2	12	12	2	2	Chlorophyll	Sap Sipper	Serene Grace	75
-Emolga	2	3	2	2	2	2	12	13	2	2	Static		Motor Drive	200
-Karrablast	2	2	1	2	1	1	12	12	1	1	Swarm	Shed Skin	No Guard	200
-Escavalier	2	1	2	3	3	3	12	11	3	3	Swarm	Shell Armor	Overcoat	75
-Foongus	2	1	2	2	1	2	12	11	2	1	Effect Spore		Regenerator	190
-Amoonguss	3	1	2	2	2	2	13	11	2	2	Effect Spore		Regenerator	75
-Frillish	2	1	2	1	2	2	12	11	2	2	Water Absorb	Cursed Body	Damp	190
-Jellicent	3	2	2	2	2	3	13	12	3	2	Water Absorb	Cursed Body	Damp	60
-Alomomola	4	2	1	2	2	1	14	12	1	2	Healer	Hydration	Regenerator	75
-Joltik	2	2	2	1	2	2	12	12	2	2	Compound Eyes	Unnerve	Swarm	190
-Galvantula	2	3	2	2	2	2	12	13	2	2	Compound Eyes	Unnerve	Swarm	75
-Ferroseed	1	1	1	2	2	2	11	11	2	2	Iron Barbs			255
-Ferrothorn	2	1	2	2	3	3	12	11	3	3	Iron Barbs		Anticipation	90
-Klink	1	1	1	2	2	2	11	11	2	2	Plus	Minus	Clear Body	130
-Klang	2	2	2	2	2	2	12	12	2	2	Plus	Minus	Clear Body	60
-Klinklang	2	2	2	3	3	2	12	12	2	3	Plus	Minus	Clear Body	30
-Tynamo	1	2	1	2	1	1	11	12	1	1	Levitate			190
-Eelektrik	2	1	2	2	2	2	12	11	2	2	Levitate			60
-Eelektross	2	2	3	3	2	2	12	12	2	2	Levitate			30
-Elgyem	2	1	2	2	2	2	12	11	2	2	Telepathy	Synchronize	Analytic	255
-Beheeyem	2	1	3	2	2	2	12	11	2	2	Telepathy	Synchronize	Analytic	90
-Litwick	2	1	2	1	2	2	12	11	2	2	Flash Fire	Flame Body	Infiltrator	190
-Lampent	2	2	2	1	2	2	12	12	2	2	Flash Fire	Flame Body	Infiltrator	90
-Chandelure	2	2	3	2	2	2	12	12	2	2	Flash Fire	Flame Body	Infiltrator	45
-Axew	1	2	1	2	2	1	11	12	1	2	Rivalry	Mold Breaker	Unnerve	75
-Fraxure	2	2	1	3	2	2	12	12	2	2	Rivalry	Mold Breaker	Unnerve	60
-Haxorus	2	2	2	3	2	2	12	12	2	2	Rivalry	Mold Breaker	Unnerve	45
-Cubchoo	2	1	2	2	1	1	12	11	1	1	Snow Cloak	Slush Rush	Rattled	120
-Beartic	2	2	2	3	2	2	12	12	2	2	Snow Cloak	Slush Rush	Swift Swim	60
-Cryogonal	2	3	2	2	2	3	12	13	3	2	Levitate			25
-Shelmet	2	1	1	1	2	2	12	11	2	2	Hydration	Shell Armor	Overcoat	200
-Accelgor	2	3	3	2	1	2	12	13	2	1	Hydration	Sticky Hold	Unburden	75
-Stunfisk	3	1	2	2	2	2	13	11	2	2	Static	Limber	Sand Veil	75
-Stunfisk (Galarian Stunfisk)	3	1	2	2	2	2	13	11	2	2	Mimicry			75
-Mienfoo	1	2	2	2	2	2	11	12	2	2	Inner Focus	Regenerator	Reckless	180
-Mienshao	2	3	2	3	2	2	12	13	2	2	Inner Focus	Regenerator	Reckless	45
-Druddigon	2	1	2	3	2	2	12	11	2	2	Rough Skin	Sheer Force	Mold Breaker	45
-Golett	2	1	1	2	2	2	12	11	2	2	Iron Fist	Klutz	No Guard	190
-Golurk	2	2	2	3	2	2	12	12	2	2	Iron Fist	Klutz	No Guard	90
-Pawniard	1	2	1	2	2	1	11	12	1	2	Defiant	Inner Focus	Pressure	120
-Bisharp	2	2	2	3	3	2	12	12	2	3	Defiant	Inner Focus	Pressure	45
-Bouffalant	2	2	1	3	2	2	12	12	2	2	Reckless	Sap Sipper	Soundproof	45
-Rufflet	2	2	1	2	2	2	12	12	2	2	Keen Eye	Sheer Force	Hustle	190
-Braviary	3	2	2	3	2	2	13	12	2	2	Keen Eye	Sheer Force	Defiant	60
-Braviary (Hisuian Braviary)	3	2	3	2	2	2	13	12	2	2	Keen Eye	Sheer Force	Tinted Lens	60
-Vullaby	2	2	1	2	2	2	12	12	2	2	Big Pecks	Overcoat	Weak Armor	190
-Mandibuzz	3	2	2	2	3	2	13	12	2	3	Big Pecks	Overcoat	Weak Armor	60
-Heatmor	2	2	3	2	2	2	12	12	2	2	Gluttony	Flash Fire	White Smoke	90
-Durant	2	3	1	3	3	1	12	13	1	3	Swarm	Hustle	Truant	90
-Deino	2	1	1	2	2	2	12	11	2	2	Hustle			45
-Zweilous	2	2	2	2	2	2	12	12	2	2	Hustle			45
-Hydreigon	2	2	3	3	2	2	12	12	2	2	Levitate			45
-Larvesta	2	2	2	2	2	2	12	12	2	2	Flame Body		Swarm	45
-Volcarona	2	3	3	2	2	3	12	13	3	2	Flame Body		Swarm	15
-Cobalion	2	3	2	2	3	2	12	13	2	3	Justified			3
-Terrakion	2	3	2	3	2	2	12	13	2	2	Justified			3
-Virizion	2	3	2	2	2	3	12	13	3	2	Justified			3
-Tornadus (Incarnate Forme)	2	3	3	3	2	2	12	13	2	2	Prankster		Defiant	3
-Tornadus (Therian Forme)	2	3	3	3	2	2	12	13	2	2	Regenerator			3
-Thundurus (Incarnate Forme)	2	3	3	3	2	2	12	13	2	2	Prankster		Defiant	3
-Thundurus (Therian Forme)	2	3	3	3	2	2	12	13	2	2	Volt Absorb			3
-Reshiram	3	2	4	3	3	3	13	12	3	3	Turboblaze			3
-Zekrom	3	2	3	4	3	3	13	12	3	3	Teravolt			3
-Landorus (Incarnate Forme)	2	3	3	3	2	2	12	13	2	2	Sand Force		Sheer Force	3
-Landorus (Therian Forme)	2	2	3	3	2	2	12	12	2	2	Intimidate			3
-Kyurem	3	2	3	3	2	2	13	12	2	2	Pressure			3
-Kyurem (Black Kyurem)	3	2	3	4	3	2	13	12	2	3	Teravolt			3
-Kyurem (White Kyurem)	3	2	4	3	2	3	13	12	3	2	Turboblaze			3
-Keldeo	2	3	3	2	2	2	12	13	2	2	Justified			3
-Meloetta (Aria Forme)	3	2	3	2	2	3	13	12	3	2	Serene Grace			3
-Meloetta (Pirouette Forme)	3	3	2	3	2	2	13	13	2	2	Serene Grace			3
-Genesect	2	2	3	3	2	2	12	12	2	2	Download			3
-Chespin	2	1	1	2	2	1	12	11	1	2	Overgrow		Bulletproof	45
-Quilladin	2	2	2	2	2	2	12	12	2	2	Overgrow		Bulletproof	45
-Chesnaught	2	2	2	3	3	2	12	12	2	3	Overgrow		Bulletproof	45
-Fennekin	1	2	2	1	1	2	11	12	2	1	Blaze		Magician	45
-Braixen	2	2	2	2	2	2	12	12	2	2	Blaze		Magician	45
-Delphox	2	3	3	2	2	3	12	13	3	2	Blaze		Magician	45
-Froakie	1	2	2	2	1	1	11	12	1	1	Torrent		Protean	45
-Frogadier	2	2	2	2	2	2	12	12	2	2	Torrent		Protean	45
-Greninja	2	3	3	2	2	2	12	13	2	2	Torrent		Protean	45
-Greninja (Ash-Greninja)	2	3	4	3	2	2	12	13	2	2	Battle Bond			45
-Bunnelby	1	2	1	1	1	1	11	12	1	1	Pickup	Cheek Pouch	Huge Power	255
-Diggersby	2	2	2	2	2	2	12	12	2	2	Pickup	Cheek Pouch	Huge Power	127
-Fletchling	1	2	1	2	1	1	11	12	1	1	Big Pecks		Gale Wings	255
-Fletchinder	2	2	2	2	2	2	12	12	2	2	Flame Body		Gale Wings	120
-Talonflame	2	3	2	2	2	2	12	13	2	2	Flame Body		Gale Wings	45
-Scatterbug	1	1	1	1	1	1	11	11	1	1	Shield Dust	Compound Eyes	Friend Guard	255
-Spewpa	1	1	1	1	2	1	11	11	1	2	Shed Skin		Friend Guard	120
-Vivillon	2	2	2	2	2	2	12	12	2	2	Shield Dust	Compound Eyes	Friend Guard	45
-Litleo	2	2	2	2	2	2	12	12	2	2	Rivalry	Unnerve	Moxie	220
-Pyroar	2	3	3	2	2	2	12	13	2	2	Rivalry	Unnerve	Moxie	65
-Flabébé	1	1	2	1	1	2	11	11	2	1	Flower Veil		Symbiosis	225
-Floette	2	2	2	1	1	2	12	12	2	1	Flower Veil		Symbiosis	120
-Florges	2	2	3	2	2	4	12	12	4	2	Flower Veil		Symbiosis	45
-Skiddo	2	2	2	2	1	2	12	12	2	1	Sap Sipper		Grass Pelt	200
-Gogoat	3	2	2	3	2	2	13	12	2	2	Sap Sipper		Grass Pelt	45
-Pancham	2	1	1	2	2	1	12	11	1	2	Iron Fist	Mold Breaker	Scrappy	220
-Pangoro	2	2	2	3	2	2	12	12	2	2	Iron Fist	Mold Breaker	Scrappy	65
-Furfrou	2	3	2	2	2	2	12	13	2	2	Fur Coat			160
-Espurr	2	2	2	1	2	2	12	12	2	2	Keen Eye	Infiltrator	Own Tempo	190
-Meowstic	2	3	2	1	2	2	12	13	2	2	Keen Eye	Infiltrator	Prankster	75
-Honedge	1	1	1	2	3	1	11	11	1	3	No Guard			180
-Doublade	2	1	1	3	4	1	12	11	1	4	No Guard			90
-Aegislash (Shield Forme)	2	2	2	2	3	3	12	12	3	3	Stance Change			45
-Aegislash (Blade Forme)	2	2	3	3	2	2	12	12	2	2	Stance Change			45
-Spritzee	2	1	2	2	2	2	12	11	2	2	Healer		Aroma Veil	200
-Aromatisse	3	1	2	2	2	2	13	11	2	2	Healer		Aroma Veil	140
-Swirlix	2	1	2	1	2	2	12	11	2	2	Sweet Veil		Unburden	200
-Slurpuff	2	2	2	2	2	2	12	12	2	2	Sweet Veil		Unburden	140
-Inkay	2	1	1	2	2	1	12	11	1	2	Contrary	Suction Cups	Infiltrator	190
-Malamar	2	2	2	2	2	2	12	12	2	2	Contrary	Suction Cups	Infiltrator	80
-Binacle	1	2	1	2	2	2	11	12	2	2	Tough Claws	Sniper	Pickpocket	120
-Barbaracle	2	2	2	3	3	2	12	12	2	3	Tough Claws	Sniper	Pickpocket	45
-Skrelp	2	1	2	2	2	2	12	11	2	2	Poison Point	Poison Touch	Adaptability	225
-Dragalge	2	1	2	2	2	3	12	11	3	2	Poison Point	Poison Touch	Adaptability	55
-Clauncher	2	1	2	2	2	2	12	11	2	2	Mega Launcher			225
-Clawitzer	2	2	3	2	2	2	12	12	2	2	Mega Launcher			55
-Helioptile	1	2	2	1	1	1	11	12	1	1	Dry Skin	Sand Veil	Solar Power	190
-Heliolisk	2	3	3	2	2	2	12	13	2	2	Dry Skin	Sand Veil	Solar Power	75
-Tyrunt	2	1	1	2	2	1	12	11	1	2	Strong Jaw		Sturdy	45
-Tyrantrum	2	2	2	3	3	2	12	12	2	3	Strong Jaw		Rock Head	45
-Amaura	2	1	2	2	2	2	12	11	2	2	Refrigerate		Snow Warning	45
-Aurorus	3	2	2	2	2	2	13	12	2	2	Refrigerate		Snow Warning	45
-Sylveon	2	2	3	2	2	3	12	12	3	2	Cute Charm		Pixilate	45
-Hawlucha	2	3	2	2	2	2	12	13	2	2	Limber	Unburden	Mold Breaker	100
-Dedenne	2	3	2	2	2	2	12	13	2	2	Cheek Pouch	Pickup	Plus	180
-Carbink	2	2	2	2	4	4	12	12	4	4	Clear Body		Sturdy	60
-Goomy	1	1	2	2	1	2	11	11	2	1	Sap Sipper	Hydration	Gooey	45
-Sliggoo	2	2	2	2	2	3	12	12	3	2	Sap Sipper	Hydration	Gooey	45
-Sliggoo (Hisuian Sliggoo)	2	1	2	2	2	3	12	11	3	2	Sap Sipper	Shell Armor	Gooey	45
-Goodra	2	2	3	3	2	4	12	12	4	2	Sap Sipper	Hydration	Gooey	45
-Goodra (Hisuian Goodra)	2	2	3	3	3	4	12	12	4	3	Sap Sipper	Shell Armor	Gooey	45
-Klefki	2	2	2	2	2	2	12	12	2	2	Prankster		Magician	75
-Phantump	1	1	2	2	1	2	11	11	2	1	Natural Cure	Frisk	Harvest	120
-Trevenant	2	2	2	3	2	2	12	12	2	2	Natural Cure	Frisk	Harvest	60
-Pumpkaboo (Small Size)	1	2	1	2	2	2	11	12	2	2	Pickup	Frisk	Insomnia	120
-Pumpkaboo (Average Size)	1	2	1	2	2	2	11	12	2	2	Pickup	Frisk	Insomnia	120
-Pumpkaboo (Large Size)	2	1	1	2	2	2	12	11	2	2	Pickup	Frisk	Insomnia	120
-Pumpkaboo (Super Size)	2	1	1	2	2	2	12	11	2	2	Pickup	Frisk	Insomnia	120
-Gourgeist (Small Size)	2	2	2	2	3	2	12	12	2	3	Pickup	Frisk	Insomnia	60
-Gourgeist (Average Size)	2	2	2	2	3	2	12	12	2	3	Pickup	Frisk	Insomnia	60
-Gourgeist (Large Size)	2	2	2	2	3	2	12	12	2	3	Pickup	Frisk	Insomnia	60
-Gourgeist (Super Size)	2	2	2	3	3	2	12	12	2	3	Pickup	Frisk	Insomnia	60
-Bergmite	2	1	1	2	2	1	12	11	1	2	Own Tempo	Ice Body	Sturdy	190
-Avalugg	2	1	1	3	4	1	12	11	1	4	Own Tempo	Ice Body	Sturdy	55
-Avalugg (Hisuian Avalugg)	2	1	1	3	4	1	12	11	1	4	Strong Jaw	Ice Body	Sturdy	55
-Noibat	1	2	1	1	1	1	11	12	1	1	Frisk	Infiltrator	Telepathy	190
-Noivern	2	3	2	2	2	2	12	13	2	2	Frisk	Infiltrator	Telepathy	45
-Xerneas	3	2	3	3	2	2	13	12	2	2	Fairy Aura			45
-Yveltal	3	2	3	3	2	2	13	12	2	2	Dark Aura			45
-Zygarde (50% Forme)	3	2	2	3	3	2	13	12	2	3	Aura Break	Power Construct		3
-Zygarde (10% Forme)	2	3	2	3	2	2	12	13	2	2	Aura Break	Power Construct		3
-Zygarde (Complete Forme)	5	2	2	3	3	2	15	12	2	3	Power Construct			3
-Diancie	2	2	3	3	4	4	12	12	4	4	Clear Body			3
-Diancie (Mega Diancie)	2	3	4	4	3	3	12	13	3	3	Magic Bounce			3
-Hoopa (Hoopa Confined)	2	2	4	3	2	3	12	12	3	2	Magician			3
-Hoopa (Hoopa Unbound)	2	2	4	4	2	3	12	12	3	2	Magician			3
-Volcanion	2	2	3	3	3	2	12	12	2	3	Water Absorb			3
-Rowlet	2	1	2	2	2	2	12	11	2	2	Overgrow		Long Reach	45
-Dartrix	2	2	2	2	2	2	12	12	2	2	Overgrow		Long Reach	45
-Decidueye	2	2	3	3	2	3	12	12	3	2	Overgrow		Long Reach	45
-Decidueye (Hisuian Decidueye)	2	2	2	3	2	2	12	12	2	2	Overgrow		Scrappy	45
-Litten	1	2	2	2	1	1	11	12	1	1	Blaze		Intimidate	45
-Torracat	2	2	2	2	2	2	12	12	2	2	Blaze		Intimidate	45
-Incineroar	2	2	2	3	2	2	12	12	2	2	Blaze		Intimidate	45
-Popplio	2	1	2	2	2	2	12	11	2	2	Torrent		Liquid Voice	45
-Brionne	2	2	2	2	2	2	12	12	2	2	Torrent		Liquid Voice	45
-Primarina	2	2	3	2	2	3	12	12	3	2	Torrent		Liquid Voice	45
-Pikipek	1	2	1	2	1	1	11	12	1	1	Keen Eye	Skill Link	Pickup	255
-Trumbeak	2	2	1	2	2	2	12	12	2	2	Keen Eye	Skill Link	Pickup	120
-Toucannon	2	2	2	3	2	2	12	12	2	2	Keen Eye	Skill Link	Sheer Force	45
-Yungoos	1	1	1	2	1	1	11	11	1	1	Stakeout	Strong Jaw	Adaptability	255
-Gumshoos	2	1	2	3	2	2	12	11	2	2	Stakeout	Strong Jaw	Adaptability	127
-Grubbin	1	1	2	2	1	1	11	11	1	1	Swarm			255
-Charjabug	2	1	2	2	2	2	12	11	2	2	Battery			120
-Vikavolt	2	1	3	2	2	2	12	11	2	2	Levitate			45
-Crabrawler	1	2	1	2	2	1	11	12	1	2	Hyper Cutter	Iron Fist	Anger Point	225
-Crabominable	2	1	2	3	2	2	12	11	2	2	Hyper Cutter	Iron Fist	Anger Point	60
-Oricorio	2	2	2	2	2	2	12	12	2	2	Dancer			45
-Cutiefly	1	2	2	1	1	1	11	12	1	1	Honey Gather	Shield Dust	Sweet Veil	190
-Ribombee	2	3	2	2	2	2	12	13	2	2	Honey Gather	Shield Dust	Sweet Veil	75
-Rockruff	1	2	1	2	1	1	11	12	1	1	Keen Eye	Vital Spirit	Steadfast	190
-Lycanroc (Midday Form)	2	3	2	3	2	2	12	13	2	2	Keen Eye	Sand Rush	Steadfast	90
-Lycanroc (Midnight Form)	2	2	2	3	2	2	12	12	2	2	Keen Eye	Vital Spirit	No Guard	90
-Lycanroc (Dusk Form)	2	3	2	3	2	2	12	13	2	2	Tough Claws			90
-Wishiwashi (Solo Form)	1	1	1	1	1	1	11	11	1	1	Schooling			60
-Wishiwashi (School Form)	1	1	3	3	3	3	11	11	3	3	Schooling			60
-Mareanie	2	1	1	2	2	2	12	11	2	2	Merciless	Limber	Regenerator	190
-Toxapex	2	1	2	2	4	3	12	11	3	4	Merciless	Limber	Regenerator	75
-Mudbray	2	1	1	3	2	2	12	11	2	2	Own Tempo	Stamina	Inner Focus	190
-Mudsdale	3	1	2	3	3	2	13	11	2	3	Own Tempo	Stamina	Inner Focus	60
-Dewpider	1	1	1	1	2	2	11	11	2	2	Water Bubble		Water Absorb	200
-Araquanid	2	1	2	2	2	3	12	11	3	2	Water Bubble		Water Absorb	100
-Fomantis	1	1	2	2	1	1	11	11	1	1	Leaf Guard		Contrary	190
-Lurantis	2	1	2	3	2	2	12	11	2	2	Leaf Guard		Contrary	75
-Morelull	1	1	2	1	2	2	11	11	2	2	Illuminate	Effect Spore	Rain Dish	190
-Shiinotic	2	1	2	1	2	3	12	11	3	2	Illuminate	Effect Spore	Rain Dish	75
-Salandit	1	2	2	1	1	1	11	12	1	1	Corrosion		Oblivious	120
-Salazzle	2	3	3	2	2	2	12	13	2	2	Corrosion		Oblivious	45
-Stufful	2	2	1	2	2	2	12	12	2	2	Fluffy	Klutz	Cute Charm	140
-Bewear	3	2	2	3	2	2	13	12	2	2	Fluffy	Klutz	Unnerve	70
-Bounsweet	1	1	1	1	1	1	11	11	1	1	Leaf Guard	Oblivious	Sweet Veil	235
-Steenee	2	2	1	1	1	1	12	12	1	1	Leaf Guard	Oblivious	Sweet Veil	120
-Tsareena	2	2	2	3	2	2	12	12	2	2	Leaf Guard	Queenly Majesty	Sweet Veil	45
-Comfey	2	3	2	2	2	3	12	13	3	2	Flower Veil	Triage	Natural Cure	60
-Oranguru	2	2	2	2	2	3	12	12	3	2	Inner Focus	Telepathy	Symbiosis	45
-Passimian	3	2	1	3	2	2	13	12	2	2	Receiver		Defiant	45
-Wimpod	1	2	1	1	1	1	11	12	1	1	Wimp Out			90
-Golisopod	2	1	2	3	3	2	12	11	2	3	Emergency Exit			45
-Sandygast	2	1	2	2	2	1	12	11	1	2	Water Compaction		Sand Veil	140
-Palossand	2	1	3	2	3	2	12	11	2	3	Water Compaction		Sand Veil	60
-Pyukumuku	2	1	1	2	3	3	12	11	3	3	Innards Out		Unaware	60
-Type: Null	2	2	2	2	2	2	12	12	2	2	Battle Armor			3
-Silvally	2	2	2	2	2	2	12	12	2	2	RKS System			3
-Minior (Meteor Form)	2	2	2	2	3	3	12	12	3	3	Shields Down			30
-Minior (Core)	2	3	3	3	2	2	12	13	2	2	Shields Down			30
-Komala	2	2	2	3	2	2	12	12	2	2	Comatose			45
-Turtonator	2	1	2	2	3	2	12	11	2	3	Shell Armor			70
-Togedemaru	2	2	1	2	2	2	12	12	2	2	Iron Barbs	Lightning Rod	Sturdy	180
-Mimikyu	2	2	2	2	2	3	12	12	3	2	Disguise			45
-Bruxish	2	2	2	3	2	2	12	12	2	2	Dazzling	Strong Jaw	Wonder Skin	80
-Drampa	2	1	3	2	2	2	12	11	2	2	Berserk	Sap Sipper	Cloud Nine	70
-Dhelmise	2	1	2	3	3	2	12	11	2	3	Steelworker			25
-Jangmo-o	1	1	1	2	2	1	11	11	1	2	Bulletproof	Soundproof	Overcoat	45
-Hakamo-o	2	2	2	2	2	2	12	12	2	2	Bulletproof	Soundproof	Overcoat	45
-Kommo-o	2	2	3	3	3	3	12	12	3	3	Bulletproof	Soundproof	Overcoat	45
-Tapu Koko	2	3	2	3	2	2	12	13	2	2	Electric Surge		Telepathy	3
-Tapu Lele	2	2	3	2	2	3	12	12	3	2	Psychic Surge		Telepathy	3
-Tapu Bulu	2	2	2	3	3	2	12	12	2	3	Grassy Surge		Telepathy	3
-Tapu Fini	2	2	2	2	3	3	12	12	3	3	Misty Surge		Telepathy	3
-Cosmog	1	1	1	1	1	1	11	11	1	1	Unaware			45
-Cosmoem	1	1	1	1	3	3	11	11	3	3	Sturdy			45
-Solgaleo	3	2	3	3	3	2	13	12	2	3	Full Metal Body			45
-Lunala	3	2	3	3	2	3	13	12	3	2	Shadow Shield			45
-Nihilego	3	3	3	2	1	3	13	13	3	1	Beast Boost			45
-Buzzwole	3	2	2	3	3	2	13	12	2	3	Beast Boost			45
-Pheromosa	2	4	3	3	1	1	12	14	1	1	Beast Boost			45
-Xurkitree	2	2	4	2	2	2	12	12	2	2	Beast Boost			45
-Celesteela	2	2	3	3	3	3	12	12	3	3	Beast Boost			45
-Kartana	2	3	2	4	3	1	12	13	1	3	Beast Boost			45
-Guzzlord	5	1	2	3	2	2	15	11	2	2	Beast Boost			45
-Necrozma	2	2	3	3	3	2	12	12	2	3	Prism Armor			255
-Necrozma (Dusk Mane Necrozma)	2	2	3	4	3	3	12	12	3	3	Prism Armor			255
-Necrozma (Dawn Wings Necrozma)	2	2	4	3	3	3	12	12	3	3	Prism Armor			255
-Necrozma (Ultra Necrozma)	2	3	4	4	2	2	12	13	2	2	Neuroforce			255
-Magearna	2	2	3	2	3	3	12	12	3	3	Soul-Heart			3
-Marshadow	2	3	2	3	2	2	12	13	2	2	Technician			3
-Poipole	2	2	2	2	2	2	12	12	2	2	Beast Boost			45
-Naganadel	2	3	3	2	2	2	12	13	2	2	Beast Boost			45
-Stakataka	2	1	2	3	5	3	12	11	3	5	Beast Boost			30
-Blacephalon	2	3	4	3	2	2	12	13	2	2	Beast Boost			30
-Zeraora	2	3	3	3	2	2	12	13	2	2	Volt Absorb			3
-Meltan	1	1	2	2	2	1	11	11	1	2	Magnet Pull			3
-Melmetal	3	1	2	3	3	2	13	11	2	3	Iron Fist			3
-Grookey	2	2	1	2	2	1	12	12	1	2	Overgrow		Grassy Surge	45
-Thwackey	2	2	2	2	2	2	12	12	2	2	Overgrow		Grassy Surge	45
-Rillaboom	3	2	2	3	2	2	13	12	2	2	Overgrow		Grassy Surge	45
-Scorbunny	2	2	1	2	1	1	12	12	1	1	Blaze		Libero	45
-Raboot	2	2	2	2	2	2	12	12	2	2	Blaze		Libero	45
-Cinderace	2	3	2	3	2	2	12	13	2	2	Blaze		Libero	45
-Sobble	2	2	2	1	1	1	12	12	1	1	Torrent		Sniper	45
-Drizzile	2	2	2	2	2	2	12	12	2	2	Torrent		Sniper	45
-Inteleon	2	3	3	2	2	2	12	13	2	2	Torrent		Sniper	45
-Skwovet	2	1	1	2	2	1	12	11	1	2	Cheek Pouch		Gluttony	255
-Greedent	3	1	2	2	2	2	13	11	2	2	Cheek Pouch		Gluttony	90
-Rookidee	1	2	1	1	1	1	11	12	1	1	Keen Eye	Unnerve	Big Pecks	255
-Corvisquire	2	2	1	2	2	2	12	12	2	2	Keen Eye	Unnerve	Big Pecks	120
-Corviknight	2	2	2	2	3	2	12	12	2	3	Pressure	Unnerve	Mirror Armor	45
-Blipbug	1	1	1	1	1	1	11	11	1	1	Swarm	Compound Eyes	Telepathy	255
-Dottler	2	1	2	1	2	2	12	11	2	2	Swarm	Compound Eyes	Telepathy	120
-Orbeetle	2	2	2	1	3	3	12	12	3	3	Swarm	Frisk	Telepathy	45
-Nickit	1	2	1	1	1	2	11	12	2	1	Run Away	Unburden	Stakeout	255
-Thievul	2	2	2	2	2	2	12	12	2	2	Run Away	Unburden	Stakeout	127
-Gossifleur	1	1	1	1	2	2	11	11	2	2	Cotton Down	Regenerator	Effect Spore	190
-Eldegoss	2	2	2	2	2	3	12	12	3	2	Cotton Down	Regenerator	Effect Spore	75
-Wooloo	1	1	1	1	2	1	11	11	1	2	Fluffy	Run Away	Bulletproof	255
-Dubwool	2	2	2	2	3	2	12	12	2	3	Fluffy	Steadfast	Bulletproof	127
-Chewtle	2	1	1	2	2	1	12	11	1	2	Strong Jaw	Shell Armor	Swift Swim	255
-Drednaw	2	2	1	3	2	2	12	12	2	2	Strong Jaw	Shell Armor	Swift Swim	75
-Yamper	2	1	1	1	2	2	12	11	2	2	Ball Fetch		Rattled	255
-Boltund	2	3	2	2	2	2	12	13	2	2	Strong Jaw		Competitive	45
-Rolycoly	1	1	1	1	2	2	11	11	2	2	Steam Engine	Heatproof	Flash Fire	255
-Carkol	2	2	2	2	2	2	12	12	2	2	Steam Engine	Flame Body	Flash Fire	120
-Coalossal	3	1	2	2	3	2	13	11	2	3	Steam Engine	Flame Body	Flash Fire	45
-Applin	1	1	1	1	2	1	11	11	1	2	Ripen	Gluttony	Bulletproof	255
-Flapple	2	2	2	3	2	2	12	12	2	2	Ripen	Gluttony	Hustle	45
-Appletun	3	1	3	2	2	2	13	11	2	2	Ripen	Gluttony	Thick Fat	45
-Silicobra	2	1	1	2	2	2	12	11	2	2	Sand Spit	Shed Skin	Sand Veil	255
-Sandaconda	2	2	2	3	3	2	12	12	2	3	Sand Spit	Shed Skin	Sand Veil	120
-Cramorant	2	2	2	2	2	2	12	12	2	2	Gulp Missile			45
-Arrokuda	1	2	1	2	1	1	11	12	1	1	Swift Swim		Propeller Tail	255
-Barraskewda	2	3	2	3	2	2	12	13	2	2	Swift Swim		Propeller Tail	60
-Toxel	1	1	2	1	1	1	11	11	1	1	Rattled	Static	Klutz	75
-Toxtricity	2	2	3	2	2	2	12	12	2	2	Punk Rock	Plus	Technician	45
-Sizzlipede	2	1	2	2	1	2	12	11	2	1	Flash Fire	White Smoke	Flame Body	190
-Centiskorch	3	2	2	3	2	2	13	12	2	2	Flash Fire	White Smoke	Flame Body	75
-Clobbopus	2	1	2	2	2	2	12	11	2	2	Limber		Technician	180
-Grapploct	2	1	2	3	2	2	12	11	2	2	Limber		Technician	45
-Sinistea	1	2	2	1	1	2	11	12	2	1	Weak Armor		Cursed Body	120
-Polteageist	2	2	3	2	2	3	12	12	3	2	Weak Armor		Cursed Body	60
-Hatenna	1	1	2	1	1	2	11	11	2	1	Healer	Anticipation	Magic Bounce	235
-Hattrem	2	1	2	1	2	2	12	11	2	2	Healer	Anticipation	Magic Bounce	120
-Hatterene	2	1	3	2	2	3	12	11	3	2	Healer	Anticipation	Magic Bounce	45
-Impidimp	1	2	2	1	1	1	11	12	1	1	Prankster	Frisk	Pickpocket	255
-Morgrem	2	2	2	2	1	2	12	12	2	1	Prankster	Frisk	Pickpocket	120
-Grimmsnarl	2	2	2	3	2	2	12	12	2	2	Prankster	Frisk	Pickpocket	45
-Obstagoon	2	2	2	2	3	2	12	12	2	3	Reckless	Guts	Defiant	45
-Perrserker	2	2	2	3	3	2	12	12	2	3	Battle Armor	Tough Claws	Steely Spirit	90
-Cursola	2	1	3	2	2	3	12	11	3	2	Weak Armor		Perish Body	30
-Sirfetch'd	2	2	2	3	2	2	12	12	2	2	Steadfast		Scrappy	45
-Mr. Rime	2	2	3	2	2	3	12	12	3	2	Tangled Feet	Screen Cleaner	Ice Body	45
-Runerigus	2	1	2	2	3	3	12	11	3	3	Wandering Spirit			90
-Milcery	1	1	2	1	1	2	11	11	2	1	Sweet Veil		Aroma Veil	200
-Alcremie	2	2	3	2	2	3	12	12	3	2	Sweet Veil		Aroma Veil	100
-Falinks	2	2	2	3	3	2	12	12	2	3	Battle Armor		Defiant	45
-Pincurchin	1	1	2	3	2	2	11	11	2	2	Lightning Rod		Electric Surge	75
-Snom	1	1	1	1	1	1	11	11	1	1	Shield Dust		Ice Scales	190
-Frosmoth	2	2	3	2	2	2	12	12	2	2	Shield Dust		Ice Scales	75
-Stonjourner	3	2	1	3	3	1	13	12	1	3	Power Spot			60
-Eiscue (Ice Face)	2	2	2	2	3	2	12	12	2	3	Ice Face			60
-Eiscue (Noice Face)	2	3	2	2	2	2	12	13	2	2	Ice Face			60
-Indeedee (Male)	2	2	3	2	2	2	12	12	2	2	Inner Focus	Synchronize	Psychic Surge	30
-Indeedee (Female)	2	2	2	2	2	3	12	12	3	2	Own Tempo	Synchronize	Psychic Surge	30
-Morpeko	2	2	2	2	2	2	12	12	2	2	Hunger Switch			180
-Cufant	2	1	1	2	1	1	12	11	1	1	Sheer Force		Heavy Metal	190
-Copperajah	3	1	2	3	2	2	13	11	2	2	Sheer Force		Heavy Metal	90
-Dracozolt	2	2	2	3	2	2	12	12	2	2	Volt Absorb	Hustle	Sand Rush	45
-Arctozolt	2	2	2	3	2	2	12	12	2	2	Volt Absorb	Static	Slush Rush	45
-Dracovish	2	2	2	2	3	2	12	12	2	3	Water Absorb	Strong Jaw	Sand Rush	45
-Arctovish	2	2	2	2	3	2	12	12	2	3	Water Absorb	Ice Body	Slush Rush	45
-Duraludon	2	2	3	2	3	2	12	12	2	3	Light Metal	Heavy Metal	Stalwart	45
-Dreepy	1	2	1	2	1	1	11	12	1	1	Clear Body	Infiltrator	Cursed Body	45
-Drakloak	2	3	2	2	2	2	12	13	2	2	Clear Body	Infiltrator	Cursed Body	45
-Dragapult	2	3	3	3	2	2	12	13	2	2	Clear Body	Infiltrator	Cursed Body	45
-Zacian (Hero of Many Battles)	2	3	2	3	3	3	12	13	3	3	Intrepid Sword			10
-Zacian (Crowned Sword)	2	3	2	4	3	3	12	13	3	3	Intrepid Sword			10
-Zamazenta (Hero of Many Battles)	2	3	2	3	3	3	12	13	3	3	Dauntless Shield			10
-Zamazenta (Crowned Shield)	2	3	2	3	3	3	12	13	3	3	Dauntless Shield			10
-Eternatus	3	3	3	2	2	2	13	13	2	2	Pressure			255
-Eternatus (Eternamax Eternatus)	6	3	3	3	6	6	16	13	6	6	Pressure			255
-Kubfu	2	2	2	2	2	2	12	12	2	2	Inner Focus			3
-Urshifu	3	2	2	3	3	2	13	12	2	3	Unseen Fist			3
-Zarude	3	3	2	3	3	2	13	13	2	3	Leaf Guard			3
-Regieleki	2	5	3	3	2	2	12	15	2	2	Transistor			3
-Regidrago	5	2	3	3	2	2	15	12	2	2	Dragon's Maw			3
-Glastrier	3	1	2	3	3	3	13	11	3	3	Chilling Neigh			3
-Spectrier	3	3	3	2	2	2	13	13	2	2	Grim Neigh			3
-Calyrex	3	2	2	2	2	2	13	12	2	2	Unnerve			3
-Calyrex (Ice Rider Calyrex)	3	2	2	4	4	3	13	12	3	4	As One			3
-Calyrex (Shadow Rider Calyrex)	3	4	4	2	2	3	13	14	3	2	As One			3
-Wyrdeer	3	2	3	3	2	2	13	12	2	2	Intimidate	Frisk	Sap Sipper	45
-Kleavor	2	2	1	3	2	2	12	12	2	2	Swarm	Sheer Force	Sharpness	15
-Ursaluna	3	2	1	3	3	2	13	12	2	3	Guts	Bulletproof	Unnerve	20
-Basculegion (Male)	3	2	2	3	2	2	13	12	2	2	Swift Swim	Adaptability	Mold Breaker	45
-Basculegion (Female)	3	2	3	2	2	2	13	12	2	2	Swift Swim	Adaptability	Mold Breaker	45
-Sneasler	2	3	1	3	2	2	12	13	2	2	Pressure	Unburden	Poison Touch	20
-Overqwil	2	2	2	3	2	2	12	12	2	2	Poison Point	Swift Swim	Intimidate	45
-Enamorus (Incarnate Forme)	2	3	3	3	2	2	12	13	2	2	Cute Charm		Contrary	3
-Enamorus (Therian Forme)	2	1	3	3	3	3	12	11	3	3	Overcoat			3
-Sprigatito	1	2	1	2	2	1	11	12	1	2	Overgrow		Protean	45
-Floragato	2	2	2	2	2	2	12	12	2	2	Overgrow		Protean	45
-Meowscarada	2	3	2	3	2	2	12	13	2	2	Overgrow		Protean	45
-Fuecoco	2	1	2	1	2	1	12	11	1	2	Blaze		Unaware	45
-Crocalor	2	1	2	2	2	2	12	11	2	2	Blaze		Unaware	45
-Skeledirge	3	2	3	2	3	2	13	12	2	3	Blaze		Unaware	45
-Quaxly	2	2	2	2	1	1	12	12	1	1	Torrent		Moxie	45
-Quaxwell	2	2	2	2	2	2	12	12	2	2	Torrent		Moxie	45
-Quaquaval	2	2	2	3	2	2	12	12	2	2	Torrent		Moxie	45
-Lechonk	2	1	1	1	1	1	12	11	1	1	Aroma Veil	Gluttony	Thick Fat	255
-Oinkologne (Male)	3	2	2	3	2	2	13	12	2	2	Lingering Aroma	Gluttony	Thick Fat	100
-Oinkologne (Female)	3	2	2	2	2	2	13	12	2	2	Aroma Veil	Gluttony	Thick Fat	100
-Tarountula	1	1	1	1	1	1	11	11	1	1	Insomnia		Stakeout	255
-Spidops	2	1	2	2	2	2	12	11	2	2	Insomnia		Stakeout	120
-Nymble	1	1	1	1	1	1	11	11	1	1	Swarm		Tinted Lens	190
-Lokix	2	2	2	3	2	2	12	12	2	2	Swarm		Tinted Lens	30
-Pawmi	1	2	1	2	1	1	11	12	1	1	Static	Natural Cure	Iron Fist	190
-Pawmo	2	2	2	2	1	1	12	12	1	1	Volt Absorb	Natural Cure	Iron Fist	80
-Pawmot	2	3	2	3	2	2	12	13	2	2	Volt Absorb	Natural Cure	Iron Fist	45
-Tandemaus	2	2	1	2	1	1	12	12	1	1	Run Away	Pickup	Own Tempo	150
-Maushold	2	3	2	2	2	2	12	13	2	2	Friend Guard	Cheek Pouch	Technician	75
-Fidough	1	2	1	2	2	2	11	12	2	2	Own Tempo		Klutz	190
-Dachsbun	2	2	2	2	3	2	12	12	2	3	Well-Baked Body		Aroma Veil	90
-Smoliv	1	1	2	1	1	2	11	11	2	1	Early Bird		Harvest	255
-Dolliv	2	1	2	2	2	2	12	11	2	2	Early Bird		Harvest	120
-Arboliva	2	1	3	2	2	3	12	11	3	2	Seed Sower		Harvest	45
-Squawkabilly	2	2	1	2	2	2	12	12	2	2	Intimidate	Hustle	Guts	190
-Nacli	2	1	1	2	2	1	12	11	1	2	Purifying Salt	Sturdy	Clear Body	255
-Naclstack	2	1	1	2	3	2	12	11	2	3	Purifying Salt	Sturdy	Clear Body	120
-Garganacl	3	1	1	3	3	2	13	11	2	3	Purifying Salt	Sturdy	Clear Body	45
-Charcadet	1	1	2	2	1	1	11	11	1	1	Flash Fire		Flame Body	90
-Armarouge	2	2	3	2	3	2	12	12	2	3	Flash Fire		Weak Armor	25
-Ceruledge	2	2	2	3	2	3	12	12	3	2	Flash Fire		Weak Armor	25
-Tadbulb	2	1	2	1	1	1	12	11	1	1	Own Tempo	Static	Damp	190
-Bellibolt	3	1	3	2	2	2	13	11	2	2	Electromorphosis	Static	Damp	50
-Wattrel	1	2	2	1	1	1	11	12	1	1	Wind Power	Volt Absorb	Competitive	180
-Kilowattrel	2	3	3	2	2	2	12	13	2	2	Wind Power	Volt Absorb	Competitive	90
-Maschiff	2	2	1	2	2	2	12	12	2	2	Intimidate	Run Away	Stakeout	150
-Mabosstiff	2	2	2	3	2	2	12	12	2	2	Intimidate	Guard Dog	Stakeout	75
-Shroodle	1	2	1	2	1	1	11	12	1	1	Unburden	Pickpocket	Prankster	190
-Grafaiai	2	3	2	2	2	2	12	13	2	2	Unburden	Poison Touch	Prankster	90
-Bramblin	1	2	1	2	1	1	11	12	1	1	Wind Rider		Infiltrator	190
-Brambleghast	2	2	2	3	2	2	12	12	2	2	Wind Rider		Infiltrator	45
-Toedscool	1	2	2	1	1	3	11	12	3	1	Mycelium Might			190
-Toedscruel	2	3	2	2	2	3	12	13	3	2	Mycelium Might			90
-Klawf	2	2	1	3	3	2	12	12	2	3	Anger Shell	Shell Armor	Regenerator	120
-Capsakid	2	2	2	2	1	1	12	12	1	1	Chlorophyll	Insomnia	Klutz	190
-Scovillain	2	2	3	3	2	2	12	12	2	2	Chlorophyll	Insomnia	Moody	75
-Rellor	1	1	1	2	2	2	11	11	2	2	Compound Eyes		Shed Skin	190
-Rabsca	2	1	3	2	2	3	12	11	3	2	Synchronize		Telepathy	45
-Flittle	1	2	2	1	1	1	11	12	1	1	Anticipation	Frisk	Speed Boost	120
-Espathra	2	3	3	2	2	2	12	13	2	2	Opportunist	Frisk	Speed Boost	60
-Tinkatink	2	2	1	1	1	2	12	12	2	1	Mold Breaker	Own Tempo	Pickpocket	190
-Tinkatuff	2	2	1	2	2	2	12	12	2	2	Mold Breaker	Own Tempo	Pickpocket	90
-Tinkaton	2	2	2	2	2	3	12	12	3	2	Mold Breaker	Own Tempo	Pickpocket	45
-Wiglett	1	2	1	2	1	1	11	12	1	1	Gooey	Rattled	Sand Veil	255
-Wugtrio	1	3	2	3	2	2	11	13	2	2	Gooey	Rattled	Sand Veil	50
-Bombirdier	2	2	2	3	2	2	12	12	2	2	Big Pecks	Keen Eye	Rocky Payload	25
-Finizen	2	2	1	1	1	1	12	12	1	1	Water Veil			200
-Palafin (Zero)	3	3	2	2	2	2	13	13	2	2	Zero to Hero			45
-Palafin (Hero)	3	3	3	4	2	2	13	13	2	2	Zero to Hero			45
-Varoom	1	1	1	2	2	1	11	11	1	2	Overcoat		Slow Start	190
-Revavroom	2	2	2	3	2	2	12	12	2	2	Overcoat		Filter	75
-Cyclizar	2	3	2	2	2	2	12	13	2	2	Shed Skin		Regenerator	190
-Orthworm	2	2	2	2	3	2	12	12	2	3	Earth Eater		Sand Veil	25
-Glimmet	1	2	3	1	1	2	11	12	2	1	Toxic Debris		Corrosion	70
-Glimmora	2	2	3	2	2	2	12	12	2	2	Toxic Debris		Corrosion	25
-Greavard	2	1	1	2	2	2	12	11	2	2	Pickup		Fluffy	120
-Houndstone	2	2	2	3	3	2	12	12	2	3	Sand Rush		Fluffy	60
-Flamigo	2	2	2	3	2	2	12	12	2	2	Scrappy	Tangled Feet	Costar	100
-Cetoddle	3	1	1	2	1	1	13	11	1	1	Thick Fat	Snow Cloak	Sheer Force	150
-Cetitan	4	2	1	3	2	2	14	12	2	2	Thick Fat	Slush Rush	Sheer Force	50
-Veluza	2	2	2	3	2	2	12	12	2	2	Mold Breaker		Sharpness	100
-Dondozo	4	1	2	3	3	2	14	11	2	3	Unaware	Oblivious	Water Veil	25
-Tatsugiri	2	2	3	2	2	2	12	12	2	2	Commander		Storm Drain	100
-Annihilape	3	2	2	3	2	2	13	12	2	2	Vital Spirit	Inner Focus	Defiant	45
-Clodsire	3	1	1	2	2	3	13	11	3	2	Poison Point	Water Absorb	Unaware	90
-Farigiraf	3	2	3	2	2	2	13	12	2	2	Cud Chew	Armor Tail	Sap Sipper	45
-Dudunsparce	3	2	2	3	2	2	13	12	2	2	Serene Grace	Run Away	Rattled	45
-Kingambit	3	2	2	3	3	2	13	12	2	3	Defiant	Supreme Overlord	Pressure	25
-Great Tusk	3	2	2	3	3	2	13	12	2	3	Protosynthesis			30
-Scream Tail	3	3	2	2	2	3	13	13	3	2	Protosynthesis			50
-Brute Bonnet	3	2	2	3	2	2	13	12	2	2	Protosynthesis			50
-Flutter Mane	2	3	3	2	2	3	12	13	3	2	Protosynthesis			30
-Slither Wing	2	2	2	3	2	3	12	12	3	2	Protosynthesis			30
-Sandy Shocks	2	3	3	2	2	2	12	13	2	2	Protosynthesis			30
-Iron Treads	2	3	2	3	3	2	12	13	2	3	Quark Drive			30
-Iron Bundle	2	3	3	2	3	2	12	13	2	3	Quark Drive			50
-Iron Hands	4	2	2	3	3	2	14	12	2	3	Quark Drive			50
-Iron Jugulis	2	3	3	2	2	2	12	13	2	2	Quark Drive			30
-Iron Moth	2	3	3	2	2	3	12	13	3	2	Quark Drive			30
-Iron Thorns	3	2	2	3	3	2	13	12	2	3	Quark Drive			30
-Frigibax	2	2	1	2	1	1	12	12	1	1	Thermal Exchange		Ice Body	45
-Arctibax	2	2	1	2	2	2	12	12	2	2	Thermal Exchange		Ice Body	25
-Baxcalibur	3	2	2	3	2	2	13	12	2	2	Thermal Exchange		Ice Body	10
-Gimmighoul (Chest Form)	1	1	2	1	2	2	11	11	2	2	Rattled			45
-Gimmighoul (Roaming Form)	1	2	2	1	1	1	11	12	1	1	Run Away			45
-Gholdengo	2	2	3	2	2	2	12	12	2	2	Good as Gold			45
-Wo-Chien	2	2	2	2	3	3	12	12	3	3	Tablets of Ruin			6
-Chien-Pao	2	3	2	3	2	2	12	13	2	2	Sword of Ruin			6
-Ting-Lu	4	1	2	3	3	2	14	11	2	3	Vessel of Ruin			6
-Chi-Yu	2	3	3	2	2	3	12	13	3	2	Beads of Ruin			6
-Roaring Moon	3	3	2	3	2	3	13	13	3	2	Protosynthesis			10
-Iron Valiant	2	3	3	3	2	2	12	13	2	2	Quark Drive			10
-Koraidon	3	3	2	3	3	3	13	13	3	3	Orichalcum Pulse			3
-Miraidon	3	3	3	2	3	3	13	13	3	3	Hadron Engine			3
-Walking Wake	2	3	3	2	2	2	12	13	2	2	Protosynthesis			5
-Iron Leaves	2	3	2	3	2	3	12	13	3	2	Quark Drive			5
+Name	Brawn	Agility	Intellect	Cunning	Willpower	Presence	WoundThreshold	StrainThreshold	DefenseRanged	DefenseMelee	Ability	Second Ability	Hidden Ability	Catch Rate	Description
+Bulbasaur	1	1	2	1	1	2	11	11	2	1	Overgrow		Chlorophyll	45	
+Ivysaur	2	2	2	2	2	2	12	12	2	2	Overgrow		Chlorophyll	45	
+Venusaur	2	2	3	2	2	3	12	12	3	2	Overgrow		Chlorophyll	45	
+Venusaur (Mega Venusaur)	2	2	3	3	3	3	12	12	3	3	Thick Fat			45	
+Charmander	1	2	2	2	1	2	11	12	2	1	Blaze		Solar Power	45	
+Charmeleon	2	2	2	2	2	2	12	12	2	2	Blaze		Solar Power	45	
+Charizard	2	3	3	2	2	2	12	13	2	2	Blaze		Solar Power	45	
+Charizard (Mega Charizard X)	2	3	3	3	3	2	12	13	2	3	Tough Claws			45	
+Charizard (Mega Charizard Y)	2	3	4	3	2	3	12	13	3	2	Drought			45	
+Squirtle	1	1	2	1	2	2	11	11	2	2	Torrent		Rain Dish	45	
+Wartortle	2	2	2	2	2	2	12	12	2	2	Torrent		Rain Dish	45	
+Blastoise	2	2	2	2	3	3	12	12	3	3	Torrent		Rain Dish	45	
+Blastoise (Mega Blastoise)	2	2	3	3	3	3	12	12	3	3	Mega Launcher			45	
+Caterpie	1	1	1	1	1	1	11	11	1	1	Shield Dust		Run Away	255	
+Metapod	2	1	1	1	2	1	12	11	1	2	Shed Skin			120	
+Butterfree	2	2	2	1	2	2	12	12	2	2	Compound Eyes		Tinted Lens	45	
+Weedle	1	2	1	1	1	1	11	12	1	1	Shield Dust		Run Away	255	
+Kakuna	1	1	1	1	2	1	11	11	1	2	Shed Skin			120	
+Beedrill	2	2	1	2	1	2	12	12	2	1	Swarm		Sniper	45	
+Beedrill (Mega Beedrill)	2	3	1	4	1	2	12	13	2	1	Adaptability			45	
+Pidgey	1	2	1	1	1	1	11	12	1	1	Keen Eye	Tangled Feet	Big Pecks	255	
+Pidgeotto	2	2	2	2	2	2	12	12	2	2	Keen Eye	Tangled Feet	Big Pecks	120	
+Pidgeot	2	3	2	2	2	2	12	13	2	2	Keen Eye	Tangled Feet	Big Pecks	45	
+Pidgeot (Mega Pidgeot)	2	3	3	2	2	2	12	13	2	2	No Guard			45	
+Rattata	1	2	1	2	1	1	11	12	1	1	Run Away	Guts	Hustle	255	
+Rattata (Alolan Rattata)	1	2	1	2	1	1	11	12	1	1	Gluttony	Hustle	Thick Fat	255	
+Raticate	2	2	2	2	2	2	12	12	2	2	Run Away	Guts	Hustle	127	
+Raticate (Alolan Raticate)	2	2	1	2	2	2	12	12	2	2	Gluttony	Hustle	Thick Fat	127	
+Spearow	1	2	1	2	1	1	11	12	1	1	Keen Eye		Sniper	255	
+Fearow	2	3	2	2	2	2	12	13	2	2	Keen Eye		Sniper	90	
+Ekans	1	2	1	2	1	2	11	12	2	1	Intimidate	Shed Skin	Unnerve	255	
+Arbok	2	2	2	2	2	2	12	12	2	2	Intimidate	Shed Skin	Unnerve	90	
+Pikachu	1	2	2	2	1	2	11	12	2	1	Static		Lightning Rod	190	
+Raichu	2	3	2	2	2	2	12	13	2	2	Static		Lightning Rod	75	
+Raichu (Alolan Raichu)	2	3	2	2	2	2	12	13	2	2	Surge Surfer			75	
+Sandshrew	2	1	1	2	2	1	12	11	1	2	Sand Veil		Sand Rush	255	
+Sandshrew (Alolan Sandshrew)	2	1	1	2	2	1	12	11	1	2	Snow Cloak		Slush Rush	255	
+Sandslash	2	2	1	3	3	2	12	12	2	3	Sand Veil		Sand Rush	90	
+Sandslash (Alolan Sandslash)	2	2	1	3	3	2	12	12	2	3	Snow Cloak		Slush Rush	90	
+Nidoran (Male)	2	1	1	1	2	1	12	11	1	2	Poison Point	Rivalry	Hustle	235	
+Nidorina	2	2	2	2	2	2	12	12	2	2	Poison Point	Rivalry	Hustle	120	
+Nidoqueen	2	2	2	2	2	2	12	12	2	2	Poison Point	Rivalry	Sheer Force	45	
+Nidoran (Female)	1	2	1	2	1	1	11	12	1	1	Poison Point	Rivalry	Hustle	235	
+Nidorino	2	2	2	2	2	2	12	12	2	2	Poison Point	Rivalry	Hustle	120	
+Nidoking	2	2	2	3	2	2	12	12	2	2	Poison Point	Rivalry	Sheer Force	45	
+Clefairy	2	1	2	1	1	2	12	11	2	1	Cute Charm	Magic Guard	Friend Guard	150	
+Clefable	2	2	2	2	2	2	12	12	2	2	Cute Charm	Magic Guard	Unaware	25	
+Vulpix	1	2	2	1	1	2	11	12	2	1	Flash Fire		Drought	190	
+Vulpix (Alolan Vulpix)	1	2	2	1	1	2	11	12	2	1	Snow Cloak		Snow Warning	190	
+Ninetales	2	3	2	2	2	3	12	13	3	2	Flash Fire		Drought	75	
+Ninetales (Alolan Ninetales)	2	3	2	2	2	3	12	13	3	2	Snow Cloak		Snow Warning	75	
+Jigglypuff	3	1	1	1	1	1	13	11	1	1	Cute Charm	Competitive	Friend Guard	170	
+Wigglytuff	3	1	2	2	1	2	13	11	2	1	Cute Charm	Competitive	Frisk	50	
+Zubat	1	2	1	1	1	1	11	12	1	1	Inner Focus		Infiltrator	255	
+Golbat	2	2	2	2	2	2	12	12	2	2	Inner Focus		Infiltrator	90	
+Oddish	1	1	2	2	2	2	11	11	2	2	Chlorophyll		Run Away	255	
+Gloom	2	1	2	2	2	2	12	11	2	2	Chlorophyll		Stench	120	
+Vileplume	2	2	3	2	2	2	12	12	2	2	Chlorophyll		Effect Spore	45	
+Paras	1	1	1	2	2	2	11	11	2	2	Effect Spore	Dry Skin	Damp	190	
+Parasect	2	1	2	2	2	2	12	11	2	2	Effect Spore	Dry Skin	Damp	75	
+Venonat	2	1	1	2	2	2	12	11	2	2	Compound Eyes	Tinted Lens	Run Away	190	
+Venomoth	2	2	2	2	2	2	12	12	2	2	Shield Dust	Tinted Lens	Wonder Skin	75	
+Diglett	1	2	1	2	1	1	11	12	1	1	Sand Veil	Arena Trap	Sand Force	255	
+Diglett (Alolan Diglett)	1	2	1	2	1	1	11	12	1	1	Sand Veil	Tangling Hair	Sand Force	255	
+Dugtrio	1	3	2	3	2	2	11	13	2	2	Sand Veil	Arena Trap	Sand Force	50	
+Dugtrio (Alolan Dugtrio)	1	3	2	3	2	2	11	13	2	2	Sand Veil	Tangling Hair	Sand Force	50	
+Meowth	1	2	1	1	1	1	11	12	1	1	Pickup	Technician	Unnerve	255	
+Meowth (Alolan Meowth)	1	2	2	1	1	1	11	12	1	1	Pickup	Technician	Rattled	255	
+Meowth (Galarian Meowth)	2	1	1	2	2	1	12	11	1	2	Pickup	Tough Claws	Unnerve	255	
+Persian	2	3	2	2	2	2	12	13	2	2	Limber	Technician	Unnerve	90	
+Persian (Alolan Persian)	2	3	2	2	2	2	12	13	2	2	Fur Coat	Technician	Rattled	90	
+Psyduck	2	2	2	2	1	2	12	12	2	1	Damp	Cloud Nine	Swift Swim	190	
+Golduck	2	2	2	2	2	2	12	12	2	2	Damp	Cloud Nine	Swift Swim	75	
+Mankey	1	2	1	2	1	1	11	12	1	1	Vital Spirit	Anger Point	Defiant	190	
+Primeape	2	2	2	3	2	2	12	12	2	2	Vital Spirit	Anger Point	Defiant	75	
+Growlithe	2	2	2	2	1	2	12	12	2	1	Intimidate	Flash Fire	Justified	190	
+Growlithe (Hisuian Growlithe)	2	2	2	2	1	2	12	12	2	1	Intimidate	Flash Fire	Rock Head	190	
+Arcanine	2	2	3	3	2	2	12	12	2	2	Intimidate	Flash Fire	Justified	75	
+Arcanine (Hisuian Arcanine)	2	2	2	3	2	2	12	12	2	2	Intimidate	Flash Fire	Rock Head	75	
+Poliwag	1	2	1	2	1	1	11	12	1	1	Water Absorb	Damp	Swift Swim	255	
+Poliwhirl	2	2	2	2	2	2	12	12	2	2	Water Absorb	Damp	Swift Swim	120	
+Poliwrath	2	2	2	2	2	2	12	12	2	2	Water Absorb	Damp	Swift Swim	45	
+Abra	1	2	3	1	1	2	11	12	2	1	Synchronize	Inner Focus	Magic Guard	200	
+Kadabra	1	3	3	1	1	2	11	13	2	1	Synchronize	Inner Focus	Magic Guard	100	
+Alakazam	2	3	3	2	1	2	12	13	2	1	Synchronize	Inner Focus	Magic Guard	50	
+Alakazam (Mega Alakazam)	2	4	4	2	2	3	12	14	3	2	Trace			50	
+Machop	2	1	1	2	2	1	12	11	1	2	Guts	No Guard	Steadfast	180	
+Machoke	2	1	2	3	2	2	12	11	2	2	Guts	No Guard	Steadfast	90	
+Machamp	2	2	2	3	2	2	12	12	2	2	Guts	No Guard	Steadfast	45	
+Bellsprout	2	1	2	2	1	1	12	11	1	1	Chlorophyll		Gluttony	255	
+Weepinbell	2	2	2	2	2	1	12	12	1	2	Chlorophyll		Gluttony	120	
+Victreebel	2	2	3	3	2	2	12	12	2	2	Chlorophyll		Gluttony	45	
+Tentacool	1	2	2	1	1	3	11	12	3	1	Clear Body	Liquid Ooze	Rain Dish	190	
+Tentacruel	2	3	2	2	2	3	12	13	3	2	Clear Body	Liquid Ooze	Rain Dish	60	
+Geodude	1	1	1	2	3	1	11	11	1	3	Rock Head	Sturdy	Sand Veil	255	
+Geodude (Alolan Geodude)	1	1	1	2	3	1	11	11	1	3	Magnet Pull	Sturdy	Galvanize	255	
+Graveler	2	1	1	2	3	1	12	11	1	3	Rock Head	Sturdy	Sand Veil	120	
+Graveler (Alolan Graveler)	2	1	1	2	3	1	12	11	1	3	Magnet Pull	Sturdy	Galvanize	120	
+Golem	2	1	2	3	3	2	12	11	2	3	Rock Head	Sturdy	Sand Veil	45	
+Golem (Alolan Golem)	2	1	2	3	3	2	12	11	2	3	Magnet Pull	Sturdy	Galvanize	45	
+Ponyta	2	2	2	2	2	2	12	12	2	2	Run Away	Flash Fire	Flame Body	190	
+Ponyta (Galarian Ponyta)	2	2	2	2	2	2	12	12	2	2	Run Away	Pastel Veil	Anticipation	190	
+Rapidash	2	3	2	3	2	2	12	13	2	2	Run Away	Flash Fire	Flame Body	60	
+Rapidash (Galarian Rapidash)	2	3	2	3	2	2	12	13	2	2	Run Away	Pastel Veil	Anticipation	60	
+Slowpoke	2	1	1	2	2	1	12	11	1	2	Oblivious	Own Tempo	Regenerator	190	
+Slowpoke (Galarian Slowpoke)	2	1	1	2	2	1	12	11	1	2	Gluttony	Own Tempo	Regenerator	190	
+Slowbro	2	1	3	2	3	2	12	11	2	3	Oblivious	Own Tempo	Regenerator	75	
+Slowbro (Mega Slowbro)	2	1	3	2	4	2	12	11	2	4	Shell Armor			75	
+Slowbro (Galarian Slowbro)	2	1	3	3	2	2	12	11	2	2	Quick Draw	Own Tempo	Regenerator	75	
+Magnemite	1	1	2	1	2	2	11	11	2	2	Magnet Pull	Sturdy	Analytic	190	
+Magneton	2	2	3	2	2	2	12	12	2	2	Magnet Pull	Sturdy	Analytic	60	
+Farfetch'd	2	2	2	2	2	2	12	12	2	2	Keen Eye	Inner Focus	Defiant	45	
+Farfetch'd (Galarian Farfetch'd)	2	2	2	2	2	2	12	12	2	2	Steadfast		Scrappy	45	
+Doduo	1	2	1	2	1	1	11	12	1	1	Run Away	Early Bird	Tangled Feet	190	
+Dodrio	2	3	2	3	2	2	12	13	2	2	Run Away	Early Bird	Tangled Feet	45	
+Seel	2	1	1	1	2	2	12	11	2	2	Thick Fat	Hydration	Ice Body	190	
+Dewgong	2	2	2	2	2	2	12	12	2	2	Thick Fat	Hydration	Ice Body	75	
+Grimer	2	1	1	2	2	2	12	11	2	2	Stench	Sticky Hold	Poison Touch	190	
+Grimer (Alolan Grimer)	2	1	1	2	2	2	12	11	2	2	Poison Touch	Gluttony	Power of Alchemy	190	
+Muk	3	2	2	3	2	3	13	12	3	2	Stench	Sticky Hold	Poison Touch	75	
+Muk (Alolan Muk)	3	2	2	3	2	3	13	12	3	2	Poison Touch	Gluttony	Power of Alchemy	75	
+Shellder	1	1	1	2	3	1	11	11	1	3	Shell Armor	Skill Link	Overcoat	190	
+Cloyster	2	2	2	2	4	1	12	12	1	4	Shell Armor	Skill Link	Overcoat	60	
+Gastly	1	2	3	1	1	1	11	12	1	1	Levitate			190	
+Haunter	1	2	3	2	1	2	11	12	2	1	Levitate			90	
+Gengar	2	3	3	2	2	2	12	13	2	2	Cursed Body			45	
+Gengar (Mega Gengar)	2	3	4	2	2	2	12	13	2	2	Shadow Tag			45	
+Onix	1	2	1	1	4	1	11	12	1	4	Rock Head	Sturdy	Weak Armor	45	
+Drowzee	2	1	1	1	1	2	12	11	2	1	Insomnia	Forewarn	Inner Focus	190	
+Hypno	2	2	2	2	2	3	12	12	3	2	Insomnia	Forewarn	Inner Focus	75	
+Krabby	1	2	1	3	2	1	11	12	1	2	Hyper Cutter	Shell Armor	Sheer Force	225	
+Kingler	2	2	2	3	3	2	12	12	2	3	Hyper Cutter	Shell Armor	Sheer Force	60	
+Voltorb	1	3	2	1	2	2	11	13	2	2	Soundproof	Static	Aftermath	190	
+Voltorb (Hisuian Voltorb)	1	3	2	1	2	2	11	13	2	2	Soundproof	Static	Aftermath	190	
+Electrode	2	4	2	2	2	2	12	14	2	2	Soundproof	Static	Aftermath	60	
+Electrode (Hisuian Electrode)	2	4	2	2	2	2	12	14	2	2	Soundproof	Static	Aftermath	60	
+Exeggcute	2	1	2	1	2	1	12	11	1	2	Chlorophyll		Harvest	90	
+Exeggutor	2	2	3	2	2	2	12	12	2	2	Chlorophyll		Harvest	45	
+Exeggutor (Alolan Exeggutor)	2	1	3	3	2	2	12	11	2	2	Frisk		Harvest	45	
+Cubone	2	1	1	2	2	2	12	11	2	2	Rock Head	Lightning Rod	Battle Armor	190	
+Marowak	2	1	2	2	3	2	12	11	2	3	Rock Head	Lightning Rod	Battle Armor	75	
+Marowak (Alolan Marowak)	2	1	2	2	3	2	12	11	2	3	Cursed Body	Lightning Rod	Rock Head	75	
+Hitmonlee	2	2	1	3	2	3	12	12	3	2	Limber	Reckless	Unburden	45	
+Hitmonchan	2	2	1	3	2	3	12	12	3	2	Keen Eye	Iron Fist	Inner Focus	45	
+Lickitung	2	1	2	2	2	2	12	11	2	2	Own Tempo	Oblivious	Cloud Nine	45	
+Koffing	1	1	2	2	2	1	11	11	1	2	Levitate	Neutralizing Gas	Stench	190	
+Weezing	2	2	2	2	3	2	12	12	2	3	Levitate	Neutralizing Gas	Stench	60	
+Weezing (Galarian Weezing)	2	2	2	2	3	2	12	12	2	3	Levitate	Neutralizing Gas	Misty Surge	60	
+Rhyhorn	2	1	1	2	2	1	12	11	1	2	Lightning Rod	Rock Head	Reckless	120	
+Rhydon	3	1	1	3	3	1	13	11	1	3	Lightning Rod	Rock Head	Reckless	60	
+Chansey	6	2	1	1	1	3	16	12	3	1	Natural Cure	Serene Grace	Healer	30	
+Tangela	2	2	3	2	3	1	12	12	1	3	Chlorophyll	Leaf Guard	Regenerator	45	
+Kangaskhan	3	2	1	2	2	2	13	12	2	2	Early Bird	Scrappy	Inner Focus	45	
+Kangaskhan (Mega Kangaskhan)	3	3	2	3	3	3	13	13	3	3	Parental Bond			45	
+Horsea	1	2	2	1	2	1	11	12	1	2	Swift Swim	Sniper	Damp	225	
+Seadra	2	2	2	2	2	1	12	12	1	2	Poison Point	Sniper	Damp	75	
+Goldeen	1	2	1	2	2	2	11	12	2	2	Swift Swim	Water Veil	Lightning Rod	225	
+Seaking	2	2	2	2	2	2	12	12	2	2	Swift Swim	Water Veil	Lightning Rod	60	
+Staryu	1	2	2	1	2	2	11	12	2	2	Illuminate	Natural Cure	Analytic	225	
+Starmie	2	3	3	2	2	2	12	13	2	2	Illuminate	Natural Cure	Analytic	60	
+Mr. Mime	1	2	3	1	2	3	11	12	3	2	Soundproof	Filter	Technician	45	
+Mr. Mime (Galarian Mr. Mime)	2	3	2	2	2	2	12	13	2	2	Vital Spirit	Screen Cleaner	Ice Body	45	
+Scyther	2	3	2	3	2	2	12	13	2	2	Swarm	Technician	Steadfast	45	
+Jynx	2	2	3	2	1	2	12	12	2	1	Oblivious	Forewarn	Dry Skin	45	
+Electabuzz	2	3	2	2	2	2	12	13	2	2	Static		Vital Spirit	45	
+Magmar	2	2	3	2	2	2	12	12	2	2	Flame Body		Vital Spirit	45	
+Pinsir	2	2	2	3	3	2	12	12	2	3	Hyper Cutter	Mold Breaker	Moxie	45	
+Pinsir (Mega Pinsir)	2	3	2	4	3	2	12	13	2	3	Aerilate			45	
+Tauros	2	3	1	3	2	2	12	13	2	2	Intimidate	Anger Point	Sheer Force	45	
+Tauros (Paldean Tauros (Combat Breed))	2	3	1	3	3	2	12	13	2	3	Intimidate	Anger Point	Cud Chew	45	
+Tauros (Paldean Tauros (Blaze Breed))	2	3	1	3	3	2	12	13	2	3	Intimidate	Anger Point	Cud Chew	45	
+Tauros (Paldean Tauros (Aqua Breed))	2	3	1	3	3	2	12	13	2	3	Intimidate	Anger Point	Cud Chew	45	
+Magikarp	1	2	1	1	2	1	11	12	1	2	Swift Swim		Rattled	255	
+Gyarados	2	2	2	3	2	3	12	12	3	2	Intimidate		Moxie	45	
+Gyarados (Mega Gyarados)	2	2	2	4	3	3	12	12	3	3	Mold Breaker			45	
+Lapras	3	2	2	2	2	2	13	12	2	2	Water Absorb	Shell Armor	Hydration	45	
+Ditto	1	1	1	1	1	1	11	11	1	1	Limber		Imposter	35	
+Eevee	2	2	1	2	2	2	12	12	2	2	Run Away	Adaptability	Anticipation	45	
+Vaporeon	3	2	3	2	2	2	13	12	2	2	Water Absorb		Hydration	45	
+Jolteon	2	3	3	2	2	2	12	13	2	2	Volt Absorb		Quick Feet	45	
+Flareon	2	2	2	3	2	3	12	12	3	2	Flash Fire		Guts	45	
+Porygon	2	1	2	2	2	2	12	11	2	2	Trace	Download	Analytic	45	
+Omanyte	1	1	2	1	3	2	11	11	2	3	Swift Swim	Shell Armor	Weak Armor	45	
+Omastar	2	2	3	2	3	2	12	12	2	3	Swift Swim	Shell Armor	Weak Armor	45	
+Kabuto	1	2	2	2	2	1	11	12	1	2	Swift Swim	Battle Armor	Weak Armor	45	
+Kabutops	2	2	2	3	3	2	12	12	2	3	Swift Swim	Battle Armor	Weak Armor	45	
+Aerodactyl	2	3	2	3	2	2	12	13	2	2	Rock Head	Pressure	Unnerve	45	
+Aerodactyl (Mega Aerodactyl)	2	4	2	3	2	2	12	14	2	2	Tough Claws			45	
+Snorlax	4	1	2	3	2	3	14	11	3	2	Immunity	Thick Fat	Gluttony	25	
+Articuno	2	2	2	2	3	3	12	12	3	3	Pressure		Snow Cloak	3	
+Articuno (Galarian Articuno)	2	2	3	2	2	3	12	12	3	2	Competitive			3	
+Zapdos	2	3	3	2	2	2	12	13	2	2	Pressure		Static	3	
+Zapdos (Galarian Zapdos)	2	3	2	3	2	2	12	13	2	2	Defiant			3	
+Moltres	2	2	3	3	2	2	12	12	2	2	Pressure		Flame Body	3	
+Moltres (Galarian Moltres)	2	2	3	2	2	3	12	12	3	2	Berserk			3	
+Dratini	1	2	2	2	1	2	11	12	2	1	Shed Skin		Marvel Scale	45	
+Dragonair	2	2	2	2	2	2	12	12	2	2	Shed Skin		Marvel Scale	45	
+Dragonite	2	2	3	3	2	3	12	12	3	2	Inner Focus		Multiscale	45	
+Mewtwo	3	3	4	3	2	2	13	13	2	2	Pressure		Unnerve	3	
+Mewtwo (Mega Mewtwo X)	3	3	4	4	3	3	13	13	3	3	Steadfast			3	
+Mewtwo (Mega Mewtwo Y)	3	3	4	4	2	3	13	13	3	2	Insomnia			3	
+Mew	3	3	3	3	3	3	13	13	3	3	Synchronize			45	
+Chikorita	1	1	1	1	2	2	11	11	2	2	Overgrow		Leaf Guard	45	
+Bayleef	2	2	2	2	2	2	12	12	2	2	Overgrow		Leaf Guard	45	
+Meganium	2	2	2	2	3	3	12	12	3	3	Overgrow		Leaf Guard	45	
+Cyndaquil	1	2	2	2	1	2	11	12	2	1	Blaze		Flash Fire	45	
+Quilava	2	2	2	2	2	2	12	12	2	2	Blaze		Flash Fire	45	
+Typhlosion	2	3	3	2	2	2	12	13	2	2	Blaze		Flash Fire	45	
+Typhlosion (Hisuian Typhlosion)	2	2	3	2	2	2	12	12	2	2	Blaze		Frisk	45	
+Totodile	2	1	1	2	2	1	12	11	1	2	Torrent		Sheer Force	45	
+Croconaw	2	2	2	2	2	2	12	12	2	2	Torrent		Sheer Force	45	
+Feraligatr	2	2	2	3	3	2	12	12	2	3	Torrent		Sheer Force	45	
+Sentret	1	1	1	1	1	1	11	11	1	1	Run Away	Keen Eye	Frisk	255	
+Furret	2	2	1	2	2	2	12	12	2	2	Run Away	Keen Eye	Frisk	90	
+Hoothoot	2	2	1	1	1	2	12	12	2	1	Insomnia	Keen Eye	Tinted Lens	255	
+Noctowl	3	2	2	2	2	2	13	12	2	2	Insomnia	Keen Eye	Tinted Lens	90	
+Ledyba	1	2	1	1	1	2	11	12	2	1	Swarm	Early Bird	Rattled	255	
+Ledian	2	2	2	1	2	3	12	12	3	2	Swarm	Early Bird	Iron Fist	90	
+Spinarak	1	1	1	2	1	1	11	11	1	1	Swarm	Insomnia	Sniper	255	
+Ariados	2	1	2	2	2	2	12	11	2	2	Swarm	Insomnia	Sniper	90	
+Crobat	2	3	2	2	2	2	12	13	2	2	Inner Focus		Infiltrator	90	
+Chinchou	2	2	2	1	1	2	12	12	2	1	Volt Absorb	Illuminate	Water Absorb	190	
+Lanturn	3	2	2	2	2	2	13	12	2	2	Volt Absorb	Illuminate	Water Absorb	75	
+Pichu	1	2	1	1	1	1	11	12	1	1	Static		Lightning Rod	190	
+Cleffa	2	1	1	1	1	2	12	11	2	1	Cute Charm	Magic Guard	Friend Guard	150	
+Igglybuff	2	1	1	1	1	1	12	11	1	1	Cute Charm	Competitive	Friend Guard	170	
+Togepi	1	1	1	1	2	2	11	11	2	2	Hustle	Serene Grace	Super Luck	190	
+Togetic	2	1	2	1	2	3	12	11	3	2	Hustle	Serene Grace	Super Luck	75	
+Natu	1	2	2	2	1	1	11	12	1	1	Synchronize	Early Bird	Magic Bounce	190	
+Xatu	2	2	2	2	2	2	12	12	2	2	Synchronize	Early Bird	Magic Bounce	75	
+Mareep	2	1	2	1	1	1	12	11	1	1	Static		Plus	235	
+Flaaffy	2	1	2	2	2	2	12	11	2	2	Static		Plus	120	
+Ampharos	2	2	3	2	2	2	12	12	2	2	Static		Plus	45	
+Ampharos (Mega Ampharos)	2	1	4	2	3	3	12	11	3	3	Mold Breaker			45	
+Bellossom	2	2	2	2	2	3	12	12	3	2	Chlorophyll		Healer	45	
+Marill	2	1	1	1	2	2	12	11	2	2	Thick Fat	Huge Power	Sap Sipper	190	
+Azumarill	3	2	2	2	2	2	13	12	2	2	Thick Fat	Huge Power	Sap Sipper	75	
+Sudowoodo	2	1	1	3	3	2	12	11	2	3	Sturdy	Rock Head	Rattled	65	
+Politoed	2	2	2	2	2	3	12	12	3	2	Water Absorb	Damp	Drizzle	45	
+Hoppip	1	2	1	1	1	2	11	12	2	1	Chlorophyll	Leaf Guard	Infiltrator	255	
+Skiploom	2	2	1	1	2	2	12	12	2	2	Chlorophyll	Leaf Guard	Infiltrator	120	
+Jumpluff	2	3	2	2	2	2	12	13	2	2	Chlorophyll	Leaf Guard	Infiltrator	45	
+Aipom	2	2	1	2	2	2	12	12	2	2	Run Away	Pickup	Skill Link	45	
+Sunkern	1	1	1	1	1	1	11	11	1	1	Chlorophyll	Solar Power	Early Bird	235	
+Sunflora	2	1	3	2	2	2	12	11	2	2	Chlorophyll	Solar Power	Early Bird	120	
+Yanma	2	2	2	2	1	1	12	12	1	1	Speed Boost	Compound Eyes	Frisk	75	
+Wooper	2	1	1	1	1	1	12	11	1	1	Damp	Water Absorb	Unaware	255	
+Wooper (Paldean Wooper)	2	1	1	1	1	1	12	11	1	1	Poison Point	Water Absorb	Unaware	255	
+Quagsire	2	1	2	2	2	2	12	11	2	2	Damp	Water Absorb	Unaware	90	
+Espeon	2	3	3	2	2	2	12	13	2	2	Synchronize		Magic Bounce	45	
+Umbreon	2	2	2	2	3	3	12	12	3	3	Synchronize		Inner Focus	45	
+Murkrow	2	2	2	2	1	1	12	12	1	1	Insomnia	Super Luck	Prankster	30	
+Slowking	2	1	3	2	2	3	12	11	3	2	Oblivious	Own Tempo	Regenerator	70	
+Slowking (Galarian Slowking)	2	1	3	2	2	3	12	11	3	2	Curious Medicine	Own Tempo	Regenerator	70	
+Misdreavus	2	2	2	2	2	2	12	12	2	2	Levitate			45	
+Unown	1	1	2	2	1	1	11	11	1	1	Levitate			225	
+Wobbuffet	4	1	1	1	2	2	14	11	2	2	Shadow Tag		Telepathy	45	
+Girafarig	2	2	2	2	2	2	12	12	2	2	Inner Focus	Early Bird	Sap Sipper	60	
+Pineco	2	1	1	2	2	1	12	11	1	2	Sturdy		Overcoat	190	
+Forretress	2	1	2	2	3	2	12	11	2	3	Sturdy		Overcoat	75	
+Dunsparce	3	1	2	2	2	2	13	11	2	2	Serene Grace	Run Away	Rattled	190	
+Gligar	2	2	1	2	3	2	12	12	2	3	Hyper Cutter	Sand Veil	Immunity	60	
+Steelix	2	1	2	2	5	2	12	11	2	5	Rock Head	Sturdy	Sheer Force	25	
+Steelix (Mega Steelix)	2	1	2	3	5	2	12	11	2	5	Sand Force			25	
+Snubbull	2	1	1	2	2	1	12	11	1	2	Intimidate	Run Away	Rattled	190	
+Granbull	2	1	2	3	2	2	12	11	2	2	Intimidate	Quick Feet	Rattled	75	
+Qwilfish	2	2	2	2	2	2	12	12	2	2	Poison Point	Swift Swim	Intimidate	45	
+Qwilfish (Hisuian Qwilfish)	2	2	2	2	2	2	12	12	2	2	Poison Point	Swift Swim	Intimidate	45	
+Scizor	2	2	2	3	3	2	12	12	2	3	Swarm	Technician	Light Metal	25	
+Scizor (Mega Scizor)	2	2	2	4	3	3	12	12	3	3	Technician			25	
+Shuckle	1	1	1	1	5	5	11	11	5	5	Sturdy	Gluttony	Contrary	190	
+Heracross	2	2	1	3	2	2	12	12	2	2	Swarm	Guts	Moxie	45	
+Heracross (Mega Heracross)	2	2	1	4	3	3	12	12	3	3	Skill Link			45	
+Sneasel	2	3	1	2	2	2	12	13	2	2	Inner Focus	Keen Eye	Pickpocket	60	
+Sneasel (Hisuian Sneasel)	2	3	1	2	2	2	12	13	2	2	Inner Focus	Keen Eye	Pickpocket	60	
+Teddiursa	2	1	2	2	2	2	12	11	2	2	Pickup	Quick Feet	Honey Gather	120	
+Ursaring	2	2	2	3	2	2	12	12	2	2	Guts	Quick Feet	Unnerve	60	
+Slugma	1	1	2	1	1	1	11	11	1	1	Magma Armor	Flame Body	Weak Armor	190	
+Magcargo	2	1	2	2	3	2	12	11	2	3	Magma Armor	Flame Body	Weak Armor	75	
+Swinub	2	2	1	2	1	1	12	12	1	1	Oblivious	Snow Cloak	Thick Fat	225	
+Piloswine	3	2	2	3	2	2	13	12	2	2	Oblivious	Snow Cloak	Thick Fat	75	
+Corsola	2	1	2	2	2	2	12	11	2	2	Hustle	Natural Cure	Regenerator	60	
+Corsola (Galarian Corsola)	2	1	2	2	3	3	12	11	3	3	Weak Armor		Cursed Body	60	
+Remoraid	1	2	2	2	1	1	11	12	1	1	Hustle	Sniper	Moody	190	
+Octillery	2	1	3	3	2	2	12	11	2	2	Suction Cups	Sniper	Moody	75	
+Delibird	1	2	2	2	1	1	11	12	1	1	Vital Spirit	Hustle	Insomnia	45	
+Mantine	2	2	2	1	2	3	12	12	3	2	Swift Swim	Water Absorb	Water Veil	25	
+Skarmory	2	2	1	2	3	2	12	12	2	3	Keen Eye	Sturdy	Weak Armor	25	
+Houndour	1	2	2	2	1	2	11	12	2	1	Early Bird	Flash Fire	Unnerve	120	
+Houndoom	2	2	3	2	2	2	12	12	2	2	Early Bird	Flash Fire	Unnerve	45	
+Houndoom (Mega Houndoom)	2	3	3	2	2	2	12	13	2	2	Solar Power			45	
+Kingdra	2	2	2	2	2	2	12	12	2	2	Swift Swim	Sniper	Damp	45	
+Phanpy	2	1	1	2	2	1	12	11	1	2	Pickup		Sand Veil	120	
+Donphan	2	2	2	3	3	2	12	12	2	3	Sturdy		Sand Veil	60	
+Porygon2	2	2	3	2	2	2	12	12	2	2	Trace	Download	Analytic	45	
+Stantler	2	2	2	2	2	2	12	12	2	2	Intimidate	Frisk	Sap Sipper	45	
+Smeargle	2	2	1	1	1	1	12	12	1	1	Own Tempo	Technician	Moody	45	
+Tyrogue	1	1	1	1	1	1	11	11	1	1	Guts	Steadfast	Vital Spirit	75	
+Hitmontop	2	2	1	2	2	3	12	12	3	2	Intimidate	Technician	Steadfast	45	
+Smoochum	1	2	2	1	1	2	11	12	2	1	Oblivious	Forewarn	Hydration	45	
+Elekid	1	2	2	2	1	2	11	12	2	1	Static		Vital Spirit	45	
+Magby	1	2	2	2	1	2	11	12	2	1	Flame Body		Vital Spirit	45	
+Miltank	2	3	1	2	3	2	12	13	2	3	Thick Fat	Scrappy	Sap Sipper	45	
+Blissey	6	2	2	1	1	3	16	12	3	1	Natural Cure	Serene Grace	Healer	30	
+Raikou	2	3	3	2	2	3	12	13	3	2	Pressure		Inner Focus	3	
+Entei	3	3	2	3	2	2	13	13	2	2	Pressure		Inner Focus	3	
+Suicune	3	2	2	2	3	3	13	12	3	3	Pressure		Inner Focus	3	
+Larvitar	2	1	1	2	2	2	12	11	2	2	Guts		Sand Veil	45	
+Pupitar	2	2	2	2	2	2	12	12	2	2	Shed Skin			45	
+Tyranitar	3	2	2	3	3	3	13	12	3	3	Sand Stream		Unnerve	45	
+Tyranitar (Mega Tyranitar)	3	2	2	4	4	3	13	12	3	4	Sand Stream			45	
+Lugia	3	3	2	2	3	4	13	13	4	3	Pressure		Multiscale	3	
+Ho-Oh	3	2	3	3	2	4	13	12	4	2	Pressure		Regenerator	3	
+Celebi	3	3	3	3	3	3	13	13	3	3	Natural Cure			45	
+Treecko	1	2	2	1	1	2	11	12	2	1	Overgrow		Unburden	45	
+Grovyle	2	2	2	2	1	2	12	12	2	1	Overgrow		Unburden	45	
+Sceptile	2	3	3	2	2	2	12	13	2	2	Overgrow		Unburden	45	
+Sceptile (Mega Sceptile)	2	3	3	3	2	2	12	13	2	2	Lightning Rod			45	
+Torchic	1	1	2	2	1	2	11	11	2	1	Blaze		Speed Boost	45	
+Combusken	2	2	2	2	2	2	12	12	2	2	Blaze		Speed Boost	45	
+Blaziken	2	2	3	3	2	2	12	12	2	2	Blaze		Speed Boost	45	
+Blaziken (Mega Blaziken)	2	3	3	4	2	2	12	13	2	2	Speed Boost			45	
+Mudkip	2	1	2	2	2	2	12	11	2	2	Torrent		Damp	45	
+Marshtomp	2	2	2	2	2	2	12	12	2	2	Torrent		Damp	45	
+Swampert	3	2	2	3	2	2	13	12	2	2	Torrent		Damp	45	
+Swampert (Mega Swampert)	3	2	2	4	3	3	13	12	3	3	Swift Swim			45	
+Poochyena	1	1	1	2	1	1	11	11	1	1	Run Away	Quick Feet	Rattled	255	
+Mightyena	2	2	2	2	2	2	12	12	2	2	Intimidate	Quick Feet	Moxie	127	
+Zigzagoon	1	2	1	1	1	1	11	12	1	1	Pickup	Gluttony	Quick Feet	255	
+Zigzagoon (Galarian Zigzagoon)	1	2	1	1	1	1	11	12	1	1	Pickup	Gluttony	Quick Feet	255	
+Linoone	2	3	2	2	2	2	12	13	2	2	Pickup	Gluttony	Quick Feet	90	
+Linoone (Galarian Linoone)	2	3	2	2	2	2	12	13	2	2	Pickup	Gluttony	Quick Feet	90	
+Wurmple	1	1	1	1	1	1	11	11	1	1	Shield Dust		Run Away	255	
+Silcoon	2	1	1	1	2	1	12	11	1	2	Shed Skin			120	
+Beautifly	2	2	3	2	2	2	12	12	2	2	Swarm		Rivalry	45	
+Cascoon	2	1	1	1	2	1	12	11	1	2	Shed Skin			120	
+Dustox	2	2	2	2	2	2	12	12	2	2	Shield Dust		Compound Eyes	45	
+Lotad	1	1	1	1	1	2	11	11	2	1	Swift Swim	Rain Dish	Own Tempo	255	
+Lombre	2	2	2	2	2	2	12	12	2	2	Swift Swim	Rain Dish	Own Tempo	120	
+Ludicolo	2	2	2	2	2	3	12	12	3	2	Swift Swim	Rain Dish	Own Tempo	45	
+Seedot	1	1	1	1	2	1	11	11	1	2	Chlorophyll	Early Bird	Pickpocket	255	
+Nuzleaf	2	2	2	2	1	1	12	12	1	1	Chlorophyll	Early Bird	Pickpocket	120	
+Shiftry	2	2	2	3	2	2	12	12	2	2	Chlorophyll	Early Bird	Pickpocket	45	
+Taillow	1	2	1	2	1	1	11	12	1	1	Guts		Scrappy	200	
+Swellow	2	3	2	2	2	2	12	13	2	2	Guts		Scrappy	45	
+Wingull	1	2	2	1	1	1	11	12	1	1	Keen Eye	Hydration	Rain Dish	190	
+Pelipper	2	2	2	2	3	2	12	12	2	3	Keen Eye	Drizzle	Rain Dish	45	
+Ralts	1	1	1	1	1	1	11	11	1	1	Synchronize	Trace	Telepathy	235	
+Kirlia	1	2	2	1	1	2	11	12	2	1	Synchronize	Trace	Telepathy	120	
+Gardevoir	2	2	3	2	2	3	12	12	3	2	Synchronize	Trace	Telepathy	45	
+Gardevoir (Mega Gardevoir)	2	3	4	2	2	3	12	13	3	2	Pixilate			45	
+Surskit	1	2	2	1	1	2	11	12	2	1	Swift Swim		Rain Dish	200	
+Masquerain	2	2	3	2	2	2	12	12	2	2	Intimidate		Unnerve	75	
+Shroomish	2	1	1	1	2	2	12	11	2	2	Effect Spore	Poison Heal	Quick Feet	255	
+Breloom	2	2	2	3	2	2	12	12	2	2	Effect Spore	Poison Heal	Technician	90	
+Slakoth	2	1	1	2	2	1	12	11	1	2	Truant			255	
+Vigoroth	2	2	2	2	2	2	12	12	2	2	Vital Spirit			120	
+Slaking	4	3	2	4	3	2	14	13	2	3	Truant			45	
+Nincada	1	1	1	1	2	1	11	11	1	2	Compound Eyes		Run Away	255	
+Ninjask	2	4	2	2	1	2	12	14	2	1	Speed Boost		Infiltrator	120	
+Shedinja	1	1	1	2	1	1	11	11	1	1	Wonder Guard			45	
+Whismur	2	1	2	2	1	1	12	11	1	1	Soundproof		Rattled	190	
+Loudred	2	1	2	2	1	1	12	11	1	1	Soundproof		Scrappy	120	
+Exploud	3	2	2	2	2	2	13	12	2	2	Soundproof		Scrappy	45	
+Makuhita	2	1	1	2	1	1	12	11	1	1	Thick Fat	Guts	Sheer Force	180	
+Hariyama	3	2	1	3	2	2	13	12	2	2	Thick Fat	Guts	Sheer Force	200	
+Azurill	2	1	1	1	1	1	12	11	1	1	Thick Fat	Huge Power	Sap Sipper	150	
+Nosepass	1	1	1	1	3	2	11	11	2	3	Sturdy	Magnet Pull	Sand Force	255	
+Skitty	2	2	1	1	1	1	12	12	1	1	Cute Charm	Normalize	Wonder Skin	255	
+Delcatty	2	2	2	2	2	2	12	12	2	2	Cute Charm	Normalize	Wonder Skin	60	
+Sableye	2	2	2	2	2	2	12	12	2	2	Keen Eye	Stall	Prankster	45	
+Sableye (Mega Sableye)	2	1	2	2	3	3	12	11	3	3	Magic Bounce			45	
+Mawile	2	2	2	2	2	2	12	12	2	2	Hyper Cutter	Intimidate	Sheer Force	45	
+Mawile (Mega Mawile)	2	2	2	3	3	2	12	12	2	3	Huge Power			45	
+Aron	2	1	1	2	3	1	12	11	1	3	Sturdy	Rock Head	Heavy Metal	180	
+Lairon	2	1	2	2	3	2	12	11	2	3	Sturdy	Rock Head	Heavy Metal	90	
+Aggron	2	2	2	3	4	2	12	12	2	4	Sturdy	Rock Head	Heavy Metal	45	
+Aggron (Mega Aggron)	2	2	2	3	5	2	12	12	2	5	Filter			45	
+Meditite	1	2	1	1	2	2	11	12	2	2	Pure Power		Telepathy	180	
+Medicham	2	2	2	2	2	2	12	12	2	2	Pure Power		Telepathy	90	
+Medicham (Mega Medicham)	2	3	2	3	2	2	12	13	2	2	Pure Power			45	
+Electrike	1	2	2	1	1	1	11	12	1	1	Static	Lightning Rod	Minus	120	
+Manectric	2	3	3	2	2	2	12	13	2	2	Static	Lightning Rod	Minus	45	
+Manectric (Mega Manectric)	2	3	3	2	2	2	12	13	2	2	Intimidate			45	
+Plusle	2	2	2	2	1	2	12	12	2	1	Plus		Lightning Rod	200	
+Minun	2	2	2	1	2	2	12	12	2	2	Minus		Volt Absorb	200	
+Volbeat	2	2	1	2	2	2	12	12	2	2	Illuminate	Swarm	Prankster	150	
+Illumise	2	2	2	1	2	2	12	12	2	2	Oblivious	Tinted Lens	Prankster	150	
+Roselia	2	2	3	2	1	2	12	12	2	1	Natural Cure	Poison Point	Leaf Guard	150	
+Gulpin	2	1	1	1	2	2	12	11	2	2	Liquid Ooze	Sticky Hold	Gluttony	225	
+Swalot	3	2	2	2	2	2	13	12	2	2	Liquid Ooze	Sticky Hold	Gluttony	75	
+Carvanha	1	2	2	2	1	1	11	12	1	1	Rough Skin		Speed Boost	225	
+Sharpedo	2	2	2	3	1	1	12	12	1	1	Rough Skin		Speed Boost	60	
+Sharpedo (Mega Sharpedo)	2	3	3	3	2	2	12	13	2	2	Strong Jaw			60	
+Wailmer	3	2	2	2	1	1	13	12	1	1	Water Veil	Oblivious	Pressure	125	
+Wailord	4	2	2	2	1	1	14	12	1	1	Water Veil	Oblivious	Pressure	60	
+Numel	2	1	2	2	1	1	12	11	1	1	Oblivious	Simple	Own Tempo	255	
+Camerupt	2	1	3	3	2	2	12	11	2	2	Magma Armor	Solid Rock	Anger Point	150	
+Camerupt (Mega Camerupt)	2	1	3	3	3	3	12	11	3	3	Sheer Force			150	
+Torkoal	2	1	2	2	3	2	12	11	2	3	White Smoke	Drought	Shell Armor	90	
+Spoink	2	2	2	1	1	2	12	12	2	1	Thick Fat	Own Tempo	Gluttony	255	
+Grumpig	2	2	2	1	2	3	12	12	3	2	Thick Fat	Own Tempo	Gluttony	60	
+Spinda	2	2	2	2	2	2	12	12	2	2	Own Tempo	Tangled Feet	Contrary	255	
+Trapinch	1	1	1	3	1	1	11	11	1	1	Hyper Cutter	Arena Trap	Sheer Force	255	
+Vibrava	2	2	2	2	2	2	12	12	2	2	Levitate			120	
+Flygon	2	3	2	3	2	2	12	13	2	2	Levitate			45	
+Cacnea	2	1	2	2	1	1	12	11	1	1	Sand Veil		Water Absorb	190	
+Cacturne	2	2	3	3	2	2	12	12	2	2	Sand Veil		Water Absorb	60	
+Swablu	1	2	1	1	2	2	11	12	2	2	Natural Cure		Cloud Nine	255	
+Altaria	2	2	2	2	2	3	12	12	3	2	Natural Cure		Cloud Nine	45	
+Altaria (Mega Altaria)	2	2	3	3	3	3	12	12	3	3	Pixilate			45	
+Zangoose	2	2	2	3	2	2	12	12	2	2	Immunity		Toxic Boost	90	
+Seviper	2	2	3	3	2	2	12	12	2	2	Shed Skin		Infiltrator	90	
+Lunatone	2	2	2	2	2	2	12	12	2	2	Levitate			45	
+Solrock	2	2	2	2	2	2	12	12	2	2	Levitate			45	
+Barboach	2	2	1	1	1	1	12	12	1	1	Oblivious	Anticipation	Hydration	190	
+Whiscash	3	2	2	2	2	2	13	12	2	2	Oblivious	Anticipation	Hydration	75	
+Corphish	1	1	2	2	2	1	11	11	1	2	Hyper Cutter	Shell Armor	Adaptability	205	
+Crawdaunt	2	2	2	3	2	2	12	12	2	2	Hyper Cutter	Shell Armor	Adaptability	155	
+Baltoy	1	2	1	1	2	2	11	12	2	2	Levitate			255	
+Claydol	2	2	2	2	3	3	12	12	3	3	Levitate			90	
+Lileep	2	1	2	1	2	2	12	11	2	2	Suction Cups		Storm Drain	45	
+Cradily	2	1	2	2	2	3	12	11	3	2	Suction Cups		Storm Drain	45	
+Anorith	1	2	1	2	2	2	11	12	2	2	Battle Armor		Swift Swim	45	
+Armaldo	2	1	2	3	3	2	12	11	2	3	Battle Armor		Swift Swim	45	
+Feebas	1	2	1	1	1	2	11	12	2	1	Swift Swim	Oblivious	Adaptability	255	
+Milotic	2	2	3	2	2	3	12	12	3	2	Marvel Scale	Competitive	Cute Charm	60	
+Castform	2	2	2	2	2	2	12	12	2	2	Forecast			45	
+Kecleon	2	1	2	2	2	3	12	11	3	2	Color Change		Protean	200	
+Shuppet	1	1	2	2	1	1	11	11	1	1	Insomnia	Frisk	Cursed Body	225	
+Banette	2	2	2	3	2	2	12	12	2	2	Insomnia	Frisk	Cursed Body	45	
+Banette (Mega Banette)	2	2	2	4	2	2	12	12	2	2	Prankster			45	
+Duskull	1	1	1	1	2	2	11	11	2	2	Levitate		Frisk	190	
+Dusclops	1	1	2	2	3	3	11	11	3	3	Pressure		Frisk	90	
+Tropius	2	2	2	2	2	2	12	12	2	2	Chlorophyll	Solar Power	Harvest	200	
+Chimecho	2	2	2	2	2	2	12	12	2	2	Levitate			45	
+Absol	2	2	2	3	2	2	12	12	2	2	Pressure	Super Luck	Justified	30	
+Absol (Mega Absol)	2	3	3	4	2	2	12	13	2	2	Magic Bounce			30	
+Wynaut	2	1	1	1	1	1	12	11	1	1	Shadow Tag		Telepathy	125	
+Snorunt	2	2	2	2	2	2	12	12	2	2	Inner Focus	Ice Body	Moody	190	
+Glalie	2	2	2	2	2	2	12	12	2	2	Inner Focus	Ice Body	Moody	75	
+Glalie (Mega Glalie)	2	3	3	3	2	2	12	13	2	2	Refrigerate			75	
+Spheal	2	1	2	1	2	2	12	11	2	2	Thick Fat	Ice Body	Oblivious	255	
+Sealeo	2	1	2	2	2	2	12	11	2	2	Thick Fat	Ice Body	Oblivious	120	
+Walrein	3	2	2	2	2	2	13	12	2	2	Thick Fat	Ice Body	Oblivious	45	
+Clamperl	1	1	2	2	2	2	11	11	2	2	Shell Armor		Rattled	255	
+Huntail	2	2	2	3	3	2	12	12	2	3	Swift Swim		Water Veil	60	
+Gorebyss	2	2	3	2	3	2	12	12	2	3	Swift Swim		Hydration	60	
+Relicanth	3	2	1	2	3	2	13	12	2	3	Swift Swim	Rock Head	Sturdy	25	
+Luvdisc	1	2	1	1	2	2	11	12	2	2	Swift Swim		Hydration	225	
+Bagon	1	2	1	2	2	1	11	12	1	2	Rock Head		Sheer Force	45	
+Shelgon	2	2	2	2	3	2	12	12	2	3	Rock Head		Overcoat	45	
+Salamence	2	3	3	3	2	2	12	13	2	2	Intimidate		Moxie	45	
+Salamence (Mega Salamence)	2	3	3	3	3	2	12	13	2	3	Aerilate			45	
+Beldum	1	1	1	2	2	2	11	11	2	2	Clear Body		Light Metal	3	
+Metang	2	2	2	2	3	2	12	12	2	3	Clear Body		Light Metal	3	
+Metagross	2	2	2	3	3	2	12	12	2	3	Clear Body		Light Metal	3	
+Metagross (Mega Metagross)	2	3	3	3	4	3	12	13	3	4	Tough Claws			3	
+Regirock	2	2	2	3	5	3	12	12	3	5	Clear Body		Sturdy	3	
+Regice	2	2	3	2	3	5	12	12	5	3	Clear Body		Ice Body	3	
+Registeel	2	2	2	2	4	4	12	12	4	4	Clear Body		Light Metal	3	
+Latias	2	3	3	2	2	3	12	13	3	2	Levitate			3	
+Latias (Mega Latias)	2	3	3	3	3	4	12	13	4	3	Levitate			3	
+Latios	2	3	3	2	2	3	12	13	3	2	Levitate			3	
+Latios (Mega Latios)	2	3	4	3	3	3	12	13	3	3	Levitate			3	
+Kyogre	3	2	4	3	2	3	13	12	3	2	Drizzle			3	
+Kyogre (Primal Kyogre)	3	2	4	4	2	4	13	12	4	2	Primordial Sea			3	
+Groudon	3	2	3	4	3	2	13	12	2	3	Drought			3	
+Groudon (Primal Groudon)	3	2	4	4	4	2	13	12	2	4	Desolate Land			3	
+Rayquaza	3	2	4	4	2	2	13	12	2	2	Air Lock			45	
+Rayquaza (Mega Rayquaza)	3	3	4	4	3	3	13	13	3	3	Delta Stream			3	
+Jirachi	3	3	3	3	3	3	13	13	3	3	Serene Grace			3	
+Deoxys (Normal Forme)	2	4	4	4	2	2	12	14	2	2	Pressure			3	
+Deoxys (Attack Forme)	2	4	4	4	1	1	12	14	1	1	Pressure			3	
+Deoxys (Defense Forme)	2	2	2	2	4	4	12	12	4	4	Pressure			3	
+Deoxys (Speed Forme)	2	4	2	2	2	2	12	14	2	2	Pressure			3	
+Turtwig	2	1	1	2	2	2	12	11	2	2	Overgrow		Shell Armor	45	
+Grotle	2	1	2	2	2	2	12	11	2	2	Overgrow		Shell Armor	45	
+Torterra	2	2	2	3	3	2	12	12	2	3	Overgrow		Shell Armor	45	
+Chimchar	1	2	2	2	1	1	11	12	1	1	Blaze		Iron Fist	45	
+Monferno	2	2	2	2	2	2	12	12	2	2	Blaze		Iron Fist	45	
+Infernape	2	3	3	3	2	2	12	13	2	2	Blaze		Iron Fist	45	
+Piplup	2	1	2	2	2	2	12	11	2	2	Torrent		Defiant	45	
+Prinplup	2	2	2	2	2	2	12	12	2	2	Torrent		Defiant	45	
+Empoleon	2	2	3	2	2	3	12	12	3	2	Torrent		Defiant	45	
+Starly	1	2	1	2	1	1	11	12	1	1	Keen Eye		Reckless	255	
+Staravia	2	2	1	2	2	1	12	12	1	2	Intimidate		Reckless	120	
+Staraptor	2	3	2	3	2	2	12	13	2	2	Intimidate		Reckless	45	
+Bidoof	2	1	1	1	1	1	12	11	1	1	Simple	Unaware	Moody	255	
+Bibarel	2	2	2	2	2	2	12	12	2	2	Simple	Unaware	Moody	127	
+Kricketot	1	1	1	1	1	1	11	11	1	1	Shed Skin		Run Away	255	
+Kricketune	2	2	2	2	2	2	12	12	2	2	Swarm		Technician	45	
+Shinx	1	1	1	2	1	1	11	11	1	1	Rivalry	Intimidate	Guts	235	
+Luxio	2	2	2	2	1	1	12	12	1	1	Rivalry	Intimidate	Guts	120	
+Luxray	2	2	2	3	2	2	12	12	2	2	Rivalry	Intimidate	Guts	45	
+Budew	1	2	2	1	1	2	11	12	2	1	Natural Cure	Poison Point	Leaf Guard	255	
+Roserade	2	2	3	2	2	3	12	12	3	2	Natural Cure	Poison Point	Technician	75	
+Cranidos	2	2	1	3	1	1	12	12	1	1	Mold Breaker		Sheer Force	45	
+Rampardos	2	2	2	4	2	2	12	12	2	2	Mold Breaker		Sheer Force	45	
+Shieldon	1	1	1	1	3	2	11	11	2	3	Sturdy		Soundproof	45	
+Bastiodon	2	1	1	2	4	3	12	11	3	4	Sturdy		Soundproof	45	
+Burmy	1	1	1	1	1	1	11	11	1	1	Shed Skin		Overcoat	120	
+Wormadam (Plant Cloak)	2	1	2	2	2	3	12	11	3	2	Anticipation		Overcoat	45	
+Wormadam (Sandy Cloak)	2	1	2	2	3	2	12	11	2	3	Anticipation		Overcoat	45	
+Wormadam (Trash Cloak)	2	1	2	2	2	2	12	11	2	2	Anticipation		Overcoat	45	
+Mothim	2	2	2	2	2	2	12	12	2	2	Swarm		Tinted Lens	45	
+Combee	1	2	1	1	1	1	11	12	1	1	Honey Gather		Hustle	120	
+Vespiquen	2	1	2	2	3	3	12	11	3	3	Pressure		Unnerve	45	
+Pachirisu	2	2	1	1	2	2	12	12	2	2	Run Away	Pickup	Volt Absorb	200	
+Buizel	2	2	2	2	1	1	12	12	1	1	Swift Swim		Water Veil	190	
+Floatzel	2	3	2	3	2	2	12	13	2	2	Swift Swim		Water Veil	75	
+Cherubi	1	1	2	1	1	2	11	11	2	1	Chlorophyll			190	
+Cherrim	2	2	2	2	2	2	12	12	2	2	Flower Gift			75	
+Shellos	2	1	2	1	1	2	12	11	2	1	Sticky Hold	Storm Drain	Sand Force	190	
+Gastrodon	3	1	2	2	2	2	13	11	2	2	Sticky Hold	Storm Drain	Sand Force	75	
+Ambipom	2	3	2	3	2	2	12	13	2	2	Technician	Pickup	Skill Link	45	
+Drifloon	2	2	2	2	1	1	12	12	1	1	Aftermath	Unburden	Flare Boost	125	
+Drifblim	4	2	2	2	1	2	14	12	2	1	Aftermath	Unburden	Flare Boost	60	
+Buneary	2	2	1	2	1	2	12	12	2	1	Run Away	Klutz	Limber	190	
+Lopunny	2	3	2	2	2	2	12	13	2	2	Cute Charm	Klutz	Limber	60	
+Lopunny (Mega Lopunny)	2	3	2	3	2	2	12	13	2	2	Scrappy			60	
+Mismagius	2	3	3	2	2	3	12	13	3	2	Levitate			45	
+Honchkrow	3	2	3	3	2	2	13	12	2	2	Insomnia	Super Luck	Moxie	30	
+Glameow	1	2	1	2	1	1	11	12	1	1	Limber	Own Tempo	Keen Eye	190	
+Purugly	2	3	2	2	2	2	12	13	2	2	Thick Fat	Own Tempo	Defiant	75	
+Chingling	1	1	2	1	2	2	11	11	2	2	Levitate			120	
+Stunky	2	2	1	2	1	1	12	12	1	1	Stench	Aftermath	Keen Eye	225	
+Skuntank	3	2	2	2	2	2	13	12	2	2	Stench	Aftermath	Keen Eye	60	
+Bronzor	2	1	1	1	2	2	12	11	2	2	Levitate	Heatproof	Heavy Metal	255	
+Bronzong	2	1	2	2	3	3	12	11	3	3	Levitate	Heatproof	Heavy Metal	90	
+Bonsly	2	1	1	2	2	1	12	11	1	2	Sturdy	Rock Head	Rattled	255	
+Mime Jr.	1	2	2	1	1	2	11	12	2	1	Soundproof	Filter	Technician	145	
+Happiny	3	1	1	1	1	2	13	11	2	1	Natural Cure	Serene Grace	Friend Guard	130	
+Chatot	2	2	2	2	1	1	12	12	1	1	Keen Eye	Tangled Feet	Big Pecks	30	
+Spiritomb	2	1	2	2	3	3	12	11	3	3	Pressure		Infiltrator	100	
+Gible	2	1	1	2	1	1	12	11	1	1	Sand Veil		Rough Skin	45	
+Gabite	2	2	2	2	2	2	12	12	2	2	Sand Veil		Rough Skin	45	
+Garchomp	3	3	2	3	2	2	13	13	2	2	Sand Veil		Rough Skin	45	
+Garchomp (Mega Garchomp)	3	2	3	4	3	2	13	12	2	3	Sand Force			45	
+Munchlax	3	1	1	2	1	2	13	11	2	1	Pickup	Thick Fat	Gluttony	50	
+Riolu	1	2	1	2	1	1	11	12	1	1	Steadfast	Inner Focus	Prankster	75	
+Lucario	2	2	3	3	2	2	12	12	2	2	Steadfast	Inner Focus	Justified	45	
+Lucario (Mega Lucario)	2	3	3	3	2	2	12	13	2	2	Adaptability			45	
+Hippopotas	2	1	1	2	2	1	12	11	1	2	Sand Stream		Sand Force	140	
+Hippowdon	3	1	2	3	3	2	13	11	2	3	Sand Stream		Sand Force	60	
+Skorupi	1	2	1	2	2	2	11	12	2	2	Battle Armor	Sniper	Keen Eye	120	
+Drapion	2	2	2	2	3	2	12	12	2	3	Battle Armor	Sniper	Keen Eye	45	
+Croagunk	1	2	2	2	1	1	11	12	1	1	Anticipation	Dry Skin	Poison Touch	140	
+Toxicroak	2	2	2	3	2	2	12	12	2	2	Anticipation	Dry Skin	Poison Touch	75	
+Carnivine	2	1	2	3	2	2	12	11	2	2	Levitate			200	
+Finneon	1	2	1	1	2	2	11	12	2	2	Swift Swim	Storm Drain	Water Veil	190	
+Lumineon	2	2	2	2	2	2	12	12	2	2	Swift Swim	Storm Drain	Water Veil	75	
+Mantyke	1	2	2	1	2	3	11	12	3	2	Swift Swim	Water Absorb	Water Veil	25	
+Snover	2	1	2	2	2	2	12	11	2	2	Snow Warning		Soundproof	120	
+Abomasnow	2	2	2	2	2	2	12	12	2	2	Snow Warning		Soundproof	60	
+Abomasnow (Mega Abomasnow)	2	1	3	3	3	3	12	11	3	3	Snow Warning			60	
+Weavile	2	3	1	3	2	2	12	13	2	2	Pressure		Pickpocket	45	
+Magnezone	2	2	3	2	3	2	12	12	2	3	Magnet Pull	Sturdy	Analytic	30	
+Lickilicky	3	2	2	2	2	2	13	12	2	2	Own Tempo	Oblivious	Cloud Nine	30	
+Rhyperior	3	1	2	3	3	2	13	11	2	3	Lightning Rod	Solid Rock	Reckless	30	
+Tangrowth	3	2	3	3	3	2	13	12	2	3	Chlorophyll	Leaf Guard	Regenerator	30	
+Electivire	2	2	2	3	2	2	12	12	2	2	Motor Drive		Vital Spirit	30	
+Magmortar	2	2	3	2	2	2	12	12	2	2	Flame Body		Vital Spirit	30	
+Togekiss	2	2	3	2	2	3	12	12	3	2	Hustle	Serene Grace	Super Luck	30	
+Yanmega	2	2	3	2	2	2	12	12	2	2	Speed Boost	Tinted Lens	Frisk	30	
+Leafeon	2	2	2	3	3	2	12	12	2	3	Leaf Guard		Chlorophyll	45	
+Glaceon	2	2	3	2	3	2	12	12	2	3	Snow Cloak		Ice Body	45	
+Gliscor	2	2	1	2	3	2	12	12	2	3	Hyper Cutter	Sand Veil	Poison Heal	30	
+Mamoswine	3	2	2	3	2	2	13	12	2	2	Oblivious	Snow Cloak	Thick Fat	50	
+Porygon-Z	2	2	3	2	2	2	12	12	2	2	Adaptability	Download	Analytic	30	
+Gallade	2	2	2	3	2	3	12	12	3	2	Steadfast	Sharpness	Justified	45	
+Gallade (Mega Gallade)	2	3	2	4	2	3	12	13	3	2	Inner Focus			45	
+Probopass	2	1	2	2	3	4	12	11	4	3	Sturdy	Magnet Pull	Sand Force	60	
+Dusknoir	1	1	2	3	3	3	11	11	3	3	Pressure		Frisk	45	
+Froslass	2	3	2	2	2	2	12	13	2	2	Snow Cloak		Cursed Body	75	
+Rotom	2	2	2	2	2	2	12	12	2	2	Levitate			45	
+Rotom (Heat Rotom)	2	2	3	2	3	3	12	12	3	3	Levitate			45	
+Rotom (Wash Rotom)	2	2	3	2	3	3	12	12	3	3	Levitate			45	
+Rotom (Frost Rotom)	2	2	3	2	3	3	12	12	3	3	Levitate			45	
+Rotom (Fan Rotom)	2	2	3	2	3	3	12	12	3	3	Levitate			45	
+Rotom (Mow Rotom)	2	2	3	2	3	3	12	12	3	3	Levitate			45	
+Uxie	2	2	2	2	3	3	12	12	3	3	Levitate			3	
+Mesprit	2	2	3	3	3	3	12	12	3	3	Levitate			3	
+Azelf	2	3	3	3	2	2	12	13	2	2	Levitate			3	
+Dialga	3	2	4	3	3	3	13	12	3	3	Pressure		Telepathy	3	
+Dialga (Origin Forme)	3	2	4	3	3	3	13	12	3	3	Pressure		Telepathy	3	
+Palkia	2	3	4	3	3	3	12	13	3	3	Pressure		Telepathy	3	
+Palkia (Origin Forme)	2	3	4	3	3	3	12	13	3	3	Pressure		Telepathy	3	
+Heatran	2	2	3	2	3	3	12	12	3	3	Flash Fire		Flame Body	3	
+Regigigas	3	3	2	4	3	3	13	13	3	3	Slow Start			3	
+Giratina (Altered Forme)	4	2	3	3	3	3	14	12	3	3	Pressure		Telepathy	3	
+Giratina (Origin Forme)	4	2	3	3	3	3	14	12	3	3	Levitate			3	
+Cresselia	3	2	2	2	3	3	13	12	3	3	Levitate			3	
+Phione	2	2	2	2	2	2	12	12	2	2	Hydration			30	
+Manaphy	3	3	3	3	3	3	13	13	3	3	Hydration			3	
+Darkrai	2	3	3	2	2	2	12	13	2	2	Bad Dreams			3	
+Shaymin (Land Forme)	3	3	3	3	3	3	13	13	3	3	Natural Cure			3	
+Shaymin (Sky Forme)	3	3	3	3	2	2	13	13	2	2	Serene Grace			3	
+Arceus	3	3	3	3	3	3	13	13	3	3	Multitype			3	
+Victini	3	3	3	3	3	3	13	13	3	3	Victory Star			3	
+Snivy	1	2	1	1	2	2	11	12	2	2	Overgrow		Contrary	45	
+Servine	2	2	2	2	2	2	12	12	2	2	Overgrow		Contrary	45	
+Serperior	2	3	2	2	2	2	12	13	2	2	Overgrow		Contrary	45	
+Tepig	2	1	1	2	1	1	12	11	1	1	Blaze		Thick Fat	45	
+Pignite	2	2	2	2	2	2	12	12	2	2	Blaze		Thick Fat	45	
+Emboar	3	2	3	3	2	2	13	12	2	2	Blaze		Reckless	45	
+Oshawott	2	1	2	2	1	1	12	11	1	1	Torrent		Shell Armor	45	
+Dewott	2	2	2	2	2	2	12	12	2	2	Torrent		Shell Armor	45	
+Samurott	2	2	3	3	2	2	12	12	2	2	Torrent		Shell Armor	45	
+Samurott (Hisuian Samurott)	2	2	3	3	2	2	12	12	2	2	Torrent		Sharpness	45	
+Patrat	1	1	1	2	1	1	11	11	1	1	Run Away	Keen Eye	Analytic	255	
+Watchog	2	2	2	2	2	2	12	12	2	2	Illuminate	Keen Eye	Analytic	255	
+Lillipup	1	2	1	2	1	1	11	12	1	1	Vital Spirit	Pickup	Run Away	255	
+Herdier	2	2	1	2	2	2	12	12	2	2	Intimidate	Sand Rush	Scrappy	120	
+Stoutland	2	2	1	3	2	2	12	12	2	2	Intimidate	Sand Rush	Scrappy	45	
+Purrloin	1	2	2	2	1	1	11	12	1	1	Limber	Unburden	Prankster	255	
+Liepard	2	3	2	2	2	2	12	13	2	2	Limber	Unburden	Prankster	90	
+Pansage	2	2	2	2	1	1	12	12	1	1	Gluttony		Overgrow	190	
+Simisage	2	3	2	2	2	2	12	13	2	2	Gluttony		Overgrow	75	
+Pansear	2	2	2	2	1	1	12	12	1	1	Gluttony		Blaze	190	
+Simisear	2	3	2	2	2	2	12	13	2	2	Gluttony		Blaze	75	
+Panpour	2	2	2	2	1	1	12	12	1	1	Gluttony		Torrent	190	
+Simipour	2	3	2	2	2	2	12	13	2	2	Gluttony		Torrent	75	
+Munna	2	1	2	1	1	2	12	11	2	1	Forewarn	Synchronize	Telepathy	190	
+Musharna	3	1	3	2	2	2	13	11	2	2	Forewarn	Synchronize	Telepathy	75	
+Pidove	2	1	1	2	2	1	12	11	1	2	Big Pecks	Super Luck	Rivalry	255	
+Tranquill	2	2	2	2	2	1	12	12	1	2	Big Pecks	Super Luck	Rivalry	120	
+Unfezant	2	2	2	3	2	2	12	12	2	2	Big Pecks	Super Luck	Rivalry	45	
+Blitzle	1	2	2	2	1	1	11	12	1	1	Lightning Rod	Motor Drive	Sap Sipper	190	
+Zebstrika	2	3	2	3	2	2	12	13	2	2	Lightning Rod	Motor Drive	Sap Sipper	75	
+Roggenrola	2	1	1	2	2	1	12	11	1	2	Sturdy	Weak Armor	Sand Force	255	
+Boldore	2	1	2	3	3	1	12	11	1	3	Sturdy	Weak Armor	Sand Force	120	
+Gigalith	2	1	2	3	3	2	12	11	2	3	Sturdy	Sand Stream	Sand Force	45	
+Woobat	2	2	2	1	1	1	12	12	1	1	Unaware	Klutz	Simple	190	
+Swoobat	2	3	2	2	2	2	12	13	2	2	Unaware	Klutz	Simple	45	
+Drilbur	2	2	1	2	1	1	12	12	1	1	Sand Rush	Sand Force	Mold Breaker	120	
+Excadrill	3	2	2	3	2	2	13	12	2	2	Sand Rush	Sand Force	Mold Breaker	60	
+Audino	3	2	2	2	2	2	13	12	2	2	Healer	Regenerator	Klutz	255	
+Audino (Mega Audino)	3	2	2	2	3	3	13	12	3	3	Healer			255	
+Timburr	2	1	1	2	2	1	12	11	1	2	Guts	Sheer Force	Iron Fist	180	
+Gurdurr	2	1	1	3	2	2	12	11	2	2	Guts	Sheer Force	Iron Fist	90	
+Conkeldurr	3	1	2	3	2	2	13	11	2	2	Guts	Sheer Force	Iron Fist	45	
+Tympole	2	2	2	2	1	1	12	12	1	1	Swift Swim	Hydration	Water Absorb	255	
+Palpitoad	2	2	2	2	2	2	12	12	2	2	Swift Swim	Hydration	Water Absorb	120	
+Seismitoad	3	2	2	2	2	2	13	12	2	2	Swift Swim	Poison Touch	Water Absorb	45	
+Throh	3	1	1	3	2	2	13	11	2	2	Guts	Inner Focus	Mold Breaker	45	
+Sawk	2	2	1	3	2	2	12	12	2	2	Sturdy	Inner Focus	Mold Breaker	45	
+Sewaddle	1	1	1	2	2	2	11	11	2	2	Swarm	Chlorophyll	Overcoat	255	
+Swadloon	2	1	2	2	2	2	12	11	2	2	Leaf Guard	Chlorophyll	Overcoat	120	
+Leavanny	2	2	2	3	2	2	12	12	2	2	Swarm	Chlorophyll	Overcoat	45	
+Venipede	1	2	1	1	2	1	11	12	1	2	Poison Point	Swarm	Speed Boost	255	
+Whirlipede	1	1	1	2	2	2	11	11	2	2	Poison Point	Swarm	Speed Boost	120	
+Scolipede	2	3	2	3	2	2	12	13	2	2	Poison Point	Swarm	Speed Boost	45	
+Cottonee	1	2	1	1	2	2	11	12	2	2	Prankster	Infiltrator	Chlorophyll	190	
+Whimsicott	2	3	2	2	2	2	12	13	2	2	Prankster	Infiltrator	Chlorophyll	75	
+Petilil	1	1	2	1	2	2	11	11	2	2	Chlorophyll	Own Tempo	Leaf Guard	190	
+Lilligant	2	2	3	2	2	2	12	12	2	2	Chlorophyll	Own Tempo	Leaf Guard	75	
+Lilligant (Hisuian Lilligant)	2	3	2	3	2	2	12	13	2	2	Chlorophyll	Hustle	Leaf Guard	75	
+Basculin	2	2	2	2	2	2	12	12	2	2	Rock Head	Adaptability	Mold Breaker	25	
+Sandile	2	2	1	2	1	1	12	12	1	1	Intimidate	Moxie	Anger Point	180	
+Krokorok	2	2	1	2	1	1	12	12	1	1	Intimidate	Moxie	Anger Point	90	
+Krookodile	2	2	2	3	2	2	12	12	2	2	Intimidate	Moxie	Anger Point	45	
+Darumaka	2	2	1	2	1	1	12	12	1	1	Hustle		Inner Focus	120	
+Darumaka (Galarian Darumaka)	2	2	1	2	1	1	12	12	1	1	Hustle		Inner Focus	120	
+Darmanitan (Standard Mode)	3	2	1	3	2	2	13	12	2	2	Sheer Force		Zen Mode	120	
+Darmanitan (Zen Mode)	3	2	3	1	3	3	13	12	3	3	Zen Mode			120	
+Darmanitan (Galarian Standard Mode)	3	2	1	3	2	2	13	12	2	2	Gorilla Tactics		Zen Mode	120	
+Darmanitan (Galarian Zen Mode)	3	3	1	4	2	2	13	13	2	2	Zen Mode			120	
+Maractus	2	2	3	2	2	2	12	12	2	2	Water Absorb	Chlorophyll	Storm Drain	255	
+Dwebble	2	2	1	2	2	1	12	12	1	2	Sturdy	Shell Armor	Weak Armor	190	
+Crustle	2	1	2	3	3	2	12	11	2	3	Sturdy	Shell Armor	Weak Armor	75	
+Scraggy	2	1	1	2	2	2	12	11	2	2	Shed Skin	Moxie	Intimidate	180	
+Scrafty	2	2	1	2	3	3	12	12	3	3	Shed Skin	Moxie	Intimidate	90	
+Sigilyph	2	2	3	2	2	2	12	12	2	2	Wonder Skin	Magic Guard	Tinted Lens	45	
+Yamask	1	1	2	1	2	2	11	11	2	2	Mummy			190	
+Yamask (Galarian Yamask)	1	1	1	2	2	2	11	11	2	2	Wandering Spirit			190	
+Cofagrigus	2	1	2	2	3	3	12	11	3	3	Mummy			90	
+Tirtouga	2	1	2	2	3	1	12	11	1	3	Solid Rock	Sturdy	Swift Swim	45	
+Carracosta	2	1	2	3	3	2	12	11	2	3	Solid Rock	Sturdy	Swift Swim	45	
+Archen	2	2	2	3	1	1	12	12	1	1	Defeatist			45	
+Archeops	2	3	3	3	2	2	12	13	2	2	Defeatist			45	
+Trubbish	2	2	1	2	2	2	12	12	2	2	Stench	Sticky Hold	Aftermath	190	
+Garbodor	2	2	2	2	2	2	12	12	2	2	Stench	Weak Armor	Aftermath	60	
+Zorua	1	2	2	2	1	1	11	12	1	1	Illusion			75	
+Zorua (Hisuian Zorua)	1	2	2	2	1	1	11	12	1	1	Illusion			75	
+Zoroark	2	3	3	3	2	2	12	13	2	2	Illusion			45	
+Zoroark (Hisuian Zoroark)	2	3	3	3	2	2	12	13	2	2	Illusion			45	
+Minccino	2	2	1	2	1	1	12	12	1	1	Cute Charm	Technician	Skill Link	255	
+Cinccino	2	3	2	2	2	2	12	13	2	2	Cute Charm	Technician	Skill Link	60	
+Gothita	1	1	2	1	2	2	11	11	2	2	Frisk	Competitive	Shadow Tag	200	
+Gothorita	2	2	2	1	2	2	12	12	2	2	Frisk	Competitive	Shadow Tag	100	
+Gothitelle	2	2	2	2	2	3	12	12	3	2	Frisk	Competitive	Shadow Tag	50	
+Solosis	1	1	3	1	1	2	11	11	2	1	Overcoat	Magic Guard	Regenerator	200	
+Duosion	2	1	3	1	2	2	12	11	2	2	Overcoat	Magic Guard	Regenerator	100	
+Reuniclus	3	1	3	2	2	2	13	11	2	2	Overcoat	Magic Guard	Regenerator	50	
+Ducklett	2	2	1	1	2	2	12	12	2	2	Keen Eye	Big Pecks	Hydration	190	
+Swanna	2	2	2	2	2	2	12	12	2	2	Keen Eye	Big Pecks	Hydration	45	
+Vanillite	1	1	2	2	2	2	11	11	2	2	Ice Body	Snow Cloak	Weak Armor	255	
+Vanillish	2	2	2	2	2	2	12	12	2	2	Ice Body	Snow Cloak	Weak Armor	120	
+Vanilluxe	2	2	3	2	2	2	12	12	2	2	Ice Body	Snow Warning	Weak Armor	45	
+Deerling	2	2	1	2	2	2	12	12	2	2	Chlorophyll	Sap Sipper	Serene Grace	190	
+Sawsbuck	2	2	2	3	2	2	12	12	2	2	Chlorophyll	Sap Sipper	Serene Grace	75	
+Emolga	2	3	2	2	2	2	12	13	2	2	Static		Motor Drive	200	
+Karrablast	2	2	1	2	1	1	12	12	1	1	Swarm	Shed Skin	No Guard	200	
+Escavalier	2	1	2	3	3	3	12	11	3	3	Swarm	Shell Armor	Overcoat	75	
+Foongus	2	1	2	2	1	2	12	11	2	1	Effect Spore		Regenerator	190	
+Amoonguss	3	1	2	2	2	2	13	11	2	2	Effect Spore		Regenerator	75	
+Frillish	2	1	2	1	2	2	12	11	2	2	Water Absorb	Cursed Body	Damp	190	
+Jellicent	3	2	2	2	2	3	13	12	3	2	Water Absorb	Cursed Body	Damp	60	
+Alomomola	4	2	1	2	2	1	14	12	1	2	Healer	Hydration	Regenerator	75	
+Joltik	2	2	2	1	2	2	12	12	2	2	Compound Eyes	Unnerve	Swarm	190	
+Galvantula	2	3	2	2	2	2	12	13	2	2	Compound Eyes	Unnerve	Swarm	75	
+Ferroseed	1	1	1	2	2	2	11	11	2	2	Iron Barbs			255	
+Ferrothorn	2	1	2	2	3	3	12	11	3	3	Iron Barbs		Anticipation	90	
+Klink	1	1	1	2	2	2	11	11	2	2	Plus	Minus	Clear Body	130	
+Klang	2	2	2	2	2	2	12	12	2	2	Plus	Minus	Clear Body	60	
+Klinklang	2	2	2	3	3	2	12	12	2	3	Plus	Minus	Clear Body	30	
+Tynamo	1	2	1	2	1	1	11	12	1	1	Levitate			190	
+Eelektrik	2	1	2	2	2	2	12	11	2	2	Levitate			60	
+Eelektross	2	2	3	3	2	2	12	12	2	2	Levitate			30	
+Elgyem	2	1	2	2	2	2	12	11	2	2	Telepathy	Synchronize	Analytic	255	
+Beheeyem	2	1	3	2	2	2	12	11	2	2	Telepathy	Synchronize	Analytic	90	
+Litwick	2	1	2	1	2	2	12	11	2	2	Flash Fire	Flame Body	Infiltrator	190	
+Lampent	2	2	2	1	2	2	12	12	2	2	Flash Fire	Flame Body	Infiltrator	90	
+Chandelure	2	2	3	2	2	2	12	12	2	2	Flash Fire	Flame Body	Infiltrator	45	
+Axew	1	2	1	2	2	1	11	12	1	2	Rivalry	Mold Breaker	Unnerve	75	
+Fraxure	2	2	1	3	2	2	12	12	2	2	Rivalry	Mold Breaker	Unnerve	60	
+Haxorus	2	2	2	3	2	2	12	12	2	2	Rivalry	Mold Breaker	Unnerve	45	
+Cubchoo	2	1	2	2	1	1	12	11	1	1	Snow Cloak	Slush Rush	Rattled	120	
+Beartic	2	2	2	3	2	2	12	12	2	2	Snow Cloak	Slush Rush	Swift Swim	60	
+Cryogonal	2	3	2	2	2	3	12	13	3	2	Levitate			25	
+Shelmet	2	1	1	1	2	2	12	11	2	2	Hydration	Shell Armor	Overcoat	200	
+Accelgor	2	3	3	2	1	2	12	13	2	1	Hydration	Sticky Hold	Unburden	75	
+Stunfisk	3	1	2	2	2	2	13	11	2	2	Static	Limber	Sand Veil	75	
+Stunfisk (Galarian Stunfisk)	3	1	2	2	2	2	13	11	2	2	Mimicry			75	
+Mienfoo	1	2	2	2	2	2	11	12	2	2	Inner Focus	Regenerator	Reckless	180	
+Mienshao	2	3	2	3	2	2	12	13	2	2	Inner Focus	Regenerator	Reckless	45	
+Druddigon	2	1	2	3	2	2	12	11	2	2	Rough Skin	Sheer Force	Mold Breaker	45	
+Golett	2	1	1	2	2	2	12	11	2	2	Iron Fist	Klutz	No Guard	190	
+Golurk	2	2	2	3	2	2	12	12	2	2	Iron Fist	Klutz	No Guard	90	
+Pawniard	1	2	1	2	2	1	11	12	1	2	Defiant	Inner Focus	Pressure	120	
+Bisharp	2	2	2	3	3	2	12	12	2	3	Defiant	Inner Focus	Pressure	45	
+Bouffalant	2	2	1	3	2	2	12	12	2	2	Reckless	Sap Sipper	Soundproof	45	
+Rufflet	2	2	1	2	2	2	12	12	2	2	Keen Eye	Sheer Force	Hustle	190	
+Braviary	3	2	2	3	2	2	13	12	2	2	Keen Eye	Sheer Force	Defiant	60	
+Braviary (Hisuian Braviary)	3	2	3	2	2	2	13	12	2	2	Keen Eye	Sheer Force	Tinted Lens	60	
+Vullaby	2	2	1	2	2	2	12	12	2	2	Big Pecks	Overcoat	Weak Armor	190	
+Mandibuzz	3	2	2	2	3	2	13	12	2	3	Big Pecks	Overcoat	Weak Armor	60	
+Heatmor	2	2	3	2	2	2	12	12	2	2	Gluttony	Flash Fire	White Smoke	90	
+Durant	2	3	1	3	3	1	12	13	1	3	Swarm	Hustle	Truant	90	
+Deino	2	1	1	2	2	2	12	11	2	2	Hustle			45	
+Zweilous	2	2	2	2	2	2	12	12	2	2	Hustle			45	
+Hydreigon	2	2	3	3	2	2	12	12	2	2	Levitate			45	
+Larvesta	2	2	2	2	2	2	12	12	2	2	Flame Body		Swarm	45	
+Volcarona	2	3	3	2	2	3	12	13	3	2	Flame Body		Swarm	15	
+Cobalion	2	3	2	2	3	2	12	13	2	3	Justified			3	
+Terrakion	2	3	2	3	2	2	12	13	2	2	Justified			3	
+Virizion	2	3	2	2	2	3	12	13	3	2	Justified			3	
+Tornadus (Incarnate Forme)	2	3	3	3	2	2	12	13	2	2	Prankster		Defiant	3	
+Tornadus (Therian Forme)	2	3	3	3	2	2	12	13	2	2	Regenerator			3	
+Thundurus (Incarnate Forme)	2	3	3	3	2	2	12	13	2	2	Prankster		Defiant	3	
+Thundurus (Therian Forme)	2	3	3	3	2	2	12	13	2	2	Volt Absorb			3	
+Reshiram	3	2	4	3	3	3	13	12	3	3	Turboblaze			3	
+Zekrom	3	2	3	4	3	3	13	12	3	3	Teravolt			3	
+Landorus (Incarnate Forme)	2	3	3	3	2	2	12	13	2	2	Sand Force		Sheer Force	3	
+Landorus (Therian Forme)	2	2	3	3	2	2	12	12	2	2	Intimidate			3	
+Kyurem	3	2	3	3	2	2	13	12	2	2	Pressure			3	
+Kyurem (Black Kyurem)	3	2	3	4	3	2	13	12	2	3	Teravolt			3	
+Kyurem (White Kyurem)	3	2	4	3	2	3	13	12	3	2	Turboblaze			3	
+Keldeo	2	3	3	2	2	2	12	13	2	2	Justified			3	
+Meloetta (Aria Forme)	3	2	3	2	2	3	13	12	3	2	Serene Grace			3	
+Meloetta (Pirouette Forme)	3	3	2	3	2	2	13	13	2	2	Serene Grace			3	
+Genesect	2	2	3	3	2	2	12	12	2	2	Download			3	
+Chespin	2	1	1	2	2	1	12	11	1	2	Overgrow		Bulletproof	45	
+Quilladin	2	2	2	2	2	2	12	12	2	2	Overgrow		Bulletproof	45	
+Chesnaught	2	2	2	3	3	2	12	12	2	3	Overgrow		Bulletproof	45	
+Fennekin	1	2	2	1	1	2	11	12	2	1	Blaze		Magician	45	
+Braixen	2	2	2	2	2	2	12	12	2	2	Blaze		Magician	45	
+Delphox	2	3	3	2	2	3	12	13	3	2	Blaze		Magician	45	
+Froakie	1	2	2	2	1	1	11	12	1	1	Torrent		Protean	45	
+Frogadier	2	2	2	2	2	2	12	12	2	2	Torrent		Protean	45	
+Greninja	2	3	3	2	2	2	12	13	2	2	Torrent		Protean	45	
+Greninja (Ash-Greninja)	2	3	4	3	2	2	12	13	2	2	Battle Bond			45	
+Bunnelby	1	2	1	1	1	1	11	12	1	1	Pickup	Cheek Pouch	Huge Power	255	
+Diggersby	2	2	2	2	2	2	12	12	2	2	Pickup	Cheek Pouch	Huge Power	127	
+Fletchling	1	2	1	2	1	1	11	12	1	1	Big Pecks		Gale Wings	255	
+Fletchinder	2	2	2	2	2	2	12	12	2	2	Flame Body		Gale Wings	120	
+Talonflame	2	3	2	2	2	2	12	13	2	2	Flame Body		Gale Wings	45	
+Scatterbug	1	1	1	1	1	1	11	11	1	1	Shield Dust	Compound Eyes	Friend Guard	255	
+Spewpa	1	1	1	1	2	1	11	11	1	2	Shed Skin		Friend Guard	120	
+Vivillon	2	2	2	2	2	2	12	12	2	2	Shield Dust	Compound Eyes	Friend Guard	45	
+Litleo	2	2	2	2	2	2	12	12	2	2	Rivalry	Unnerve	Moxie	220	
+Pyroar	2	3	3	2	2	2	12	13	2	2	Rivalry	Unnerve	Moxie	65	
+Flabébé	1	1	2	1	1	2	11	11	2	1	Flower Veil		Symbiosis	225	
+Floette	2	2	2	1	1	2	12	12	2	1	Flower Veil		Symbiosis	120	
+Florges	2	2	3	2	2	4	12	12	4	2	Flower Veil		Symbiosis	45	
+Skiddo	2	2	2	2	1	2	12	12	2	1	Sap Sipper		Grass Pelt	200	
+Gogoat	3	2	2	3	2	2	13	12	2	2	Sap Sipper		Grass Pelt	45	
+Pancham	2	1	1	2	2	1	12	11	1	2	Iron Fist	Mold Breaker	Scrappy	220	
+Pangoro	2	2	2	3	2	2	12	12	2	2	Iron Fist	Mold Breaker	Scrappy	65	
+Furfrou	2	3	2	2	2	2	12	13	2	2	Fur Coat			160	
+Espurr	2	2	2	1	2	2	12	12	2	2	Keen Eye	Infiltrator	Own Tempo	190	
+Meowstic	2	3	2	1	2	2	12	13	2	2	Keen Eye	Infiltrator	Prankster	75	
+Honedge	1	1	1	2	3	1	11	11	1	3	No Guard			180	
+Doublade	2	1	1	3	4	1	12	11	1	4	No Guard			90	
+Aegislash (Shield Forme)	2	2	2	2	3	3	12	12	3	3	Stance Change			45	
+Aegislash (Blade Forme)	2	2	3	3	2	2	12	12	2	2	Stance Change			45	
+Spritzee	2	1	2	2	2	2	12	11	2	2	Healer		Aroma Veil	200	
+Aromatisse	3	1	2	2	2	2	13	11	2	2	Healer		Aroma Veil	140	
+Swirlix	2	1	2	1	2	2	12	11	2	2	Sweet Veil		Unburden	200	
+Slurpuff	2	2	2	2	2	2	12	12	2	2	Sweet Veil		Unburden	140	
+Inkay	2	1	1	2	2	1	12	11	1	2	Contrary	Suction Cups	Infiltrator	190	
+Malamar	2	2	2	2	2	2	12	12	2	2	Contrary	Suction Cups	Infiltrator	80	
+Binacle	1	2	1	2	2	2	11	12	2	2	Tough Claws	Sniper	Pickpocket	120	
+Barbaracle	2	2	2	3	3	2	12	12	2	3	Tough Claws	Sniper	Pickpocket	45	
+Skrelp	2	1	2	2	2	2	12	11	2	2	Poison Point	Poison Touch	Adaptability	225	
+Dragalge	2	1	2	2	2	3	12	11	3	2	Poison Point	Poison Touch	Adaptability	55	
+Clauncher	2	1	2	2	2	2	12	11	2	2	Mega Launcher			225	
+Clawitzer	2	2	3	2	2	2	12	12	2	2	Mega Launcher			55	
+Helioptile	1	2	2	1	1	1	11	12	1	1	Dry Skin	Sand Veil	Solar Power	190	
+Heliolisk	2	3	3	2	2	2	12	13	2	2	Dry Skin	Sand Veil	Solar Power	75	
+Tyrunt	2	1	1	2	2	1	12	11	1	2	Strong Jaw		Sturdy	45	
+Tyrantrum	2	2	2	3	3	2	12	12	2	3	Strong Jaw		Rock Head	45	
+Amaura	2	1	2	2	2	2	12	11	2	2	Refrigerate		Snow Warning	45	
+Aurorus	3	2	2	2	2	2	13	12	2	2	Refrigerate		Snow Warning	45	
+Sylveon	2	2	3	2	2	3	12	12	3	2	Cute Charm		Pixilate	45	
+Hawlucha	2	3	2	2	2	2	12	13	2	2	Limber	Unburden	Mold Breaker	100	
+Dedenne	2	3	2	2	2	2	12	13	2	2	Cheek Pouch	Pickup	Plus	180	
+Carbink	2	2	2	2	4	4	12	12	4	4	Clear Body		Sturdy	60	
+Goomy	1	1	2	2	1	2	11	11	2	1	Sap Sipper	Hydration	Gooey	45	
+Sliggoo	2	2	2	2	2	3	12	12	3	2	Sap Sipper	Hydration	Gooey	45	
+Sliggoo (Hisuian Sliggoo)	2	1	2	2	2	3	12	11	3	2	Sap Sipper	Shell Armor	Gooey	45	
+Goodra	2	2	3	3	2	4	12	12	4	2	Sap Sipper	Hydration	Gooey	45	
+Goodra (Hisuian Goodra)	2	2	3	3	3	4	12	12	4	3	Sap Sipper	Shell Armor	Gooey	45	
+Klefki	2	2	2	2	2	2	12	12	2	2	Prankster		Magician	75	
+Phantump	1	1	2	2	1	2	11	11	2	1	Natural Cure	Frisk	Harvest	120	
+Trevenant	2	2	2	3	2	2	12	12	2	2	Natural Cure	Frisk	Harvest	60	
+Pumpkaboo (Small Size)	1	2	1	2	2	2	11	12	2	2	Pickup	Frisk	Insomnia	120	
+Pumpkaboo (Average Size)	1	2	1	2	2	2	11	12	2	2	Pickup	Frisk	Insomnia	120	
+Pumpkaboo (Large Size)	2	1	1	2	2	2	12	11	2	2	Pickup	Frisk	Insomnia	120	
+Pumpkaboo (Super Size)	2	1	1	2	2	2	12	11	2	2	Pickup	Frisk	Insomnia	120	
+Gourgeist (Small Size)	2	2	2	2	3	2	12	12	2	3	Pickup	Frisk	Insomnia	60	
+Gourgeist (Average Size)	2	2	2	2	3	2	12	12	2	3	Pickup	Frisk	Insomnia	60	
+Gourgeist (Large Size)	2	2	2	2	3	2	12	12	2	3	Pickup	Frisk	Insomnia	60	
+Gourgeist (Super Size)	2	2	2	3	3	2	12	12	2	3	Pickup	Frisk	Insomnia	60	
+Bergmite	2	1	1	2	2	1	12	11	1	2	Own Tempo	Ice Body	Sturdy	190	
+Avalugg	2	1	1	3	4	1	12	11	1	4	Own Tempo	Ice Body	Sturdy	55	
+Avalugg (Hisuian Avalugg)	2	1	1	3	4	1	12	11	1	4	Strong Jaw	Ice Body	Sturdy	55	
+Noibat	1	2	1	1	1	1	11	12	1	1	Frisk	Infiltrator	Telepathy	190	
+Noivern	2	3	2	2	2	2	12	13	2	2	Frisk	Infiltrator	Telepathy	45	
+Xerneas	3	2	3	3	2	2	13	12	2	2	Fairy Aura			45	
+Yveltal	3	2	3	3	2	2	13	12	2	2	Dark Aura			45	
+Zygarde (50% Forme)	3	2	2	3	3	2	13	12	2	3	Aura Break	Power Construct		3	
+Zygarde (10% Forme)	2	3	2	3	2	2	12	13	2	2	Aura Break	Power Construct		3	
+Zygarde (Complete Forme)	5	2	2	3	3	2	15	12	2	3	Power Construct			3	
+Diancie	2	2	3	3	4	4	12	12	4	4	Clear Body			3	
+Diancie (Mega Diancie)	2	3	4	4	3	3	12	13	3	3	Magic Bounce			3	
+Hoopa (Hoopa Confined)	2	2	4	3	2	3	12	12	3	2	Magician			3	
+Hoopa (Hoopa Unbound)	2	2	4	4	2	3	12	12	3	2	Magician			3	
+Volcanion	2	2	3	3	3	2	12	12	2	3	Water Absorb			3	
+Rowlet	2	1	2	2	2	2	12	11	2	2	Overgrow		Long Reach	45	
+Dartrix	2	2	2	2	2	2	12	12	2	2	Overgrow		Long Reach	45	
+Decidueye	2	2	3	3	2	3	12	12	3	2	Overgrow		Long Reach	45	
+Decidueye (Hisuian Decidueye)	2	2	2	3	2	2	12	12	2	2	Overgrow		Scrappy	45	
+Litten	1	2	2	2	1	1	11	12	1	1	Blaze		Intimidate	45	
+Torracat	2	2	2	2	2	2	12	12	2	2	Blaze		Intimidate	45	
+Incineroar	2	2	2	3	2	2	12	12	2	2	Blaze		Intimidate	45	
+Popplio	2	1	2	2	2	2	12	11	2	2	Torrent		Liquid Voice	45	
+Brionne	2	2	2	2	2	2	12	12	2	2	Torrent		Liquid Voice	45	
+Primarina	2	2	3	2	2	3	12	12	3	2	Torrent		Liquid Voice	45	
+Pikipek	1	2	1	2	1	1	11	12	1	1	Keen Eye	Skill Link	Pickup	255	
+Trumbeak	2	2	1	2	2	2	12	12	2	2	Keen Eye	Skill Link	Pickup	120	
+Toucannon	2	2	2	3	2	2	12	12	2	2	Keen Eye	Skill Link	Sheer Force	45	
+Yungoos	1	1	1	2	1	1	11	11	1	1	Stakeout	Strong Jaw	Adaptability	255	
+Gumshoos	2	1	2	3	2	2	12	11	2	2	Stakeout	Strong Jaw	Adaptability	127	
+Grubbin	1	1	2	2	1	1	11	11	1	1	Swarm			255	
+Charjabug	2	1	2	2	2	2	12	11	2	2	Battery			120	
+Vikavolt	2	1	3	2	2	2	12	11	2	2	Levitate			45	
+Crabrawler	1	2	1	2	2	1	11	12	1	2	Hyper Cutter	Iron Fist	Anger Point	225	
+Crabominable	2	1	2	3	2	2	12	11	2	2	Hyper Cutter	Iron Fist	Anger Point	60	
+Oricorio	2	2	2	2	2	2	12	12	2	2	Dancer			45	
+Cutiefly	1	2	2	1	1	1	11	12	1	1	Honey Gather	Shield Dust	Sweet Veil	190	
+Ribombee	2	3	2	2	2	2	12	13	2	2	Honey Gather	Shield Dust	Sweet Veil	75	
+Rockruff	1	2	1	2	1	1	11	12	1	1	Keen Eye	Vital Spirit	Steadfast	190	
+Lycanroc (Midday Form)	2	3	2	3	2	2	12	13	2	2	Keen Eye	Sand Rush	Steadfast	90	
+Lycanroc (Midnight Form)	2	2	2	3	2	2	12	12	2	2	Keen Eye	Vital Spirit	No Guard	90	
+Lycanroc (Dusk Form)	2	3	2	3	2	2	12	13	2	2	Tough Claws			90	
+Wishiwashi (Solo Form)	1	1	1	1	1	1	11	11	1	1	Schooling			60	
+Wishiwashi (School Form)	1	1	3	3	3	3	11	11	3	3	Schooling			60	
+Mareanie	2	1	1	2	2	2	12	11	2	2	Merciless	Limber	Regenerator	190	
+Toxapex	2	1	2	2	4	3	12	11	3	4	Merciless	Limber	Regenerator	75	
+Mudbray	2	1	1	3	2	2	12	11	2	2	Own Tempo	Stamina	Inner Focus	190	
+Mudsdale	3	1	2	3	3	2	13	11	2	3	Own Tempo	Stamina	Inner Focus	60	
+Dewpider	1	1	1	1	2	2	11	11	2	2	Water Bubble		Water Absorb	200	
+Araquanid	2	1	2	2	2	3	12	11	3	2	Water Bubble		Water Absorb	100	
+Fomantis	1	1	2	2	1	1	11	11	1	1	Leaf Guard		Contrary	190	
+Lurantis	2	1	2	3	2	2	12	11	2	2	Leaf Guard		Contrary	75	
+Morelull	1	1	2	1	2	2	11	11	2	2	Illuminate	Effect Spore	Rain Dish	190	
+Shiinotic	2	1	2	1	2	3	12	11	3	2	Illuminate	Effect Spore	Rain Dish	75	
+Salandit	1	2	2	1	1	1	11	12	1	1	Corrosion		Oblivious	120	
+Salazzle	2	3	3	2	2	2	12	13	2	2	Corrosion		Oblivious	45	
+Stufful	2	2	1	2	2	2	12	12	2	2	Fluffy	Klutz	Cute Charm	140	
+Bewear	3	2	2	3	2	2	13	12	2	2	Fluffy	Klutz	Unnerve	70	
+Bounsweet	1	1	1	1	1	1	11	11	1	1	Leaf Guard	Oblivious	Sweet Veil	235	
+Steenee	2	2	1	1	1	1	12	12	1	1	Leaf Guard	Oblivious	Sweet Veil	120	
+Tsareena	2	2	2	3	2	2	12	12	2	2	Leaf Guard	Queenly Majesty	Sweet Veil	45	
+Comfey	2	3	2	2	2	3	12	13	3	2	Flower Veil	Triage	Natural Cure	60	
+Oranguru	2	2	2	2	2	3	12	12	3	2	Inner Focus	Telepathy	Symbiosis	45	
+Passimian	3	2	1	3	2	2	13	12	2	2	Receiver		Defiant	45	
+Wimpod	1	2	1	1	1	1	11	12	1	1	Wimp Out			90	
+Golisopod	2	1	2	3	3	2	12	11	2	3	Emergency Exit			45	
+Sandygast	2	1	2	2	2	1	12	11	1	2	Water Compaction		Sand Veil	140	
+Palossand	2	1	3	2	3	2	12	11	2	3	Water Compaction		Sand Veil	60	
+Pyukumuku	2	1	1	2	3	3	12	11	3	3	Innards Out		Unaware	60	
+Type Null	2	2	2	2	2	2	12	12	2	2	Battle Armor			3	
+Silvally	2	2	2	2	2	2	12	12	2	2	RKS System			3	
+Minior (Meteor Form)	2	2	2	2	3	3	12	12	3	3	Shields Down			30	
+Minior (Core)	2	3	3	3	2	2	12	13	2	2	Shields Down			30	
+Komala	2	2	2	3	2	2	12	12	2	2	Comatose			45	
+Turtonator	2	1	2	2	3	2	12	11	2	3	Shell Armor			70	
+Togedemaru	2	2	1	2	2	2	12	12	2	2	Iron Barbs	Lightning Rod	Sturdy	180	
+Mimikyu	2	2	2	2	2	3	12	12	3	2	Disguise			45	
+Bruxish	2	2	2	3	2	2	12	12	2	2	Dazzling	Strong Jaw	Wonder Skin	80	
+Drampa	2	1	3	2	2	2	12	11	2	2	Berserk	Sap Sipper	Cloud Nine	70	
+Dhelmise	2	1	2	3	3	2	12	11	2	3	Steelworker			25	
+Jangmo-o	1	1	1	2	2	1	11	11	1	2	Bulletproof	Soundproof	Overcoat	45	
+Hakamo-o	2	2	2	2	2	2	12	12	2	2	Bulletproof	Soundproof	Overcoat	45	
+Kommo-o	2	2	3	3	3	3	12	12	3	3	Bulletproof	Soundproof	Overcoat	45	
+Tapu Koko	2	3	2	3	2	2	12	13	2	2	Electric Surge		Telepathy	3	
+Tapu Lele	2	2	3	2	2	3	12	12	3	2	Psychic Surge		Telepathy	3	
+Tapu Bulu	2	2	2	3	3	2	12	12	2	3	Grassy Surge		Telepathy	3	
+Tapu Fini	2	2	2	2	3	3	12	12	3	3	Misty Surge		Telepathy	3	
+Cosmog	1	1	1	1	1	1	11	11	1	1	Unaware			45	
+Cosmoem	1	1	1	1	3	3	11	11	3	3	Sturdy			45	
+Solgaleo	3	2	3	3	3	2	13	12	2	3	Full Metal Body			45	
+Lunala	3	2	3	3	2	3	13	12	3	2	Shadow Shield			45	
+Nihilego	3	3	3	2	1	3	13	13	3	1	Beast Boost			45	
+Buzzwole	3	2	2	3	3	2	13	12	2	3	Beast Boost			45	
+Pheromosa	2	4	3	3	1	1	12	14	1	1	Beast Boost			45	
+Xurkitree	2	2	4	2	2	2	12	12	2	2	Beast Boost			45	
+Celesteela	2	2	3	3	3	3	12	12	3	3	Beast Boost			45	
+Kartana	2	3	2	4	3	1	12	13	1	3	Beast Boost			45	
+Guzzlord	5	1	2	3	2	2	15	11	2	2	Beast Boost			45	
+Necrozma	2	2	3	3	3	2	12	12	2	3	Prism Armor			255	
+Necrozma (Dusk Mane Necrozma)	2	2	3	4	3	3	12	12	3	3	Prism Armor			255	
+Necrozma (Dawn Wings Necrozma)	2	2	4	3	3	3	12	12	3	3	Prism Armor			255	
+Necrozma (Ultra Necrozma)	2	3	4	4	2	2	12	13	2	2	Neuroforce			255	
+Magearna	2	2	3	2	3	3	12	12	3	3	Soul-Heart			3	
+Marshadow	2	3	2	3	2	2	12	13	2	2	Technician			3	
+Poipole	2	2	2	2	2	2	12	12	2	2	Beast Boost			45	
+Naganadel	2	3	3	2	2	2	12	13	2	2	Beast Boost			45	
+Stakataka	2	1	2	3	5	3	12	11	3	5	Beast Boost			30	
+Blacephalon	2	3	4	3	2	2	12	13	2	2	Beast Boost			30	
+Zeraora	2	3	3	3	2	2	12	13	2	2	Volt Absorb			3	
+Meltan	1	1	2	2	2	1	11	11	1	2	Magnet Pull			3	
+Melmetal	3	1	2	3	3	2	13	11	2	3	Iron Fist			3	
+Grookey	2	2	1	2	2	1	12	12	1	2	Overgrow		Grassy Surge	45	
+Thwackey	2	2	2	2	2	2	12	12	2	2	Overgrow		Grassy Surge	45	
+Rillaboom	3	2	2	3	2	2	13	12	2	2	Overgrow		Grassy Surge	45	
+Scorbunny	2	2	1	2	1	1	12	12	1	1	Blaze		Libero	45	
+Raboot	2	2	2	2	2	2	12	12	2	2	Blaze		Libero	45	
+Cinderace	2	3	2	3	2	2	12	13	2	2	Blaze		Libero	45	
+Sobble	2	2	2	1	1	1	12	12	1	1	Torrent		Sniper	45	
+Drizzile	2	2	2	2	2	2	12	12	2	2	Torrent		Sniper	45	
+Inteleon	2	3	3	2	2	2	12	13	2	2	Torrent		Sniper	45	
+Skwovet	2	1	1	2	2	1	12	11	1	2	Cheek Pouch		Gluttony	255	
+Greedent	3	1	2	2	2	2	13	11	2	2	Cheek Pouch		Gluttony	90	
+Rookidee	1	2	1	1	1	1	11	12	1	1	Keen Eye	Unnerve	Big Pecks	255	
+Corvisquire	2	2	1	2	2	2	12	12	2	2	Keen Eye	Unnerve	Big Pecks	120	
+Corviknight	2	2	2	2	3	2	12	12	2	3	Pressure	Unnerve	Mirror Armor	45	
+Blipbug	1	1	1	1	1	1	11	11	1	1	Swarm	Compound Eyes	Telepathy	255	
+Dottler	2	1	2	1	2	2	12	11	2	2	Swarm	Compound Eyes	Telepathy	120	
+Orbeetle	2	2	2	1	3	3	12	12	3	3	Swarm	Frisk	Telepathy	45	
+Nickit	1	2	1	1	1	2	11	12	2	1	Run Away	Unburden	Stakeout	255	
+Thievul	2	2	2	2	2	2	12	12	2	2	Run Away	Unburden	Stakeout	127	
+Gossifleur	1	1	1	1	2	2	11	11	2	2	Cotton Down	Regenerator	Effect Spore	190	
+Eldegoss	2	2	2	2	2	3	12	12	3	2	Cotton Down	Regenerator	Effect Spore	75	
+Wooloo	1	1	1	1	2	1	11	11	1	2	Fluffy	Run Away	Bulletproof	255	
+Dubwool	2	2	2	2	3	2	12	12	2	3	Fluffy	Steadfast	Bulletproof	127	
+Chewtle	2	1	1	2	2	1	12	11	1	2	Strong Jaw	Shell Armor	Swift Swim	255	
+Drednaw	2	2	1	3	2	2	12	12	2	2	Strong Jaw	Shell Armor	Swift Swim	75	
+Yamper	2	1	1	1	2	2	12	11	2	2	Ball Fetch		Rattled	255	
+Boltund	2	3	2	2	2	2	12	13	2	2	Strong Jaw		Competitive	45	
+Rolycoly	1	1	1	1	2	2	11	11	2	2	Steam Engine	Heatproof	Flash Fire	255	
+Carkol	2	2	2	2	2	2	12	12	2	2	Steam Engine	Flame Body	Flash Fire	120	
+Coalossal	3	1	2	2	3	2	13	11	2	3	Steam Engine	Flame Body	Flash Fire	45	
+Applin	1	1	1	1	2	1	11	11	1	2	Ripen	Gluttony	Bulletproof	255	
+Flapple	2	2	2	3	2	2	12	12	2	2	Ripen	Gluttony	Hustle	45	
+Appletun	3	1	3	2	2	2	13	11	2	2	Ripen	Gluttony	Thick Fat	45	
+Silicobra	2	1	1	2	2	2	12	11	2	2	Sand Spit	Shed Skin	Sand Veil	255	
+Sandaconda	2	2	2	3	3	2	12	12	2	3	Sand Spit	Shed Skin	Sand Veil	120	
+Cramorant	2	2	2	2	2	2	12	12	2	2	Gulp Missile			45	
+Arrokuda	1	2	1	2	1	1	11	12	1	1	Swift Swim		Propeller Tail	255	
+Barraskewda	2	3	2	3	2	2	12	13	2	2	Swift Swim		Propeller Tail	60	
+Toxel	1	1	2	1	1	1	11	11	1	1	Rattled	Static	Klutz	75	
+Toxtricity	2	2	3	2	2	2	12	12	2	2	Punk Rock	Plus	Technician	45	
+Sizzlipede	2	1	2	2	1	2	12	11	2	1	Flash Fire	White Smoke	Flame Body	190	
+Centiskorch	3	2	2	3	2	2	13	12	2	2	Flash Fire	White Smoke	Flame Body	75	
+Clobbopus	2	1	2	2	2	2	12	11	2	2	Limber		Technician	180	
+Grapploct	2	1	2	3	2	2	12	11	2	2	Limber		Technician	45	
+Sinistea	1	2	2	1	1	2	11	12	2	1	Weak Armor		Cursed Body	120	
+Polteageist	2	2	3	2	2	3	12	12	3	2	Weak Armor		Cursed Body	60	
+Hatenna	1	1	2	1	1	2	11	11	2	1	Healer	Anticipation	Magic Bounce	235	
+Hattrem	2	1	2	1	2	2	12	11	2	2	Healer	Anticipation	Magic Bounce	120	
+Hatterene	2	1	3	2	2	3	12	11	3	2	Healer	Anticipation	Magic Bounce	45	
+Impidimp	1	2	2	1	1	1	11	12	1	1	Prankster	Frisk	Pickpocket	255	
+Morgrem	2	2	2	2	1	2	12	12	2	1	Prankster	Frisk	Pickpocket	120	
+Grimmsnarl	2	2	2	3	2	2	12	12	2	2	Prankster	Frisk	Pickpocket	45	
+Obstagoon	2	2	2	2	3	2	12	12	2	3	Reckless	Guts	Defiant	45	
+Perrserker	2	2	2	3	3	2	12	12	2	3	Battle Armor	Tough Claws	Steely Spirit	90	
+Cursola	2	1	3	2	2	3	12	11	3	2	Weak Armor		Perish Body	30	
+Sirfetch'd	2	2	2	3	2	2	12	12	2	2	Steadfast		Scrappy	45	
+Mr. Rime	2	2	3	2	2	3	12	12	3	2	Tangled Feet	Screen Cleaner	Ice Body	45	
+Runerigus	2	1	2	2	3	3	12	11	3	3	Wandering Spirit			90	
+Milcery	1	1	2	1	1	2	11	11	2	1	Sweet Veil		Aroma Veil	200	
+Alcremie	2	2	3	2	2	3	12	12	3	2	Sweet Veil		Aroma Veil	100	
+Falinks	2	2	2	3	3	2	12	12	2	3	Battle Armor		Defiant	45	
+Pincurchin	1	1	2	3	2	2	11	11	2	2	Lightning Rod		Electric Surge	75	
+Snom	1	1	1	1	1	1	11	11	1	1	Shield Dust		Ice Scales	190	
+Frosmoth	2	2	3	2	2	2	12	12	2	2	Shield Dust		Ice Scales	75	
+Stonjourner	3	2	1	3	3	1	13	12	1	3	Power Spot			60	
+Eiscue (Ice Face)	2	2	2	2	3	2	12	12	2	3	Ice Face			60	
+Eiscue (Noice Face)	2	3	2	2	2	2	12	13	2	2	Ice Face			60	
+Indeedee (Male)	2	2	3	2	2	2	12	12	2	2	Inner Focus	Synchronize	Psychic Surge	30	
+Indeedee (Female)	2	2	2	2	2	3	12	12	3	2	Own Tempo	Synchronize	Psychic Surge	30	
+Morpeko	2	2	2	2	2	2	12	12	2	2	Hunger Switch			180	
+Cufant	2	1	1	2	1	1	12	11	1	1	Sheer Force		Heavy Metal	190	
+Copperajah	3	1	2	3	2	2	13	11	2	2	Sheer Force		Heavy Metal	90	
+Dracozolt	2	2	2	3	2	2	12	12	2	2	Volt Absorb	Hustle	Sand Rush	45	
+Arctozolt	2	2	2	3	2	2	12	12	2	2	Volt Absorb	Static	Slush Rush	45	
+Dracovish	2	2	2	2	3	2	12	12	2	3	Water Absorb	Strong Jaw	Sand Rush	45	
+Arctovish	2	2	2	2	3	2	12	12	2	3	Water Absorb	Ice Body	Slush Rush	45	
+Duraludon	2	2	3	2	3	2	12	12	2	3	Light Metal	Heavy Metal	Stalwart	45	
+Dreepy	1	2	1	2	1	1	11	12	1	1	Clear Body	Infiltrator	Cursed Body	45	
+Drakloak	2	3	2	2	2	2	12	13	2	2	Clear Body	Infiltrator	Cursed Body	45	
+Dragapult	2	3	3	3	2	2	12	13	2	2	Clear Body	Infiltrator	Cursed Body	45	
+Zacian (Hero of Many Battles)	2	3	2	3	3	3	12	13	3	3	Intrepid Sword			10	
+Zacian (Crowned Sword)	2	3	2	4	3	3	12	13	3	3	Intrepid Sword			10	
+Zamazenta (Hero of Many Battles)	2	3	2	3	3	3	12	13	3	3	Dauntless Shield			10	
+Zamazenta (Crowned Shield)	2	3	2	3	3	3	12	13	3	3	Dauntless Shield			10	
+Eternatus	3	3	3	2	2	2	13	13	2	2	Pressure			255	
+Eternatus (Eternamax Eternatus)	6	3	3	3	6	6	16	13	6	6	Pressure			255	
+Kubfu	2	2	2	2	2	2	12	12	2	2	Inner Focus			3	
+Urshifu	3	2	2	3	3	2	13	12	2	3	Unseen Fist			3	
+Zarude	3	3	2	3	3	2	13	13	2	3	Leaf Guard			3	
+Regieleki	2	5	3	3	2	2	12	15	2	2	Transistor			3	
+Regidrago	5	2	3	3	2	2	15	12	2	2	Dragon's Maw			3	
+Glastrier	3	1	2	3	3	3	13	11	3	3	Chilling Neigh			3	
+Spectrier	3	3	3	2	2	2	13	13	2	2	Grim Neigh			3	
+Calyrex	3	2	2	2	2	2	13	12	2	2	Unnerve			3	
+Calyrex (Ice Rider Calyrex)	3	2	2	4	4	3	13	12	3	4	As One			3	
+Calyrex (Shadow Rider Calyrex)	3	4	4	2	2	3	13	14	3	2	As One			3	
+Wyrdeer	3	2	3	3	2	2	13	12	2	2	Intimidate	Frisk	Sap Sipper	45	
+Kleavor	2	2	1	3	2	2	12	12	2	2	Swarm	Sheer Force	Sharpness	15	
+Ursaluna	3	2	1	3	3	2	13	12	2	3	Guts	Bulletproof	Unnerve	20	
+Basculegion (Male)	3	2	2	3	2	2	13	12	2	2	Swift Swim	Adaptability	Mold Breaker	45	
+Basculegion (Female)	3	2	3	2	2	2	13	12	2	2	Swift Swim	Adaptability	Mold Breaker	45	
+Sneasler	2	3	1	3	2	2	12	13	2	2	Pressure	Unburden	Poison Touch	20	
+Overqwil	2	2	2	3	2	2	12	12	2	2	Poison Point	Swift Swim	Intimidate	45	
+Enamorus (Incarnate Forme)	2	3	3	3	2	2	12	13	2	2	Cute Charm		Contrary	3	
+Enamorus (Therian Forme)	2	1	3	3	3	3	12	11	3	3	Overcoat			3	
+Sprigatito	1	2	1	2	2	1	11	12	1	2	Overgrow		Protean	45	
+Floragato	2	2	2	2	2	2	12	12	2	2	Overgrow		Protean	45	
+Meowscarada	2	3	2	3	2	2	12	13	2	2	Overgrow		Protean	45	
+Fuecoco	2	1	2	1	2	1	12	11	1	2	Blaze		Unaware	45	
+Crocalor	2	1	2	2	2	2	12	11	2	2	Blaze		Unaware	45	
+Skeledirge	3	2	3	2	3	2	13	12	2	3	Blaze		Unaware	45	
+Quaxly	2	2	2	2	1	1	12	12	1	1	Torrent		Moxie	45	
+Quaxwell	2	2	2	2	2	2	12	12	2	2	Torrent		Moxie	45	
+Quaquaval	2	2	2	3	2	2	12	12	2	2	Torrent		Moxie	45	
+Lechonk	2	1	1	1	1	1	12	11	1	1	Aroma Veil	Gluttony	Thick Fat	255	
+Oinkologne (Male)	3	2	2	3	2	2	13	12	2	2	Lingering Aroma	Gluttony	Thick Fat	100	
+Oinkologne (Female)	3	2	2	2	2	2	13	12	2	2	Aroma Veil	Gluttony	Thick Fat	100	
+Tarountula	1	1	1	1	1	1	11	11	1	1	Insomnia		Stakeout	255	
+Spidops	2	1	2	2	2	2	12	11	2	2	Insomnia		Stakeout	120	
+Nymble	1	1	1	1	1	1	11	11	1	1	Swarm		Tinted Lens	190	
+Lokix	2	2	2	3	2	2	12	12	2	2	Swarm		Tinted Lens	30	
+Pawmi	1	2	1	2	1	1	11	12	1	1	Static	Natural Cure	Iron Fist	190	
+Pawmo	2	2	2	2	1	1	12	12	1	1	Volt Absorb	Natural Cure	Iron Fist	80	
+Pawmot	2	3	2	3	2	2	12	13	2	2	Volt Absorb	Natural Cure	Iron Fist	45	
+Tandemaus	2	2	1	2	1	1	12	12	1	1	Run Away	Pickup	Own Tempo	150	
+Maushold	2	3	2	2	2	2	12	13	2	2	Friend Guard	Cheek Pouch	Technician	75	
+Fidough	1	2	1	2	2	2	11	12	2	2	Own Tempo		Klutz	190	
+Dachsbun	2	2	2	2	3	2	12	12	2	3	Well-Baked Body		Aroma Veil	90	
+Smoliv	1	1	2	1	1	2	11	11	2	1	Early Bird		Harvest	255	
+Dolliv	2	1	2	2	2	2	12	11	2	2	Early Bird		Harvest	120	
+Arboliva	2	1	3	2	2	3	12	11	3	2	Seed Sower		Harvest	45	
+Squawkabilly	2	2	1	2	2	2	12	12	2	2	Intimidate	Hustle	Guts	190	
+Nacli	2	1	1	2	2	1	12	11	1	2	Purifying Salt	Sturdy	Clear Body	255	
+Naclstack	2	1	1	2	3	2	12	11	2	3	Purifying Salt	Sturdy	Clear Body	120	
+Garganacl	3	1	1	3	3	2	13	11	2	3	Purifying Salt	Sturdy	Clear Body	45	
+Charcadet	1	1	2	2	1	1	11	11	1	1	Flash Fire		Flame Body	90	
+Armarouge	2	2	3	2	3	2	12	12	2	3	Flash Fire		Weak Armor	25	
+Ceruledge	2	2	2	3	2	3	12	12	3	2	Flash Fire		Weak Armor	25	
+Tadbulb	2	1	2	1	1	1	12	11	1	1	Own Tempo	Static	Damp	190	
+Bellibolt	3	1	3	2	2	2	13	11	2	2	Electromorphosis	Static	Damp	50	
+Wattrel	1	2	2	1	1	1	11	12	1	1	Wind Power	Volt Absorb	Competitive	180	
+Kilowattrel	2	3	3	2	2	2	12	13	2	2	Wind Power	Volt Absorb	Competitive	90	
+Maschiff	2	2	1	2	2	2	12	12	2	2	Intimidate	Run Away	Stakeout	150	
+Mabosstiff	2	2	2	3	2	2	12	12	2	2	Intimidate	Guard Dog	Stakeout	75	
+Shroodle	1	2	1	2	1	1	11	12	1	1	Unburden	Pickpocket	Prankster	190	
+Grafaiai	2	3	2	2	2	2	12	13	2	2	Unburden	Poison Touch	Prankster	90	
+Bramblin	1	2	1	2	1	1	11	12	1	1	Wind Rider		Infiltrator	190	
+Brambleghast	2	2	2	3	2	2	12	12	2	2	Wind Rider		Infiltrator	45	
+Toedscool	1	2	2	1	1	3	11	12	3	1	Mycelium Might			190	
+Toedscruel	2	3	2	2	2	3	12	13	3	2	Mycelium Might			90	
+Klawf	2	2	1	3	3	2	12	12	2	3	Anger Shell	Shell Armor	Regenerator	120	
+Capsakid	2	2	2	2	1	1	12	12	1	1	Chlorophyll	Insomnia	Klutz	190	
+Scovillain	2	2	3	3	2	2	12	12	2	2	Chlorophyll	Insomnia	Moody	75	
+Rellor	1	1	1	2	2	2	11	11	2	2	Compound Eyes		Shed Skin	190	
+Rabsca	2	1	3	2	2	3	12	11	3	2	Synchronize		Telepathy	45	
+Flittle	1	2	2	1	1	1	11	12	1	1	Anticipation	Frisk	Speed Boost	120	
+Espathra	2	3	3	2	2	2	12	13	2	2	Opportunist	Frisk	Speed Boost	60	
+Tinkatink	2	2	1	1	1	2	12	12	2	1	Mold Breaker	Own Tempo	Pickpocket	190	
+Tinkatuff	2	2	1	2	2	2	12	12	2	2	Mold Breaker	Own Tempo	Pickpocket	90	
+Tinkaton	2	2	2	2	2	3	12	12	3	2	Mold Breaker	Own Tempo	Pickpocket	45	
+Wiglett	1	2	1	2	1	1	11	12	1	1	Gooey	Rattled	Sand Veil	255	
+Wugtrio	1	3	2	3	2	2	11	13	2	2	Gooey	Rattled	Sand Veil	50	
+Bombirdier	2	2	2	3	2	2	12	12	2	2	Big Pecks	Keen Eye	Rocky Payload	25	
+Finizen	2	2	1	1	1	1	12	12	1	1	Water Veil			200	
+Palafin (Zero)	3	3	2	2	2	2	13	13	2	2	Zero to Hero			45	
+Palafin (Hero)	3	3	3	4	2	2	13	13	2	2	Zero to Hero			45	
+Varoom	1	1	1	2	2	1	11	11	1	2	Overcoat		Slow Start	190	
+Revavroom	2	2	2	3	2	2	12	12	2	2	Overcoat		Filter	75	
+Cyclizar	2	3	2	2	2	2	12	13	2	2	Shed Skin		Regenerator	190	
+Orthworm	2	2	2	2	3	2	12	12	2	3	Earth Eater		Sand Veil	25	
+Glimmet	1	2	3	1	1	2	11	12	2	1	Toxic Debris		Corrosion	70	
+Glimmora	2	2	3	2	2	2	12	12	2	2	Toxic Debris		Corrosion	25	
+Greavard	2	1	1	2	2	2	12	11	2	2	Pickup		Fluffy	120	
+Houndstone	2	2	2	3	3	2	12	12	2	3	Sand Rush		Fluffy	60	
+Flamigo	2	2	2	3	2	2	12	12	2	2	Scrappy	Tangled Feet	Costar	100	
+Cetoddle	3	1	1	2	1	1	13	11	1	1	Thick Fat	Snow Cloak	Sheer Force	150	
+Cetitan	4	2	1	3	2	2	14	12	2	2	Thick Fat	Slush Rush	Sheer Force	50	
+Veluza	2	2	2	3	2	2	12	12	2	2	Mold Breaker		Sharpness	100	
+Dondozo	4	1	2	3	3	2	14	11	2	3	Unaware	Oblivious	Water Veil	25	
+Tatsugiri	2	2	3	2	2	2	12	12	2	2	Commander		Storm Drain	100	
+Annihilape	3	2	2	3	2	2	13	12	2	2	Vital Spirit	Inner Focus	Defiant	45	
+Clodsire	3	1	1	2	2	3	13	11	3	2	Poison Point	Water Absorb	Unaware	90	
+Farigiraf	3	2	3	2	2	2	13	12	2	2	Cud Chew	Armor Tail	Sap Sipper	45	
+Dudunsparce	3	2	2	3	2	2	13	12	2	2	Serene Grace	Run Away	Rattled	45	
+Kingambit	3	2	2	3	3	2	13	12	2	3	Defiant	Supreme Overlord	Pressure	25	
+Great Tusk	3	2	2	3	3	2	13	12	2	3	Protosynthesis			30	
+Scream Tail	3	3	2	2	2	3	13	13	3	2	Protosynthesis			50	
+Brute Bonnet	3	2	2	3	2	2	13	12	2	2	Protosynthesis			50	
+Flutter Mane	2	3	3	2	2	3	12	13	3	2	Protosynthesis			30	
+Slither Wing	2	2	2	3	2	3	12	12	3	2	Protosynthesis			30	
+Sandy Shocks	2	3	3	2	2	2	12	13	2	2	Protosynthesis			30	
+Iron Treads	2	3	2	3	3	2	12	13	2	3	Quark Drive			30	
+Iron Bundle	2	3	3	2	3	2	12	13	2	3	Quark Drive			50	
+Iron Hands	4	2	2	3	3	2	14	12	2	3	Quark Drive			50	
+Iron Jugulis	2	3	3	2	2	2	12	13	2	2	Quark Drive			30	
+Iron Moth	2	3	3	2	2	3	12	13	3	2	Quark Drive			30	
+Iron Thorns	3	2	2	3	3	2	13	12	2	3	Quark Drive			30	
+Frigibax	2	2	1	2	1	1	12	12	1	1	Thermal Exchange		Ice Body	45	
+Arctibax	2	2	1	2	2	2	12	12	2	2	Thermal Exchange		Ice Body	25	
+Baxcalibur	3	2	2	3	2	2	13	12	2	2	Thermal Exchange		Ice Body	10	
+Gimmighoul (Chest Form)	1	1	2	1	2	2	11	11	2	2	Rattled			45	
+Gimmighoul (Roaming Form)	1	2	2	1	1	1	11	12	1	1	Run Away			45	
+Gholdengo	2	2	3	2	2	2	12	12	2	2	Good as Gold			45	
+Wo-Chien	2	2	2	2	3	3	12	12	3	3	Tablets of Ruin			6	
+Chien-Pao	2	3	2	3	2	2	12	13	2	2	Sword of Ruin			6	
+Ting-Lu	4	1	2	3	3	2	14	11	2	3	Vessel of Ruin			6	
+Chi-Yu	2	3	3	2	2	3	12	13	3	2	Beads of Ruin			6	
+Roaring Moon	3	3	2	3	2	3	13	13	3	2	Protosynthesis			10	
+Iron Valiant	2	3	3	3	2	2	12	13	2	2	Quark Drive			10	
+Koraidon	3	3	2	3	3	3	13	13	3	3	Orichalcum Pulse			3	
+Miraidon	3	3	3	2	3	3	13	13	3	3	Hadron Engine			3	
+Walking Wake	2	3	3	2	2	2	12	13	2	2	Protosynthesis			5	
+Iron Leaves	2	3	2	3	2	3	12	13	3	2	Quark Drive			5	
