@@ -4,11 +4,12 @@
   "description": "Genemon helper module for the SWFFG(Genesys) game system.",
   "main": "index.js",
   "scripts": {
-    "convert:all": "npm run convert:gear && npm run convert:itemmodifier && npm run convert:talent && npm run convert:weapon",
+    "convert:all": "npm run convert:gear && npm run convert:itemmodifier && npm run convert:talent && npm run convert:weapon && npm run convert:species",
     "convert:gear": "node bin/converter.js GEAR",
     "convert:itemmodifier": "node bin/converter.js ITEMMODIFIER",
     "convert:talent": "node bin/converter.js TALENT",
     "convert:weapon": "node bin/converter.js WEAPON",
+    "convert:species": "node bin/converter.js REGION",
     "copy": "node bin/copier.js"
   },
   "author": "",

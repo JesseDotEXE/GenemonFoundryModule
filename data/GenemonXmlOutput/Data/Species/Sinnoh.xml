@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Species>
+  <Key>GENSINNOH</Key>
+  <Name>Sinnoh</Name>
+  <Description>Sinnoh is a highly varied region, due to its vast size it encompasses every type of environment you could think of.  This leads the culture to embrace many ways to improve, use what you have no matter what that is. </Description>
+  <StartingChars>
+    <Brawn>2</Brawn>
+    <Agility>2</Agility>
+    <Intellect>1</Intellect>
+    <Cunning>1</Cunning>
+    <Willpower>2</Willpower>
+    <Presence>1</Presence>
+  </StartingChars>
+  <StartingAttrs>
+    <WoundThreshold>10</WoundThreshold>
+    <StrainThreshold>10</StrainThreshold>
+    <SoakValue>0</SoakValue>
+    <DefenseMelee>0</DefenseMelee>
+    <DefenseRanged>0</DefenseRanged>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+  </StartingAttrs>
+  <WeaponModifiers/>
+  <TalentModifiers/>
+  <OptionChoices/>
+  <NoForceAbilities>false</NoForceAbilities>
+  <SkillModifiers>
+    <SkillModifier>
+      <Key>ATHL</Key>
+      <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
+    </SkillModifier>
+    <SkillModifier>
+      <Key>SW</Key>
+      <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
+    </SkillModifier>
+  </SkillModifiers>
+</Species>

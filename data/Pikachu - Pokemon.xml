@@ -321,22 +321,18 @@
   <Weapons>
     <CharWeapon>
       <ItemKey>GENTHUNDER</ItemKey>
-      <Key>eb734cd2-468a-4fe4-aac0-cd05699e5cb1</Key>
       <Count>1</Count>
     </CharWeapon>
     <CharWeapon>
       <ItemKey>GENTHUNDERBOLT</ItemKey>
-      <Key>a3215e9e-6347-4fff-af7a-70143fdb4b48</Key>
       <Count>1</Count>
     </CharWeapon>
     <CharWeapon>
       <ItemKey>GENTHUNDERPUNCH</ItemKey>
-      <Key>118878e0-1132-45d1-a940-55c118b64372</Key>
       <Count>1</Count>
     </CharWeapon>
     <CharWeapon>
       <ItemKey>GENAGILITY</ItemKey>
-      <Key>8a9ac800-0d5b-4217-8810-01a0159aac05</Key>
       <Count>1</Count>
     </CharWeapon>
     <CharWeapon>
@@ -350,12 +346,10 @@
   <Gear>
     <CharGear>
       <ItemKey>GENADAPTABILITY</ItemKey>
-      <Key>036dc32a-2b0d-41ce-a851-50a38c420903</Key>
       <Count>1</Count>
     </CharGear>
     <CharGear>
       <ItemKey>GENAIRBALLOON</ItemKey>
-      <Key>57cd4f71-0020-474e-9416-5063b94ce78f</Key>
       <Count>1</Count>
     </CharGear>
     </Gear>

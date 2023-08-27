@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Species>
+  <Key>GENKANTO</Key>
+  <Name>Kanto</Name>
+  <Description>The region of Kanto is well known for their ability to create and utilize technology that allows new or even extinct Pokes to be brought back to the world.  The culture of this region prioritized creativity in all things including scientific insights.</Description>
+  <StartingChars>
+    <Brawn>1</Brawn>
+    <Agility>2</Agility>
+    <Intellect>2</Intellect>
+    <Cunning>2</Cunning>
+    <Willpower>1</Willpower>
+    <Presence>1</Presence>
+  </StartingChars>
+  <StartingAttrs>
+    <WoundThreshold>10</WoundThreshold>
+    <StrainThreshold>10</StrainThreshold>
+    <SoakValue>0</SoakValue>
+    <DefenseMelee>0</DefenseMelee>
+    <DefenseRanged>0</DefenseRanged>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+  </StartingAttrs>
+  <WeaponModifiers/>
+  <TalentModifiers/>
+  <OptionChoices/>
+  <NoForceAbilities>false</NoForceAbilities>
+  <SkillModifiers>
+    <SkillModifier>
+      <Key>COMP</Key>
+      <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
+    </SkillModifier>
+    <SkillModifier>
+      <Key>MECH</Key>
+      <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
+    </SkillModifier>
+  </SkillModifiers>
+</Species>

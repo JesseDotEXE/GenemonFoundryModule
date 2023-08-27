@@ -8,12 +8,16 @@ const swffgTypeMapping = {
     'ITEMMODIFIER': 'ItemDescriptor',
     'WEAPON': 'Weapon',
     'TALENT': 'Talent',
+    'REGION': 'Species',
+    'POKEMONIMAGE': ''
 };
-const outputFileNameMapping = {
+const outputFileNameMapping = { // TODO Make a more robust mapping object so the writeFile function is cleaner.
     'GEAR': 'Gear',
     'ITEMMODIFIER': 'ItemDescriptors',
     'WEAPON': 'Weapons',
     'TALENT': 'Talents',
+    'REGION': 'Species',
+    'POKEMONIMAGE': ''
 };
 
 const parseFile = async (fileName) => {
@@ -89,6 +93,59 @@ const buildSwffgTalentObject = (objectData) => {
     return rawFoundryObj;
 };
 
+const buildSwffgSpeciesObject = (objectData) => {
+    const rawFoundryObj = {};
+
+    // Basic Details
+    rawFoundryObj.Key = createFoundryDataKey(objectData.Name);
+    rawFoundryObj.Name = objectData.Name;
+    rawFoundryObj.Description = objectData.Description;
+    rawFoundryObj.StartingChars = {
+        Brawn: objectData.Brawn,
+        Agility: objectData.Agility,
+        Intellect: objectData.Intellect,
+        Cunning: objectData.Cunning,
+        Willpower: objectData.Willpower,
+        Presence: objectData.Presence,
+    };
+    rawFoundryObj.StartingAttrs = { // These will all be set to a default.
+        WoundThreshold: 10,
+        StrainThreshold: 10,
+        SoakValue: 0,
+        DefenseMelee: 0,
+        DefenseRanged: 0,
+        Experience: 0,
+        ForceRating: 0,
+    };
+    rawFoundryObj.WeaponModifiers = {}; // Unused
+    rawFoundryObj.TalentModifiers = {}; // Unused
+    rawFoundryObj.OptionChoices = {}; // Unused
+    rawFoundryObj.NoForceAbilities = false;
+
+    // Advanced Details
+    const skillModifiers = [];
+    if (objectData.SkillMod1) skillModifiers.push(objectData.SkillMod1);
+    if (objectData.SkillMod2) skillModifiers.push(objectData.SkillMod2);
+    const formattedSkillModifiersObj = {};
+    formattedSkillModifiersObj['SkillModifier'] = buildSkillModifiers(skillModifiers);
+    rawFoundryObj['SkillModifiers'] = formattedSkillModifiersObj;
+
+    return rawFoundryObj;
+};
+
+const buildSkillModifiers = (skillModData) => {
+    const formattedSkillModifiers = [];
+    forEach(skillModData, (modifier) => {
+        const formattedSkillMod = {
+            Key: modifier,
+            RankStart: 1,
+            RankLimit: 2,
+        };
+        formattedSkillModifiers.push(formattedSkillMod);
+    });
+    return formattedSkillModifiers;
+};
+
 const buildSwffgWeaponObject = (objectData) => {
     const rawFoundryObj = clone(objectData);
 
@@ -158,7 +215,7 @@ const buildFoundryXmlFile = (swffgDataType, tsvData) => {
 
     const formattedFoundryObjects = [];
     forEach(tsvData, (objectData) => {
-            let wrappedFoundryObject = {};
+        let wrappedFoundryObject = {};
 
         switch (foundyObjectType) {
             case "Gear":
@@ -185,21 +242,47 @@ const buildFoundryXmlFile = (swffgDataType, tsvData) => {
     return builder.buildObject(fullFormattedFoundryData);
 };
 
+const buildFoundXmlObjectsForDirectory = (swffgDataType, tsvData) => {
+    const foundryObjectType = swffgDataType;
+    const formattedXmlObjects = [];
+
+    forEach(tsvData, (objectData) => {
+        let wrappedFoundyObject = {};
+
+        switch (foundryObjectType) {
+            case "Species": // Species needs to make the Pokemon Species and Regions. This also outputs .xml files.
+                wrappedFoundyObject[foundryObjectType] = buildSwffgSpeciesObject(objectData);
+                break;
+        }
+
+        const builder = new xml2js.Builder();
+        const formattedXmlObject = builder.buildObject(wrappedFoundyObject);
+        formattedXmlObjects.push({ name: wrappedFoundyObject[foundryObjectType].Name, xml: formattedXmlObject });
+    });
+
+    return formattedXmlObjects;
+}
+
 /**
  *
- * @param swffgDataType - must be in 'Capitalize' format
+ * @param fileName - must be in 'Capitalize' format; will be either a swffg
  * @param data
+ * @param dirLocation
  * @returns {Promise<void>}
  */
-const writeFile = async (swffgDataType, data) => {
+const writeFile = async (fileName, data, dirLocation = null) => {
     try {
-        const outputFileName = outputFileNameMapping[swffgDataType];
-        const baseFolder = `./data/GenemonXmlOutput/Data`;
-        const fileName = `${baseFolder}/${outputFileName}.xml`;
-        console.log(`Saving Genemon XML data to [${fileName}].`);
+        let outputFileName = fileName;
+        let baseFolder = `./data/GenemonXmlOutput/Data`;
+        if (dirLocation) {
+            baseFolder = `${baseFolder}/${dirLocation}`;
+        }
+        const fullFileName = `${baseFolder}/${outputFileName}.xml`;
+
+        console.log(`Saving Genemon XML data to [${fullFileName}].`);
 
         await fs.mkdirSync(baseFolder, { recursive: true }); // Make folder first.
-        await fs.writeFileSync(fileName, data);
+        await fs.writeFileSync(fullFileName, data);
         console.log('File saved successfully.');
     } catch (error) {
         console.error('Error saving file. Error: ', error.message);
@@ -216,11 +299,24 @@ const writeFile = async (swffgDataType, data) => {
 
     const genemonData = await parseFile(fileName);
 
-    const formattedXmlData = await buildFoundryXmlFile(swffgDataType, genemonData);
+    // TODO Clean this up at some point.
+    if (swffgDataType === 'Species') { // These output a folder of .xml files.
+        const formattedXmlDataObjects = buildFoundXmlObjectsForDirectory(swffgDataType, genemonData);
+        // console.log('formattedXmlDataObjects: ', formattedXmlDataObjects);
 
-    if (formattedXmlData !== null && formattedXmlData !== undefined) {
-        await writeFile(importType, formattedXmlData);
-    } else {
-        console.error('Failed to parse data. Did not write file.');
+        if (formattedXmlDataObjects !== null && formattedXmlDataObjects !== undefined && formattedXmlDataObjects.length > 0) {
+            const directoryName = outputFileNameMapping[importType];
+            for (const formattedObject of formattedXmlDataObjects) {
+                await writeFile(formattedObject.name, formattedObject.xml, directoryName);
+            }
+        }
+    } else { // These are in a single file.
+        const formattedXmlData = await buildFoundryXmlFile(swffgDataType, genemonData);
+        if (formattedXmlData !== null && formattedXmlData !== undefined) {
+            const fileName = outputFileNameMapping[importType];
+            await writeFile(fileName, formattedXmlData, null);
+        } else {
+            console.error('Failed to parse data. Did not write file.');
+        }
     }
 })();

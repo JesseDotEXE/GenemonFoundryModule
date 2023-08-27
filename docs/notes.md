@@ -62,7 +62,15 @@ Conversions
 * Catch Rate is just text in Pokemon biography.
 * Don't worry about Status and Conditions.
 
-Pokemon will import with Species, Gear, Bio, and Picture.
+Pokemon will import with Species, Gear(abilities and held items), Bio, and Picture.
 * Each Pokemon will be a Species.
-* Players will assign attacks.
+* Pokemon Pre-import Setup
+  + Each Pokemon needs a Species associated with them.
+  + Each Pokemon needs their image converted to a blob.
+* Players will assign attacks from the Specializations.
 * Morgan will make Specializations.
+  + We don't need to worry about trainer specializations for now either.
+* Need to convert all the images to blobs, maybe save them in a JSON mapping.
+
+# Species Importer
+No clue what the OptionChoices are. They seem to just be added onto the description.
