@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Species>
+  <Key>GENZANGOOSE</Key>
+  <Name>Zangoose</Name>
+  <Description/>
+  <StartingChars>
+    <Brawn>2</Brawn>
+    <Agility>2</Agility>
+    <Intellect>2</Intellect>
+    <Cunning>3</Cunning>
+    <Willpower>2</Willpower>
+    <Presence>2</Presence>
+  </StartingChars>
+  <StartingAttrs>
+    <WoundThreshold>12</WoundThreshold>
+    <StrainThreshold>12</StrainThreshold>
+    <SoakValue>0</SoakValue>
+    <DefenseMelee>2</DefenseMelee>
+    <DefenseRanged>2</DefenseRanged>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+  </StartingAttrs>
+  <WeaponModifiers/>
+  <TalentModifiers/>
+  <OptionChoices/>
+  <NoForceAbilities>false</NoForceAbilities>
+  <SkillModifiers/>
+</Species>

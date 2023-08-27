@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Species>
+  <Key>GENETERNATUS(ETERNAMAXETERNATUS)</Key>
+  <Name>Eternatus (Eternamax Eternatus)</Name>
+  <Description/>
+  <StartingChars>
+    <Brawn>6</Brawn>
+    <Agility>3</Agility>
+    <Intellect>3</Intellect>
+    <Cunning>3</Cunning>
+    <Willpower>6</Willpower>
+    <Presence>6</Presence>
+  </StartingChars>
+  <StartingAttrs>
+    <WoundThreshold>16</WoundThreshold>
+    <StrainThreshold>13</StrainThreshold>
+    <SoakValue>0</SoakValue>
+    <DefenseMelee>6</DefenseMelee>
+    <DefenseRanged>6</DefenseRanged>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+  </StartingAttrs>
+  <WeaponModifiers/>
+  <TalentModifiers/>
+  <OptionChoices/>
+  <NoForceAbilities>false</NoForceAbilities>
+  <SkillModifiers/>
+</Species>
