@@ -9,7 +9,7 @@ const swffgTypeMapping = {
     'WEAPON': 'Weapon',
     'TALENT': 'Talent',
     'REGION': 'Species',
-    'POKEMONIMAGE': ''
+    'POKEMON': 'Pokemon',
 };
 const outputFileNameMapping = { // TODO Make a more robust mapping object so the writeFile function is cleaner.
     'GEAR': 'Gear',
@@ -17,7 +17,7 @@ const outputFileNameMapping = { // TODO Make a more robust mapping object so the
     'WEAPON': 'Weapons',
     'TALENT': 'Talents',
     'REGION': 'Species',
-    'POKEMONIMAGE': ''
+    'POKEMON': 'Pokemon'
 };
 
 const parseFile = async (fileName) => {
@@ -108,15 +108,15 @@ const buildSwffgSpeciesObject = (objectData) => {
         Willpower: objectData.Willpower,
         Presence: objectData.Presence,
     };
-    rawFoundryObj.StartingAttrs = { // These will all be set to a default.
-        WoundThreshold: 10,
-        StrainThreshold: 10,
+    rawFoundryObj.StartingAttrs = {
+        WoundThreshold: get(objectData, 'WoundThreshold', 0),
+        StrainThreshold: get(objectData, 'StrainThreshold', 0),
         SoakValue: 0,
-        DefenseMelee: 0,
-        DefenseRanged: 0,
+        DefenseMelee: get(objectData, 'DefenseMelee', 0),
+        DefenseRanged: get(objectData, 'DefenseRanged', 0),
         Experience: 0,
         ForceRating: 0,
-    };
+    }
     rawFoundryObj.WeaponModifiers = {}; // Unused
     rawFoundryObj.TalentModifiers = {}; // Unused
     rawFoundryObj.OptionChoices = {}; // Unused
@@ -293,7 +293,7 @@ const writeFile = async (fileName, data, dirLocation = null) => {
 (async () => {
     const importType = toUpper(get(process, 'argv[2]', 'UNKNOWN')); // Must be in 'Captialize' format.
     const fileName = `./data/GenemonTsvInput/Genemon Import Data - [${importType}].tsv`;
-    const swffgDataType = swffgTypeMapping[importType];
+    let swffgDataType = swffgTypeMapping[importType];
 
     console.log(`Converting Genemon data for SWFFG type [${swffgDataType}].`);
 
@@ -302,14 +302,26 @@ const writeFile = async (fileName, data, dirLocation = null) => {
     // TODO Clean this up at some point.
     if (swffgDataType === 'Species') { // These output a folder of .xml files.
         const formattedXmlDataObjects = buildFoundXmlObjectsForDirectory(swffgDataType, genemonData);
-        // console.log('formattedXmlDataObjects: ', formattedXmlDataObjects);
-
         if (formattedXmlDataObjects !== null && formattedXmlDataObjects !== undefined && formattedXmlDataObjects.length > 0) {
             const directoryName = outputFileNameMapping[importType];
             for (const formattedObject of formattedXmlDataObjects) {
                 await writeFile(formattedObject.name, formattedObject.xml, directoryName);
             }
         }
+    } else if (swffgDataType === 'Pokemon') {
+        // Create Pokemon Species
+        const swffgSpeciesType = 'Species';
+
+        const formattedXmlDataObjects = buildFoundXmlObjectsForDirectory(swffgSpeciesType, genemonData);
+        if (formattedXmlDataObjects !== null && formattedXmlDataObjects !== undefined && formattedXmlDataObjects.length > 0) {
+            const directoryName = swffgSpeciesType;
+            for (const formattedObject of formattedXmlDataObjects) {
+                await writeFile(formattedObject.name, formattedObject.xml, directoryName);
+            }
+        }
+
+        // Create Pokmeon XML
+        // TODO
     } else { // These are in a single file.
         const formattedXmlData = await buildFoundryXmlFile(swffgDataType, genemonData);
         if (formattedXmlData !== null && formattedXmlData !== undefined) {

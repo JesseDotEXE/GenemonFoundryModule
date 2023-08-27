@@ -10,6 +10,7 @@
     "convert:talent": "node bin/converter.js TALENT",
     "convert:weapon": "node bin/converter.js WEAPON",
     "convert:species": "node bin/converter.js REGION",
+    "convert:pokemon": "node bin/converter.js POKEMON",
     "create:type-images": "node bin/AttackTypeImageCreator.js",
     "copy": "node bin/copier.js"
   },
