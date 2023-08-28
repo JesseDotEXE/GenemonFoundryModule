@@ -77,3 +77,31 @@ No clue what the OptionChoices are. They seem to just be added onto the descript
 
 # Pokemon Importer Notes from 8/27
 * Looks like Soak, Ranged Defense, and Melee Defense can't be imported via the Species.
+
+# Weapon/Quality Importer
+Cannot import Roll/Dice mods by default but if I add this to a quality we can import it:
+```
+<BaseMods>
+    <Mod>
+      <DieModifiers>
+        <DieModifier>
+            <BoostCount>1</BoostCount>
+        </DieModifier>
+      </DieModifiers>
+    </Mod>
+</BaseMods>
+```
+
+I can try to adjust import-helpers.js line 2302 with this:
+```
+switch (m) {
+  case "BoostCount":
+    modtype = "Roll Modifiers";
+    type = "Add Boost";
+    break;
+  case "SetbackCount":
+    modtype = "Roll Modifiers";
+    type = "Add Setback";
+    break;
+}
+```
