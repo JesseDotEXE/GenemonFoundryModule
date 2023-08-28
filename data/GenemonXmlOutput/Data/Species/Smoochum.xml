@@ -2,7 +2,32 @@
 <Species>
   <Key>GENSMOOCHUM</Key>
   <Name>Smoochum</Name>
-  <Description>Smoochum</Description>
+  <Description>
+        Smoochum
+        
+        &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Starting Stats&lt;/b&gt;&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Brawn: [1]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Agility: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Intellect: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Cunning: [1]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Willpower: [1]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Presence: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Wound Threshold: [11]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Strain Threshold: [12]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Defense Ranged: [2] (will not autopopulate)&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Defense Melee: [1] (will not autopopulate)&lt;!--]]--&gt;                
+    
+    </Description>
   <StartingChars>
     <Brawn>1</Brawn>
     <Agility>2</Agility>

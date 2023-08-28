@@ -2,7 +2,32 @@
 <Species>
   <Key>GENSIMIPOUR</Key>
   <Name>Simipour</Name>
-  <Description>Simipour</Description>
+  <Description>
+        Simipour
+        
+        &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Starting Stats&lt;/b&gt;&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Brawn: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Agility: [3]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Intellect: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Cunning: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Willpower: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Presence: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Wound Threshold: [12]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Strain Threshold: [13]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Defense Ranged: [2] (will not autopopulate)&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Defense Melee: [2] (will not autopopulate)&lt;!--]]--&gt;                
+    
+    </Description>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>3</Agility>
