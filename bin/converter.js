@@ -96,27 +96,34 @@ const buildSwffgTalentObject = (objectData) => {
 const buildSwffgSpeciesObject = (objectData) => {
     const rawFoundryObj = {};
 
+    const charStats = parseCharacterStats(objectData);
+    const { brawn, agility, intellect, cunning, willpower, presence, woundThreshold, strainThreshold, defenseRanged, defenseMelee } = charStats;
+    const statsString = createStatsString(objectData);
+
     // Basic Details
     rawFoundryObj.Key = createFoundryDataKey(objectData.Name);
     rawFoundryObj.Name = objectData.Name;
-    rawFoundryObj.Description = objectData.Description;
+    rawFoundryObj.Description = `
+        ${objectData.Description}
+        ${statsString}
+    `;
     rawFoundryObj.StartingChars = {
-        Brawn: objectData.Brawn,
-        Agility: objectData.Agility,
-        Intellect: objectData.Intellect,
-        Cunning: objectData.Cunning,
-        Willpower: objectData.Willpower,
-        Presence: objectData.Presence,
+        Brawn: brawn,
+        Agility: agility,
+        Intellect: intellect,
+        Cunning: cunning,
+        Willpower: willpower,
+        Presence: presence,
     };
     rawFoundryObj.StartingAttrs = {
-        WoundThreshold: get(objectData, 'WoundThreshold', 0),
-        StrainThreshold: get(objectData, 'StrainThreshold', 0),
+        WoundThreshold: woundThreshold, // Doesn't import automatically.
+        StrainThreshold: strainThreshold, // Doesn't import automatically.
         SoakValue: 0,
-        DefenseMelee: get(objectData, 'DefenseMelee', 0),
-        DefenseRanged: get(objectData, 'DefenseRanged', 0),
+        DefenseMelee: defenseMelee,
+        DefenseRanged: defenseRanged,
         Experience: 0,
         ForceRating: 0,
-    }
+    };
     rawFoundryObj.WeaponModifiers = {}; // Unused
     rawFoundryObj.TalentModifiers = {}; // Unused
     rawFoundryObj.OptionChoices = {}; // Unused
@@ -141,6 +148,8 @@ const buildSwffgSpeciesObject = (objectData) => {
 const buildSwffgCharacterObject = (objectData) => {
     const rawFoundryObj = {};
 
+    const statsString = createStatsString(objectData);
+
     // Basic Details
     const baseFoundryKey = createFoundryDataKey(objectData.Name)
     rawFoundryObj.Key = `Character${baseFoundryKey}`; // Prepend Character to this key to be safe.
@@ -149,7 +158,10 @@ const buildSwffgCharacterObject = (objectData) => {
         CharName: objectData.Name,
         OtherFeatures: objectData.CatchRate,
     };
-    rawFoundryObj.Story = objectData.Description;
+    rawFoundryObj.Story = `
+        ${objectData.Description}
+        ${statsString}
+    `;
 
     // Linked Details
     rawFoundryObj.Portrait = ''; // TODO
@@ -161,54 +173,49 @@ const buildSwffgCharacterObject = (objectData) => {
     };
     const gearArray = [];
     const abilityName = get(objectData, 'Ability', null);
-    if (abilityName) {
-        gearArray.push({
-            ItemKey: createFoundryDataKey(abilityName),
-            Count: 1,
-        });
-    }
+    if (abilityName) gearArray.push({ ItemKey: createFoundryDataKey(abilityName), Count: 1, });
     const secondAbilityName = get(objectData, 'SecondAbility', null);
-    if (secondAbilityName) {
-        gearArray.push({
-            ItemKey: createFoundryDataKey(secondAbilityName),
-            Count: 1,
-        });
-    }
+    if (secondAbilityName) gearArray.push({ ItemKey: createFoundryDataKey(secondAbilityName), Count: 1, });
     const hiddenAbilityName = get(objectData, 'HiddenAbility', null);
-    if (hiddenAbilityName) {
-        gearArray.push({
-            ItemKey: createFoundryDataKey(hiddenAbilityName),
-            Count: 1,
-        });
-    }
-    rawFoundryObj.Gear = {
-        CharGear: gearArray,
-    };
-
-    if (objectData.Name === 'Pidgey') {
-        console.log('objectData: ', objectData);
-        console.log('rawFoundyObj: ', rawFoundryObj.Gear);
-    }
-
+    if (hiddenAbilityName) gearArray.push({ ItemKey: createFoundryDataKey(hiddenAbilityName), Count: 1, });
+    rawFoundryObj.Gear = { CharGear: gearArray, };
 
     // Derived/Modified Details - check if we need to factor in the Species values
-    rawFoundryObj.Characteristics = {};
+    const characteristicArray = [];
+    characteristicArray.push({ Key: 'BR', Name: 'Brawn' });
+    characteristicArray.push({ Key: 'AG', Name: 'Agility' });
+    characteristicArray.push({ Key: 'INT', Name: 'Intellect' });
+    characteristicArray.push({ Key: 'CUN', Name: 'Cunning' });
+    characteristicArray.push({ Key: 'WIL', Name: 'Willpower' });
+    characteristicArray.push({ Key: 'PR', Name: 'Presence' });
+    rawFoundryObj.Characteristics = { CharCharacteristic: characteristicArray, };
+    const skillArray = [];
+    skillArray.push({ Key: 'BRAWL' });
+    skillArray.push({ Key: 'RANGLT' });
+    skillArray.push({ Key: 'LORE' });
+    skillArray.push({ Key: 'RESIL' });
+    skillArray.push({ Key: 'VIGIL' });
+    rawFoundryObj.Skills = { CharSkill: skillArray };
+    rawFoundryObj.Experience = { ExperienceRanks: { StartingRanks: 0, }, };
+    rawFoundryObj.Career = {}; // Triggers error, may need a temp item.
+    rawFoundryObj.Specializations = {}; // Triggers error may need a temp item.
+    // rawFoundryObj.Attributes = {
+    //    SoakValue: { StartingRanks: 0 },
+    //    WoundThreshold: { StartingRanks: 0 },
+    //    StrainThreshold: { StartingRanks: 0 }
+    // };
     rawFoundryObj.Attributes = {};
-    rawFoundryObj.Skills = {};
-    rawFoundryObj.Experience = {};
+
+    // Unused or nullable for Import
     rawFoundryObj.Weapons = {};
     rawFoundryObj.Armor = {};
-
-    // Unused
     rawFoundryObj.Motivations = {};
-    rawFoundryObj.Specializations = {};
     rawFoundryObj.ForcePowers = {};
     rawFoundryObj.SigAbilities = {};
     rawFoundryObj.ObOptions = {};
     rawFoundryObj.Obligations = {};
     rawFoundryObj.DutOptions = {};
     rawFoundryObj.Duties = {};
-    rawFoundryObj.Career = {};
     rawFoundryObj.Class = {};
     rawFoundryObj.Hook = {};
     rawFoundryObj.Attitude = {};
@@ -225,6 +232,42 @@ const buildSwffgCharacterObject = (objectData) => {
     rawFoundryObj.AutoRecacl = true; // What is this?
 
     return rawFoundryObj;
+};
+
+const parseCharacterStats = (characterObj) => {
+    const brawn = get(characterObj, 'Brawn', 0);
+    const agility = get(characterObj, 'Agility', 0);
+    const intellect = get(characterObj, 'Intellect', 0);
+    const cunning = get(characterObj, 'Cunning', 0);
+    const willpower = get(characterObj, 'Willpower', 0);
+    const presence = get(characterObj, 'Presence', 0);
+    const woundThreshold = get(characterObj, 'WoundThreshold', 0);
+    const strainThreshold = get(characterObj, 'StrainThreshold', 0);
+    const defenseRanged = get(characterObj, 'DefenseRanged', 0);
+    const defenseMelee = get(characterObj, 'DefenseMelee', 0);
+
+    return { brawn, agility, intellect, cunning, willpower, presence, woundThreshold, strainThreshold, defenseRanged, defenseMelee };
+}
+
+const createStatsString = (characterObj) => {
+    const charStats = parseCharacterStats(characterObj);
+    const { brawn, agility, intellect, cunning, willpower, presence, woundThreshold, strainThreshold, defenseRanged, defenseMelee } = charStats;
+
+    const statsString = `
+        <!--[CDATA[--><br><br><b>Starting Stats</b><!--]]-->
+        \n<!--[CDATA[--><br>Brawn: [${brawn}]<!--]]-->
+        \n<!--[CDATA[--><br>Agility: [${agility}]<!--]]-->
+        \n<!--[CDATA[--><br>Intellect: [${intellect}]<!--]]-->
+        \n<!--[CDATA[--><br>Cunning: [${cunning}]<!--]]-->
+        \n<!--[CDATA[--><br>Willpower: [${willpower}]<!--]]-->
+        \n<!--[CDATA[--><br>Presence: [${presence}]<!--]]-->
+        \n<!--[CDATA[--><br>Wound Threshold: [${woundThreshold}]<!--]]-->
+        \n<!--[CDATA[--><br>Strain Threshold: [${strainThreshold}]<!--]]-->
+        \n<!--[CDATA[--><br>Defense Ranged: [${defenseRanged}] (will not autopopulate)<!--]]-->
+        \n<!--[CDATA[--><br>Defense Melee: [${defenseMelee}] (will not autopopulate)<!--]]-->                
+    `;
+
+    return statsString;
 };
 
 const buildSkillModifiers = (skillModData) => {
@@ -415,11 +458,9 @@ const writeFile = async (fileName, data, dirLocation = null) => {
             }
         }
 
-        // Create Pokmeon XML
-        // TODO
+        // Create Pokemon XMLs
         const swffgCharacterType = 'Character';
         const formattedXmlCharacterObjects = buildFoundXmlObjectsForDirectory(swffgCharacterType, genemonData);
-        console.log('formattedXmlCharacterObjects: ', formattedXmlCharacterObjects);
         if (formattedXmlCharacterObjects !== null && formattedXmlCharacterObjects !== undefined && formattedXmlCharacterObjects.length > 0) {
             for (const formattedObject of formattedXmlCharacterObjects) {
                 await writeFile(formattedObject.name, formattedObject.xml, swffgCharacterType);
