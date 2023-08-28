@@ -74,3 +74,6 @@ Pokemon will import with Species, Gear(abilities and held items), Bio, and Pictu
 
 # Species Importer
 No clue what the OptionChoices are. They seem to just be added onto the description.
+
+# Pokemon Importer Notes from 8/27
+* Looks like Soak, Ranged Defense, and Melee Defense can't be imported via the Species.
