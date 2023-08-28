@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Character>
+  <Key>CharacterGENTSAREENA</Key>
+  <Name>Tsareena</Name>
+  <Description>
+    <CharName>Tsareena</CharName>
+    <OtherFeatures>45</OtherFeatures>
+  </Description>
+  <Story>
+        Tsareena
+        
+        &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Starting Stats&lt;/b&gt;&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Brawn: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Agility: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Intellect: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Cunning: [3]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Willpower: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Presence: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Wound Threshold: [12]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Strain Threshold: [12]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Defense Ranged: [2] (will not autopopulate)&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Defense Melee: [2] (will not autopopulate)&lt;!--]]--&gt;                
+    
+    </Story>
+  <Portrait/>
+  <Species>
+    <SpeciesKey>GENTSAREENA</SpeciesKey>
+    <SubSpeciesKey/>
+    <SelectedOptions/>
+    <NonCareerSkills/>
+  </Species>
+  <Gear>
+    <CharGear>
+      <ItemKey>GENLEAFGUARD</ItemKey>
+      <Count>1</Count>
+    </CharGear>
+    <CharGear>
+      <ItemKey>GENQUEENLYMAJESTY</ItemKey>
+      <Count>1</Count>
+    </CharGear>
+    <CharGear>
+      <ItemKey>GENSWEETVEIL</ItemKey>
+      <Count>1</Count>
+    </CharGear>
+  </Gear>
+  <Characteristics>
+    <CharCharacteristic>
+      <Key>BR</Key>
+      <Name>Brawn</Name>
+    </CharCharacteristic>
+    <CharCharacteristic>
+      <Key>AG</Key>
+      <Name>Agility</Name>
+    </CharCharacteristic>
+    <CharCharacteristic>
+      <Key>INT</Key>
+      <Name>Intellect</Name>
+    </CharCharacteristic>
+    <CharCharacteristic>
+      <Key>CUN</Key>
+      <Name>Cunning</Name>
+    </CharCharacteristic>
+    <CharCharacteristic>
+      <Key>WIL</Key>
+      <Name>Willpower</Name>
+    </CharCharacteristic>
+    <CharCharacteristic>
+      <Key>PR</Key>
+      <Name>Presence</Name>
+    </CharCharacteristic>
+  </Characteristics>
+  <Skills>
+    <CharSkill>
+      <Key>BRAWL</Key>
+    </CharSkill>
+    <CharSkill>
+      <Key>RANGLT</Key>
+    </CharSkill>
+    <CharSkill>
+      <Key>LORE</Key>
+    </CharSkill>
+    <CharSkill>
+      <Key>RESIL</Key>
+    </CharSkill>
+    <CharSkill>
+      <Key>VIGIL</Key>
+    </CharSkill>
+  </Skills>
+  <Experience>
+    <ExperienceRanks>
+      <StartingRanks>0</StartingRanks>
+    </ExperienceRanks>
+  </Experience>
+  <Career/>
+  <Specializations/>
+  <Attributes/>
+  <Weapons/>
+  <Armor/>
+  <Motivations/>
+  <ForcePowers/>
+  <SigAbilities/>
+  <ObOptions/>
+  <Obligations/>
+  <DutOptions/>
+  <Duties/>
+  <Class/>
+  <Hook/>
+  <Attitude/>
+  <Vehicles/>
+  <NPCs/>
+  <SummaryPriorities/>
+  <Credits/>
+  <Morality/>
+  <Grants/>
+  <UseGrants>false</UseGrants>
+  <Rigger/>
+  <Schematics/>
+  <Rewards/>
+  <AutoRecacl>true</AutoRecacl>
+</Character>
