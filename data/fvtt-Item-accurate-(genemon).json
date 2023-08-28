@@ -1,0 +1,45 @@
+{
+  "name": "Accurate (Genemon)",
+  "type": "itemmodifier",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "attributes": {
+      "attr1693194848474": {
+        "modtype": "Roll Modifiers",
+        "value": 1,
+        "mod": "Add Boost"
+      }
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "all",
+    "rank": "0"
+  },
+  "effects": [],
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": false,
+      "ffgUuid": null,
+      "ffgIsOwned": null,
+      "loaded": false
+    },
+    "core": {
+      "sourceId": "Item.HbfyTYsM99uUv8Jg"
+    },
+    "exportSource": {
+      "world": "swffg-genemon-workspace",
+      "system": "starwarsffg",
+      "coreVersion": "10.303",
+      "systemVersion": "1.801"
+    }
+  },
+  "_stats": {
+    "systemId": "starwarsffg",
+    "systemVersion": "1.801",
+    "coreVersion": "10.303",
+    "createdTime": 1693194846019,
+    "modifiedTime": 1693194985131,
+    "lastModifiedBy": "8H0xv3R0y8B4ghOO"
+  }
+}
