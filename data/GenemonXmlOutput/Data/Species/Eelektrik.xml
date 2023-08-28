@@ -2,7 +2,7 @@
 <Species>
   <Key>GENEELEKTRIK</Key>
   <Name>Eelektrik</Name>
-  <Description/>
+  <Description>Eelektrik</Description>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>1</Agility>

@@ -2,7 +2,7 @@
 <Species>
   <Key>GENMEOWTH</Key>
   <Name>Meowth</Name>
-  <Description/>
+  <Description>Meowth</Description>
   <StartingChars>
     <Brawn>1</Brawn>
     <Agility>2</Agility>

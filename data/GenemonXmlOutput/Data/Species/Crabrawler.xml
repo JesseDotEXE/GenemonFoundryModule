@@ -2,7 +2,7 @@
 <Species>
   <Key>GENCRABRAWLER</Key>
   <Name>Crabrawler</Name>
-  <Description/>
+  <Description>Crabrawler</Description>
   <StartingChars>
     <Brawn>1</Brawn>
     <Agility>2</Agility>

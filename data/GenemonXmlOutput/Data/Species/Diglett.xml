@@ -2,7 +2,7 @@
 <Species>
   <Key>GENDIGLETT</Key>
   <Name>Diglett</Name>
-  <Description/>
+  <Description>Diglett</Description>
   <StartingChars>
     <Brawn>1</Brawn>
     <Agility>2</Agility>

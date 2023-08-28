@@ -2,7 +2,7 @@
 <Species>
   <Key>GENHAUNTER</Key>
   <Name>Haunter</Name>
-  <Description/>
+  <Description>Haunter</Description>
   <StartingChars>
     <Brawn>1</Brawn>
     <Agility>2</Agility>

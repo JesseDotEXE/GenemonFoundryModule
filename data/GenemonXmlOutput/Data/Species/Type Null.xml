@@ -2,7 +2,7 @@
 <Species>
   <Key>GENTYPENULL</Key>
   <Name>Type Null</Name>
-  <Description/>
+  <Description>Type Null</Description>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>2</Agility>

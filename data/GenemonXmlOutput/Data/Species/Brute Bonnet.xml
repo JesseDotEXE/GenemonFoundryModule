@@ -2,7 +2,7 @@
 <Species>
   <Key>GENBRUTEBONNET</Key>
   <Name>Brute Bonnet</Name>
-  <Description/>
+  <Description>Brute Bonnet</Description>
   <StartingChars>
     <Brawn>3</Brawn>
     <Agility>2</Agility>

@@ -2,7 +2,7 @@
 <Species>
   <Key>GENELECTRODE(HISUIANELECTRODE)</Key>
   <Name>Electrode (Hisuian Electrode)</Name>
-  <Description/>
+  <Description>Electrode (Hisuian Electrode)</Description>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>4</Agility>

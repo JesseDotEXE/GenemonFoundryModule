@@ -2,7 +2,7 @@
 <Species>
   <Key>GENCASTFORM</Key>
   <Name>Castform</Name>
-  <Description/>
+  <Description>Castform</Description>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>2</Agility>

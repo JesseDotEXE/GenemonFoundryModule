@@ -2,7 +2,7 @@
 <Species>
   <Key>GENIRONMOTH</Key>
   <Name>Iron Moth</Name>
-  <Description/>
+  <Description>Iron Moth</Description>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>3</Agility>

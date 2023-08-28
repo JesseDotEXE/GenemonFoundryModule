@@ -2,7 +2,7 @@
 <Species>
   <Key>GENMASCHIFF</Key>
   <Name>Maschiff</Name>
-  <Description/>
+  <Description>Maschiff</Description>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>2</Agility>

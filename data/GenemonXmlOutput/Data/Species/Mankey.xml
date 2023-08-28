@@ -2,7 +2,7 @@
 <Species>
   <Key>GENMANKEY</Key>
   <Name>Mankey</Name>
-  <Description/>
+  <Description>Mankey</Description>
   <StartingChars>
     <Brawn>1</Brawn>
     <Agility>2</Agility>

@@ -133,6 +133,100 @@ const buildSwffgSpeciesObject = (objectData) => {
     return rawFoundryObj;
 };
 
+/**
+ * // Pokemon-only at the moment.
+ * @param objectData
+ * @returns {{}}
+ */
+const buildSwffgCharacterObject = (objectData) => {
+    const rawFoundryObj = {};
+
+    // Basic Details
+    const baseFoundryKey = createFoundryDataKey(objectData.Name)
+    rawFoundryObj.Key = `Character${baseFoundryKey}`; // Prepend Character to this key to be safe.
+    rawFoundryObj.Name = objectData.Name;
+    rawFoundryObj.Description = {
+        CharName: objectData.Name,
+        OtherFeatures: objectData.CatchRate,
+    };
+    rawFoundryObj.Story = objectData.Description;
+
+    // Linked Details
+    rawFoundryObj.Portrait = ''; // TODO
+    rawFoundryObj.Species = {
+        SpeciesKey: baseFoundryKey,
+        SubSpeciesKey: {},
+        SelectedOptions: {},
+        NonCareerSkills: {},
+    };
+    const gearArray = [];
+    const abilityName = get(objectData, 'Ability', null);
+    if (abilityName) {
+        gearArray.push({
+            ItemKey: createFoundryDataKey(abilityName),
+            Count: 1,
+        });
+    }
+    const secondAbilityName = get(objectData, 'SecondAbility', null);
+    if (secondAbilityName) {
+        gearArray.push({
+            ItemKey: createFoundryDataKey(secondAbilityName),
+            Count: 1,
+        });
+    }
+    const hiddenAbilityName = get(objectData, 'HiddenAbility', null);
+    if (hiddenAbilityName) {
+        gearArray.push({
+            ItemKey: createFoundryDataKey(hiddenAbilityName),
+            Count: 1,
+        });
+    }
+    rawFoundryObj.Gear = {
+        CharGear: gearArray,
+    };
+
+    if (objectData.Name === 'Pidgey') {
+        console.log('objectData: ', objectData);
+        console.log('rawFoundyObj: ', rawFoundryObj.Gear);
+    }
+
+
+    // Derived/Modified Details - check if we need to factor in the Species values
+    rawFoundryObj.Characteristics = {};
+    rawFoundryObj.Attributes = {};
+    rawFoundryObj.Skills = {};
+    rawFoundryObj.Experience = {};
+    rawFoundryObj.Weapons = {};
+    rawFoundryObj.Armor = {};
+
+    // Unused
+    rawFoundryObj.Motivations = {};
+    rawFoundryObj.Specializations = {};
+    rawFoundryObj.ForcePowers = {};
+    rawFoundryObj.SigAbilities = {};
+    rawFoundryObj.ObOptions = {};
+    rawFoundryObj.Obligations = {};
+    rawFoundryObj.DutOptions = {};
+    rawFoundryObj.Duties = {};
+    rawFoundryObj.Career = {};
+    rawFoundryObj.Class = {};
+    rawFoundryObj.Hook = {};
+    rawFoundryObj.Attitude = {};
+    rawFoundryObj.Vehicles = {};
+    rawFoundryObj.NPCs = {};
+    rawFoundryObj.SummaryPriorities = {};
+    rawFoundryObj.Credits = {};
+    rawFoundryObj.Morality = {};
+    rawFoundryObj.Grants = {};
+    rawFoundryObj.UseGrants = false;
+    rawFoundryObj.Rigger = {};
+    rawFoundryObj.Schematics = {};
+    rawFoundryObj.Rewards = {};
+    rawFoundryObj.AutoRecacl = true; // What is this?
+
+    return rawFoundryObj;
+};
+
 const buildSkillModifiers = (skillModData) => {
     const formattedSkillModifiers = [];
     forEach(skillModData, (modifier) => {
@@ -253,6 +347,9 @@ const buildFoundXmlObjectsForDirectory = (swffgDataType, tsvData) => {
             case "Species": // Species needs to make the Pokemon Species and Regions. This also outputs .xml files.
                 wrappedFoundyObject[foundryObjectType] = buildSwffgSpeciesObject(objectData);
                 break;
+            case "Character":
+                wrappedFoundyObject[foundryObjectType] = buildSwffgCharacterObject(objectData);
+                break;
         }
 
         const builder = new xml2js.Builder();
@@ -311,17 +408,23 @@ const writeFile = async (fileName, data, dirLocation = null) => {
     } else if (swffgDataType === 'Pokemon') {
         // Create Pokemon Species
         const swffgSpeciesType = 'Species';
-
-        const formattedXmlDataObjects = buildFoundXmlObjectsForDirectory(swffgSpeciesType, genemonData);
-        if (formattedXmlDataObjects !== null && formattedXmlDataObjects !== undefined && formattedXmlDataObjects.length > 0) {
-            const directoryName = swffgSpeciesType;
-            for (const formattedObject of formattedXmlDataObjects) {
-                await writeFile(formattedObject.name, formattedObject.xml, directoryName);
+        const formattedXmlSpeciesObjects = buildFoundXmlObjectsForDirectory(swffgSpeciesType, genemonData);
+        if (formattedXmlSpeciesObjects !== null && formattedXmlSpeciesObjects !== undefined && formattedXmlSpeciesObjects.length > 0) {
+            for (const formattedObject of formattedXmlSpeciesObjects) {
+                await writeFile(formattedObject.name, formattedObject.xml, swffgSpeciesType);
             }
         }
 
         // Create Pokmeon XML
         // TODO
+        const swffgCharacterType = 'Character';
+        const formattedXmlCharacterObjects = buildFoundXmlObjectsForDirectory(swffgCharacterType, genemonData);
+        console.log('formattedXmlCharacterObjects: ', formattedXmlCharacterObjects);
+        if (formattedXmlCharacterObjects !== null && formattedXmlCharacterObjects !== undefined && formattedXmlCharacterObjects.length > 0) {
+            for (const formattedObject of formattedXmlCharacterObjects) {
+                await writeFile(formattedObject.name, formattedObject.xml, swffgCharacterType);
+            }
+        }
     } else { // These are in a single file.
         const formattedXmlData = await buildFoundryXmlFile(swffgDataType, genemonData);
         if (formattedXmlData !== null && formattedXmlData !== undefined) {

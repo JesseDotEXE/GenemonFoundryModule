@@ -2,7 +2,7 @@
 <Species>
   <Key>GENRABOOT</Key>
   <Name>Raboot</Name>
-  <Description/>
+  <Description>Raboot</Description>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>2</Agility>

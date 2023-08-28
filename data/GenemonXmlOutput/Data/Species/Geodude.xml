@@ -2,7 +2,7 @@
 <Species>
   <Key>GENGEODUDE</Key>
   <Name>Geodude</Name>
-  <Description/>
+  <Description>Geodude</Description>
   <StartingChars>
     <Brawn>1</Brawn>
     <Agility>1</Agility>

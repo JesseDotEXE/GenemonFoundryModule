@@ -2,7 +2,7 @@
 <Species>
   <Key>GENTAUROS</Key>
   <Name>Tauros</Name>
-  <Description/>
+  <Description>Tauros</Description>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>3</Agility>

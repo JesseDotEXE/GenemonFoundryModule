@@ -2,7 +2,7 @@
 <Species>
   <Key>GENWIMPOD</Key>
   <Name>Wimpod</Name>
-  <Description/>
+  <Description>Wimpod</Description>
   <StartingChars>
     <Brawn>1</Brawn>
     <Agility>2</Agility>

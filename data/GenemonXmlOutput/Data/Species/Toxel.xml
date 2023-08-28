@@ -2,7 +2,7 @@
 <Species>
   <Key>GENTOXEL</Key>
   <Name>Toxel</Name>
-  <Description/>
+  <Description>Toxel</Description>
   <StartingChars>
     <Brawn>1</Brawn>
     <Agility>1</Agility>

@@ -2,7 +2,7 @@
 <Species>
   <Key>GENSOBBLE</Key>
   <Name>Sobble</Name>
-  <Description/>
+  <Description>Sobble</Description>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>2</Agility>

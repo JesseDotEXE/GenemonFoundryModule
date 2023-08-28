@@ -2,7 +2,7 @@
 <Species>
   <Key>GENGOLEM</Key>
   <Name>Golem</Name>
-  <Description/>
+  <Description>Golem</Description>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>1</Agility>

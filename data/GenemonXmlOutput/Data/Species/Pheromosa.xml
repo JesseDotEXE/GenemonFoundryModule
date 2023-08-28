@@ -2,7 +2,7 @@
 <Species>
   <Key>GENPHEROMOSA</Key>
   <Name>Pheromosa</Name>
-  <Description/>
+  <Description>Pheromosa</Description>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>4</Agility>

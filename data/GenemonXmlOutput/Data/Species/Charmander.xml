@@ -2,7 +2,7 @@
 <Species>
   <Key>GENCHARMANDER</Key>
   <Name>Charmander</Name>
-  <Description/>
+  <Description>Charmander</Description>
   <StartingChars>
     <Brawn>1</Brawn>
     <Agility>2</Agility>

@@ -2,7 +2,7 @@
 <Species>
   <Key>GENCHARIZARD</Key>
   <Name>Charizard</Name>
-  <Description/>
+  <Description>Charizard</Description>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>3</Agility>

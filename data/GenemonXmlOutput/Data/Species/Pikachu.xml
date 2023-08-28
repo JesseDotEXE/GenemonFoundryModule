@@ -2,7 +2,7 @@
 <Species>
   <Key>GENPIKACHU</Key>
   <Name>Pikachu</Name>
-  <Description/>
+  <Description>Pikachu</Description>
   <StartingChars>
     <Brawn>1</Brawn>
     <Agility>2</Agility>

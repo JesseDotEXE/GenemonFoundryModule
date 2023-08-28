@@ -2,7 +2,7 @@
 <Species>
   <Key>GENCHIMCHAR</Key>
   <Name>Chimchar</Name>
-  <Description/>
+  <Description>Chimchar</Description>
   <StartingChars>
     <Brawn>1</Brawn>
     <Agility>2</Agility>

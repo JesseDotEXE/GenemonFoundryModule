@@ -2,7 +2,7 @@
 <Species>
   <Key>GENELECTRODE</Key>
   <Name>Electrode</Name>
-  <Description/>
+  <Description>Electrode</Description>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>4</Agility>
