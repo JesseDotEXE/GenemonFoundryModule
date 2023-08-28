@@ -450,20 +450,18 @@ const writeFile = async (fileName, data, dirLocation = null) => {
         }
     } else if (swffgDataType === 'Pokemon') {
         // Create Pokemon Species
-        const swffgSpeciesType = 'Species';
-        const formattedXmlSpeciesObjects = buildFoundXmlObjectsForDirectory(swffgSpeciesType, genemonData);
+        const formattedXmlSpeciesObjects = buildFoundXmlObjectsForDirectory('Species', genemonData);
         if (formattedXmlSpeciesObjects !== null && formattedXmlSpeciesObjects !== undefined && formattedXmlSpeciesObjects.length > 0) {
             for (const formattedObject of formattedXmlSpeciesObjects) {
-                await writeFile(formattedObject.name, formattedObject.xml, swffgSpeciesType);
+                await writeFile(formattedObject.name, formattedObject.xml, 'Species');
             }
         }
 
         // Create Pokemon XMLs
-        const swffgCharacterType = 'Character';
-        const formattedXmlCharacterObjects = buildFoundXmlObjectsForDirectory(swffgCharacterType, genemonData);
+        const formattedXmlCharacterObjects = buildFoundXmlObjectsForDirectory('Character', genemonData);
         if (formattedXmlCharacterObjects !== null && formattedXmlCharacterObjects !== undefined && formattedXmlCharacterObjects.length > 0) {
             for (const formattedObject of formattedXmlCharacterObjects) {
-                await writeFile(formattedObject.name, formattedObject.xml, swffgCharacterType);
+                await writeFile(formattedObject.name, formattedObject.xml, 'Characters');
             }
         }
     } else { // These are in a single file.
