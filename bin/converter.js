@@ -275,13 +275,8 @@ const createStatsString = (characterObj) => {
 };
 
 const convertImageToBlob = async (name) => {
-    // Older GEN prefixed files.
-    // const prefix = 'GEN';
-    // const cleanedName = replace(key, 'GEN', '');
-    // const path = `./data/GenemonXmlOutput/Data/Characters/PokemonImages/${prefix}${toLower(cleanedName)}.jpg`;
-
     const cleanedName = createPokemonFileNameKey(name);
-    const path = `./data/GenemonXmlOutput/Data/Characters/PokemonImagesNew/${cleanedName}.png`;
+    const path = `./data/GenemonXmlOutput/Data/Characters/PokemonImages/${cleanedName}.png`;
 
     try {
         const image = await fs.readFileSync(path);
