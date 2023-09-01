@@ -37,6 +37,10 @@ const parseFile = async (fileName) => {
     });
 };
 
+const createPokemonFileNameKey = (objectName) => {
+    return `${toLower(replace(objectName, /\s/g, '-'))}`; // Make sure to make all caps and strip whitespace.
+};
+
 const createFoundryDataKey = (objectName) => {
     const prefix = `GEN`; // At some point we might need this to be more unique.
     return `${prefix}${toUpper(replace(objectName, /\s/g, ''))}`; // Make sure to make all caps and strip whitespace.
@@ -164,7 +168,7 @@ const buildSwffgCharacterObject = async (objectData) => {
     `;
 
     // Linked Details
-    rawFoundryObj.Portrait = await convertImageToBlob(baseFoundryKey);
+    rawFoundryObj.Portrait = await convertImageToBlob(objectData.Name); // Key if old way.
     rawFoundryObj.Species = {
         SpeciesKey: baseFoundryKey,
         SubSpeciesKey: {},
@@ -270,10 +274,14 @@ const createStatsString = (characterObj) => {
     return statsString;
 };
 
-const convertImageToBlob = async (key) => {
-    const prefix = 'GEN';
-    const cleanedName = replace(key, 'GEN', '');
-    const path = `./data/GenemonXmlOutput/Data/Characters/PokemonImages/${prefix}${toLower(cleanedName)}.jpg`;
+const convertImageToBlob = async (name) => {
+    // Older GEN prefixed files.
+    // const prefix = 'GEN';
+    // const cleanedName = replace(key, 'GEN', '');
+    // const path = `./data/GenemonXmlOutput/Data/Characters/PokemonImages/${prefix}${toLower(cleanedName)}.jpg`;
+
+    const cleanedName = createPokemonFileNameKey(name);
+    const path = `./data/GenemonXmlOutput/Data/Characters/PokemonImagesNew/${cleanedName}.png`;
 
     try {
         const image = await fs.readFileSync(path);
