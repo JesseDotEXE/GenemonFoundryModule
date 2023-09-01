@@ -105,3 +105,5 @@ switch (m) {
     break;
 }
 ```
+
+I can also test with the v11 plugin to see if that works just fine as well.

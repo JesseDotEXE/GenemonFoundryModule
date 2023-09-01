@@ -1,7 +1,7 @@
 const fs = require('fs');
 const Papa= require('papaparse');
 const xml2js = require('xml2js');
-const { capitalize, clone, forEach, map, get, toUpper, trim, split, replace } = require('lodash');
+const { capitalize, clone, forEach, map, get, toUpper, toLower, trim, split, replace } = require('lodash');
 
 const swffgTypeMapping = {
     'GEAR': 'Gear',
@@ -145,7 +145,7 @@ const buildSwffgSpeciesObject = (objectData) => {
  * @param objectData
  * @returns {{}}
  */
-const buildSwffgCharacterObject = (objectData) => {
+const buildSwffgCharacterObject = async (objectData) => {
     const rawFoundryObj = {};
 
     const statsString = createStatsString(objectData);
@@ -164,7 +164,7 @@ const buildSwffgCharacterObject = (objectData) => {
     `;
 
     // Linked Details
-    rawFoundryObj.Portrait = ''; // TODO
+    rawFoundryObj.Portrait = await convertImageToBlob(baseFoundryKey);
     rawFoundryObj.Species = {
         SpeciesKey: baseFoundryKey,
         SubSpeciesKey: {},
@@ -268,6 +268,20 @@ const createStatsString = (characterObj) => {
     `;
 
     return statsString;
+};
+
+const convertImageToBlob = async (key) => {
+    const prefix = 'GEN';
+    const cleanedName = replace(key, 'GEN', '');
+    const path = `./data/GenemonXmlOutput/Data/Characters/PokemonImages/${prefix}${toLower(cleanedName)}.jpg`;
+
+    try {
+        const image = await fs.readFileSync(path);
+        return Buffer.from(image).toString('base64');
+    } catch (error) {
+        console.error('Error reading image file. Error: ', error.message);
+        return null;
+    }
 };
 
 const buildSkillModifiers = (skillModData) => {
@@ -379,11 +393,11 @@ const buildFoundryXmlFile = (swffgDataType, tsvData) => {
     return builder.buildObject(fullFormattedFoundryData);
 };
 
-const buildFoundXmlObjectsForDirectory = (swffgDataType, tsvData) => {
+const buildFoundXmlObjectsForDirectory = async (swffgDataType, tsvData) => {
     const foundryObjectType = swffgDataType;
     const formattedXmlObjects = [];
 
-    forEach(tsvData, (objectData) => {
+    for (const objectData of tsvData) {
         let wrappedFoundyObject = {};
 
         switch (foundryObjectType) {
@@ -391,14 +405,14 @@ const buildFoundXmlObjectsForDirectory = (swffgDataType, tsvData) => {
                 wrappedFoundyObject[foundryObjectType] = buildSwffgSpeciesObject(objectData);
                 break;
             case "Character":
-                wrappedFoundyObject[foundryObjectType] = buildSwffgCharacterObject(objectData);
+                wrappedFoundyObject[foundryObjectType] = await buildSwffgCharacterObject(objectData);
                 break;
         }
 
         const builder = new xml2js.Builder();
         const formattedXmlObject = builder.buildObject(wrappedFoundyObject);
         formattedXmlObjects.push({ name: wrappedFoundyObject[foundryObjectType].Name, xml: formattedXmlObject });
-    });
+    }
 
     return formattedXmlObjects;
 }
@@ -441,7 +455,7 @@ const writeFile = async (fileName, data, dirLocation = null) => {
 
     // TODO Clean this up at some point.
     if (swffgDataType === 'Species') { // These output a folder of .xml files.
-        const formattedXmlDataObjects = buildFoundXmlObjectsForDirectory(swffgDataType, genemonData);
+        const formattedXmlDataObjects = await buildFoundXmlObjectsForDirectory(swffgDataType, genemonData);
         if (formattedXmlDataObjects !== null && formattedXmlDataObjects !== undefined && formattedXmlDataObjects.length > 0) {
             const directoryName = outputFileNameMapping[importType];
             for (const formattedObject of formattedXmlDataObjects) {
@@ -450,7 +464,7 @@ const writeFile = async (fileName, data, dirLocation = null) => {
         }
     } else if (swffgDataType === 'Pokemon') {
         // Create Pokemon Species
-        const formattedXmlSpeciesObjects = buildFoundXmlObjectsForDirectory('Species', genemonData);
+        const formattedXmlSpeciesObjects = await buildFoundXmlObjectsForDirectory('Species', genemonData);
         if (formattedXmlSpeciesObjects !== null && formattedXmlSpeciesObjects !== undefined && formattedXmlSpeciesObjects.length > 0) {
             for (const formattedObject of formattedXmlSpeciesObjects) {
                 await writeFile(formattedObject.name, formattedObject.xml, 'Species');
@@ -458,7 +472,7 @@ const writeFile = async (fileName, data, dirLocation = null) => {
         }
 
         // Create Pokemon XMLs
-        const formattedXmlCharacterObjects = buildFoundXmlObjectsForDirectory('Character', genemonData);
+        const formattedXmlCharacterObjects = await buildFoundXmlObjectsForDirectory('Character', genemonData);
         if (formattedXmlCharacterObjects !== null && formattedXmlCharacterObjects !== undefined && formattedXmlCharacterObjects.length > 0) {
             for (const formattedObject of formattedXmlCharacterObjects) {
                 await writeFile(formattedObject.name, formattedObject.xml, 'Characters');
