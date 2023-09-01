@@ -38,7 +38,8 @@ const parseFile = async (fileName) => {
 };
 
 const createPokemonFileNameKey = (objectName) => {
-    return `${toLower(replace(objectName, /\s/g, '-'))}`; // Make sure to make all caps and strip whitespace.
+    let formattedName = replace(objectName, /[.()\-'\s]/g, '');
+    return `${toLower(formattedName)}`; // Make sure to make all caps and strip whitespace.
 };
 
 const createFoundryDataKey = (objectName) => {
