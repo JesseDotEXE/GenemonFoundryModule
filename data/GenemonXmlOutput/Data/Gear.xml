@@ -34,13 +34,13 @@
     <Rarity>0</Rarity>
   </Gear>
   <Gear>
-    <Name>Zink [Vitamin]</Name>
+    <Name>Zinc [Vitamin]</Name>
     <Type>Vitamin</Type>
     <Description>Increases a Pokes Special Defense by 1. A Poke is only capable of having a single Vitamin. 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Vitamin]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>20000</Price>
-    <Key>GENZINK</Key>
+    <Key>GENZINC</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -155,35 +155,13 @@
     <Rarity>0</Rarity>
   </Gear>
   <Gear>
-    <Name>Flint and steel [Gear]</Name>
-    <Type>Gear</Type>
-    <Description>Downgrade the difficulty of survival check to make fire 
-&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Gear]&lt;/b&gt;&lt;!--]]--&gt;
-      </Description>
-    <Price>100</Price>
-    <Key>GENFLINTANDSTEEL</Key>
-    <Encumbrance>0</Encumbrance>
-    <Rarity>0</Rarity>
-  </Gear>
-  <Gear>
-    <Name>Lantern [Gear]</Name>
-    <Type>Gear</Type>
-    <Description>Removes 2 setback die due to darkness 
-&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Gear]&lt;/b&gt;&lt;!--]]--&gt;
-      </Description>
-    <Price>100</Price>
-    <Key>GENLANTERN</Key>
-    <Encumbrance>0</Encumbrance>
-    <Rarity>0</Rarity>
-  </Gear>
-  <Gear>
-    <Name>Picknic Table [Gear]</Name>
+    <Name>Picnic Table [Gear]</Name>
     <Type>Gear</Type>
     <Description>Allows resting in wilderness 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Gear]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>500</Price>
-    <Key>GENPICKNICTABLE</Key>
+    <Key>GENPICNICTABLE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -201,7 +179,7 @@
   <Gear>
     <Name>Sleeping Bag [Gear]</Name>
     <Type>Gear</Type>
-    <Description> 
+    <Description>Do not suffer usual ill effects of sleeping outside 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Gear]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>250</Price>
@@ -221,13 +199,13 @@
     <Rarity>0</Rarity>
   </Gear>
   <Gear>
-    <Name>Thieves Tols [Gear]</Name>
+    <Name>Thieves Tools [Gear]</Name>
     <Type>Gear</Type>
     <Description>Allows the ability to pick locks 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Gear]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>500</Price>
-    <Key>GENTHIEVESTOLS</Key>
+    <Key>GENTHIEVESTOOLS</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -848,7 +826,7 @@
     <Rarity>0</Rarity>
   </Gear>
   <Gear>
-    <Name>ShinyStone [Evolution]</Name>
+    <Name>Shiny Stone [Evolution]</Name>
     <Type>Evolution</Type>
     <Description>Evolves Poke into Normal variant if availble 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Evolution]&lt;/b&gt;&lt;!--]]--&gt;
@@ -870,13 +848,13 @@
     <Rarity>0</Rarity>
   </Gear>
   <Gear>
-    <Name>Dragon Stone [Evolution]</Name>
+    <Name>Dragon Tooth [Evolution]</Name>
     <Type>Evolution</Type>
     <Description>Evolves Poke into Dragon variant if availble 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Evolution]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>5000</Price>
-    <Key>GENDRAGONSTONE</Key>
+    <Key>GENDRAGONTOOTH</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1101,13 +1079,13 @@
     <Rarity>0</Rarity>
   </Gear>
   <Gear>
-    <Name>Pasho Berry [Berry]</Name>
+    <Name>Passho Berry [Berry]</Name>
     <Type>Berry</Type>
     <Description>Halves the damage of a Water Type move 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Berry]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>200</Price>
-    <Key>GENPASHOBERRY</Key>
+    <Key>GENPASSHOBERRY</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1376,7 +1354,7 @@
     <Rarity>0</Rarity>
   </Gear>
   <Gear>
-    <Name>Snow Ball [Held Item]</Name>
+    <Name>Snowball [Held Item]</Name>
     <Type>Held Item</Type>
     <Description>Once per battle if the holder is hit by a Ice type move Hone 1 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Held Item]&lt;/b&gt;&lt;!--]]--&gt;
@@ -1411,7 +1389,7 @@
   <Gear>
     <Name>Assault Vest [Held Item]</Name>
     <Type>Held Item</Type>
-    <Description>At the begining of battle the holder gains Encourage 2 but they can no longer use non-damaging Moves 
+    <Description>Holder has the Agrevated condition. At the begining of battle the holder gains Encourage 2  
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Held Item]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>50000</Price>
@@ -1420,13 +1398,13 @@
     <Rarity>0</Rarity>
   </Gear>
   <Gear>
-    <Name>Think Club [Held Item]</Name>
+    <Name>Thick Club [Held Item]</Name>
     <Type>Held Item</Type>
     <Description>At the begining of battle the holder gains Hone 1 or Hone 2 if the are Cubone 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Held Item]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>4000</Price>
-    <Key>GENTHINKCLUB</Key>
+    <Key>GENTHICKCLUB</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1508,17 +1486,6 @@
     <Rarity>0</Rarity>
   </Gear>
   <Gear>
-    <Name>Soft Sand [Held Item]</Name>
-    <Type>Held Item</Type>
-    <Description>The holders Ground Type Moves have their base damage increased by 1 
-&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Held Item]&lt;/b&gt;&lt;!--]]--&gt;
-      </Description>
-    <Price>3000</Price>
-    <Key>GENSOFTSAND</Key>
-    <Encumbrance>0</Encumbrance>
-    <Rarity>0</Rarity>
-  </Gear>
-  <Gear>
     <Name>Hard Stone [Held Item]</Name>
     <Type>Held Item</Type>
     <Description>The holders Rock Type Moves have their base damage increased by 1 
@@ -1526,28 +1493,6 @@
       </Description>
     <Price>3000</Price>
     <Key>GENHARDSTONE</Key>
-    <Encumbrance>0</Encumbrance>
-    <Rarity>0</Rarity>
-  </Gear>
-  <Gear>
-    <Name>Never Melt Ice [Held Item]</Name>
-    <Type>Held Item</Type>
-    <Description>The holders Ice Type Moves have their base damage increased by 1 
-&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Held Item]&lt;/b&gt;&lt;!--]]--&gt;
-      </Description>
-    <Price>3000</Price>
-    <Key>GENNEVERMELTICE</Key>
-    <Encumbrance>0</Encumbrance>
-    <Rarity>0</Rarity>
-  </Gear>
-  <Gear>
-    <Name>Silver Poweder [Held Item]</Name>
-    <Type>Held Item</Type>
-    <Description>The holders Bug Type Moves have their base damage increased by 1 
-&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Held Item]&lt;/b&gt;&lt;!--]]--&gt;
-      </Description>
-    <Price>3000</Price>
-    <Key>GENSILVERPOWEDER</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1563,17 +1508,6 @@
     <Rarity>0</Rarity>
   </Gear>
   <Gear>
-    <Name>Miracle Seed [Held Item]</Name>
-    <Type>Held Item</Type>
-    <Description>The holders Grass Type Moves have their base damage increased by 1 
-&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Held Item]&lt;/b&gt;&lt;!--]]--&gt;
-      </Description>
-    <Price>3000</Price>
-    <Key>GENMIRACLESEED</Key>
-    <Encumbrance>0</Encumbrance>
-    <Rarity>0</Rarity>
-  </Gear>
-  <Gear>
     <Name>Metal Coat [Held Item]</Name>
     <Type>Held Item</Type>
     <Description>The holders Steel Type Moves have their base damage increased by 1 
@@ -1585,13 +1519,13 @@
     <Rarity>0</Rarity>
   </Gear>
   <Gear>
-    <Name>Twisted Spoon [Held Item]</Name>
+    <Name>Miracle Seed [Held Item]</Name>
     <Type>Held Item</Type>
-    <Description>The holders Psychic Type Moves have their base damage increased by 1 
+    <Description>The holders Grass Type Moves have their base damage increased by 1 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Held Item]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>3000</Price>
-    <Key>GENTWISTEDSPOON</Key>
+    <Key>GENMIRACLESEED</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1607,13 +1541,13 @@
     <Rarity>0</Rarity>
   </Gear>
   <Gear>
-    <Name>Silk Scarf [Held Item]</Name>
+    <Name>Never Melt Ice [Held Item]</Name>
     <Type>Held Item</Type>
-    <Description>The holders Normal Type Moves have their base damage increased by 1 
+    <Description>The holders Ice Type Moves have their base damage increased by 1 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Held Item]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>3000</Price>
-    <Key>GENSILKSCARF</Key>
+    <Key>GENNEVERMELTICE</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1629,13 +1563,13 @@
     <Rarity>0</Rarity>
   </Gear>
   <Gear>
-    <Name>Poision Barb [Held Item]</Name>
+    <Name>Poison Barb [Held Item]</Name>
     <Type>Held Item</Type>
     <Description>The holders Poison Type Moves have their base damage increased by 1 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Held Item]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>3000</Price>
-    <Key>GENPOISIONBARB</Key>
+    <Key>GENPOISONBARB</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -1651,13 +1585,57 @@
     <Rarity>0</Rarity>
   </Gear>
   <Gear>
-    <Name>Spell tag [Held Item]</Name>
+    <Name>Silk Scarf [Held Item]</Name>
+    <Type>Held Item</Type>
+    <Description>The holders Normal Type Moves have their base damage increased by 1 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Held Item]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Price>3000</Price>
+    <Key>GENSILKSCARF</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Silver Powder [Held Item]</Name>
+    <Type>Held Item</Type>
+    <Description>The holders Bug Type Moves have their base damage increased by 1 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Held Item]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Price>3000</Price>
+    <Key>GENSILVERPOWDER</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Soft Sand [Held Item]</Name>
+    <Type>Held Item</Type>
+    <Description>The holders Ground Type Moves have their base damage increased by 1 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Held Item]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Price>3000</Price>
+    <Key>GENSOFTSAND</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Spell Tag [Held Item]</Name>
     <Type>Held Item</Type>
     <Description>The holders Ghost Type Moves have their base damage increased by 1 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Held Item]&lt;/b&gt;&lt;!--]]--&gt;
       </Description>
     <Price>3000</Price>
     <Key>GENSPELLTAG</Key>
+    <Encumbrance>0</Encumbrance>
+    <Rarity>0</Rarity>
+  </Gear>
+  <Gear>
+    <Name>Twisted Spoon [Held Item]</Name>
+    <Type>Held Item</Type>
+    <Description>The holders Psychic Type Moves have their base damage increased by 1 
+&lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Held Item]&lt;/b&gt;&lt;!--]]--&gt;
+      </Description>
+    <Price>3000</Price>
+    <Key>GENTWISTEDSPOON</Key>
     <Encumbrance>0</Encumbrance>
     <Rarity>0</Rarity>
   </Gear>
@@ -2201,7 +2179,7 @@
     <Rarity>0</Rarity>
   </Gear>
   <Gear>
-    <Name>Ring target [Held Item]</Name>
+    <Name>Ring Target [Held Item]</Name>
     <Type>Held Item</Type>
     <Description>Holder looses any immunities 
 &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;[Held Item]&lt;/b&gt;&lt;!--]]--&gt;

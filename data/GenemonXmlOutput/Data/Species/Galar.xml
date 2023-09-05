@@ -2,7 +2,32 @@
 <Species>
   <Key>GENGALAR</Key>
   <Name>Galar</Name>
-  <Description>Galar is the region of warriors. Precision in your craft is the most important aspect whether physical or mental.  Be right, hit your target, make sure, no shortcuts, don’t miss.</Description>
+  <Description>
+        Galar is the region of warriors. Precision in your craft is the most important aspect whether physical or mental.  Be right, hit your target, make sure, no shortcuts, don’t miss.
+        
+        &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Starting Stats&lt;/b&gt;&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Brawn: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Agility: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Intellect: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Cunning: [1]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Willpower: [1]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Presence: [1]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Wound Threshold: [0]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Strain Threshold: [0]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Defense Ranged: [0] (will not autopopulate)&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Defense Melee: [0] (will not autopopulate)&lt;!--]]--&gt;                
+    
+    </Description>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>2</Agility>
@@ -12,8 +37,8 @@
     <Presence>1</Presence>
   </StartingChars>
   <StartingAttrs>
-    <WoundThreshold>10</WoundThreshold>
-    <StrainThreshold>10</StrainThreshold>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
     <SoakValue>0</SoakValue>
     <DefenseMelee>0</DefenseMelee>
     <DefenseRanged>0</DefenseRanged>

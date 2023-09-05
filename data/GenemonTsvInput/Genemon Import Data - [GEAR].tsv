@@ -2,7 +2,7 @@ Name	Type	Description	Price
 Protein	Vitamin	Increases a Pokes Attack by 1. A Poke is only capable of having a single Vitamin.	20000
 Iron	Vitamin	Increases a Pokes Defense by 1. A Poke is only capable of having a single Vitamin.	20000
 Calcium	Vitamin	Increases a Pokes Special Attack by 1. A Poke is only capable of having a single Vitamin.	20000
-Zink	Vitamin	Increases a Pokes Special Defense by 1. A Poke is only capable of having a single Vitamin.	20000
+Zinc	Vitamin	Increases a Pokes Special Defense by 1. A Poke is only capable of having a single Vitamin.	20000
 Carbos	Vitamin	Increases a Pokes Speed by 1. A Poke is only capable of having a single Vitamin.	20000
 HP Up	Vitamin	Increases a Pokes HP by 1. A Poke is only capable of having a single Vitamin.	20000
 Pokedex	Gear	A hand-held computer with an advanced camera and image recognition software given to trainers at the start of their journey	0
@@ -13,13 +13,11 @@ Escape Rope	Gear	Can be used to Escape Wild Battle without a check	150
 Backpack	Gear	Increases encomberance by 2	150
 Binoculars	Gear	Removes 1 setback die due to distance	250
 Flashlight	Gear	Removes 1 setback die due to darkness	50
-Flint and steel	Gear	Downgrade the difficulty of survival check to make fire	100
-Lantern	Gear	Removes 2 setback die due to darkness	100
-Picknic Table	Gear	Allows resting in wilderness	500
+Picnic Table	Gear	Allows resting in wilderness	500
 Sandwich Ingrediants	Gear	Used  to make sandwich	10
-Sleeping Bag	Gear		250
+Sleeping Bag	Gear	Do not suffer usual ill effects of sleeping outside	250
 Tent	Gear	Fits 2 people	250
-Thieves Tols	Gear	Allows the ability to pick locks	500
+Thieves Tools	Gear	Allows the ability to pick locks	500
 Honey	Gear	Attracts a random Poke native to the area	300
 Poke Ball	Ball	Allows a capture attempt	250
 Great Ball	Ball	Gain a blue on capture attemps	500
@@ -76,9 +74,9 @@ Sun Stone	Evolution	Evolves Poke into Psychic variant if availble	5000
 Feather Stone	Evolution	Evolves Poke into Flying variant if availble	5000
 Metamophasis Stone	Evolution	Evolves Poke into Bug variant if availble	5000
 Thunder Stone	Evolution	Evolves Poke into Electric variant if availble	5000
-ShinyStone	Evolution	Evolves Poke into Normal variant if availble	5000
+Shiny Stone	Evolution	Evolves Poke into Normal variant if availble	5000
 Reaper Stone	Evolution	Evolves Poke into Ghost variant if availble	5000
-Dragon Stone	Evolution	Evolves Poke into Dragon variant if availble	5000
+Dragon Tooth	Evolution	Evolves Poke into Dragon variant if availble	5000
 Pixy Stone	Evolution	Evolves Poke into Fairy variant if availble	5000
 Frozen Stone	Evolution	Evolves Poke into Ice variant if availble	5000
 Knuckle Stone	Evolution	Evolves Poke into Fighting variant if availble	5000
@@ -99,7 +97,7 @@ Lum Berry	Berry	Removes non-volatile Status Effects	300
 Sitrus Berry	Berry	Heals 4 wounds	800
 Razz Berry	Berry	Lowers the difficulty of capture attemps made against you	500
 Occa Berry	Berry	Halves the damage of a Fire Type move	200
-Pasho Berry	Berry	Halves the damage of a Water Type move	200
+Passho Berry	Berry	Halves the damage of a Water Type move	200
 Wacan Berry	Berry	Halves the damage of a Electric Type move	200
 Rindo Berry	Berry	Halves the damage of a Grass Type move	200
 Yeche Berry	Berry	Halves the damage of a Ice Type move	200
@@ -124,11 +122,11 @@ Ability Shield	Held Item	Holder cannot have their abilities changed other Pokes	
 Absorb Bulb	Held Item	Once per battle if the holder is hit by a Water type move Wax 1	5000
 Cell Battery	Held Item	Once per battle if the holder is hit by a Electric type move Hone 1	5000
 Luminous Moss	Held Item	Once per battle if the holder is hit by a Water type move Encourage 1	5000
-Snow Ball	Held Item	Once per battle if the holder is hit by a Ice type move Hone 1	5000
+Snowball	Held Item	Once per battle if the holder is hit by a Ice type move Hone 1	5000
 Air Balloon	Held Item	Holder is Airborn until hit by a damaging Move	15000
 Amulet Coin	Held Item	Doubles the money gained from trainer battles is doubled if the holder is used in the battle	30000
-Assault Vest	Held Item	At the begining of battle the holder gains Encourage 2 but they can no longer use non-damaging Moves	50000
-Think Club	Held Item	At the begining of battle the holder gains Hone 1 or Hone 2 if the are Cubone	4000
+Assault Vest	Held Item	Holder has the Agrevated condition. At the begining of battle the holder gains Encourage 2 	50000
+Thick Club	Held Item	At the begining of battle the holder gains Hone 1 or Hone 2 if the are Cubone	4000
 Big Root	Held Item	When the holder recovers wounds from a Move they recover 1 additional	10000
 Binding Band	Held Item	The DOT condition applied by the holder deal an aditional Wound	20000
 Grip Claw	Held Item	The holders Moves with the Dot Property gain an additional rank	10000
@@ -136,20 +134,20 @@ Black Belt	Held Item	The holders Flighting Type Moves have their base damage inc
 Black Glasses	Held Item	The holders Dark Type Moves have their base damage increased by 1	3000
 Charcoal	Held Item	The holders Fire Type Moves have their base damage increased by 1	3000
 Dragon Fang	Held Item	The holders Dragon Type Moves have their base damage increased by 1	3000
-Soft Sand	Held Item	The holders Ground Type Moves have their base damage increased by 1	3000
 Hard Stone	Held Item	The holders Rock Type Moves have their base damage increased by 1	3000
-Never Melt Ice	Held Item	The holders Ice Type Moves have their base damage increased by 1	3000
-Silver Poweder	Held Item	The holders Bug Type Moves have their base damage increased by 1	3000
 Magnet	Held Item	The holders Electric Type Moves have their base damage increased by 1	3000
-Miracle Seed	Held Item	The holders Grass Type Moves have their base damage increased by 1	3000
 Metal Coat	Held Item	The holders Steel Type Moves have their base damage increased by 1	3000
-Twisted Spoon	Held Item	The holders Psychic Type Moves have their base damage increased by 1	3000
+Miracle Seed	Held Item	The holders Grass Type Moves have their base damage increased by 1	3000
 Mystic Water	Held Item	The holders Water Type Moves have their base damage increased by 1	3000
-Silk Scarf	Held Item	The holders Normal Type Moves have their base damage increased by 1	3000
+Never Melt Ice	Held Item	The holders Ice Type Moves have their base damage increased by 1	3000
 Pixy Dust	Held Item	The holders Fairy Type Moves have their base damage increased by 1	3000
-Poision Barb	Held Item	The holders Poison Type Moves have their base damage increased by 1	3000
+Poison Barb	Held Item	The holders Poison Type Moves have their base damage increased by 1	3000
 Sharp Beak	Held Item	The holders Flying Type Moves have their base damage increased by 1	3000
-Spell tag	Held Item	The holders Ghost Type Moves have their base damage increased by 1	3000
+Silk Scarf	Held Item	The holders Normal Type Moves have their base damage increased by 1	3000
+Silver Powder	Held Item	The holders Bug Type Moves have their base damage increased by 1	3000
+Soft Sand	Held Item	The holders Ground Type Moves have their base damage increased by 1	3000
+Spell Tag	Held Item	The holders Ghost Type Moves have their base damage increased by 1	3000
+Twisted Spoon	Held Item	The holders Psychic Type Moves have their base damage increased by 1	3000
 Muscle Band	Held Item	The holders Brawl Moves have their base damage increased by 1	8000
 Wise Glasses	Held Item	The holders Arcane Moves have their base damage increased by 1	8000
 Black Sludge	Held Item	At the begining of each turn, if the Holder is Poison Type they Heal 1 wound. Otherwise they recieve 1 wound.	10000
@@ -199,7 +197,7 @@ Punching Gloves	Held Item	Moves the holder uses with Punch in the name have thei
 Quick Claw	Held Item	Once per battle the holder can add the Quickness Property to a Move	8000
 Razor Fang	Held Item	Add Flinch Property to all the holders Moves	2200
 Red Card	Held Item	Once per battle when the holder suffers wounds from an enemy that enemy must be swapped out if possible	30000
-Ring target	Held Item	Holder looses any immunities	10000
+Ring Target	Held Item	Holder looses any immunities	10000
 Rocky Helmet	Held Item	When holder recives wounds from a Move with Range of engaged the user also suffers 1 wound	50000
 Room Service	Held Item	When the holder is subject to Trick Room Slow 1 befor the effect of Trick Room	20000
 Safety Goggles	Held Item	Holder does not take damage from Sandstorm and Is immune to Properties of Spore and Powder Moves	20000

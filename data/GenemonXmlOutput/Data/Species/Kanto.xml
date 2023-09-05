@@ -2,7 +2,32 @@
 <Species>
   <Key>GENKANTO</Key>
   <Name>Kanto</Name>
-  <Description>The region of Kanto is well known for their ability to create and utilize technology that allows new or even extinct Pokes to be brought back to the world.  The culture of this region prioritized creativity in all things including scientific insights.</Description>
+  <Description>
+        The region of Kanto is well known for their ability to create and utilize technology that allows new or even extinct Pokes to be brought back to the world.  The culture of this region prioritized creativity in all things including scientific insights.
+        
+        &lt;!--[CDATA[--&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Starting Stats&lt;/b&gt;&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Brawn: [1]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Agility: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Intellect: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Cunning: [2]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Willpower: [1]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Presence: [1]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Wound Threshold: [0]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Strain Threshold: [0]&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Defense Ranged: [0] (will not autopopulate)&lt;!--]]--&gt;
+        
+&lt;!--[CDATA[--&gt;&lt;br&gt;Defense Melee: [0] (will not autopopulate)&lt;!--]]--&gt;                
+    
+    </Description>
   <StartingChars>
     <Brawn>1</Brawn>
     <Agility>2</Agility>
@@ -12,8 +37,8 @@
     <Presence>1</Presence>
   </StartingChars>
   <StartingAttrs>
-    <WoundThreshold>10</WoundThreshold>
-    <StrainThreshold>10</StrainThreshold>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
     <SoakValue>0</SoakValue>
     <DefenseMelee>0</DefenseMelee>
     <DefenseRanged>0</DefenseRanged>
